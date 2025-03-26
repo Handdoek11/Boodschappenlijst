@@ -1,0 +1,1005 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="master_list_values">
+        <item>kurkku</item>
+        <item>maito</item>
+        <item>juusto</item>
+        <item>leipä</item>
+        <item>paprika</item>
+        <item>tomaatti</item>
+        <item>salaatti</item>
+        <item>sipuli</item>
+        <item>leipää</item>
+        <item>banaani</item>
+        <item>kahvi</item>
+        <item>kananmunia</item>
+        <item>jauheliha</item>
+        <item>voi</item>
+        <item>kauramaito</item>
+        <item>feta</item>
+        <item>oivariini</item>
+        <item>porkkana</item>
+        <item>talouspaperi</item>
+        <item>kermaviili</item>
+        <item>milk</item>
+        <item>bananas</item>
+        <item>leikkele</item>
+        <item>sitruuna</item>
+        <item>mozzarella</item>
+        <item>wc paperi</item>
+        <item>tomaattimurska</item>
+        <item>eggs</item>
+        <item>raejuusto</item>
+        <item>lime</item>
+        <item>bread</item>
+        <item>valkosipuli</item>
+        <item>mehu</item>
+        <item>juustoraaste</item>
+        <item>pasta</item>
+        <item>kerma</item>
+        <item>maitoa</item>
+        <item>ruisleipä</item>
+        <item>jogurtti</item>
+        <item>ruokakerma</item>
+        <item>avokado</item>
+        <item>hedelmiä</item>
+        <item>ketsuppi</item>
+        <item>lohi</item>
+        <item>kinkku</item>
+        <item>creme fraiche</item>
+        <item>rahka</item>
+        <item>tomatoes</item>
+        <item>hammastahna</item>
+        <item>peruna</item>
+        <item>kanaa</item>
+        <item>jugurtti</item>
+        <item>avocado</item>
+        <item>basilika</item>
+        <item>oliiviöljy</item>
+        <item>perunoita</item>
+        <item>mysli</item>
+        <item>salsa</item>
+        <item>munia</item>
+        <item>kananmuna</item>
+        <item>punasipuli</item>
+        <item>vessapaperi</item>
+        <item>juustoa</item>
+        <item>nakkeja</item>
+        <item>kahvia</item>
+        <item>potatoes</item>
+        <item>tomaattia</item>
+        <item>kurkkua</item>
+        <item>margariini</item>
+        <item>tofu</item>
+        <item>yogurt</item>
+        <item>ägg</item>
+        <item>leivinpaperi</item>
+        <item>banaaneja</item>
+        <item>omena</item>
+        <item>paahtoleipä</item>
+        <item>rahkaa</item>
+        <item>parsakaali</item>
+        <item>tomaatteja</item>
+        <item>cucumber</item>
+        <item>halloumi</item>
+        <item>ost</item>
+        <item>kesäkurpitsa</item>
+        <item>kana</item>
+        <item>pekoni</item>
+        <item>mjölk</item>
+        <item>chili</item>
+        <item>smör</item>
+        <item>jogurttia</item>
+        <item>pyykinpesuaine</item>
+        <item>onions</item>
+        <item>riisi</item>
+        <item>jauhelihaa</item>
+        <item>kukkakaali</item>
+        <item>kookosmaito</item>
+        <item>porkkanoita</item>
+        <item>carrots</item>
+        <item>parmesan</item>
+        <item>salaattia</item>
+        <item>voita</item>
+        <item>ananas</item>
+        <item>appelsiinimehu</item>
+        <item>mehua</item>
+        <item>sipulia</item>
+        <item>tonnikala</item>
+        <item>porkkanaa</item>
+        <item>vichy</item>
+        <item>gurka</item>
+        <item>purkka</item>
+        <item>fruit</item>
+        <item>cheese</item>
+        <item>kaurakerma</item>
+        <item>spagetti</item>
+        <item>korianteri</item>
+        <item>ruokaa</item>
+        <item>bataatti</item>
+        <item>sokeri</item>
+        <item>bröd</item>
+        <item>olut</item>
+        <item>jäätelö</item>
+        <item>appelsiini</item>
+        <item>jugurttia</item>
+        <item>pesto</item>
+        <item>apples</item>
+        <item>persilja</item>
+        <item>karkkia</item>
+        <item>piimä</item>
+        <item>kaffe</item>
+        <item>munat</item>
+        <item>paahtoleipää</item>
+        <item>toilet paper</item>
+        <item>käsisaippua</item>
+        <item>chicken</item>
+        <item>smetana</item>
+        <item>kaurahiutaleita</item>
+        <item>wc-paperia</item>
+        <item>kirsikkatomaatti</item>
+        <item>valkosipulia</item>
+        <item>suolakurkku</item>
+        <item>makkara</item>
+        <item>chips</item>
+        <item>kananmunat</item>
+        <item>inkivääri</item>
+        <item>tortilla</item>
+        <item>hunaja</item>
+        <item>sipsejä</item>
+        <item>vessapaperia</item>
+        <item>suklaa</item>
+        <item>muroja</item>
+        <item>tuorejuusto</item>
+        <item>tilli</item>
+        <item>hiiva</item>
+        <item>paprikaa</item>
+        <item>broccoli</item>
+        <item>kevätsipuli</item>
+        <item>grädde</item>
+        <item>zucchini</item>
+        <item>shampoo</item>
+        <item>juice</item>
+        <item>nenäliinoja</item>
+        <item>garlic</item>
+        <item>sinappi</item>
+        <item>makaroni</item>
+        <item>puuro</item>
+        <item>kinkkua</item>
+        <item>majoneesi</item>
+        <item>lök</item>
+        <item>sallad</item>
+        <item>ketchup</item>
+        <item>lemon</item>
+        <item>rypsiöljy</item>
+        <item>butter</item>
+        <item>banan</item>
+        <item>talouspaperia</item>
+        <item>bacon</item>
+        <item>maissi</item>
+        <item>kala</item>
+        <item>rucola</item>
+        <item>pizza</item>
+        <item>pinaatti</item>
+        <item>cheddar</item>
+        <item>vaippoja</item>
+        <item>omenoita</item>
+        <item>ketsuppia</item>
+        <item>kuohukerma</item>
+        <item>ranskankerma</item>
+        <item>ikaffe</item>
+        <item>mansikoita</item>
+        <item>banaania</item>
+        <item>karjalanpiirakka</item>
+        <item>perunat</item>
+        <item>spaghetti</item>
+        <item>vaalea leipä</item>
+        <item>kevytmaito</item>
+        <item>jäätelöä</item>
+        <item>kermaa</item>
+        <item>kaurahiutale</item>
+        <item>skinka</item>
+        <item>wc papper</item>
+        <item>hillo</item>
+        <item>kaali</item>
+        <item>salad</item>
+        <item>turkkilainen jogurtti</item>
+        <item>sokeria</item>
+        <item>salami</item>
+        <item>cherry tomatoes</item>
+        <item>potatis</item>
+        <item>hummus</item>
+        <item>viinirypäleitä</item>
+        <item>smoothie</item>
+        <item>nuudeleita</item>
+        <item>munakoiso</item>
+        <item>croissant</item>
+        <item>öljy</item>
+        <item>hushållspapper</item>
+        <item>tomaattipyre</item>
+        <item>purjo</item>
+        <item>appelsiinimehua</item>
+        <item>olutta</item>
+        <item>mansikka</item>
+        <item>mandariini</item>
+        <item>herkkusieniä</item>
+        <item>palsternakka</item>
+        <item>hammasharja</item>
+        <item>nutella</item>
+        <item>raejuustoa</item>
+        <item>dippi</item>
+        <item>tortillat</item>
+        <item>marjoja</item>
+        <item>suklaata</item>
+        <item>omenamehu</item>
+        <item>vitlök</item>
+        <item>pepperoni</item>
+        <item>mushrooms</item>
+        <item>kaurahiutaleet</item>
+        <item>hedelmät</item>
+        <item>popcorn</item>
+        <item>sipsit</item>
+        <item>nuudelit</item>
+        <item>kalkkunaleike</item>
+        <item>aurajuusto</item>
+        <item>mustikkakeitto</item>
+        <item>grapes</item>
+        <item>coca cola</item>
+        <item>kalapuikot</item>
+        <item>cream</item>
+        <item>red onion</item>
+        <item>pekonia</item>
+        <item>juustoraastetta</item>
+        <item>karjalanpiirakoita</item>
+        <item>vehnäjauho</item>
+        <item>nakki</item>
+        <item>levite</item>
+        <item>kahvimaito</item>
+        <item>päärynä</item>
+        <item>oranges</item>
+        <item>kasviksia</item>
+        <item>ruokakermaa</item>
+        <item>limu</item>
+        <item>spinach</item>
+        <item>ranskalaiset</item>
+        <item>pepsi max</item>
+        <item>vehnäjauhoja</item>
+        <item>ruohosipuli</item>
+        <item>banaanit</item>
+        <item>purkkaa</item>
+        <item>papuja</item>
+        <item>gräddfil</item>
+        <item>deodorantti</item>
+        <item>coffee</item>
+        <item>pillimehu</item>
+        <item>tonnikalaa</item>
+        <item>maitorahka</item>
+        <item>tomaattimurskaa</item>
+        <item>pinaattilettuja</item>
+        <item>parmesaani</item>
+        <item>vesimeloni</item>
+        <item>viinirypäleet</item>
+        <item>ruoka</item>
+        <item>greek yogurt</item>
+        <item>koskenlaskija</item>
+        <item>kirsikkatomaatteja</item>
+        <item>reissumies</item>
+        <item>sämpylöitä</item>
+        <item>pastaa</item>
+        <item>dill</item>
+        <item>pähkinöitä</item>
+        <item>citron</item>
+        <item>kokis</item>
+        <item>paseerattu tomaatti</item>
+        <item>kivennäisvesi</item>
+        <item>roskapusseja</item>
+        <item>ginger</item>
+        <item>tuoremehu</item>
+        <item>lohta</item>
+        <item>vuohenjuusto</item>
+        <item>etikka</item>
+        <item>näkkileipä</item>
+        <item>cashew</item>
+        <item>lettuce</item>
+        <item>patonki</item>
+        <item>sugar</item>
+        <item>tandkräm</item>
+        <item>oil</item>
+        <item>tuna</item>
+        <item>punaviini</item>
+        <item>ruisleipää</item>
+        <item>kaakao</item>
+        <item>hernekeitto</item>
+        <item>oregano</item>
+        <item>viinirypäle</item>
+        <item>salmon</item>
+        <item>glögi</item>
+        <item>maustamaton jogurtti</item>
+        <item>jalapeno</item>
+        <item>keiju</item>
+        <item>makkaraa</item>
+        <item>mango</item>
+        <item>liha</item>
+        <item>beer</item>
+        <item>kirsikkatomaatit</item>
+        <item>suodatinpusseja</item>
+        <item>korv</item>
+        <item>ham</item>
+        <item>leipäjuusto</item>
+        <item>punainen maito</item>
+        <item>fairy</item>
+        <item>mehutiiviste</item>
+        <item>selleri</item>
+        <item>kalaa</item>
+        <item>tomato</item>
+        <item>riven ost</item>
+        <item>mustikka</item>
+        <item>kalapuikkoja</item>
+        <item>fetajuusto</item>
+        <item>timjami</item>
+        <item>konetiskiaine</item>
+        <item>pinaattiletut</item>
+        <item>siideri</item>
+        <item>perunaa</item>
+        <item>pähkinät</item>
+        <item>honey</item>
+        <item>saippua</item>
+        <item>tiskiharja</item>
+        <item>lihaa</item>
+        <item>katkarapuja</item>
+        <item>tomaattipyree</item>
+        <item>tumma suklaa</item>
+        <item>riisiä</item>
+        <item>nuudeli</item>
+        <item>dödö</item>
+        <item>pinaattia</item>
+        <item>burana</item>
+        <item>viili</item>
+        <item>salt</item>
+        <item>keksejä</item>
+        <item>vanulappuja</item>
+        <item>nakit</item>
+        <item>rice</item>
+        <item>grillattavaa</item>
+        <item>suola</item>
+        <item>d-vitamiini</item>
+        <item>viiliä</item>
+        <item>cereal</item>
+        <item>inkivääriä</item>
+        <item>kauramaitoa</item>
+        <item>kikherne</item>
+        <item>suihkusaippua</item>
+        <item>huuhteluaine</item>
+        <item>leivinpaperia</item>
+        <item>kauraleipä</item>
+        <item>tilliä</item>
+        <item>teetä</item>
+        <item>ranskalaisia</item>
+        <item>mansikat</item>
+        <item>oliivit</item>
+        <item>biopussit</item>
+        <item>makaronia</item>
+        <item>tiskiaine</item>
+        <item>maissia</item>
+        <item>kapris</item>
+        <item>nötter</item>
+        <item>vaipat</item>
+        <item>lihapullia</item>
+        <item>coconut milk</item>
+        <item>lounas</item>
+        <item>soija</item>
+        <item>roskapussit</item>
+        <item>hedelmä</item>
+        <item>rusinoita</item>
+        <item>nachoja</item>
+        <item>ris</item>
+        <item>pakastepizza</item>
+        <item>viini</item>
+        <item>sitruunamehu</item>
+        <item>oliivi</item>
+        <item>mysliä</item>
+        <item>mustikoita</item>
+        <item>energiajuoma</item>
+        <item>flour</item>
+        <item>sieniä</item>
+        <item>karkki</item>
+        <item>kex</item>
+        <item>sausage</item>
+        <item>herkkusieni</item>
+        <item>soijakastike</item>
+        <item>leivinjauhe</item>
+        <item>tomat</item>
+        <item>minttu</item>
+        <item>suodatinpussit</item>
+        <item>maksamakkara</item>
+        <item>toothpaste</item>
+        <item>pulla</item>
+        <item>vaniljakastike</item>
+        <item>olive oil</item>
+        <item>mustapippuri</item>
+        <item>eväät</item>
+        <item>maapähkinävoi</item>
+        <item>kuivahiiva</item>
+        <item>fariinisokeri</item>
+        <item>lanttu</item>
+        <item>lihapullat</item>
+        <item>käsitiskiaine</item>
+        <item>jätskiä</item>
+        <item>kiwi</item>
+        <item>ice cream</item>
+        <item>nachot</item>
+        <item>vanulaput</item>
+        <item>kardemumma</item>
+        <item>kuohukermaa</item>
+        <item>olivolja</item>
+        <item>orange juice</item>
+        <item>riisifrutti</item>
+        <item>folio</item>
+        <item>jätski</item>
+        <item>herneitä</item>
+        <item>kermaviiliä</item>
+        <item>corn</item>
+        <item>fenkoli</item>
+        <item>kalakastike</item>
+        <item>keksi</item>
+        <item>limeä</item>
+        <item>lihaliemi</item>
+        <item>tomusokeria</item>
+        <item>jauhoja</item>
+        <item>vadelma</item>
+        <item>maksalaatikko</item>
+        <item>hoitoaine</item>
+        <item>cookies</item>
+        <item>kiivi</item>
+        <item>nenäliina</item>
+        <item>härkis</item>
+        <item>deodorant</item>
+        <item>paprikajauhe</item>
+        <item>turkkilainen jugurtti</item>
+        <item>sinappia</item>
+        <item>kasvisliemikuutio</item>
+        <item>spagettia</item>
+        <item>tuorepasta</item>
+        <item>punajuuri</item>
+        <item>soijarouhe</item>
+        <item>glögiä</item>
+        <item>persiljaa</item>
+        <item>omenaa</item>
+        <item>lehtipersilja</item>
+        <item>salaatinkastike</item>
+        <item>tomato sauce</item>
+        <item>kaakaojauhe</item>
+        <item>rosmariini</item>
+        <item>mascarpone</item>
+        <item>tomusokeri</item>
+        <item>murot</item>
+        <item>granola</item>
+        <item>näkkäri</item>
+        <item>limua</item>
+        <item>fish</item>
+        <item>mehukeitto</item>
+        <item>sipsi</item>
+        <item>rieska</item>
+        <item>veggies</item>
+        <item>astianpesuaine</item>
+        <item>tomaattikastike</item>
+        <item>kevätsipulia</item>
+        <item>lehtikaali</item>
+        <item>sushi</item>
+        <item>mansikkahillo</item>
+        <item>aurinkokuivattu tomaatti</item>
+        <item>basilika tuore</item>
+        <item>cottage cheese</item>
+        <item>kinkkusuikale</item>
+        <item>kreikkalainen jogurtti</item>
+        <item>parsaa</item>
+        <item>kylmäsavulohi</item>
+        <item>nachos</item>
+        <item>deo</item>
+        <item>siteitä</item>
+        <item>sour cream</item>
+        <item>marjat</item>
+        <item>sinihomejuusto</item>
+        <item>tonic</item>
+        <item>peanut butter</item>
+        <item>rypsiöljyä</item>
+        <item>spring onion</item>
+        <item>vissy</item>
+        <item>uusia perunoita</item>
+        <item>meloni</item>
+        <item>philadelphia</item>
+        <item>mandariineja</item>
+        <item>vaniljajäätelö</item>
+        <item>hilloa</item>
+        <item>sulatejuusto</item>
+        <item>halloumia</item>
+        <item>pastakastike</item>
+        <item>corn flakes</item>
+        <item>valkoviini</item>
+        <item>pizzapohja</item>
+        <item>vanupuikot</item>
+        <item>curry</item>
+        <item>Benecol</item>
+        <item>appelsiineja</item>
+        <item>sitruunaa</item>
+        <item>eggplant</item>
+        <item>chickpeas</item>
+        <item>couscous</item>
+        <item>oliiveja</item>
+        <item>kermavaahto</item>
+        <item>huulirasva</item>
+        <item>puolukkahillo</item>
+        <item>pinaattikeitto</item>
+        <item>oltermanni</item>
+        <item>hapankorppu</item>
+        <item>parsa</item>
+        <item>snacks</item>
+        <item>tee</item>
+        <item>katkarapu</item>
+        <item>rennie</item>
+        <item>cashewpähkinöitä</item>
+        <item>riisikakku</item>
+        <item>käsidesi</item>
+        <item>siteet</item>
+        <item>särkylääke</item>
+        <item>hampurilaissämpylöitä</item>
+        <item>makarooni</item>
+        <item>mayo</item>
+        <item>lasagnelevyjä</item>
+        <item>jaffa</item>
+        <item>makaronilaatikko</item>
+        <item>karjalanpiirakat</item>
+        <item>kurkkusalaatti</item>
+        <item>suolaa</item>
+        <item>vispikerma</item>
+        <item>tahini</item>
+        <item>jauho</item>
+        <item>vihanneksia</item>
+        <item>sprite</item>
+        <item>klementiini</item>
+        <item>siskonmakkara</item>
+        <item>riisipuuro</item>
+        <item>chorizo</item>
+        <item>pihvit</item>
+        <item>graavilohi</item>
+        <item>korvatulpat</item>
+        <item>hunajaa</item>
+        <item>kookoskerma</item>
+        <item>valkosipulijauhe</item>
+        <item>puuroriisi</item>
+        <item>soy sauce</item>
+        <item>salottisipuli</item>
+        <item>alkoholiton olut</item>
+        <item>hiuslakka</item>
+        <item>Pringles</item>
+        <item>hiusväri</item>
+        <item>lihaliemikuutio</item>
+        <item>balsamico</item>
+        <item>sukkia</item>
+        <item>jätesäkkejä</item>
+        <item>wings</item>
+        <item>aurinkorasva</item>
+        <item>ruusukaali</item>
+        <item>tortellini</item>
+        <item>mämmi</item>
+        <item>shower gel</item>
+        <item>nacho</item>
+        <item>biojätepussi</item>
+        <item>juustokumina</item>
+        <item>tacomauste</item>
+        <item>nyhtökaura</item>
+        <item>pyykkietikka</item>
+        <item>torttutaikina</item>
+        <item>basmatiriisi</item>
+        <item>perunasalaatti</item>
+        <item>kortti</item>
+        <item>kookosmaitoa</item>
+        <item>fanta</item>
+        <item>maustamaton tuorejuusto</item>
+        <item>magnesium</item>
+        <item>vanupuikkoja</item>
+        <item>vihreitä papuja</item>
+        <item>kakku</item>
+        <item>korppujauho</item>
+        <item>minigrip</item>
+        <item>pecorino</item>
+        <item>hunajameloni</item>
+        <item>savulohi</item>
+        <item>quinoa</item>
+        <item>ruokasooda</item>
+        <item>vaahterasiirappi</item>
+        <item>hand soap</item>
+        <item>pyykinpesuainetta</item>
+        <item>panadol</item>
+        <item>kukkia</item>
+        <item>soijaa</item>
+        <item>multaa</item>
+        <item>lasagnelevyt</item>
+        <item>keksit</item>
+        <item>lasagne</item>
+        <item>guacamole</item>
+        <item>melatoniini</item>
+        <item>silli</item>
+        <item>kynsilakanpoistoaine</item>
+        <item>pikakahvi</item>
+        <item>merisuola</item>
+        <item>sipsiä</item>
+        <item>sriracha</item>
+        <item>lääkkeet</item>
+        <item>kodin putkimies</item>
+        <item>granaattiomena</item>
+        <item>coleslaw</item>
+        <item>nudlar</item>
+        <item>espresso</item>
+        <item>liivatelehtiä</item>
+        <item>kelmu</item>
+        <item>jääsalaatti</item>
+        <item>laturi</item>
+        <item>sukkahousut</item>
+        <item>pineapple</item>
+        <item>kurkuma</item>
+        <item>ricotta</item>
+        <item>kaneli</item>
+        <item>risottoriisi</item>
+        <item>pesuaine</item>
+        <item>ribs</item>
+        <item>vaniljasokeri</item>
+        <item>maalarinteippi</item>
+        <item>multa</item>
+        <item>hanskat</item>
+        <item>maskeja</item>
+        <item>skumppa</item>
+        <item>kengät</item>
+        <item>partavaahto</item>
+        <item>omenaviinietikka</item>
+        <item>vaahtokarkkeja</item>
+        <item>maizena</item>
+        <item>bepanthen</item>
+        <item>lamppu</item>
+        <item>perunajauho</item>
+        <item>kapriksia</item>
+        <item>broccolini</item>
+        <item>punakaali</item>
+        <item>elmukelmu</item>
+        <item>vesi</item>
+        <item>maustekurkku</item>
+        <item>piparitaikina</item>
+        <item>hammaslanka</item>
+        <item>pinjansiemeniä</item>
+        <item>garam masala</item>
+        <item>paper towels</item>
+        <item>lemons</item>
+        <item>celery</item>
+        <item>strawberries</item>
+        <item>cream cheese</item>
+        <item>limes</item>
+        <item>ground beef</item>
+        <item>chicken breast</item>
+        <item>blueberries</item>
+        <item>tortillas</item>
+        <item>cilantro</item>
+        <item>green onions</item>
+        <item>tortilla chips</item>
+        <item>water</item>
+        <item>bagels</item>
+        <item>almond milk</item>
+        <item>green beans</item>
+        <item>lunch meat</item>
+        <item>hamburger buns</item>
+        <item>hot dogs</item>
+        <item>crackers</item>
+        <item>shredded cheese</item>
+        <item>asparagus</item>
+        <item>paper plates</item>
+        <item>chicken broth</item>
+        <item>cauliflower</item>
+        <item>hot dog buns</item>
+        <item>black beans</item>
+        <item>steak</item>
+        <item>dog food</item>
+        <item>Parmesan cheese</item>
+        <item>English muffins</item>
+        <item>heavy cream</item>
+        <item>bell peppers</item>
+        <item>ground turkey</item>
+        <item>sweet potatoes</item>
+        <item>creamer</item>
+        <item>laundry detergent</item>
+        <item>Greek yogurt</item>
+        <item>Kleenex</item>
+        <item>peppers</item>
+        <item>berries</item>
+        <item>brown sugar</item>
+        <item>wine</item>
+        <item>hamburger</item>
+        <item>napkins</item>
+        <item>tissues</item>
+        <item>chicken thighs</item>
+        <item>half and half</item>
+        <item>oatmeal</item>
+        <item>baby carrots</item>
+        <item>tomato paste</item>
+        <item>red pepper</item>
+        <item>sliced cheese</item>
+        <item>parsley</item>
+        <item>mayonnaise</item>
+        <item>green pepper</item>
+        <item>shrimp</item>
+        <item>coffee creamer</item>
+        <item>watermelon</item>
+        <item>romaine lettuce</item>
+        <item>turkey</item>
+        <item>applesauce</item>
+        <item>spaghetti sauce</item>
+        <item>jalapeño</item>
+        <item>buns</item>
+        <item>raspberries</item>
+        <item>ranch dressing</item>
+        <item>dish soap</item>
+        <item>cat food</item>
+        <item>cheddar cheese</item>
+        <item>chocolate chips</item>
+        <item>apple juice</item>
+        <item>kale</item>
+        <item>granola bars</item>
+        <item>pickles</item>
+        <item>cabbage</item>
+        <item>basil</item>
+        <item>pears</item>
+        <item>pretzels</item>
+        <item>coke</item>
+        <item>Brussels sprouts</item>
+        <item>taco seasoning</item>
+        <item>distilled water</item>
+        <item>Mac and cheese</item>
+        <item>red bell pepper</item>
+        <item>rotisserie chicken</item>
+        <item>maple syrup</item>
+        <item>string cheese</item>
+        <item>shallots</item>
+        <item>frozen peas</item>
+        <item>sweet potato</item>
+        <item>whole milk</item>
+        <item>ice</item>
+        <item>garlic bread</item>
+        <item>baby spinach</item>
+        <item>olives</item>
+        <item>yellow onion</item>
+        <item>pasta sauce</item>
+        <item>bottled water</item>
+        <item>mustard</item>
+        <item>Gatorade</item>
+        <item>pork chops</item>
+        <item>diced tomatoes</item>
+        <item>almonds</item>
+        <item>cat litter</item>
+        <item>Diet Coke</item>
+        <item>soup</item>
+        <item>Parmesan</item>
+        <item>waffles</item>
+        <item>cheese slices</item>
+        <item>trash bags</item>
+        <item>body wash</item>
+        <item>lemon juice</item>
+        <item>raisins</item>
+        <item>chocolate</item>
+        <item>qtips</item>
+        <item>chicken nuggets</item>
+        <item>baking soda</item>
+        <item>feta cheese</item>
+        <item>frozen pizza</item>
+        <item>refried beans</item>
+        <item>mozzarella cheese</item>
+        <item>bbq sauce</item>
+        <item>buttermilk</item>
+        <item>mouthwash</item>
+        <item>half &amp; half</item>
+        <item>goldfish</item>
+        <item>walnuts</item>
+        <item>Cheerios</item>
+        <item>conditioner</item>
+        <item>AA batteries</item>
+        <item>American cheese</item>
+        <item>soda</item>
+        <item>biscuits</item>
+        <item>rolls</item>
+        <item>syrup</item>
+        <item>wraps</item>
+        <item>gum</item>
+        <item>baked beans</item>
+        <item>graham crackers</item>
+        <item>bleach</item>
+        <item>pizza sauce</item>
+        <item>peanuts</item>
+        <item>croutons</item>
+        <item>scallions</item>
+        <item>flour tortillas</item>
+        <item>cheese sticks</item>
+        <item>French fries</item>
+        <item>oat milk</item>
+        <item>frozen corn</item>
+        <item>cashews</item>
+        <item>tea</item>
+        <item>chicken stock</item>
+        <item>lemonade</item>
+        <item>beef broth</item>
+        <item>hash browns</item>
+        <item>peaches</item>
+        <item>chocolate milk</item>
+        <item>potato chips</item>
+        <item>aluminum foil</item>
+        <item>black olives</item>
+        <item>vegetable oil</item>
+        <item>jelly</item>
+        <item>corn tortillas</item>
+        <item>taco shells</item>
+        <item>kidney beans</item>
+        <item>coffee filters</item>
+        <item>breakfast sausage</item>
+        <item>dog treats</item>
+        <item>garbage bags</item>
+        <item>wipes</item>
+        <item>pancake mix</item>
+        <item>garlic powder</item>
+        <item>vinegar</item>
+        <item>sandwich bags</item>
+        <item>whipped cream</item>
+        <item>cool whip</item>
+        <item>pecans</item>
+        <item>grape tomatoes</item>
+        <item>meat</item>
+        <item>Swiss cheese</item>
+        <item>cranberry juice</item>
+        <item>Nutella</item>
+        <item>salad mix</item>
+        <item>diapers</item>
+        <item>nuts</item>
+        <item>Italian sausage</item>
+        <item>egg noodles</item>
+        <item>vanilla ice cream</item>
+        <item>heavy whipping cream</item>
+        <item>shredded cheddar</item>
+        <item>ritz crackers</item>
+        <item>shaving cream</item>
+        <item>brown rice</item>
+        <item>baby wipes</item>
+        <item>dishwasher detergent</item>
+        <item>unsalted butter</item>
+        <item>marshmallows</item>
+        <item>corn on the cob</item>
+        <item>arugula</item>
+        <item>beans</item>
+        <item>AAA batteries</item>
+        <item>meatballs</item>
+        <item>ginger ale</item>
+        <item>deli meat</item>
+        <item>white vinegar</item>
+        <item>French bread</item>
+        <item>margarine</item>
+        <item>skim milk</item>
+        <item>peas</item>
+        <item>tampons</item>
+        <item>sparkling water</item>
+        <item>frozen blueberries</item>
+        <item>tomato soup</item>
+        <item>shredded mozzarella</item>
+        <item>hairspray</item>
+        <item>salad dressing</item>
+        <item>Oreos</item>
+        <item>powdered sugar</item>
+        <item>Coke Zero</item>
+        <item>white onion</item>
+        <item>dryer sheets</item>
+        <item>burger buns</item>
+        <item>white wine</item>
+        <item>flowers</item>
+        <item>red potatoes</item>
+        <item>pop tarts</item>
+        <item>canola oil</item>
+        <item>white bread</item>
+        <item>red wine</item>
+        <item>pads</item>
+        <item>goat cheese</item>
+        <item>fabric softener</item>
+        <item>egg whites</item>
+        <item>frozen fruit</item>
+        <item>sourdough bread</item>
+        <item>cinnamon</item>
+        <item>bread crumbs</item>
+        <item>ziplock bags</item>
+        <item>frozen veggies</item>
+        <item>parchment paper</item>
+        <item>soy milk</item>
+        <item>sunscreen</item>
+        <item>thyme</item>
+        <item>Doritos</item>
+        <item>Dijon mustard</item>
+        <item>baking powder</item>
+        <item>pumpkin</item>
+        <item>water bottles</item>
+        <item>iceberg lettuce</item>
+        <item>blackberries</item>
+        <item>leeks</item>
+        <item>fresh basil</item>
+        <item>muffins</item>
+        <item>toothbrush</item>
+        <item>laundry soap</item>
+        <item>tater tots</item>
+        <item>protein bars</item>
+        <item>burgers</item>
+        <item>shredded lettuce</item>
+        <item>chicken wings</item>
+        <item>lime juice</item>
+        <item>bandaids</item>
+        <item>vanilla</item>
+        <item>romaine</item>
+        <item>shredded cheddar cheese</item>
+        <item>soap</item>
+        <item>candy</item>
+        <item>whipping cream</item>
+        <item>frozen broccoli</item>
+        <item>bacon bits</item>
+        <item>dishwasher soap</item>
+        <item>fruit snacks</item>
+        <item>noodles</item>
+        <item>mint</item>
+        <item>sponges</item>
+        <item>cantaloupe</item>
+        <item>croissants</item>
+        <item>lunchables</item>
+        <item>juice boxes</item>
+        <item>jam</item>
+        <item>cherries</item>
+        <item>salad stuff</item>
+        <item>cumin</item>
+        <item>ibuprofen</item>
+        <item>grapefruit</item>
+        <item>clementines</item>
+        <item>butternut squash</item>
+        <item>chili powder</item>
+        <item>spring onions</item>
+        <item>vodka</item>
+        <item>cream of mushroom soup</item>
+        <item>almond butter</item>
+        <item>baguette</item>
+        <item>cream of chicken soup</item>
+        <item>radishes</item>
+        <item>crushed tomatoes</item>
+        <item>pepper</item>
+        <item>apple cider vinegar</item>
+        <item>squash</item>
+        <item>green bell pepper</item>
+        <item>vanilla extract</item>
+        <item>sandwich meat</item>
+        <item>pork tenderloin</item>
+        <item>rosemary</item>
+        <item>oats</item>
+        <item>razors</item>
+        <item>tide</item>
+        <item>frozen strawberries</item>
+        <item>light bulbs</item>
+        <item>Clorox wipes</item>
+        <item>mashed potatoes</item>
+        <item>stick butter</item>
+        <item>mince</item>
+        <item>coriander</item>
+        <item>lotion</item>
+        <item>canned tomatoes</item>
+        <item>chives</item>
+        <item>frozen spinach</item>
+        <item>Roma tomatoes</item>
+        <item>birthday card</item>
+        <item>sweet onion</item>
+        <item>toilet bowl cleaner</item>
+        <item>pinto beans</item>
+        <item>wheat thins</item>
+        <item>pop</item>
+        <item>seltzer</item>
+        <item>chicken tenders</item>
+        <item>fresh parsley</item>
+        <item>sunflower seeds</item>
+        <item>deli turkey</item>
+        <item>fresh cilantro</item>
+        <item>minced garlic</item>
+    </array>
+</resources>

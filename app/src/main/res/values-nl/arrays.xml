@@ -1,0 +1,1031 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="master_list_values">
+        <item>eieren</item>
+        <item>brood</item>
+        <item>melk</item>
+        <item>komkommer</item>
+        <item>bananen</item>
+        <item>kaas</item>
+        <item>fruit</item>
+        <item>wc papier</item>
+        <item>appels</item>
+        <item>yoghurt</item>
+        <item>chips</item>
+        <item>sla</item>
+        <item>gehakt</item>
+        <item>courgette</item>
+        <item>paprika</item>
+        <item>tomaten</item>
+        <item>champignons</item>
+        <item>geraspte kaas</item>
+        <item>kipfilet</item>
+        <item>boter</item>
+        <item>broccoli</item>
+        <item>avocado</item>
+        <item>koffie</item>
+        <item>aardappelen</item>
+        <item>uien</item>
+        <item>beleg</item>
+        <item>pindakaas</item>
+        <item>cola</item>
+        <item>prei</item>
+        <item>stokbrood</item>
+        <item>keukenrol</item>
+        <item>spinazie</item>
+        <item>knoflook</item>
+        <item>Griekse yoghurt</item>
+        <item>creme fraiche</item>
+        <item>mayonaise</item>
+        <item>bier</item>
+        <item>broodjes</item>
+        <item>olijfolie</item>
+        <item>bloemkool</item>
+        <item>kwark</item>
+        <item>ham</item>
+        <item>citroen</item>
+        <item>wraps</item>
+        <item>vlees</item>
+        <item>spekjes</item>
+        <item>koekjes</item>
+        <item>rode paprika</item>
+        <item>aardbeien</item>
+        <item>rucola</item>
+        <item>kip</item>
+        <item>druiven</item>
+        <item>slagroom</item>
+        <item>afbakbroodjes</item>
+        <item>rijst</item>
+        <item>wortels</item>
+        <item>tomaat</item>
+        <item>roomboter</item>
+        <item>zalm</item>
+        <item>mozzarella</item>
+        <item>havermout</item>
+        <item>aardappels</item>
+        <item>feta</item>
+        <item>pasta</item>
+        <item>tandpasta</item>
+        <item>vleeswaren</item>
+        <item>tomatenpuree</item>
+        <item>groente</item>
+        <item>hagelslag</item>
+        <item>banaan</item>
+        <item>honing</item>
+        <item>salami</item>
+        <item>pizza</item>
+        <item>ketchup</item>
+        <item>kokosmelk</item>
+        <item>crackers</item>
+        <item>vuilniszakken</item>
+        <item>aubergine</item>
+        <item>peren</item>
+        <item>bakboter</item>
+        <item>gember</item>
+        <item>sperziebonen</item>
+        <item>blauwe bessen</item>
+        <item>appelmoes</item>
+        <item>beschuit</item>
+        <item>mandarijnen</item>
+        <item>tomaatjes</item>
+        <item>smeerkaas</item>
+        <item>wortelen</item>
+        <item>limoen</item>
+        <item>water</item>
+        <item>gerookte zalm</item>
+        <item>toiletpapier</item>
+        <item>mais</item>
+        <item>spaghetti</item>
+        <item>ijsbergsla</item>
+        <item>koffiemelk</item>
+        <item>rode ui</item>
+        <item>toetje</item>
+        <item>olijven</item>
+        <item>peterselie</item>
+        <item>wijn</item>
+        <item>parmezaanse kaas</item>
+        <item>basilicum</item>
+        <item>pijnboompitten</item>
+        <item>witte wijn</item>
+        <item>mango</item>
+        <item>room</item>
+        <item>cola zero</item>
+        <item>wortel</item>
+        <item>bloem</item>
+        <item>rozijnen</item>
+        <item>chocolade</item>
+        <item>afwasmiddel</item>
+        <item>thee</item>
+        <item>bladerdeeg</item>
+        <item>muesli</item>
+        <item>cherry tomaatjes</item>
+        <item>nootjes</item>
+        <item>krieltjes</item>
+        <item>rode wijn</item>
+        <item>smeerboter</item>
+        <item>tomatenblokjes</item>
+        <item>karnemelk</item>
+        <item>suiker</item>
+        <item>kroepoek</item>
+        <item>jam</item>
+        <item>koriander</item>
+        <item>hamburgers</item>
+        <item>appelsap</item>
+        <item>boontjes</item>
+        <item>kiwi</item>
+        <item>zoete aardappel</item>
+        <item>geitenkaas</item>
+        <item>soep</item>
+        <item>tissues</item>
+        <item>spek</item>
+        <item>mosterd</item>
+        <item>brie</item>
+        <item>rookworst</item>
+        <item>salade</item>
+        <item>augurken</item>
+        <item>handzeep</item>
+        <item>ontbijtkoek</item>
+        <item>zure room</item>
+        <item>pesto</item>
+        <item>vaatwastabletten</item>
+        <item>ananas</item>
+        <item>paracetamol</item>
+        <item>mozarella</item>
+        <item>groenten</item>
+        <item>witlof</item>
+        <item>hesp</item>
+        <item>kruidenboter</item>
+        <item>kookroom</item>
+        <item>worst</item>
+        <item>vis</item>
+        <item>sap</item>
+        <item>bosui</item>
+        <item>bakpapier</item>
+        <item>cruesli</item>
+        <item>bleekselderij</item>
+        <item>cashewnoten</item>
+        <item>walnoten</item>
+        <item>spa rood</item>
+        <item>avondeten</item>
+        <item>rijstwafels</item>
+        <item>koffiebonen</item>
+        <item>kerstomaatjes</item>
+        <item>toastjes</item>
+        <item>halfvolle melk</item>
+        <item>appelstroop</item>
+        <item>macaroni</item>
+        <item>krentenbollen</item>
+        <item>ijs</item>
+        <item>cornflakes</item>
+        <item>shampoo</item>
+        <item>keukenpapier</item>
+        <item>ontbijtspek</item>
+        <item>citroenen</item>
+        <item>boerenkool</item>
+        <item>ijsjes</item>
+        <item>chocopasta</item>
+        <item>volle melk</item>
+        <item>rode peper</item>
+        <item>wasverzachter</item>
+        <item>satesaus</item>
+        <item>taugé</item>
+        <item>lente ui</item>
+        <item>patat</item>
+        <item>curry</item>
+        <item>vla</item>
+        <item>choco</item>
+        <item>pastasaus</item>
+        <item>ajuin</item>
+        <item>garnalen</item>
+        <item>kikkererwten</item>
+        <item>worteltjes</item>
+        <item>nutella</item>
+        <item>broodbeleg</item>
+        <item>andijvie</item>
+        <item>sinaasappels</item>
+        <item>bolletjes</item>
+        <item>snoeptomaatjes</item>
+        <item>zout</item>
+        <item>boterhamzakjes</item>
+        <item>aardappelschijfjes</item>
+        <item>kiwi\'s</item>
+        <item>wasmiddel</item>
+        <item>azijn</item>
+        <item>tonijn</item>
+        <item>biefstuk</item>
+        <item>kruidenkaas</item>
+        <item>koeken</item>
+        <item>roomkaas</item>
+        <item>magere yoghurt</item>
+        <item>witloof</item>
+        <item>munt</item>
+        <item>hummus</item>
+        <item>rode kool</item>
+        <item>meloen</item>
+        <item>cherry tomaten</item>
+        <item>optimel</item>
+        <item>frisdrank</item>
+        <item>pitabroodjes</item>
+        <item>appel</item>
+        <item>kidneybonen</item>
+        <item>noten</item>
+        <item>ice tea</item>
+        <item>veldsla</item>
+        <item>kauwgom</item>
+        <item>ranja</item>
+        <item>allesreiniger</item>
+        <item>luiers</item>
+        <item>aluminiumfolie</item>
+        <item>bieslook</item>
+        <item>knoflooksaus</item>
+        <item>zonnebloemolie</item>
+        <item>inlegkruisjes</item>
+        <item>couscous</item>
+        <item>hamblokjes</item>
+        <item>chocola</item>
+        <item>mayo</item>
+        <item>toetjes</item>
+        <item>margarine</item>
+        <item>frambozen</item>
+        <item>venkel</item>
+        <item>magere kwark</item>
+        <item>snoep</item>
+        <item>jus d\'orange</item>
+        <item>fruitsap</item>
+        <item>limonade</item>
+        <item>ricotta</item>
+        <item>humus</item>
+        <item>paprika\'s</item>
+        <item>wattenstaafjes</item>
+        <item>soepgroenten</item>
+        <item>pompoen</item>
+        <item>eitjes</item>
+        <item>poedersuiker</item>
+        <item>amandelmelk</item>
+        <item>croissants</item>
+        <item>deo</item>
+        <item>wattenschijfjes</item>
+        <item>vlokken</item>
+        <item>gemalen kaas</item>
+        <item>bacon</item>
+        <item>douchegel</item>
+        <item>look</item>
+        <item>sinaasappelsap</item>
+        <item>tonic</item>
+        <item>paprika rood</item>
+        <item>passata</item>
+        <item>kastanje champignons</item>
+        <item>cola light</item>
+        <item>chorizo</item>
+        <item>sandwiches</item>
+        <item>skyr</item>
+        <item>jonge kaas</item>
+        <item>spekblokjes</item>
+        <item>hamburgerbroodjes</item>
+        <item>gerookte kip</item>
+        <item>lasagne</item>
+        <item>charcuterie</item>
+        <item>kattenvoer</item>
+        <item>havermelk</item>
+        <item>filet americain</item>
+        <item>mascarpone</item>
+        <item>kappertjes</item>
+        <item>vissticks</item>
+        <item>paneermeel</item>
+        <item>zuurkool</item>
+        <item>wokgroenten</item>
+        <item>vanille yoghurt</item>
+        <item>tomatensaus</item>
+        <item>brinta</item>
+        <item>maandverband</item>
+        <item>friet</item>
+        <item>peperkoek</item>
+        <item>noodles</item>
+        <item>tijm</item>
+        <item>wc eend</item>
+        <item>snijbonen</item>
+        <item>granola</item>
+        <item>rundergehakt</item>
+        <item>chocomelk</item>
+        <item>aardappeltjes</item>
+        <item>zongedroogde tomaten</item>
+        <item>worstjes</item>
+        <item>avocado\'s</item>
+        <item>kroketten</item>
+        <item>gehakt 500gr</item>
+        <item>kaneel</item>
+        <item>eierkoeken</item>
+        <item>peer</item>
+        <item>winterpeen</item>
+        <item>parmezaan</item>
+        <item>oregano</item>
+        <item>billendoekjes</item>
+        <item>spruitjes</item>
+        <item>doperwten</item>
+        <item>snoepjes</item>
+        <item>sojamelk</item>
+        <item>groene pesto</item>
+        <item>paté</item>
+        <item>speculoos</item>
+        <item>asperges</item>
+        <item>drinken</item>
+        <item>leverworst</item>
+        <item>gemengde sla</item>
+        <item>shoarma</item>
+        <item>tandenborstel</item>
+        <item>zakdoekjes</item>
+        <item>oude kaas</item>
+        <item>citroensap</item>
+        <item>spuitwater</item>
+        <item>wit brood</item>
+        <item>penne</item>
+        <item>sojasaus</item>
+        <item>zwarte olijven</item>
+        <item>puntpaprika</item>
+        <item>stroop</item>
+        <item>gele paprika</item>
+        <item>boterhamworst</item>
+        <item>lente uitjes</item>
+        <item>gebakken uitjes</item>
+        <item>witte bolletjes</item>
+        <item>paksoi</item>
+        <item>verse koriander</item>
+        <item>houdbare melk</item>
+        <item>keukenrollen</item>
+        <item>kerstomaten</item>
+        <item>sinas</item>
+        <item>stroopwafels</item>
+        <item>roggebrood</item>
+        <item>pannenkoekenmix</item>
+        <item>rode uien</item>
+        <item>schoonmaakazijn</item>
+        <item>paprikamix</item>
+        <item>confituur</item>
+        <item>cheddar</item>
+        <item>eggs</item>
+        <item>fanta</item>
+        <item>verse basilicum</item>
+        <item>halvarine</item>
+        <item>2 courgettes</item>
+        <item>sinaasappel</item>
+        <item>pizza\'s</item>
+        <item>bruine bonen</item>
+        <item>lasagnebladen</item>
+        <item>maaltijdsalade</item>
+        <item>frietjes</item>
+        <item>verse spinazie</item>
+        <item>bloemen</item>
+        <item>koffiepads</item>
+        <item>strooikaas</item>
+        <item>brocolli</item>
+        <item>soepstengels</item>
+        <item>zilvervliesrijst</item>
+        <item>afwasborstel</item>
+        <item>filet american</item>
+        <item>afbakbrood</item>
+        <item>chilisaus</item>
+        <item>vochtig toiletpapier</item>
+        <item>verse munt</item>
+        <item>milk</item>
+        <item>tortilla chips</item>
+        <item>wasmiddel kleur</item>
+        <item>rosbief</item>
+        <item>rosé</item>
+        <item>amandelen</item>
+        <item>neusspray</item>
+        <item>bread</item>
+        <item>dille</item>
+        <item>sjalotten</item>
+        <item>koek</item>
+        <item>pizzadeeg</item>
+        <item>pakjes drinken</item>
+        <item>frikandellen</item>
+        <item>pastinaak</item>
+        <item>schuursponsjes</item>
+        <item>grillworst</item>
+        <item>paprikapoeder</item>
+        <item>hagelslag puur</item>
+        <item>tampons</item>
+        <item>koffiefilters</item>
+        <item>chocomel</item>
+        <item>spaghettisaus</item>
+        <item>pinda\'s</item>
+        <item>Turks brood</item>
+        <item>Philadelphia</item>
+        <item>knakworst</item>
+        <item>tagliatelle</item>
+        <item>peper</item>
+        <item>dadels</item>
+        <item>eiersalade</item>
+        <item>perssinaasappels</item>
+        <item>basmati rijst</item>
+        <item>sambal</item>
+        <item>rozemarijn</item>
+        <item>flesjes water</item>
+        <item>Italiaanse kruiden</item>
+        <item>drop</item>
+        <item>ice tea green</item>
+        <item>hamburger</item>
+        <item>magere melk</item>
+        <item>aardappel</item>
+        <item>selder</item>
+        <item>jus</item>
+        <item>varkenshaas</item>
+        <item>taart</item>
+        <item>watermeloen</item>
+        <item>lunch</item>
+        <item>bbq vlees</item>
+        <item>yogurt</item>
+        <item>kaasjes</item>
+        <item>groene asperges</item>
+        <item>bruin brood</item>
+        <item>risottorijst</item>
+        <item>kippenbouillon</item>
+        <item>boursin</item>
+        <item>platte peterselie</item>
+        <item>kaas plakken</item>
+        <item>scheerschuim</item>
+        <item>tofu</item>
+        <item>siroop</item>
+        <item>volkoren brood</item>
+        <item>appelsienen</item>
+        <item>groene thee</item>
+        <item>soepgroente</item>
+        <item>knakworstjes</item>
+        <item>smeerworst</item>
+        <item>radler</item>
+        <item>spitskool</item>
+        <item>borrelnootjes</item>
+        <item>dreft</item>
+        <item>parmaham</item>
+        <item>groene paprika</item>
+        <item>ketjap</item>
+        <item>deodorant</item>
+        <item>pedaalemmerzakken</item>
+        <item>diepvries fruit</item>
+        <item>chocolademelk</item>
+        <item>ketjap manis</item>
+        <item>pure chocolade</item>
+        <item>mandarijntjes</item>
+        <item>spekreepjes</item>
+        <item>gerookte kipfilet</item>
+        <item>ciabatta</item>
+        <item>verse gember</item>
+        <item>ansjovis</item>
+        <item>aardappelpuree</item>
+        <item>linzen</item>
+        <item>zilveruitjes</item>
+        <item>sultana</item>
+        <item>spa</item>
+        <item>vanille vla</item>
+        <item>verse pasta</item>
+        <item>poffertjes</item>
+        <item>nectarines</item>
+        <item>bananas</item>
+        <item>plat water</item>
+        <item>vleesbeleg</item>
+        <item>limoenen</item>
+        <item>pecannoten</item>
+        <item>speculoospasta</item>
+        <item>bosuitjes</item>
+        <item>toilet paper</item>
+        <item>komkommers</item>
+        <item>rauwe ham</item>
+        <item>cava</item>
+        <item>ibuprofen</item>
+        <item>maiswafels</item>
+        <item>pindasaus</item>
+        <item>volle yoghurt</item>
+        <item>cracottes</item>
+        <item>bonen</item>
+        <item>soepballetjes</item>
+        <item>afbakstokbrood</item>
+        <item>crystal clear</item>
+        <item>eten</item>
+        <item>kippendijen</item>
+        <item>worstenbroodjes</item>
+        <item>zalmfilet</item>
+        <item>gepelde tomaten</item>
+        <item>rode pesto</item>
+        <item>augurk</item>
+        <item>naanbrood</item>
+        <item>groentebouillon</item>
+        <item>knolselderij</item>
+        <item>heksenkaas</item>
+        <item>schoonmaakdoekjes</item>
+        <item>kokosbrood</item>
+        <item>gist</item>
+        <item>appelen</item>
+        <item>feta kaas</item>
+        <item>spinazie a la creme</item>
+        <item>pizzabodem</item>
+        <item>snacks</item>
+        <item>saté</item>
+        <item>papieren zakdoekjes</item>
+        <item>gnocchi</item>
+        <item>fris</item>
+        <item>nachos</item>
+        <item>pannenkoeken</item>
+        <item>vaatwasblokjes</item>
+        <item>zonnebrand</item>
+        <item>falafel</item>
+        <item>huttenkase</item>
+        <item>oorstokjes</item>
+        <item>gel</item>
+        <item>selderij</item>
+        <item>bietjes</item>
+        <item>patatten</item>
+        <item>haarlak</item>
+        <item>suikerklontjes</item>
+        <item>advocado</item>
+        <item>scheermesjes</item>
+        <item>kaasblokjes</item>
+        <item>pampers</item>
+        <item>cottage cheese</item>
+        <item>trostomaten</item>
+        <item>witte kool</item>
+        <item>tortillas</item>
+        <item>kipfilet beleg</item>
+        <item>biertjes</item>
+        <item>bruiswater</item>
+        <item>eten vanavond</item>
+        <item>nasigroenten</item>
+        <item>pleisters</item>
+        <item>tandenstokers</item>
+        <item>wc blokjes</item>
+        <item>wokgroente</item>
+        <item>vochtige doekjes</item>
+        <item>gezeefde tomaten</item>
+        <item>zelfrijzend bakmeel</item>
+        <item>rivella</item>
+        <item>maizena</item>
+        <item>koffiecups</item>
+        <item>fishsticks</item>
+        <item>speculaas</item>
+        <item>vanillesuiker</item>
+        <item>sjalotjes</item>
+        <item>quinoa</item>
+        <item>kattenbakvulling</item>
+        <item>salades</item>
+        <item>champignon</item>
+        <item>croissantjes</item>
+        <item>zwarte bonen</item>
+        <item>toastbrood</item>
+        <item>fristi</item>
+        <item>dubbelfris</item>
+        <item>roosvicee</item>
+        <item>vruchtenhagel</item>
+        <item>vega gehakt</item>
+        <item>spinazie diepvries</item>
+        <item>drinkyoghurt</item>
+        <item>rooibos thee</item>
+        <item>ijsthee</item>
+        <item>aardbeienjam</item>
+        <item>paprika chips</item>
+        <item>300 gr gehakt</item>
+        <item>cassis</item>
+        <item>kipfilets</item>
+        <item>glansspoelmiddel</item>
+        <item>nasikruiden</item>
+        <item>diepvrieszakjes</item>
+        <item>bami</item>
+        <item>platte kaas</item>
+        <item>vleesje</item>
+        <item>rauwkost</item>
+        <item>hapjes</item>
+        <item>erwten</item>
+        <item>sjalot</item>
+        <item>peultjes</item>
+        <item>popcorn</item>
+        <item>sandwichspread</item>
+        <item>knijpfruit</item>
+        <item>wc reiniger</item>
+        <item>rookvlees</item>
+        <item>ajuinen</item>
+        <item>yakult</item>
+        <item>slasaus</item>
+        <item>kabeljauw</item>
+        <item>batterijen</item>
+        <item>olie</item>
+        <item>lactosevrije melk</item>
+        <item>schnitzel</item>
+        <item>sokken</item>
+        <item>sapjes</item>
+        <item>zuivelspread</item>
+        <item>vanille ijs</item>
+        <item>rode bieten</item>
+        <item>aanmaakblokjes</item>
+        <item>carpaccio</item>
+        <item>chloor</item>
+        <item>rijstewafels</item>
+        <item>vitamine d</item>
+        <item>tomatensoep</item>
+        <item>zoete aardappelen</item>
+        <item>mosselen</item>
+        <item>scampi</item>
+        <item>notenmix</item>
+        <item>liga</item>
+        <item>chocoladepasta</item>
+        <item>tomatenketchup</item>
+        <item>kattenbrokjes</item>
+        <item>kipdijfilet</item>
+        <item>kleine tomaatjes</item>
+        <item>roerbakgroenten</item>
+        <item>granaatappel</item>
+        <item>radijs</item>
+        <item>diksap</item>
+        <item>noedels</item>
+        <item>conditioner</item>
+        <item>blok kaas</item>
+        <item>bouillonblokjes</item>
+        <item>mie</item>
+        <item>risotto</item>
+        <item>prepare</item>
+        <item>sigaretten</item>
+        <item>pompoenpitten</item>
+        <item>hazelnoten</item>
+        <item>frieten</item>
+        <item>sponsjes</item>
+        <item>croma</item>
+        <item>coca cola</item>
+        <item>melk halfvol</item>
+        <item>vloeibare boter</item>
+        <item>diepvries spinazie</item>
+        <item>sapje</item>
+        <item>vershoudfolie</item>
+        <item>bosbessen</item>
+        <item>hutspot</item>
+        <item>kipfilet 300gr</item>
+        <item>gemengd gehakt</item>
+        <item>radijsjes</item>
+        <item>pap</item>
+        <item>kalkoenfilet</item>
+        <item>tartaar</item>
+        <item>soja yoghurt</item>
+        <item>knäckebröd</item>
+        <item>knakworsten</item>
+        <item>dropjes</item>
+        <item>alcoholvrij bier</item>
+        <item>nutrilon</item>
+        <item>bakpoeder</item>
+        <item>smeersels</item>
+        <item>gorgonzola</item>
+        <item>frituurolie</item>
+        <item>lekkers</item>
+        <item>bloemkoolrijst</item>
+        <item>boter brood</item>
+        <item>blauwe kaas</item>
+        <item>blik tomatenblokjes</item>
+        <item>actimel</item>
+        <item>zongedroogde tomaatjes</item>
+        <item>gehaktkruiden</item>
+        <item>muisjes</item>
+        <item>zachte broodjes</item>
+        <item>pancetta</item>
+        <item>speklapjes</item>
+        <item>tonijnsalade</item>
+        <item>m&amp;m\'s</item>
+        <item>steak</item>
+        <item>shoarmabroodjes</item>
+        <item>pistachenoten</item>
+        <item>snoeptomaten</item>
+        <item>krop sla</item>
+        <item>cheddar kaas</item>
+        <item>mandarijn</item>
+        <item>cup a soup</item>
+        <item>sandwichen</item>
+        <item>witte druiven</item>
+        <item>slamix</item>
+        <item>verse peterselie</item>
+        <item>patatjes</item>
+        <item>ijsblokjes</item>
+        <item>winterwortel</item>
+        <item>brocoli</item>
+        <item>aardappelkroketjes</item>
+        <item>croissant</item>
+        <item>rietsuiker</item>
+        <item>zoetjes</item>
+        <item>zonnebloempitten</item>
+        <item>wasmiddel wit</item>
+        <item>zakdoeken</item>
+        <item>limonadesiroop</item>
+        <item>croutons</item>
+        <item>nootmuskaat</item>
+        <item>red bull</item>
+        <item>erwtjes</item>
+        <item>doritos</item>
+        <item>zonnebril</item>
+        <item>amandelmeel</item>
+        <item>port</item>
+        <item>kipgehakt</item>
+        <item>kip curry</item>
+        <item>roerbakgroente</item>
+        <item>stoofvlees</item>
+        <item>servetten</item>
+        <item>eten zondag</item>
+        <item>watjes</item>
+        <item>volkoren pasta</item>
+        <item>gebakken aardappels</item>
+        <item>nasigroente</item>
+        <item>citroengras</item>
+        <item>evian</item>
+        <item>gehaktballetjes</item>
+        <item>kippengehakt</item>
+        <item>arachideolie</item>
+        <item>pruimen</item>
+        <item>mondwater</item>
+        <item>bruine bolletjes</item>
+        <item>toespijs</item>
+        <item>inpakpapier</item>
+        <item>pudding</item>
+        <item>waxinelichtjes</item>
+        <item>2 aubergines</item>
+        <item>smint</item>
+        <item>witte bonen in tomatensaus</item>
+        <item>plakken kaas</item>
+        <item>handdoeken</item>
+        <item>havervlokken</item>
+        <item>kiwi gold</item>
+        <item>snelle jelle</item>
+        <item>volkoren wraps</item>
+        <item>Chinese kool</item>
+        <item>tortilla wraps</item>
+        <item>balsamico azijn</item>
+        <item>pepernoten</item>
+        <item>champions</item>
+        <item>kokosolie</item>
+        <item>kipfilet blokjes</item>
+        <item>gin</item>
+        <item>yoghurtjes</item>
+        <item>persappelsienen</item>
+        <item>zoutjes</item>
+        <item>grapefruit</item>
+        <item>zoete aardappels</item>
+        <item>currysaus</item>
+        <item>kristalsuiker</item>
+        <item>kamillethee</item>
+        <item>macaroni groenten</item>
+        <item>verse jus</item>
+        <item>fritessaus</item>
+        <item>duo penotti</item>
+        <item>potgrond</item>
+        <item>paprika geel</item>
+        <item>rozijntjes</item>
+        <item>aioli</item>
+        <item>kleenex</item>
+        <item>bouillon</item>
+        <item>volle kwark</item>
+        <item>kippenwit</item>
+        <item>paturain</item>
+        <item>badschuim</item>
+        <item>kefir</item>
+        <item>pmd zakken</item>
+        <item>ontbijt</item>
+        <item>bruine suiker</item>
+        <item>guacamole</item>
+        <item>tandenborstels</item>
+        <item>zeep</item>
+        <item>spruiten</item>
+        <item>aardappelpartjes</item>
+        <item>blikjes cola</item>
+        <item>postzegels</item>
+        <item>belegen kaas</item>
+        <item>volkoren crackers</item>
+        <item>woksaus</item>
+        <item>appelsien</item>
+        <item>knoflookpoeder</item>
+        <item>schuddebuikjes</item>
+        <item>AAA batterijen</item>
+        <item>bitterballen</item>
+        <item>rode biet</item>
+        <item>taco\'s</item>
+        <item>monchou</item>
+        <item>kersen</item>
+        <item>sugarsnaps</item>
+        <item>afwasblokjes</item>
+        <item>musli</item>
+        <item>rode druiven</item>
+        <item>lenzenvloeistof</item>
+        <item>gebraden gehakt</item>
+        <item>soda</item>
+        <item>kippenpoten</item>
+        <item>witte bonen</item>
+        <item>braadworst</item>
+        <item>cremespoeling</item>
+        <item>AA batterijen</item>
+        <item>appels elstar</item>
+        <item>lijnzaad</item>
+        <item>braadboter</item>
+        <item>sesamolie</item>
+        <item>gehaktballen</item>
+        <item>katteneten</item>
+        <item>shoarmavlees</item>
+        <item>bladpeterselie</item>
+        <item>makreel</item>
+        <item>zoete puntpaprika</item>
+        <item>tomatenblokjes blik</item>
+        <item>tortellini</item>
+        <item>cocktailsaus</item>
+        <item>droge worst</item>
+        <item>schoenen</item>
+        <item>hagelslag melk</item>
+        <item>gemengde noten</item>
+        <item>rösti</item>
+        <item>toast</item>
+        <item>kipfilet brood</item>
+        <item>ontstopper</item>
+        <item>natuurazijn</item>
+        <item>frikandel</item>
+        <item>glorix</item>
+        <item>kleine flesjes water</item>
+        <item>coolbest</item>
+        <item>wafels</item>
+        <item>beschuiten</item>
+        <item>manderijnen</item>
+        <item>kerriepoeder</item>
+        <item>blikje mais</item>
+        <item>frites</item>
+        <item>2 rode paprika\'s</item>
+        <item>blue band</item>
+        <item>witte basterdsuiker</item>
+        <item>kauwgum</item>
+        <item>pijnboompitjes</item>
+        <item>kaassaus</item>
+        <item>gruyere</item>
+        <item>parmazaanse kaas</item>
+        <item>broodboter</item>
+        <item>tomaten in blik</item>
+        <item>ovenbroodjes</item>
+        <item>sambal oelek</item>
+        <item>vuilzakken</item>
+        <item>koekje</item>
+        <item>burrata</item>
+        <item>katenspek</item>
+        <item>slippers</item>
+        <item>groentepakket</item>
+        <item>kipnuggets</item>
+        <item>kattengrind</item>
+        <item>scampi\'s</item>
+        <item>melba toast</item>
+        <item>cake</item>
+        <item>groene appels</item>
+        <item>chips naturel</item>
+        <item>antikal</item>
+        <item>kaiserbroodjes</item>
+        <item>Italiaanse groente</item>
+        <item>slaatje</item>
+        <item>kipreepjes</item>
+        <item>ontbijtgranen</item>
+        <item>lange vingers</item>
+        <item>kippewit</item>
+        <item>glassex</item>
+        <item>nasi</item>
+        <item>harde broodjes</item>
+        <item>houmous</item>
+        <item>speltbrood</item>
+        <item>broodje</item>
+        <item>vega burger</item>
+        <item>elstar appels</item>
+        <item>halfvolle yoghurt</item>
+        <item>cherry tomaat</item>
+        <item>curry ketchup</item>
+        <item>bak en braad</item>
+        <item>natte doekjes</item>
+        <item>mozerella</item>
+        <item>speklappen</item>
+        <item>rijstmelk</item>
+        <item>vermicelli</item>
+        <item>tostibrood</item>
+        <item>eten maandag</item>
+        <item>verspakket</item>
+        <item>halloumi</item>
+        <item>perzik</item>
+        <item>kaas jong belegen</item>
+        <item>slagroom spuitbus</item>
+        <item>spa bruis</item>
+        <item>gebak</item>
+        <item>lasagna</item>
+        <item>pepsi max</item>
+        <item>kaasfondue</item>
+        <item>chipolata</item>
+        <item>batterijen AA</item>
+        <item>lucifers</item>
+        <item>kipstukjes</item>
+        <item>mascara</item>
+        <item>zelfrijzende bloem</item>
+        <item>bakbroodjes</item>
+        <item>sprite</item>
+        <item>kippendij</item>
+        <item>ginger ale</item>
+        <item>droogshampoo</item>
+        <item>cif</item>
+        <item>witte wijnazijn</item>
+        <item>paddestoelen</item>
+        <item>scheergel</item>
+        <item>sesamzaad</item>
+        <item>pistolets</item>
+        <item>leverpastei</item>
+        <item>kaas geraspt</item>
+        <item>coca cola zero</item>
+        <item>houtskool</item>
+        <item>zachte geitenkaas</item>
+        <item>cervelaat</item>
+        <item>quiche</item>
+        <item>gedroogde abrikozen</item>
+        <item>perssinaasappelen</item>
+        <item>bleek</item>
+        <item>lasagnesaus</item>
+        <item>kurkuma</item>
+        <item>komijn</item>
+        <item>boter voor op brood</item>
+        <item>kokosyoghurt</item>
+        <item>groene olijven</item>
+        <item>verse worst</item>
+        <item>gekookte worst</item>
+        <item>achterham</item>
+        <item>pringles</item>
+        <item>kipfilet broodbeleg</item>
+        <item>groentenbouillon</item>
+        <item>satestokjes</item>
+        <item>grilworst</item>
+        <item>bitter lemon</item>
+        <item>creme fresh</item>
+        <item>gele kiwi\'s</item>
+        <item>optimel drink</item>
+        <item>vaatwaszout</item>
+        <item>bbq saus</item>
+        <item>beenham</item>
+        <item>speculaaspasta</item>
+        <item>tomato frito</item>
+        <item>snacktomaatjes</item>
+        <item>frietsaus</item>
+        <item>eten donderdag</item>
+        <item>kaarsen</item>
+        <item>spareribs</item>
+        <item>prosecco</item>
+        <item>joghurt</item>
+        <item>chiazaad</item>
+        <item>blauwe druiven</item>
+        <item>aardappelsalade</item>
+        <item>pecorino</item>
+        <item>wokolie</item>
+        <item>soyamelk</item>
+        <item>oestersaus</item>
+        <item>champignons 250gr</item>
+        <item>kipblokjes</item>
+        <item>chips paprika</item>
+        <item>camembert</item>
+        <item>krentebollen</item>
+        <item>waspoeder</item>
+        <item>salie</item>
+        <item>cola blikjes</item>
+        <item>oploskoffie</item>
+        <item>cordon bleu</item>
+        <item>duvel</item>
+        <item>waterflesjes</item>
+        <item>diepvries erwten</item>
+        <item>vleeswaar</item>
+        <item>plakband</item>
+        <item>sushi</item>
+        <item>ravioli</item>
+        <item>pure hagelslag</item>
+        <item>gekookte hesp</item>
+        <item>zonnecreme</item>
+        <item>handschoenen</item>
+        <item>naan</item>
+        <item>vloeibare bakboter</item>
+        <item>snoetenpoetsers</item>
+        <item>erwtensoep</item>
+        <item>rood fruit</item>
+        <item>kippenbouten</item>
+        <item>luiers maat 5</item>
+        <item>dragon</item>
+        <item>ossenworst</item>
+    </array>
+    <array name="seed_category">
+        <item>Groente &amp; Fruit</item>
+        <item>Zuivel</item>
+        <item>Vlees</item>
+        <item>Diepvries</item>
+        <item>Brood</item>
+    </array>
+    <array name="seed_recipe">
+        <item>komkommer</item>
+        <item>oranje peper</item>
+        <item>tomaten</item>
+        <item>Kalamata-olijven</item>
+        <item>fetakaas</item>
+        <item>zoete ui</item>
+        <item>Griekse saladedressing</item>
+    </array>
+    <array name="seed_shopping_list">
+        <item>melk</item>
+        <item>brood</item>
+        <item>eieren</item>
+    </array>
+    <array name="seed_shopping_list_categories">
+        <item>Zuivel</item>
+        <item>Brood</item>
+        <item>Zuivel</item>
+    </array>
+</resources>

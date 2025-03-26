@@ -1,0 +1,999 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="master_list_values">
+        <item>mleko</item>
+        <item>jajka</item>
+        <item>banany</item>
+        <item>ziemniaki</item>
+        <item>pomidory</item>
+        <item>cebula</item>
+        <item>papier toaletowy</item>
+        <item>masło</item>
+        <item>ser żółty</item>
+        <item>chleb</item>
+        <item>pieczywo</item>
+        <item>jabłka</item>
+        <item>papryka</item>
+        <item>czosnek</item>
+        <item>cytryna</item>
+        <item>jogurt naturalny</item>
+        <item>śmietana</item>
+        <item>pieczarki</item>
+        <item>marchewka</item>
+        <item>parówki</item>
+        <item>majonez</item>
+        <item>owoce</item>
+        <item>woda</item>
+        <item>cukier</item>
+        <item>maslo</item>
+        <item>wędlina</item>
+        <item>szynka</item>
+        <item>cukinia</item>
+        <item>szczypiorek</item>
+        <item>chleb tostowy</item>
+        <item>marchew</item>
+        <item>bułki</item>
+        <item>kawa</item>
+        <item>ketchup</item>
+        <item>ręczniki papierowe</item>
+        <item>papryka czerwona</item>
+        <item>ogórek</item>
+        <item>mąka</item>
+        <item>olej</item>
+        <item>cytryny</item>
+        <item>kabanosy</item>
+        <item>pietruszka</item>
+        <item>por</item>
+        <item>jablka</item>
+        <item>piwo</item>
+        <item>pasta do zębów</item>
+        <item>awokado</item>
+        <item>ser</item>
+        <item>pomidory w puszce</item>
+        <item>sałata</item>
+        <item>jogurty</item>
+        <item>mandarynki</item>
+        <item>worki na śmieci</item>
+        <item>smietana</item>
+        <item>rukola</item>
+        <item>musztarda</item>
+        <item>makaron</item>
+        <item>ogórek zielony</item>
+        <item>rzodkiewka</item>
+        <item>serek wiejski</item>
+        <item>szpinak</item>
+        <item>ryż</item>
+        <item>koncentrat pomidorowy</item>
+        <item>boczek</item>
+        <item>mozarella</item>
+        <item>natka pietruszki</item>
+        <item>mięso mielone</item>
+        <item>wedlina</item>
+        <item>herbata</item>
+        <item>cola</item>
+        <item>pomidor</item>
+        <item>koperek</item>
+        <item>pomarańcze</item>
+        <item>drożdże</item>
+        <item>kukurydza</item>
+        <item>gruszki</item>
+        <item>ogórki kiszone</item>
+        <item>bulki</item>
+        <item>chipsy</item>
+        <item>truskawki</item>
+        <item>kefir</item>
+        <item>jogurt</item>
+        <item>kalafior</item>
+        <item>salami</item>
+        <item>seler</item>
+        <item>sok pomarańczowy</item>
+        <item>pomidorki koktajlowe</item>
+        <item>salata</item>
+        <item>brokuł</item>
+        <item>piersi z kurczaka</item>
+        <item>sól</item>
+        <item>wino</item>
+        <item>kurczak</item>
+        <item>winogrona</item>
+        <item>kiełbasa</item>
+        <item>imbir</item>
+        <item>włoszczyzna</item>
+        <item>mleko bez laktozy</item>
+        <item>lody</item>
+        <item>oliwki</item>
+        <item>reczniki papierowe</item>
+        <item>chusteczki</item>
+        <item>łosoś</item>
+        <item>soki</item>
+        <item>frytki</item>
+        <item>ryba</item>
+        <item>ser feta</item>
+        <item>feta</item>
+        <item>jaja</item>
+        <item>kukurydza w puszce</item>
+        <item>jogurt grecki</item>
+        <item>tortilla</item>
+        <item>ręcznik papierowy</item>
+        <item>marchewki</item>
+        <item>buraki</item>
+        <item>tabletki do zmywarki</item>
+        <item>ocet</item>
+        <item>pierś z kurczaka</item>
+        <item>płatki owsiane</item>
+        <item>bułka tarta</item>
+        <item>parmezan</item>
+        <item>warzywa</item>
+        <item>przecier pomidorowy</item>
+        <item>coca cola</item>
+        <item>ser biały</item>
+        <item>sok</item>
+        <item>woda niegazowana</item>
+        <item>ogorek</item>
+        <item>woda mineralna</item>
+        <item>twaróg</item>
+        <item>sałata lodowa</item>
+        <item>patyczki do uszu</item>
+        <item>parowki</item>
+        <item>ser zolty</item>
+        <item>sok jabłkowy</item>
+        <item>chusteczki higieniczne</item>
+        <item>ogórki</item>
+        <item>cebula czerwona</item>
+        <item>kapusta kiszona</item>
+        <item>szampon</item>
+        <item>folia aluminiowa</item>
+        <item>maliny</item>
+        <item>papier do pieczenia</item>
+        <item>mąka pszenna</item>
+        <item>bagietka</item>
+        <item>kiwi</item>
+        <item>mleko kokosowe</item>
+        <item>cukier waniliowy</item>
+        <item>mascarpone</item>
+        <item>mozzarella</item>
+        <item>woda gazowana</item>
+        <item>łosoś wędzony</item>
+        <item>żel pod prysznic</item>
+        <item>oliwa z oliwek</item>
+        <item>banan</item>
+        <item>domestos</item>
+        <item>ciasto francuskie</item>
+        <item>proszek do pieczenia</item>
+        <item>podpaski</item>
+        <item>oliwa</item>
+        <item>kakao</item>
+        <item>nutella</item>
+        <item>borówki</item>
+        <item>dżem</item>
+        <item>margaryna</item>
+        <item>makaron spaghetti</item>
+        <item>keczup</item>
+        <item>wloszczyzna</item>
+        <item>arbuz</item>
+        <item>maka</item>
+        <item>rzodkiewki</item>
+        <item>limonka</item>
+        <item>płyn do płukania</item>
+        <item>passata pomidorowa</item>
+        <item>rodzynki</item>
+        <item>mydło w płynie</item>
+        <item>hummus</item>
+        <item>czekolada</item>
+        <item>pomidory koktajlowe</item>
+        <item>ogorki kiszone</item>
+        <item>ogórki konserwowe</item>
+        <item>kawa rozpuszczalna</item>
+        <item>wędliny</item>
+        <item>cukier puder</item>
+        <item>platki owsiane</item>
+        <item>olej rzepakowy</item>
+        <item>płyn do naczyń</item>
+        <item>pomarancze</item>
+        <item>popcorn</item>
+        <item>worki na smieci</item>
+        <item>chrzan</item>
+        <item>bazylia</item>
+        <item>schab</item>
+        <item>surówka</item>
+        <item>kielbasa</item>
+        <item>ryz</item>
+        <item>oregano</item>
+        <item>filet z kurczaka</item>
+        <item>passata</item>
+        <item>kasza gryczana</item>
+        <item>paluszki</item>
+        <item>paluszki rybne</item>
+        <item>suszone pomidory</item>
+        <item>seler naciowy</item>
+        <item>pomidory malinowe</item>
+        <item>mieso mielone</item>
+        <item>płatki kukurydziane</item>
+        <item>pasztet</item>
+        <item>sos sojowy</item>
+        <item>dezodorant</item>
+        <item>pieluchy</item>
+        <item>avocado</item>
+        <item>pietruszka korzeń</item>
+        <item>almette</item>
+        <item>miód</item>
+        <item>czekolada gorzka</item>
+        <item>proszek do prania</item>
+        <item>tofu</item>
+        <item>recznik papierowy</item>
+        <item>cynamon</item>
+        <item>dżem truskawkowy</item>
+        <item>mix sałat</item>
+        <item>wafle ryżowe</item>
+        <item>masło klarowane</item>
+        <item>brokuły</item>
+        <item>waciki</item>
+        <item>pomidorki</item>
+        <item>pierogi</item>
+        <item>majeranek</item>
+        <item>mango</item>
+        <item>makaron nitki</item>
+        <item>musli</item>
+        <item>krewetki</item>
+        <item>pesto</item>
+        <item>cola zero</item>
+        <item>fasolka szparagowa</item>
+        <item>mięso</item>
+        <item>losos</item>
+        <item>mydło</item>
+        <item>orzechy</item>
+        <item>camembert</item>
+        <item>kasza jaglana</item>
+        <item>orzechy włoskie</item>
+        <item>mokre chusteczki</item>
+        <item>ananas</item>
+        <item>bulka tarta</item>
+        <item>pomidory suszone</item>
+        <item>ser pleśniowy</item>
+        <item>masło orzechowe</item>
+        <item>czerwona cebula</item>
+        <item>gorzka czekolada</item>
+        <item>soda oczyszczona</item>
+        <item>płatki</item>
+        <item>biszkopty</item>
+        <item>ogorki</item>
+        <item>mleko ryżowe</item>
+        <item>chrupki kukurydziane</item>
+        <item>orzeszki</item>
+        <item>makaron świderki</item>
+        <item>jogurty naturalne</item>
+        <item>mielone</item>
+        <item>boczek wędzony</item>
+        <item>gruszka</item>
+        <item>sok malinowy</item>
+        <item>sól do zmywarki</item>
+        <item>mąka tortowa</item>
+        <item>pasta do zebow</item>
+        <item>śmietanka 30%</item>
+        <item>roszponka</item>
+        <item>ziele angielskie</item>
+        <item>frankfurterki</item>
+        <item>fasola czerwona</item>
+        <item>chusteczki mokre</item>
+        <item>makaron do rosołu</item>
+        <item>czerwona papryka</item>
+        <item>antyperspirant</item>
+        <item>bataty</item>
+        <item>ciastka</item>
+        <item>żółty ser</item>
+        <item>karkówka</item>
+        <item>wedliny</item>
+        <item>papryka słodka</item>
+        <item>ser mozarella</item>
+        <item>wkładki higieniczne</item>
+        <item>oliwki czarne</item>
+        <item>dzem</item>
+        <item>danio</item>
+        <item>płyn do prania</item>
+        <item>salata lodowa</item>
+        <item>kapusta pekińska</item>
+        <item>kiełki</item>
+        <item>mleko owsiane</item>
+        <item>kapusta</item>
+        <item>brokul</item>
+        <item>śliwki</item>
+        <item>herbata owocowa</item>
+        <item>nektarynki</item>
+        <item>ogórek świeży</item>
+        <item>skyr</item>
+        <item>indyk</item>
+        <item>warzywa mrożone</item>
+        <item>serek do smarowania</item>
+        <item>granola</item>
+        <item>mięta</item>
+        <item>liść laurowy</item>
+        <item>brzoskwinie</item>
+        <item>serek mascarpone</item>
+        <item>pampersy</item>
+        <item>pepsi</item>
+        <item>jajka 10szt</item>
+        <item>pizza</item>
+        <item>olej kujawski</item>
+        <item>dynia</item>
+        <item>migdały</item>
+        <item>czosnek granulowany</item>
+        <item>rumianek</item>
+        <item>udka z kurczaka</item>
+        <item>tuńczyk</item>
+        <item>pomarańcza</item>
+        <item>serek topiony</item>
+        <item>milk</item>
+        <item>szczoteczka do zębów</item>
+        <item>mleczko kokosowe</item>
+        <item>szparagi</item>
+        <item>kolendra</item>
+        <item>ibuprom</item>
+        <item>maślanka</item>
+        <item>eggs</item>
+        <item>czekolada mleczna</item>
+        <item>chleb razowy</item>
+        <item>drozdze</item>
+        <item>kasza manna</item>
+        <item>zel pod prysznic</item>
+        <item>sok pomidorowy</item>
+        <item>oliwki zielone</item>
+        <item>papryka żółta</item>
+        <item>ciasto</item>
+        <item>napoje</item>
+        <item>tymianek</item>
+        <item>płyn do mycia naczyń</item>
+        <item>ciecierzyca</item>
+        <item>serek almette</item>
+        <item>herbata czarna</item>
+        <item>biały ser</item>
+        <item>płatki kosmetyczne</item>
+        <item>truskawki mrożone</item>
+        <item>plyn do plukania</item>
+        <item>kostki do zmywarki</item>
+        <item>pestki dyni</item>
+        <item>wino czerwone</item>
+        <item>spaghetti</item>
+        <item>ryż biały</item>
+        <item>kawa mielona</item>
+        <item>sol</item>
+        <item>cukierki</item>
+        <item>śmietana kremówka</item>
+        <item>chusteczki wyciągane</item>
+        <item>makaron penne</item>
+        <item>makaron spagetti</item>
+        <item>ser tarty</item>
+        <item>chusteczki w pudełku</item>
+        <item>borowki</item>
+        <item>piwo bezalkoholowe</item>
+        <item>precelki</item>
+        <item>majonez kielecki</item>
+        <item>płatki śniadaniowe</item>
+        <item>pieluszki</item>
+        <item>pieprz</item>
+        <item>buraczki</item>
+        <item>smietanka 30%</item>
+        <item>cif</item>
+        <item>margaryna Kasia</item>
+        <item>kasza jęczmienna</item>
+        <item>twarog</item>
+        <item>mieso</item>
+        <item>szpinak mrożony</item>
+        <item>groszek</item>
+        <item>mydlo w plynie</item>
+        <item>woreczki śniadaniowe</item>
+        <item>folia spożywcza</item>
+        <item>szczypior</item>
+        <item>zioła prowansalskie</item>
+        <item>szpinak świeży</item>
+        <item>kalarepa</item>
+        <item>kurkuma</item>
+        <item>cukier brązowy</item>
+        <item>mleko uht</item>
+        <item>humus</item>
+        <item>ogórki gruntowe</item>
+        <item>orzechy laskowe</item>
+        <item>tunczyk</item>
+        <item>orzechy nerkowca</item>
+        <item>chrupki</item>
+        <item>ryż basmati</item>
+        <item>platki kukurydziane</item>
+        <item>mydlo</item>
+        <item>karma dla kota</item>
+        <item>śledzie</item>
+        <item>herbata zielona</item>
+        <item>pierś z indyka</item>
+        <item>baterie AAA</item>
+        <item>tonic</item>
+        <item>bakłażan</item>
+        <item>curry</item>
+        <item>mięso na rosół</item>
+        <item>żelatyna</item>
+        <item>cheddar</item>
+        <item>ser kozi</item>
+        <item>mąka ziemniaczana</item>
+        <item>plyn do naczyn</item>
+        <item>słonecznik</item>
+        <item>ser bialy</item>
+        <item>płyn do szyb</item>
+        <item>kret</item>
+        <item>sprite</item>
+        <item>gąbki do naczyń</item>
+        <item>winogrono</item>
+        <item>wódka</item>
+        <item>groszek konserwowy</item>
+        <item>baterie AA</item>
+        <item>bułka</item>
+        <item>ananas w puszce</item>
+        <item>limonki</item>
+        <item>krakersy</item>
+        <item>wiórki kokosowe</item>
+        <item>odżywka do włosów</item>
+        <item>jabłko</item>
+        <item>gumy do żucia</item>
+        <item>platki</item>
+        <item>serki</item>
+        <item>krem do rąk</item>
+        <item>cukier trzcinowy</item>
+        <item>bagietki</item>
+        <item>żurawina</item>
+        <item>twarożek</item>
+        <item>jarmuż</item>
+        <item>maslo orzechowe</item>
+        <item>twaróg półtłusty</item>
+        <item>chusteczki nawilżane</item>
+        <item>tampony</item>
+        <item>sliwki</item>
+        <item>smalec</item>
+        <item>syrop klonowy</item>
+        <item>tortille</item>
+        <item>ketchup łagodny</item>
+        <item>kapary</item>
+        <item>muszynianka</item>
+        <item>kwasek cytrynowy</item>
+        <item>sałata rzymska</item>
+        <item>jogurty owocowe</item>
+        <item>pianka do golenia</item>
+        <item>herbatniki</item>
+        <item>mix salat</item>
+        <item>kostka do wc</item>
+        <item>makaron swiderki</item>
+        <item>kisiel</item>
+        <item>szampon do włosów</item>
+        <item>piers z kurczaka</item>
+        <item>whisky</item>
+        <item>musztarda sarepska</item>
+        <item>chorizo</item>
+        <item>wołowina</item>
+        <item>pałki z kurczaka</item>
+        <item>filety z kurczaka</item>
+        <item>jedzenie dla kota</item>
+        <item>kuskus</item>
+        <item>śmietana 18% mała</item>
+        <item>serek waniliowy</item>
+        <item>żurawina suszona</item>
+        <item>płyn do spryskiwaczy</item>
+        <item>klapki</item>
+        <item>galaretka</item>
+        <item>szalotka</item>
+        <item>pietruszka natka</item>
+        <item>bread</item>
+        <item>sery</item>
+        <item>monte</item>
+        <item>apteka</item>
+        <item>sól fizjologiczna</item>
+        <item>szynka konserwowa</item>
+        <item>danonki</item>
+        <item>bananas</item>
+        <item>magnez</item>
+        <item>platki kosmetyczne</item>
+        <item>makaron ryżowy</item>
+        <item>maszynki do golenia</item>
+        <item>coś na obiad</item>
+        <item>makaron kokardki</item>
+        <item>śliwki suszone</item>
+        <item>tuńczyk w sosie własnym</item>
+        <item>melisa</item>
+        <item>mięso mielone wołowe</item>
+        <item>cebula biała</item>
+        <item>ogorek zielony</item>
+        <item>kapsułki do prania</item>
+        <item>żelki</item>
+        <item>żwirek</item>
+        <item>lakier do włosów</item>
+        <item>skarpetki</item>
+        <item>mleko migdałowe</item>
+        <item>mąka żytnia</item>
+        <item>kiełbaski</item>
+        <item>plastry</item>
+        <item>pomidory w puszce krojone</item>
+        <item>serek śmietankowy</item>
+        <item>jogurt naturalny duży</item>
+        <item>guma do żucia</item>
+        <item>plyn do mycia naczyn</item>
+        <item>kielki</item>
+        <item>picie</item>
+        <item>batat</item>
+        <item>maliny mrożone</item>
+        <item>pistacje</item>
+        <item>gąbka</item>
+        <item>maslo klarowane</item>
+        <item>mleko sojowe</item>
+        <item>pierogi z serem</item>
+        <item>serwetki</item>
+        <item>czerwona fasola</item>
+        <item>ręczniki</item>
+        <item>wkładki</item>
+        <item>kukurydza puszka</item>
+        <item>alkohol</item>
+        <item>papryka zielona</item>
+        <item>małe pomidorki</item>
+        <item>kawa inka</item>
+        <item>miod</item>
+        <item>bulion</item>
+        <item>owsianka</item>
+        <item>kinder bueno</item>
+        <item>kostki rosolowe</item>
+        <item>grapefruit</item>
+        <item>chleb żytni</item>
+        <item>gąbki</item>
+        <item>koper</item>
+        <item>słodycze</item>
+        <item>tuńczyk w puszce</item>
+        <item>sos pomidorowy</item>
+        <item>zmywacz do paznokci</item>
+        <item>wykałaczki</item>
+        <item>pieczywo tostowe</item>
+        <item>papier do drukarki</item>
+        <item>bankomat</item>
+        <item>bieluch</item>
+        <item>fasola</item>
+        <item>wapno</item>
+        <item>warzywa na patelnię</item>
+        <item>pietruszka korzen</item>
+        <item>mięso mielone z indyka</item>
+        <item>ziemniaki młode</item>
+        <item>piwko</item>
+        <item>mydło w kostce</item>
+        <item>nachosy</item>
+        <item>olej kokosowy</item>
+        <item>gałka muszkatołowa</item>
+        <item>kiełbasa śląska</item>
+        <item>suchy szampon</item>
+        <item>powerbank</item>
+        <item>baklazan</item>
+        <item>brzoskwinie w puszce</item>
+        <item>pieprz ziarnisty</item>
+        <item>płatki migdałowe</item>
+        <item>boczek w plastrach</item>
+        <item>ser camembert</item>
+        <item>majtki</item>
+        <item>musy</item>
+        <item>makrela</item>
+        <item>makrela wędzona</item>
+        <item>coś słodkiego</item>
+        <item>mleko roślinne</item>
+        <item>obiad</item>
+        <item>bułki do hamburgerów</item>
+        <item>ogórki małosolne</item>
+        <item>ryż brązowy</item>
+        <item>surowka</item>
+        <item>porcja rosołowa</item>
+        <item>dorsz</item>
+        <item>cukier wanilinowy</item>
+        <item>kawa ziarnista</item>
+        <item>worki 60l</item>
+        <item>papierosy</item>
+        <item>makaron lasagne</item>
+        <item>mieszanka sałat</item>
+        <item>ser żółty kostka</item>
+        <item>kostki rosołowe</item>
+        <item>actimel</item>
+        <item>tonik</item>
+        <item>rajstopy</item>
+        <item>kasza bulgur</item>
+        <item>plyn do szyb</item>
+        <item>boczniaki</item>
+        <item>mleko do kawy</item>
+        <item>energetyk</item>
+        <item>witamina C</item>
+        <item>ptasie mleczko</item>
+        <item>wino białe</item>
+        <item>pestki słonecznika</item>
+        <item>przyprawa do kurczaka</item>
+        <item>kwiaty</item>
+        <item>melon</item>
+        <item>wafle</item>
+        <item>serek homogenizowany</item>
+        <item>jogurt kokosowy</item>
+        <item>lubczyk</item>
+        <item>czapka</item>
+        <item>marchewka z groszkiem</item>
+        <item>szczoteczki do zębów</item>
+        <item>jagody</item>
+        <item>batoniki</item>
+        <item>znicze</item>
+        <item>sezam</item>
+        <item>Prince polo</item>
+        <item>mleko świeże</item>
+        <item>witamina d</item>
+        <item>granat</item>
+        <item>groszek mrożony</item>
+        <item>jalapeno</item>
+        <item>dymka</item>
+        <item>sol do zmywarki</item>
+        <item>slonecznik</item>
+        <item>syrop malinowy</item>
+        <item>groszek w puszce</item>
+        <item>ogórki zielone</item>
+        <item>siemię lniane</item>
+        <item>imbir korzeń</item>
+        <item>mieta</item>
+        <item>fasolka</item>
+        <item>soda</item>
+        <item>baterie</item>
+        <item>zupki chińskie</item>
+        <item>apap</item>
+        <item>ser żółty w kostce</item>
+        <item>kaszanka</item>
+        <item>daktyle</item>
+        <item>rozmaryn</item>
+        <item>siemie lniane</item>
+        <item>płyn do higieny intymnej</item>
+        <item>pieczywo chrupkie</item>
+        <item>spirytus</item>
+        <item>pronto</item>
+        <item>szynka parmenska</item>
+        <item>drożdże świeże</item>
+        <item>maka pszenna</item>
+        <item>papier toaletowy nawilżany</item>
+        <item>nić dentystyczna</item>
+        <item>boczek wedzony</item>
+        <item>liście laurowe</item>
+        <item>bita śmietana</item>
+        <item>szpinak baby</item>
+        <item>bekon</item>
+        <item>żurek</item>
+        <item>pyzy</item>
+        <item>plyn do prania</item>
+        <item>kiełbasa biała</item>
+        <item>płyn do kąpieli</item>
+        <item>morele suszone</item>
+        <item>dicoflor</item>
+        <item>bułki do hot dogów</item>
+        <item>rękawiczki</item>
+        <item>filet z indyka</item>
+        <item>wkladki</item>
+        <item>migdaly</item>
+        <item>musy owocowe</item>
+        <item>biała czekolada</item>
+        <item>musztarda dijon</item>
+        <item>termos</item>
+        <item>płatki jaglane</item>
+        <item>zurawina</item>
+        <item>soczewica czerwona</item>
+        <item>pomelo</item>
+        <item>recepta</item>
+        <item>budyń</item>
+        <item>serki wiejskie</item>
+        <item>płyn do ust</item>
+        <item>kolendra świeża</item>
+        <item>fasola w puszce</item>
+        <item>worki do odkurzacza</item>
+        <item>cukier biały</item>
+        <item>rum</item>
+        <item>krem nivea</item>
+        <item>płyn do płukania ust</item>
+        <item>wafle ryzowe</item>
+        <item>cebule</item>
+        <item>balsam do ciała</item>
+        <item>białe wino</item>
+        <item>kmin rzymski</item>
+        <item>herbata earl grey</item>
+        <item>mleka</item>
+        <item>jogurt naturalny mały</item>
+        <item>cieciorka</item>
+        <item>ryż jaśminowy</item>
+        <item>burak</item>
+        <item>sok pomaranczowy</item>
+        <item>dżem malinowy</item>
+        <item>szampan</item>
+        <item>pasta jajeczna</item>
+        <item>karkowka</item>
+        <item>mięso mielone wieprzowe</item>
+        <item>tortellini</item>
+        <item>biała kiełbasa</item>
+        <item>plecak</item>
+        <item>vegeta</item>
+        <item>kajzerki</item>
+        <item>delicje</item>
+        <item>warzywa na patelnie</item>
+        <item>krem</item>
+        <item>galaretka truskawkowa</item>
+        <item>kredki</item>
+        <item>kotlety schabowe</item>
+        <item>batony</item>
+        <item>buty</item>
+        <item>kielbaski</item>
+        <item>papryka ostra</item>
+        <item>kasza pęczak</item>
+        <item>chusteczki do nosa</item>
+        <item>makaron rurki</item>
+        <item>płatki owsiane górskie</item>
+        <item>krople do oczu</item>
+        <item>jogurty pitne</item>
+        <item>krem do twarzy</item>
+        <item>wafelki</item>
+        <item>kapusta pekinska</item>
+        <item>ketchup pikantny</item>
+        <item>herbata lipton</item>
+        <item>polędwica wieprzowa</item>
+        <item>słuchawki</item>
+        <item>buraki gotowane</item>
+        <item>zupa</item>
+        <item>leki</item>
+        <item>twaróg chudy</item>
+        <item>maka ziemniaczana</item>
+        <item>przyprawa do piernika</item>
+        <item>budyń waniliowy</item>
+        <item>woda destylowana</item>
+        <item>żel do golenia</item>
+        <item>syrop</item>
+        <item>serek homo</item>
+        <item>ser cheddar</item>
+        <item>skarpety</item>
+        <item>pieprz czarny mielony</item>
+        <item>ser topiony</item>
+        <item>kostki do wc</item>
+        <item>cydr</item>
+        <item>powidła śliwkowe</item>
+        <item>schabowe</item>
+        <item>wrapy</item>
+        <item>paracetamol</item>
+        <item>serek philadelphia</item>
+        <item>avokado</item>
+        <item>morele</item>
+        <item>papier śniadaniowy</item>
+        <item>sos czosnkowy</item>
+        <item>pieprz czarny</item>
+        <item>kiełbasa na grilla</item>
+        <item>bób</item>
+        <item>ser plesniowy</item>
+        <item>sok jablkowy</item>
+        <item>smoothie</item>
+        <item>krem do rak</item>
+        <item>szynka parmeńska</item>
+        <item>rutinoscorbin</item>
+        <item>migdały w płatkach</item>
+        <item>nabłyszczacz</item>
+        <item>gorgonzola</item>
+        <item>ibuprofen</item>
+        <item>herbata miętowa</item>
+        <item>koszulki</item>
+        <item>sos tatarski</item>
+        <item>musztarda francuska</item>
+        <item>śmietanka do kawy</item>
+        <item>kasza</item>
+        <item>szałwia</item>
+        <item>maslanka</item>
+        <item>goździki</item>
+        <item>wątróbka</item>
+        <item>corn flakes</item>
+        <item>ścierki</item>
+        <item>papier</item>
+        <item>listerine</item>
+        <item>cebula dymka</item>
+        <item>kosmetyki</item>
+        <item>jablko</item>
+        <item>nachos</item>
+        <item>ciasteczka</item>
+        <item>inka</item>
+        <item>herbata malinowa</item>
+        <item>ryby</item>
+        <item>ogorki konserwowe</item>
+        <item>ricotta</item>
+        <item>pasta do zębów dla dzieci</item>
+        <item>ludwik</item>
+        <item>żeberka</item>
+        <item>mozarella tarta</item>
+        <item>kapcie</item>
+        <item>pesto zielone</item>
+        <item>maggi</item>
+        <item>bulion warzywny</item>
+        <item>prosecco</item>
+        <item>okulary</item>
+        <item>tusz do rzęs</item>
+        <item>przekąski</item>
+        <item>gumki</item>
+        <item>maseczki</item>
+        <item>grejpfrut</item>
+        <item>chałka</item>
+        <item>prezerwatywy</item>
+        <item>brukselka</item>
+        <item>czereśnie</item>
+        <item>czarne oliwki</item>
+        <item>żarówka</item>
+        <item>olej sezamowy</item>
+        <item>bidon</item>
+        <item>nerkowce</item>
+        <item>chilli</item>
+        <item>lasagne</item>
+        <item>kaszka</item>
+        <item>przyprawa do ziemniaków</item>
+        <item>płyn micelarny</item>
+        <item>budyń śmietankowy</item>
+        <item>udka kurczaka</item>
+        <item>mleko skondensowane</item>
+        <item>szczotka</item>
+        <item>groszek ptysiowy</item>
+        <item>barszcz</item>
+        <item>płyn do wc</item>
+        <item>korniszony</item>
+        <item>łopatka</item>
+        <item>brzoskwinia</item>
+        <item>gin</item>
+        <item>woda utleniona</item>
+        <item>kapusta biała</item>
+        <item>spodnie</item>
+        <item>skrzydełka z kurczaka</item>
+        <item>tofu wędzone</item>
+        <item>woreczki</item>
+        <item>bazylia świeża</item>
+        <item>kropelka</item>
+        <item>makarony</item>
+        <item>chusteczki do okularów</item>
+        <item>maszynka do golenia</item>
+        <item>sałatka</item>
+        <item>papryczka chilli</item>
+        <item>mrożone maliny</item>
+        <item>czipsy</item>
+        <item>ziemia</item>
+        <item>ryba w puszce</item>
+        <item>poduszka</item>
+        <item>tatar</item>
+        <item>olej słonecznikowy</item>
+        <item>kalosze</item>
+        <item>makaron tagliatelle</item>
+        <item>kimchi</item>
+        <item>mieszanka chińska</item>
+        <item>papryka slodka</item>
+        <item>plyn do spryskiwaczy</item>
+        <item>owoce mrożone</item>
+        <item>owocki</item>
+        <item>klej</item>
+        <item>halloumi</item>
+        <item>figi</item>
+        <item>lisc laurowy</item>
+        <item>zapalniczka</item>
+        <item>grzanki</item>
+        <item>wieszaki</item>
+        <item>kopytka</item>
+        <item>bagietka czosnkowa</item>
+        <item>piżama</item>
+        <item>makaron pełnoziarnisty</item>
+        <item>fasola biała</item>
+        <item>zapałki</item>
+        <item>gnocchi</item>
+        <item>frytki mrożone</item>
+        <item>mąka kukurydziana</item>
+        <item>brokuly</item>
+        <item>barszcz czerwony</item>
+        <item>ocet balsamiczny</item>
+        <item>ogórek kiszony</item>
+        <item>skrzydełka</item>
+        <item>papryczka chili</item>
+        <item>ładowarka</item>
+        <item>brykiet</item>
+        <item>soczewica</item>
+        <item>serek</item>
+        <item>tort</item>
+        <item>mąka orkiszowa</item>
+        <item>krem do opalania</item>
+        <item>płyn do płukania tkanin</item>
+        <item>seler korzeń</item>
+        <item>grzyby suszone</item>
+        <item>mieszanka studencka</item>
+        <item>płyn do demakijażu</item>
+        <item>cukier drobny</item>
+        <item>suszone śliwki</item>
+        <item>ściereczki</item>
+        <item>płyn do podłóg</item>
+        <item>kiszona kapusta</item>
+        <item>sos słodko-kwaśny</item>
+        <item>gąbki do mycia naczyń</item>
+        <item>papryki</item>
+        <item>mleko w proszku</item>
+        <item>pierogi ruskie</item>
+        <item>sos do spaghetti</item>
+        <item>polędwiczki</item>
+        <item>kasza kuskus</item>
+        <item>suszone morele</item>
+        <item>tuńczyk w oleju</item>
+        <item>sztućce</item>
+        <item>karma dla psa</item>
+        <item>lód</item>
+        <item>wit C</item>
+        <item>bateria cr2032</item>
+        <item>węgiel</item>
+        <item>torebki śniadaniowe</item>
+        <item>steki</item>
+        <item>zielona herbata</item>
+        <item>sucharki</item>
+        <item>coleslaw</item>
+        <item>udko z kurczaka</item>
+        <item>rękawiczki gumowe</item>
+        <item>żarówki</item>
+        <item>puszka pomidorów</item>
+        <item>pieprz ziołowy</item>
+        <item>fanta</item>
+        <item>pieprz czarny ziarnisty</item>
+        <item>chips</item>
+        <item>łopatka wieprzowa</item>
+        <item>husteczki</item>
+        <item>rękaw do pieczenia</item>
+        <item>pieprz mielony</item>
+        <item>ocet jabłkowy</item>
+        <item>papryka wędzona</item>
+        <item>gabki</item>
+        <item>pomadka</item>
+        <item>paczkomat</item>
+        <item>octenisept</item>
+        <item>vanish</item>
+        <item>imbir mielony</item>
+        <item>soczewki</item>
+        <item>nospa</item>
+        <item>kapusta czerwona</item>
+        <item>orzeszki ziemne</item>
+        <item>pianka do włosów</item>
+        <item>taśma klejąca</item>
+        <item>nurofen</item>
+        <item>puder</item>
+        <item>kaczka</item>
+        <item>kora</item>
+        <item>nasiona chia</item>
+        <item>ryż do sushi</item>
+        <item>ocet ryżowy</item>
+        <item>galaretki</item>
+        <item>przyprawa gyros</item>
+        <item>klej w sztyfcie</item>
+        <item>czarnuszka</item>
+        <item>otręby</item>
+        <item>biala kielbasa</item>
+        <item>aspiryna</item>
+        <item>rabarbar</item>
+        <item>ksylitol</item>
+        <item>nabłyszczacz do zmywarki</item>
+        <item>gabka</item>
+        <item>fasolka szparagowa mrożona</item>
+        <item>odżywka</item>
+        <item>termometr</item>
+        <item>ziola prowansalskie</item>
+        <item>balsam</item>
+        <item>folia spozywcza</item>
+        <item>płatki czekoladowe</item>
+        <item>kardamon</item>
+        <item>krem pod oczy</item>
+        <item>slodycze</item>
+        <item>groch</item>
+        <item>bulka</item>
+        <item>filtry do wody</item>
+        <item>ryz basmati</item>
+        <item>wolowina</item>
+        <item>ładowarki</item>
+        <item>odkamieniacz</item>
+        <item>ser gouda</item>
+        <item>lody waniliowe</item>
+        <item>botwinka</item>
+        <item>ocet winny</item>
+        <item>grzyby</item>
+        <item>przyprawa curry</item>
+        <item>uszka</item>
+        <item>probiotyk</item>
+        <item>olej lniany</item>
+        <item>szczotka do włosów</item>
+        <item>patelnia</item>
+        <item>tahini</item>
+        <item>odplamiacz</item>
+        <item>wegeta</item>
+        <item>tantum verde</item>
+        <item>pościel</item>
+    </array>
+</resources>

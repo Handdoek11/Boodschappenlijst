@@ -1,0 +1,1005 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="master_list_values">
+        <item>mælk</item>
+        <item>rugbrød</item>
+        <item>agurk</item>
+        <item>smør</item>
+        <item>gulerødder</item>
+        <item>kartofler</item>
+        <item>toiletpapir</item>
+        <item>bananer</item>
+        <item>ost</item>
+        <item>pålæg</item>
+        <item>avocado</item>
+        <item>havregryn</item>
+        <item>yoghurt</item>
+        <item>bacon</item>
+        <item>æbler</item>
+        <item>tomater</item>
+        <item>salat</item>
+        <item>løg</item>
+        <item>leverpostej</item>
+        <item>milk</item>
+        <item>fløde</item>
+        <item>eggs</item>
+        <item>gær</item>
+        <item>frugt</item>
+        <item>creme fraiche</item>
+        <item>juice</item>
+        <item>køkkenrulle</item>
+        <item>pasta</item>
+        <item>skyr</item>
+        <item>kylling</item>
+        <item>broccoli</item>
+        <item>chips</item>
+        <item>brød</item>
+        <item>hvidløg</item>
+        <item>hakket oksekød</item>
+        <item>peberfrugt</item>
+        <item>bread</item>
+        <item>ketchup</item>
+        <item>kaffe</item>
+        <item>bananas</item>
+        <item>toilet paper</item>
+        <item>rosiner</item>
+        <item>sukker</item>
+        <item>lime</item>
+        <item>olivenolie</item>
+        <item>pølser</item>
+        <item>tomatoes</item>
+        <item>squash</item>
+        <item>sødmælk</item>
+        <item>boller</item>
+        <item>remoulade</item>
+        <item>danskvand</item>
+        <item>mandler</item>
+        <item>tandpasta</item>
+        <item>müsli</item>
+        <item>mel</item>
+        <item>cucumber</item>
+        <item>citron</item>
+        <item>skinke</item>
+        <item>burgerboller</item>
+        <item>ris</item>
+        <item>piskefløde</item>
+        <item>spegepølse</item>
+        <item>mozzarella</item>
+        <item>butter</item>
+        <item>spidskål</item>
+        <item>carrots</item>
+        <item>hvedemel</item>
+        <item>mayonnaise</item>
+        <item>forårsløg</item>
+        <item>tomatpuré</item>
+        <item>champignon</item>
+        <item>opvaskemiddel</item>
+        <item>parmesan</item>
+        <item>aftensmad</item>
+        <item>sodavand</item>
+        <item>persille</item>
+        <item>bagepapir</item>
+        <item>laks</item>
+        <item>toastbrød</item>
+        <item>potatoes</item>
+        <item>rødløg</item>
+        <item>feta</item>
+        <item>håndsæbe</item>
+        <item>revet ost</item>
+        <item>nutella</item>
+        <item>blomkål</item>
+        <item>vindruer</item>
+        <item>cola</item>
+        <item>avokado</item>
+        <item>slik</item>
+        <item>hummus</item>
+        <item>knækbrød</item>
+        <item>tortillas</item>
+        <item>opvasketabs</item>
+        <item>hytteost</item>
+        <item>jordbær</item>
+        <item>tomat</item>
+        <item>hakkede tomater</item>
+        <item>bleer</item>
+        <item>onions</item>
+        <item>fruit</item>
+        <item>blåbær</item>
+        <item>apples</item>
+        <item>chicken</item>
+        <item>lemon</item>
+        <item>spinat</item>
+        <item>kokosmælk</item>
+        <item>kød</item>
+        <item>cheese</item>
+        <item>peanutbutter</item>
+        <item>pesto</item>
+        <item>kærgården</item>
+        <item>ristede løg</item>
+        <item>ingefær</item>
+        <item>cherrytomater</item>
+        <item>vådservietter</item>
+        <item>chokolade</item>
+        <item>koriander</item>
+        <item>pålægschokolade</item>
+        <item>rød peber</item>
+        <item>shampoo</item>
+        <item>pitabrød</item>
+        <item>mørk chokolade</item>
+        <item>skraldeposer</item>
+        <item>saftevand</item>
+        <item>mushrooms</item>
+        <item>garlic</item>
+        <item>spaghetti</item>
+        <item>majs</item>
+        <item>aubergine</item>
+        <item>græsk yoghurt</item>
+        <item>flåede tomater</item>
+        <item>koldskål</item>
+        <item>fryseposer</item>
+        <item>popcorn</item>
+        <item>melon</item>
+        <item>flormelis</item>
+        <item>mango</item>
+        <item>rødbeder</item>
+        <item>cream</item>
+        <item>letmælk</item>
+        <item>cheddar</item>
+        <item>salsa</item>
+        <item>pærer</item>
+        <item>rejer</item>
+        <item>snacks</item>
+        <item>rødvin</item>
+        <item>peanuts</item>
+        <item>citroner</item>
+        <item>hamburgerryg</item>
+        <item>coffee</item>
+        <item>salad</item>
+        <item>appelsiner</item>
+        <item>kaffebønner</item>
+        <item>basilikum</item>
+        <item>kyllingebryst</item>
+        <item>køkkenruller</item>
+        <item>kiks</item>
+        <item>vatrondeller</item>
+        <item>affaldsposer</item>
+        <item>oliven</item>
+        <item>svampe</item>
+        <item>salt</item>
+        <item>red pepper</item>
+        <item>lettuce</item>
+        <item>rapsolie</item>
+        <item>honning</item>
+        <item>brun farin</item>
+        <item>pizza</item>
+        <item>cornflakes</item>
+        <item>vatpinde</item>
+        <item>æblejuice</item>
+        <item>smoothies</item>
+        <item>tun</item>
+        <item>purløg</item>
+        <item>nudler</item>
+        <item>olive oil</item>
+        <item>frisk pasta</item>
+        <item>bær</item>
+        <item>hvidvin</item>
+        <item>minimælk</item>
+        <item>orange juice</item>
+        <item>ananas</item>
+        <item>tonic</item>
+        <item>asparges</item>
+        <item>skummetmælk</item>
+        <item>pommes frites</item>
+        <item>vin</item>
+        <item>marmelade</item>
+        <item>vaskemiddel</item>
+        <item>rød peberfrugt</item>
+        <item>syltetøj</item>
+        <item>fisk</item>
+        <item>kakao</item>
+        <item>ærter</item>
+        <item>rødkål</item>
+        <item>porrer</item>
+        <item>chili</item>
+        <item>flour</item>
+        <item>saft</item>
+        <item>fiskefrikadeller</item>
+        <item>youghurt</item>
+        <item>beer</item>
+        <item>banan</item>
+        <item>vandmelon</item>
+        <item>panodil</item>
+        <item>kikærter</item>
+        <item>dild</item>
+        <item>lasagneplader</item>
+        <item>sour cream</item>
+        <item>kærnemælk</item>
+        <item>ham</item>
+        <item>oksekød</item>
+        <item>appelsinjuice</item>
+        <item>smørbar</item>
+        <item>valnødder</item>
+        <item>morgenbrød</item>
+        <item>salami</item>
+        <item>spinach</item>
+        <item>sennep</item>
+        <item>eddike</item>
+        <item>sugar</item>
+        <item>vand</item>
+        <item>franskbrød</item>
+        <item>havremælk</item>
+        <item>kødpølse</item>
+        <item>flutes</item>
+        <item>madlavningsfløde</item>
+        <item>havrefras</item>
+        <item>rasp</item>
+        <item>paprika</item>
+        <item>hindbær</item>
+        <item>laktosefri mælk</item>
+        <item>grøntsager</item>
+        <item>chocolate</item>
+        <item>rundstykker</item>
+        <item>riskiks</item>
+        <item>oregano</item>
+        <item>solsikkekerner</item>
+        <item>cherry tomatoes</item>
+        <item>deodorant</item>
+        <item>olie</item>
+        <item>parmesanost</item>
+        <item>kyllingefilet</item>
+        <item>servietter</item>
+        <item>oranges</item>
+        <item>toothpaste</item>
+        <item>yeast</item>
+        <item>pinjekerner</item>
+        <item>fetaost</item>
+        <item>grovvalsede havregryn</item>
+        <item>makrel i tomat</item>
+        <item>afspændingsmiddel</item>
+        <item>makrel</item>
+        <item>pepperoni</item>
+        <item>sild</item>
+        <item>rucola</item>
+        <item>mayo</item>
+        <item>coconut milk</item>
+        <item>toiletrens</item>
+        <item>dåsetomater</item>
+        <item>sweet potatoes</item>
+        <item>red onions</item>
+        <item>selleri</item>
+        <item>bacon tern</item>
+        <item>wraps</item>
+        <item>Pepsi max</item>
+        <item>chorizo</item>
+        <item>bladselleri</item>
+        <item>bagepulver</item>
+        <item>græskarkerner</item>
+        <item>raisins</item>
+        <item>cream cheese</item>
+        <item>skinkestrimler</item>
+        <item>små tomater</item>
+        <item>mynte</item>
+        <item>kanel</item>
+        <item>bagekartofler</item>
+        <item>parsley</item>
+        <item>tyggegummi</item>
+        <item>pølsebrød</item>
+        <item>grapes</item>
+        <item>afløbsrens</item>
+        <item>frosne ærter</item>
+        <item>grønkål</item>
+        <item>grødris</item>
+        <item>nachos</item>
+        <item>øko citroner</item>
+        <item>rice</item>
+        <item>sandwichbrød</item>
+        <item>ost i skiver</item>
+        <item>toast bread</item>
+        <item>skyllemiddel</item>
+        <item>kiwi</item>
+        <item>porre</item>
+        <item>clementiner</item>
+        <item>timian</item>
+        <item>sølvpapir</item>
+        <item>rullepølse</item>
+        <item>creme fraise</item>
+        <item>opvaskebørste</item>
+        <item>vaskepulver</item>
+        <item>cocktailpølser</item>
+        <item>pastaskruer</item>
+        <item>røget laks</item>
+        <item>chicken breast</item>
+        <item>nødder</item>
+        <item>ginger</item>
+        <item>iceberg salat</item>
+        <item>rye bread</item>
+        <item>spring onions</item>
+        <item>blueberries</item>
+        <item>ostehaps</item>
+        <item>strawberries</item>
+        <item>tofu</item>
+        <item>hasselnødder</item>
+        <item>coriander</item>
+        <item>flute</item>
+        <item>frisk basilikum</item>
+        <item>mjölk</item>
+        <item>paper towels</item>
+        <item>cereal</item>
+        <item>pølse</item>
+        <item>syltede agurker</item>
+        <item>frisk spinat</item>
+        <item>trusseindlæg</item>
+        <item>citronsaft</item>
+        <item>finvalsede havregryn</item>
+        <item>kleenex</item>
+        <item>groft salt</item>
+        <item>toast</item>
+        <item>tærtedej</item>
+        <item>olives</item>
+        <item>kokosmel</item>
+        <item>grahamsmel</item>
+        <item>zucchini</item>
+        <item>oats</item>
+        <item>parmaskinke</item>
+        <item>ice cream</item>
+        <item>yoghurt naturel</item>
+        <item>søde kartofler</item>
+        <item>flødeost</item>
+        <item>basmati ris</item>
+        <item>morgenmad</item>
+        <item>svesker</item>
+        <item>deo</item>
+        <item>mornay sauce</item>
+        <item>bind</item>
+        <item>pizzadej</item>
+        <item>spidskommen</item>
+        <item>wc rens</item>
+        <item>baked beans</item>
+        <item>isterninger</item>
+        <item>wine</item>
+        <item>müslibar</item>
+        <item>tortilla chips</item>
+        <item>feta cheese</item>
+        <item>smøreost</item>
+        <item>tuna</item>
+        <item>pizza sauce</item>
+        <item>bønner</item>
+        <item>solcreme</item>
+        <item>honey</item>
+        <item>meat</item>
+        <item>gedeost</item>
+        <item>frikadeller</item>
+        <item>appelsin</item>
+        <item>tandbørste</item>
+        <item>rugmel</item>
+        <item>kammerjunker</item>
+        <item>små kartofler</item>
+        <item>marcipan</item>
+        <item>sausages</item>
+        <item>granatæble</item>
+        <item>Greek yogurt</item>
+        <item>frisk koriander</item>
+        <item>cola zero</item>
+        <item>sesamfrø</item>
+        <item>celery</item>
+        <item>torskerogn</item>
+        <item>hyldeblomstsaft</item>
+        <item>kefir</item>
+        <item>kapers</item>
+        <item>soya</item>
+        <item>kage</item>
+        <item>basil</item>
+        <item>fredagsslik</item>
+        <item>bondebrød</item>
+        <item>kattemad</item>
+        <item>karrysild</item>
+        <item>cottage cheese</item>
+        <item>ymer</item>
+        <item>salmon</item>
+        <item>øko bananer</item>
+        <item>staniol</item>
+        <item>pears</item>
+        <item>brie</item>
+        <item>figenstænger</item>
+        <item>peppers</item>
+        <item>tandtråd</item>
+        <item>hvidkål</item>
+        <item>cheddar cheese</item>
+        <item>iceberg</item>
+        <item>medister</item>
+        <item>rørsukker</item>
+        <item>salt til opvaskemaskine</item>
+        <item>kaffekapsler</item>
+        <item>øko gulerødder</item>
+        <item>rosmarin</item>
+        <item>ahornsirup</item>
+        <item>wc papir</item>
+        <item>fiskefars</item>
+        <item>kitchen roll</item>
+        <item>kattegrus</item>
+        <item>AA batterier</item>
+        <item>grønt</item>
+        <item>berries</item>
+        <item>bleer str 6</item>
+        <item>apple juice</item>
+        <item>skæreost</item>
+        <item>hakket svinekød</item>
+        <item>kakaomælk</item>
+        <item>kål</item>
+        <item>steak</item>
+        <item>bredbladet persille</item>
+        <item>frisk mozzarella</item>
+        <item>courgette</item>
+        <item>grønne bønner</item>
+        <item>radiser</item>
+        <item>cheerios</item>
+        <item>balsam</item>
+        <item>grøn pesto</item>
+        <item>frostposer</item>
+        <item>hk oksekød</item>
+        <item>baguette</item>
+        <item>krydderboller</item>
+        <item>dadler</item>
+        <item>gavepapir</item>
+        <item>oat milk</item>
+        <item>ricotta</item>
+        <item>Ajax</item>
+        <item>hørfrø</item>
+        <item>almonds</item>
+        <item>frosne jordbær</item>
+        <item>kidney beans</item>
+        <item>kakaopulver</item>
+        <item>canned tomatoes</item>
+        <item>baking paper</item>
+        <item>solsikkeolie</item>
+        <item>chiafrø</item>
+        <item>frugtstænger</item>
+        <item>hand soap</item>
+        <item>granola</item>
+        <item>AAA batterier</item>
+        <item>rodfrugter</item>
+        <item>røde linser</item>
+        <item>bøffer</item>
+        <item>peperoni</item>
+        <item>corn</item>
+        <item>shower gel</item>
+        <item>flødeboller</item>
+        <item>soy sauce</item>
+        <item>Coca cola</item>
+        <item>blomster</item>
+        <item>bodyshampoo</item>
+        <item>Grillkul</item>
+        <item>stearinlys</item>
+        <item>margarine</item>
+        <item>yougurt</item>
+        <item>frosne bær</item>
+        <item>roastbeef</item>
+        <item>sukkerærter</item>
+        <item>lasagne</item>
+        <item>agurker</item>
+        <item>mandelmælk</item>
+        <item>black beans</item>
+        <item>burger buns</item>
+        <item>muesli</item>
+        <item>wet wipes</item>
+        <item>jam</item>
+        <item>hvidløgsbrød</item>
+        <item>mascarpone</item>
+        <item>white wine</item>
+        <item>cauliflower</item>
+        <item>fiskefilet</item>
+        <item>hotdog brød</item>
+        <item>coke</item>
+        <item>parmasanost</item>
+        <item>parmasan</item>
+        <item>makroner</item>
+        <item>chickpeas</item>
+        <item>noodles</item>
+        <item>snack gulerødder</item>
+        <item>lagkagebunde</item>
+        <item>butterdej</item>
+        <item>gin</item>
+        <item>Philadelphia</item>
+        <item>tomato paste</item>
+        <item>balsamico</item>
+        <item>øko citron</item>
+        <item>cashewnødder</item>
+        <item>fennikel</item>
+        <item>dijon sennep</item>
+        <item>quinoa</item>
+        <item>mandariner</item>
+        <item>nektariner</item>
+        <item>brocolli</item>
+        <item>tykmælk</item>
+        <item>green beans</item>
+        <item>karklude</item>
+        <item>garlic bread</item>
+        <item>minced beef</item>
+        <item>tun i vand</item>
+        <item>asparagus</item>
+        <item>æggesalat</item>
+        <item>svinemørbrad</item>
+        <item>frozen peas</item>
+        <item>dinner</item>
+        <item>soltørrede tomater</item>
+        <item>instant kaffe</item>
+        <item>cheddar ost</item>
+        <item>halloumi</item>
+        <item>opvaskesalt</item>
+        <item>æbleskiver</item>
+        <item>skuresvampe</item>
+        <item>frosne hindbær</item>
+        <item>crackers</item>
+        <item>bearnaise</item>
+        <item>watermelon</item>
+        <item>kødpålæg</item>
+        <item>vitaminpiller</item>
+        <item>flæskesteg</item>
+        <item>pasta sauce</item>
+        <item>crisps</item>
+        <item>husholdningsfilm</item>
+        <item>skalotteløg</item>
+        <item>kyllingepålæg</item>
+        <item>plaster</item>
+        <item>dishwasher tabs</item>
+        <item>karry</item>
+        <item>diapers</item>
+        <item>oatmeal</item>
+        <item>figenpålæg</item>
+        <item>karrysalat</item>
+        <item>hakket kød</item>
+        <item>ground beef</item>
+        <item>minced meat</item>
+        <item>durummel</item>
+        <item>tissues</item>
+        <item>kidneybønner</item>
+        <item>champignons</item>
+        <item>edamamebønner</item>
+        <item>skumklude</item>
+        <item>clementines</item>
+        <item>falafel</item>
+        <item>flydende håndsæbe</item>
+        <item>Faxe kondi</item>
+        <item>tarteletter</item>
+        <item>smørbart</item>
+        <item>skiveost</item>
+        <item>becel</item>
+        <item>frokost</item>
+        <item>sandwich bread</item>
+        <item>nuts</item>
+        <item>vegetables</item>
+        <item>bacon i tern</item>
+        <item>bagels</item>
+        <item>bulgur</item>
+        <item>frisk ingefær</item>
+        <item>skumvaskeklude</item>
+        <item>frisk timian</item>
+        <item>tomatsauce</item>
+        <item>suppe</item>
+        <item>chokoladekiks</item>
+        <item>æblecidereddike</item>
+        <item>Perlebyg</item>
+        <item>butternut squash</item>
+        <item>vanilleis</item>
+        <item>vasketabs</item>
+        <item>leeks</item>
+        <item>tandbørster</item>
+        <item>tranebær</item>
+        <item>brown sugar</item>
+        <item>mørk pålægschokolade</item>
+        <item>ipren</item>
+        <item>kammerjunkere</item>
+        <item>water</item>
+        <item>ruccola</item>
+        <item>fish</item>
+        <item>hjertesalat</item>
+        <item>spagetti</item>
+        <item>champignoner</item>
+        <item>læbepomade</item>
+        <item>snack peber</item>
+        <item>tinned tomatoes</item>
+        <item>frozen berries</item>
+        <item>dark chocolate</item>
+        <item>vaniljestang</item>
+        <item>goat cheese</item>
+        <item>bran flakes</item>
+        <item>kale</item>
+        <item>ginger beer</item>
+        <item>cilantro</item>
+        <item>hvidvinseddike</item>
+        <item>flydende honning</item>
+        <item>shredded cheese</item>
+        <item>frisk chili</item>
+        <item>majskolber</item>
+        <item>risotto ris</item>
+        <item>øko æg</item>
+        <item>tunsalat</item>
+        <item>mango chutney</item>
+        <item>madpandekager</item>
+        <item>pandekager</item>
+        <item>peberkorn</item>
+        <item>nye kartofler</item>
+        <item>sirup</item>
+        <item>kaffefiltre</item>
+        <item>cremefine</item>
+        <item>naan brød</item>
+        <item>mysli</item>
+        <item>pølsehorn</item>
+        <item>hundemad</item>
+        <item>ribena</item>
+        <item>nescafe</item>
+        <item>pizzaost</item>
+        <item>maple syrup</item>
+        <item>cookies</item>
+        <item>eddikesyre</item>
+        <item>hindbærmarmelade</item>
+        <item>sparkling water</item>
+        <item>revet mozzarella</item>
+        <item>kardemomme</item>
+        <item>pære</item>
+        <item>dressing</item>
+        <item>ciabatta</item>
+        <item>frosne blåbær</item>
+        <item>couscous</item>
+        <item>frysepose</item>
+        <item>hindbærsyltetøj</item>
+        <item>ymerdrys</item>
+        <item>grapefrugt</item>
+        <item>jalapenos</item>
+        <item>blandet salat</item>
+        <item>crüsli</item>
+        <item>instant coffee</item>
+        <item>bleposer</item>
+        <item>mint</item>
+        <item>estragon</item>
+        <item>mørbrad</item>
+        <item>gorgonzola</item>
+        <item>ristet løg</item>
+        <item>grated cheese</item>
+        <item>fint salt</item>
+        <item>bell peppers</item>
+        <item>småkager</item>
+        <item>peber</item>
+        <item>fyrfadslys</item>
+        <item>æble</item>
+        <item>frisk mynte</item>
+        <item>knoldselleri</item>
+        <item>lyst brød</item>
+        <item>madpapir</item>
+        <item>kogt skinke</item>
+        <item>rosenkål</item>
+        <item>the</item>
+        <item>tun i olie</item>
+        <item>juicebrikker</item>
+        <item>dish soap</item>
+        <item>vaskeklude</item>
+        <item>pålægchokolade</item>
+        <item>tomatpasta</item>
+        <item>passata</item>
+        <item>tape</item>
+        <item>æggeblommer</item>
+        <item>havredrik</item>
+        <item>håndcreme</item>
+        <item>tacoskaller</item>
+        <item>mellemlægspapir</item>
+        <item>toiletbørste</item>
+        <item>vanillesukker</item>
+        <item>tahin</item>
+        <item>pomfritter</item>
+        <item>laundry detergent</item>
+        <item>batterier</item>
+        <item>mad</item>
+        <item>skinketern</item>
+        <item>dishwasher salt</item>
+        <item>grøntsagsbouillon</item>
+        <item>burgers</item>
+        <item>kyllingelår</item>
+        <item>bønnespirer</item>
+        <item>karse</item>
+        <item>soda</item>
+        <item>soy milk</item>
+        <item>koteletter</item>
+        <item>croissant</item>
+        <item>rød chili</item>
+        <item>modermælkserstatning</item>
+        <item>pastinak</item>
+        <item>ørepropper</item>
+        <item>vatrundeller</item>
+        <item>tandstikker</item>
+        <item>dip</item>
+        <item>heavy cream</item>
+        <item>grønne asparges</item>
+        <item>babyspinat</item>
+        <item>natron</item>
+        <item>morgenboller</item>
+        <item>tortellini</item>
+        <item>film</item>
+        <item>sovs</item>
+        <item>drikkeyoghurt</item>
+        <item>tacos</item>
+        <item>hønsesalat</item>
+        <item>hakket kylling</item>
+        <item>pineapple</item>
+        <item>vodka</item>
+        <item>vaniljesukker</item>
+        <item>falaffel</item>
+        <item>pizzabund</item>
+        <item>advokado</item>
+        <item>prawns</item>
+        <item>majs på dåse</item>
+        <item>æggehvider</item>
+        <item>hot dogs</item>
+        <item>pita bread</item>
+        <item>vaskemiddel hvid</item>
+        <item>mariekiks</item>
+        <item>trash bags</item>
+        <item>store tomater</item>
+        <item>jordbærmarmelade</item>
+        <item>druer</item>
+        <item>lys pålægschokolade</item>
+        <item>dessert</item>
+        <item>kyllingestykker</item>
+        <item>sweet potato</item>
+        <item>pommes</item>
+        <item>coffee beans</item>
+        <item>feldsalat</item>
+        <item>eggplant</item>
+        <item>klorin</item>
+        <item>toastost</item>
+        <item>cabbage</item>
+        <item>kyllingepølser</item>
+        <item>tea</item>
+        <item>d-dråber</item>
+        <item>mandelmel</item>
+        <item>naan</item>
+        <item>dishwasher tablets</item>
+        <item>lagereddike</item>
+        <item>peberfrugter</item>
+        <item>hvid chokolade</item>
+        <item>lommetørklæder</item>
+        <item>sunflower oil</item>
+        <item>bin bags</item>
+        <item>intimsæbe</item>
+        <item>agurkesalat</item>
+        <item>red wine</item>
+        <item>salatost</item>
+        <item>frossen spinat</item>
+        <item>frysepizza</item>
+        <item>fabric softener</item>
+        <item>ladyfingers</item>
+        <item>toothbrush</item>
+        <item>peas</item>
+        <item>kokosolie</item>
+        <item>coleslaw</item>
+        <item>sprite</item>
+        <item>poser</item>
+        <item>hakket kalv og flæsk</item>
+        <item>chilli</item>
+        <item>pate</item>
+        <item>pasta penne</item>
+        <item>chopped tomatoes</item>
+        <item>walnuts</item>
+        <item>green onions</item>
+        <item>skumfiduser</item>
+        <item>pasteuriserede æggeblommer</item>
+        <item>sæbe</item>
+        <item>rejeost</item>
+        <item>revet cheddar</item>
+        <item>frisk persille</item>
+        <item>rosé</item>
+        <item>cultura</item>
+        <item>tomatsuppe</item>
+        <item>buns</item>
+        <item>smoked salmon</item>
+        <item>cat food</item>
+        <item>brune ris</item>
+        <item>tørgær</item>
+        <item>garbage bags</item>
+        <item>vanish</item>
+        <item>spareribs</item>
+        <item>sorte bønner</item>
+        <item>rice cakes</item>
+        <item>batterier AA</item>
+        <item>burgerdressing</item>
+        <item>minus kalk</item>
+        <item>socks</item>
+        <item>æblemos</item>
+        <item>rød pesto</item>
+        <item>flæsk</item>
+        <item>fiskeolie</item>
+        <item>sprinklervæske</item>
+        <item>auberginer</item>
+        <item>rugfras</item>
+        <item>jalapeños</item>
+        <item>klementiner</item>
+        <item>shorts</item>
+        <item>hvidløgsflutes</item>
+        <item>body lotion</item>
+        <item>romaine salat</item>
+        <item>pickles</item>
+        <item>barberskum</item>
+        <item>soap</item>
+        <item>coke zero</item>
+        <item>tørrede abrikoser</item>
+        <item>babymad</item>
+        <item>græskar</item>
+        <item>ravioli</item>
+        <item>akacie honning</item>
+        <item>dåsemajs</item>
+        <item>conditioner</item>
+        <item>baking powder</item>
+        <item>pikant ost</item>
+        <item>citronsyre</item>
+        <item>oksebouillon</item>
+        <item>solbriller</item>
+        <item>vaniliesukker</item>
+        <item>toilet cleaner</item>
+        <item>jasmin ris</item>
+        <item>baby wipes</item>
+        <item>gurkemeje</item>
+        <item>sesamolie</item>
+        <item>Rodalon</item>
+        <item>dill</item>
+        <item>vanilie is</item>
+        <item>washing up liquid</item>
+        <item>kartoffelsalat</item>
+        <item>forårsruller</item>
+        <item>butter beans</item>
+        <item>dates</item>
+        <item>champagne</item>
+        <item>pære banan yoghurt</item>
+        <item>basmati rice</item>
+        <item>glasrens</item>
+        <item>oil</item>
+        <item>engangsvaskeklude</item>
+        <item>blue cheese</item>
+        <item>frozen spinach</item>
+        <item>kamillete</item>
+        <item>flydende margarine</item>
+        <item>pakke</item>
+        <item>unsalted butter</item>
+        <item>pepper</item>
+        <item>buttermilk</item>
+        <item>body wash</item>
+        <item>Zendium</item>
+        <item>fuldkornshvedemel</item>
+        <item>bouillon</item>
+        <item>madfløde</item>
+        <item>tændstikker</item>
+        <item>neskaffe</item>
+        <item>tortilla wraps</item>
+        <item>tomatsovs</item>
+        <item>gouda</item>
+        <item>sorte oliven</item>
+        <item>næsespray</item>
+        <item>tomato sauce</item>
+        <item>kirsebærsovs</item>
+        <item>sulfo</item>
+        <item>afspænding</item>
+        <item>bechamel sauce</item>
+        <item>skinkesalat</item>
+        <item>ansigtscreme</item>
+        <item>pistacienødder</item>
+        <item>kebab</item>
+        <item>hvidløgsflute</item>
+        <item>lunch</item>
+        <item>serano skinke</item>
+        <item>sky</item>
+        <item>beef</item>
+        <item>lime juice</item>
+        <item>peberrod</item>
+        <item>muskatnød</item>
+        <item>laurbærblade</item>
+        <item>kokos</item>
+        <item>gnocchi</item>
+        <item>syltede rødbeder</item>
+        <item>actimel</item>
+        <item>beans</item>
+        <item>vanillestang</item>
+        <item>jordskokker</item>
+        <item>soup</item>
+        <item>ribsgelé</item>
+        <item>ammeindlæg</item>
+        <item>alkoholfri øl</item>
+        <item>kyllingestrimler</item>
+        <item>digestive</item>
+        <item>lakrids</item>
+        <item>flowers</item>
+        <item>honningmelon</item>
+        <item>husblas</item>
+        <item>flødeskum</item>
+        <item>sutter</item>
+        <item>kalkunbacon</item>
+        <item>emmentaler</item>
+        <item>lys</item>
+        <item>thyme</item>
+        <item>vesterhavsost</item>
+        <item>universal rengøring</item>
+        <item>cacao</item>
+        <item>hel kylling</item>
+        <item>vanilje is</item>
+        <item>digestive kiks</item>
+        <item>basilikum frisk</item>
+        <item>Heinz ketchup</item>
+        <item>candy</item>
+        <item>cotton pads</item>
+        <item>æblemost</item>
+        <item>aioli</item>
+        <item>nougat</item>
+        <item>grød</item>
+        <item>pizzamel</item>
+        <item>børnetandpasta</item>
+        <item>blommer</item>
+        <item>chicken nuggets</item>
+        <item>grønsager</item>
+        <item>risengrød</item>
+        <item>sundried tomatoes</item>
+        <item>rengøringssvampe</item>
+        <item>tahini</item>
+        <item>afkalker</item>
+        <item>gulerod</item>
+        <item>boller i karry</item>
+        <item>vinegar</item>
+        <item>husk</item>
+        <item>skorper</item>
+        <item>kylling pålæg</item>
+        <item>taco sauce</item>
+        <item>sorte sække</item>
+        <item>advocado</item>
+        <item>pizzasovs</item>
+        <item>mascara</item>
+        <item>håndsprit</item>
+        <item>majsmel</item>
+        <item>frosne grøntsager</item>
+        <item>digestives</item>
+        <item>påskeæg</item>
+        <item>treo</item>
+        <item>tampax</item>
+        <item>raspberries</item>
+        <item>dipmix</item>
+        <item>halls</item>
+        <item>batterier AAA</item>
+        <item>mustard</item>
+        <item>stanniol</item>
+        <item>pads</item>
+        <item>sweetcorn</item>
+        <item>rosemary</item>
+        <item>ansjoser</item>
+        <item>sugerør</item>
+        <item>balsamic vinegar</item>
+        <item>ice tea</item>
+        <item>fresh ginger</item>
+        <item>candles</item>
+        <item>shallots</item>
+        <item>bread crumbs</item>
+        <item>soja</item>
+        <item>snack</item>
+        <item>vitamins</item>
+        <item>Parmesan cheese</item>
+        <item>bearnaise sauce</item>
+        <item>cashews</item>
+        <item>tin foil</item>
+        <item>voks</item>
+        <item>kanelgifler</item>
+        <item>tomato purée</item>
+        <item>tomato soup</item>
+        <item>mundbind</item>
+        <item>shrimp</item>
+        <item>lemon juice</item>
+        <item>kødboller</item>
+        <item>chicken stock</item>
+        <item>kul</item>
+        <item>pancetta</item>
+        <item>steg</item>
+        <item>æbleeddike</item>
+        <item>almond milk</item>
+        <item>tamponer</item>
+        <item>timian frisk</item>
+        <item>q-tips</item>
+        <item>rygeost</item>
+        <item>pulled pork</item>
+        <item>asier</item>
+        <item>brombær</item>
+        <item>grillpølser</item>
+        <item>red cabbage</item>
+    </array>
+</resources>

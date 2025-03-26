@@ -1,0 +1,1005 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="master_list_values">
+        <item>lapte</item>
+        <item>paine</item>
+        <item>oua</item>
+        <item>banane</item>
+        <item>rosii</item>
+        <item>hartie igienica</item>
+        <item>unt</item>
+        <item>cartofi</item>
+        <item>iaurt</item>
+        <item>morcovi</item>
+        <item>smantana</item>
+        <item>avocado</item>
+        <item>castraveti</item>
+        <item>lamai</item>
+        <item>apa</item>
+        <item>cascaval</item>
+        <item>cafea</item>
+        <item>apa plata</item>
+        <item>bere</item>
+        <item>ceapa</item>
+        <item>apa minerala</item>
+        <item>mere</item>
+        <item>faina</item>
+        <item>fructe</item>
+        <item>rosii cherry</item>
+        <item>ciuperci</item>
+        <item>ulei</item>
+        <item>masline</item>
+        <item>patrunjel</item>
+        <item>ceapa verde</item>
+        <item>portocale</item>
+        <item>telina</item>
+        <item>usturoi</item>
+        <item>zahar</item>
+        <item>branza</item>
+        <item>ardei gras</item>
+        <item>salata</item>
+        <item>ardei</item>
+        <item>sapun lichid</item>
+        <item>saci gunoi</item>
+        <item>mozzarella</item>
+        <item>broccoli</item>
+        <item>parmezan</item>
+        <item>sunca</item>
+        <item>salata verde</item>
+        <item>servetele umede</item>
+        <item>pasta de dinti</item>
+        <item>afine</item>
+        <item>suc</item>
+        <item>mustar</item>
+        <item>domestos</item>
+        <item>iaurt grecesc</item>
+        <item>sampon</item>
+        <item>pastarnac</item>
+        <item>orez</item>
+        <item>cereale</item>
+        <item>lamaie</item>
+        <item>detergent vase</item>
+        <item>vin</item>
+        <item>mango</item>
+        <item>peste</item>
+        <item>piept de pui</item>
+        <item>inghetata</item>
+        <item>paste</item>
+        <item>conopida</item>
+        <item>sare</item>
+        <item>malai</item>
+        <item>pere</item>
+        <item>capsuni</item>
+        <item>bors</item>
+        <item>pasta dinti</item>
+        <item>varza</item>
+        <item>marar</item>
+        <item>balsam rufe</item>
+        <item>somon</item>
+        <item>dovlecei</item>
+        <item>ceapa rosie</item>
+        <item>ulei masline</item>
+        <item>struguri</item>
+        <item>ketchup</item>
+        <item>carne tocata</item>
+        <item>bacon</item>
+        <item>cola</item>
+        <item>sapun</item>
+        <item>castravete</item>
+        <item>gel de dus</item>
+        <item>telemea</item>
+        <item>cartofi dulci</item>
+        <item>piept pui</item>
+        <item>mazare</item>
+        <item>porumb</item>
+        <item>pulpe pui</item>
+        <item>pufuleti</item>
+        <item>dovlecel</item>
+        <item>servetele</item>
+        <item>patrunjel radacina</item>
+        <item>zahar brun</item>
+        <item>drojdie</item>
+        <item>milk</item>
+        <item>ridichi</item>
+        <item>servetele cutie</item>
+        <item>gris</item>
+        <item>mascarpone</item>
+        <item>kefir</item>
+        <item>deodorant</item>
+        <item>dischete demachiante</item>
+        <item>paine feliata</item>
+        <item>stafide</item>
+        <item>eggs</item>
+        <item>mezeluri</item>
+        <item>ulei de masline</item>
+        <item>biscuiti</item>
+        <item>legume congelate</item>
+        <item>humus</item>
+        <item>spanac</item>
+        <item>icre</item>
+        <item>pateu</item>
+        <item>salam</item>
+        <item>legume</item>
+        <item>tigari</item>
+        <item>leustean</item>
+        <item>ananas</item>
+        <item>morcov</item>
+        <item>ton</item>
+        <item>vinete</item>
+        <item>ciocolata</item>
+        <item>bread</item>
+        <item>otet</item>
+        <item>castraveti murati</item>
+        <item>piersici</item>
+        <item>gel dus</item>
+        <item>pui</item>
+        <item>pesmet</item>
+        <item>hartie de copt</item>
+        <item>miere</item>
+        <item>ciocolata neagra</item>
+        <item>cacao</item>
+        <item>zmeura</item>
+        <item>almette</item>
+        <item>kiwi</item>
+        <item>bureti vase</item>
+        <item>apa de gura</item>
+        <item>seminte</item>
+        <item>mezel</item>
+        <item>zahar vanilat</item>
+        <item>alune</item>
+        <item>saci menajeri</item>
+        <item>mici</item>
+        <item>faina alba</item>
+        <item>lavete</item>
+        <item>busuioc</item>
+        <item>carne</item>
+        <item>servetele bucatarie</item>
+        <item>spirt</item>
+        <item>mandarine</item>
+        <item>ghimbir</item>
+        <item>pepene</item>
+        <item>popcorn</item>
+        <item>migdale</item>
+        <item>somon afumat</item>
+        <item>pampers</item>
+        <item>bulion</item>
+        <item>detergent</item>
+        <item>nutella</item>
+        <item>chefir</item>
+        <item>branza de vaci</item>
+        <item>detergent rufe</item>
+        <item>odorizant wc</item>
+        <item>ardei rosu</item>
+        <item>saci de gunoi</item>
+        <item>mazare congelata</item>
+        <item>ardei capia</item>
+        <item>betisoare urechi</item>
+        <item>ardei gras rosu</item>
+        <item>praz</item>
+        <item>actimel</item>
+        <item>tampoane</item>
+        <item>cif</item>
+        <item>clementine</item>
+        <item>oua bio</item>
+        <item>caju</item>
+        <item>crema de branza</item>
+        <item>lime</item>
+        <item>smantana lichida</item>
+        <item>branza telemea</item>
+        <item>nectarine</item>
+        <item>iaurt de baut</item>
+        <item>creveti</item>
+        <item>zahar pudra</item>
+        <item>vanish</item>
+        <item>praf de copt</item>
+        <item>lipii</item>
+        <item>ricotta</item>
+        <item>sana</item>
+        <item>folie aluminiu</item>
+        <item>lichid parbriz</item>
+        <item>otet balsamic</item>
+        <item>esenta vanilie</item>
+        <item>fairy</item>
+        <item>pulpe</item>
+        <item>branza topita</item>
+        <item>ceai</item>
+        <item>absorbante</item>
+        <item>lapte praf</item>
+        <item>spaghete</item>
+        <item>prosoape hartie</item>
+        <item>oregano</item>
+        <item>naut</item>
+        <item>lapte cafea</item>
+        <item>prosoape bucatarie</item>
+        <item>masline negre</item>
+        <item>pomelo</item>
+        <item>acetona</item>
+        <item>carne porc</item>
+        <item>carbuni</item>
+        <item>lapte vegetal</item>
+        <item>suc portocale</item>
+        <item>nuci</item>
+        <item>cartofi noi</item>
+        <item>zuchini</item>
+        <item>bere fara alcool</item>
+        <item>ficatei</item>
+        <item>demachiant</item>
+        <item>hartie copt</item>
+        <item>brocolli</item>
+        <item>saci</item>
+        <item>mozzarela</item>
+        <item>sfecla rosie</item>
+        <item>carne vita</item>
+        <item>bicarbonat</item>
+        <item>lenor</item>
+        <item>ardei iute</item>
+        <item>fulgi ovaz</item>
+        <item>pate</item>
+        <item>smantana de gatit</item>
+        <item>chips</item>
+        <item>cheddar</item>
+        <item>servetele masa</item>
+        <item>ceapa galbena</item>
+        <item>carnati</item>
+        <item>calgon</item>
+        <item>cola zero</item>
+        <item>baterii</item>
+        <item>masline verzi</item>
+        <item>ulei floarea soarelui</item>
+        <item>servetele nazale</item>
+        <item>dovleac</item>
+        <item>vin rosu</item>
+        <item>chifle</item>
+        <item>banane bio</item>
+        <item>fixativ</item>
+        <item>patrunjel frunze</item>
+        <item>lapte fara lactoza</item>
+        <item>feta</item>
+        <item>solutie geamuri</item>
+        <item>ardei kapia</item>
+        <item>tofu</item>
+        <item>cimbru</item>
+        <item>sfecla</item>
+        <item>prune</item>
+        <item>scobitori</item>
+        <item>rucola</item>
+        <item>periuta dinti</item>
+        <item>nurofen</item>
+        <item>iaurt bio</item>
+        <item>covrigei</item>
+        <item>menta</item>
+        <item>ceafa</item>
+        <item>iaurturi</item>
+        <item>pulpe dezosate</item>
+        <item>vopsea par</item>
+        <item>lamai bio</item>
+        <item>fulgi de ovaz</item>
+        <item>lipie</item>
+        <item>ness</item>
+        <item>coca cola</item>
+        <item>dulciuri</item>
+        <item>seminte dovleac</item>
+        <item>lapte bio</item>
+        <item>piept curcan</item>
+        <item>pepene galben</item>
+        <item>oua prepelita</item>
+        <item>manusi</item>
+        <item>ceapa alba</item>
+        <item>cartof dulce</item>
+        <item>hartie bucatarie</item>
+        <item>vitamina c</item>
+        <item>foi de dafin</item>
+        <item>discuri demachiante</item>
+        <item>faina integrala</item>
+        <item>salam sibiu</item>
+        <item>naut conserva</item>
+        <item>unt bio</item>
+        <item>pepsi</item>
+        <item>chiloti</item>
+        <item>maioneza</item>
+        <item>scortisoara</item>
+        <item>crema branza</item>
+        <item>carne de vita</item>
+        <item>patrunjel verde</item>
+        <item>kaiser</item>
+        <item>sos soia</item>
+        <item>rozmarin</item>
+        <item>smantana gatit</item>
+        <item>sparanghel</item>
+        <item>cirese</item>
+        <item>grapefruit</item>
+        <item>baby spanac</item>
+        <item>suc mere</item>
+        <item>drojdie proaspata</item>
+        <item>cottage cheese</item>
+        <item>rola hartie</item>
+        <item>napolitane</item>
+        <item>pungi gunoi</item>
+        <item>fasole boabe</item>
+        <item>fistic</item>
+        <item>paine integrala</item>
+        <item>tortilla</item>
+        <item>ata dentara</item>
+        <item>carne pui</item>
+        <item>sampanie</item>
+        <item>pesto</item>
+        <item>ceafa porc</item>
+        <item>hrean</item>
+        <item>branza capra</item>
+        <item>folie alimentara</item>
+        <item>role hartie</item>
+        <item>lapte cocos</item>
+        <item>folie plastic</item>
+        <item>mop</item>
+        <item>ceai verde</item>
+        <item>vin alb</item>
+        <item>piscoturi</item>
+        <item>servetele nas</item>
+        <item>becuri</item>
+        <item>pui intreg</item>
+        <item>fasole verde</item>
+        <item>praf copt</item>
+        <item>apa tonica</item>
+        <item>porumb conserva</item>
+        <item>piper boabe</item>
+        <item>rola bucatarie</item>
+        <item>lapte migdale</item>
+        <item>aripioare</item>
+        <item>fasole</item>
+        <item>taitei</item>
+        <item>cascaval feliat</item>
+        <item>cafea boabe</item>
+        <item>ser fiziologic</item>
+        <item>haloumi</item>
+        <item>burete vase</item>
+        <item>chipsuri</item>
+        <item>branza feta</item>
+        <item>guma</item>
+        <item>lapte de cocos</item>
+        <item>rosii uscate</item>
+        <item>lapte batut</item>
+        <item>paie</item>
+        <item>ceai menta</item>
+        <item>gelatina</item>
+        <item>capsule cafea</item>
+        <item>betisoare de urechi</item>
+        <item>drojdie uscata</item>
+        <item>zacusca</item>
+        <item>caise</item>
+        <item>vita</item>
+        <item>seminte floarea soarelui</item>
+        <item>pronto</item>
+        <item>rodie</item>
+        <item>fulgi de porumb</item>
+        <item>ridichii</item>
+        <item>sunca curcan</item>
+        <item>suc de rosii</item>
+        <item>vigantol</item>
+        <item>boia dulce</item>
+        <item>rodii</item>
+        <item>albitura</item>
+        <item>piper</item>
+        <item>lame ras</item>
+        <item>cif crema</item>
+        <item>balsam</item>
+        <item>spanac congelat</item>
+        <item>cotlet</item>
+        <item>nutela</item>
+        <item>verdeata</item>
+        <item>nuca</item>
+        <item>umerase</item>
+        <item>branza dulce</item>
+        <item>frisca</item>
+        <item>quinoa</item>
+        <item>ovaz</item>
+        <item>apio</item>
+        <item>almete</item>
+        <item>folie de aluminiu</item>
+        <item>prosecco</item>
+        <item>servetele demachiante</item>
+        <item>flori</item>
+        <item>baterii AA</item>
+        <item>kaizer</item>
+        <item>rola servetele</item>
+        <item>varza murata</item>
+        <item>pungi</item>
+        <item>fasole conserva</item>
+        <item>curcan</item>
+        <item>otet de mere</item>
+        <item>scutece</item>
+        <item>pizza</item>
+        <item>philadelphia</item>
+        <item>bicarbonat de sodiu</item>
+        <item>hartie igienica umeda</item>
+        <item>periute dinti</item>
+        <item>kaki</item>
+        <item>lavete umede</item>
+        <item>igienol</item>
+        <item>busuioc proaspat</item>
+        <item>bete urechi</item>
+        <item>apa micelara</item>
+        <item>slanina</item>
+        <item>masline fara samburi</item>
+        <item>lapte de migdale</item>
+        <item>pulpe de pui</item>
+        <item>fidea</item>
+        <item>mere verzi</item>
+        <item>baterii AAA</item>
+        <item>balsam de rufe</item>
+        <item>gorgonzola</item>
+        <item>branza vaci</item>
+        <item>paste integrale</item>
+        <item>linte</item>
+        <item>sos rosii</item>
+        <item>merisoare</item>
+        <item>biscuiti digestivi</item>
+        <item>cartofi albi</item>
+        <item>unt de arahide</item>
+        <item>apa distilata</item>
+        <item>lapte condensat</item>
+        <item>sapun maini</item>
+        <item>conserve ton</item>
+        <item>suc de mere</item>
+        <item>crenvursti</item>
+        <item>suc rosii</item>
+        <item>smochine</item>
+        <item>marar verde</item>
+        <item>sampanie copii</item>
+        <item>sampon uscat</item>
+        <item>slapi</item>
+        <item>cremvusti</item>
+        <item>plasturi</item>
+        <item>grisine</item>
+        <item>conserva rosii</item>
+        <item>bomboane</item>
+        <item>carne curcan</item>
+        <item>croissant</item>
+        <item>lapte ovaz</item>
+        <item>gem</item>
+        <item>frisca lichida</item>
+        <item>mancare pisici</item>
+        <item>detergent haine</item>
+        <item>cascaval felii</item>
+        <item>tort</item>
+        <item>fasole verde congelata</item>
+        <item>legume ciorba</item>
+        <item>paracetamol</item>
+        <item>prune uscate</item>
+        <item>absorbante zilnice</item>
+        <item>branza fagaras</item>
+        <item>comprese sterile</item>
+        <item>ulei de cocos</item>
+        <item>brie</item>
+        <item>crackers</item>
+        <item>gheata</item>
+        <item>sucuri</item>
+        <item>prosciutto</item>
+        <item>sosete</item>
+        <item>sos de soia</item>
+        <item>fructe congelate</item>
+        <item>prezervative</item>
+        <item>paine toast</item>
+        <item>spray</item>
+        <item>bagheta</item>
+        <item>foi placinta</item>
+        <item>antiperspirant</item>
+        <item>esenta rom</item>
+        <item>susan</item>
+        <item>sos de rosii</item>
+        <item>banane verzi</item>
+        <item>papuci</item>
+        <item>chimen</item>
+        <item>gulie</item>
+        <item>periuta de dinti</item>
+        <item>clor</item>
+        <item>afumatura</item>
+        <item>muschi file</item>
+        <item>sos paste</item>
+        <item>fructe de padure</item>
+        <item>cidru</item>
+        <item>parasinus</item>
+        <item>peanut butter</item>
+        <item>cas</item>
+        <item>crutoane</item>
+        <item>migdale crude</item>
+        <item>balsam par</item>
+        <item>farfurii</item>
+        <item>matura</item>
+        <item>coaste</item>
+        <item>covrigi</item>
+        <item>vitamina D</item>
+        <item>coriandru</item>
+        <item>dovleac placintar</item>
+        <item>nachos</item>
+        <item>curmale</item>
+        <item>prosoape</item>
+        <item>conserva ton</item>
+        <item>pastrav</item>
+        <item>varza alba</item>
+        <item>orez basmati</item>
+        <item>cus cus</item>
+        <item>cartofi congelati</item>
+        <item>chia</item>
+        <item>servetele ochelari</item>
+        <item>tahini</item>
+        <item>superglue</item>
+        <item>unt arahide</item>
+        <item>crema maini</item>
+        <item>lumanari</item>
+        <item>carnaciori</item>
+        <item>linte rosie</item>
+        <item>gouda</item>
+        <item>cozonac</item>
+        <item>branzeturi</item>
+        <item>smantana frisca</item>
+        <item>sare fina</item>
+        <item>sare masina spalat vase</item>
+        <item>couscous</item>
+        <item>capsune</item>
+        <item>bepanthen</item>
+        <item>mr muscolo</item>
+        <item>saratele</item>
+        <item>fasole rosie</item>
+        <item>usturoi verde</item>
+        <item>pamant flori</item>
+        <item>sirop artar</item>
+        <item>pasta tomate</item>
+        <item>rondele orez</item>
+        <item>medicamente</item>
+        <item>bureti</item>
+        <item>aleze</item>
+        <item>lipici</item>
+        <item>prelungitor</item>
+        <item>carne gratar</item>
+        <item>masti</item>
+        <item>macaroane</item>
+        <item>dorada</item>
+        <item>ulei cocos</item>
+        <item>spuma de ras</item>
+        <item>capere</item>
+        <item>panadol</item>
+        <item>bureti bucatarie</item>
+        <item>rahat</item>
+        <item>baghete</item>
+        <item>vibrocil</item>
+        <item>fanta</item>
+        <item>conserva peste</item>
+        <item>protectis</item>
+        <item>telemea capra</item>
+        <item>foietaj</item>
+        <item>bananas</item>
+        <item>onions</item>
+        <item>butter</item>
+        <item>apples</item>
+        <item>carrots</item>
+        <item>cucumber</item>
+        <item>tomatoes</item>
+        <item>toilet paper</item>
+        <item>yogurt</item>
+        <item>sour cream</item>
+        <item>potatoes</item>
+        <item>lettuce</item>
+        <item>coffee</item>
+        <item>paper towels</item>
+        <item>lemons</item>
+        <item>celery</item>
+        <item>mushrooms</item>
+        <item>chicken</item>
+        <item>strawberries</item>
+        <item>cream cheese</item>
+        <item>fruit</item>
+        <item>cheese</item>
+        <item>garlic</item>
+        <item>spinach</item>
+        <item>cereal</item>
+        <item>limes</item>
+        <item>orange juice</item>
+        <item>ground beef</item>
+        <item>chicken breast</item>
+        <item>blueberries</item>
+        <item>grapes</item>
+        <item>red onion</item>
+        <item>ice cream</item>
+        <item>toothpaste</item>
+        <item>zucchini</item>
+        <item>tortillas</item>
+        <item>cilantro</item>
+        <item>green onions</item>
+        <item>salad</item>
+        <item>salsa</item>
+        <item>sugar</item>
+        <item>tortilla chips</item>
+        <item>water</item>
+        <item>oranges</item>
+        <item>olive oil</item>
+        <item>bagels</item>
+        <item>ham</item>
+        <item>almond milk</item>
+        <item>green beans</item>
+        <item>lunch meat</item>
+        <item>hamburger buns</item>
+        <item>sausage</item>
+        <item>hot dogs</item>
+        <item>hummus</item>
+        <item>beer</item>
+        <item>cherry tomatoes</item>
+        <item>salmon</item>
+        <item>shredded cheese</item>
+        <item>asparagus</item>
+        <item>paper plates</item>
+        <item>chicken broth</item>
+        <item>cauliflower</item>
+        <item>hot dog buns</item>
+        <item>honey</item>
+        <item>black beans</item>
+        <item>steak</item>
+        <item>rice</item>
+        <item>dog food</item>
+        <item>Parmesan cheese</item>
+        <item>pasta</item>
+        <item>English muffins</item>
+        <item>heavy cream</item>
+        <item>bell peppers</item>
+        <item>ground turkey</item>
+        <item>flour</item>
+        <item>sweet potatoes</item>
+        <item>creamer</item>
+        <item>laundry detergent</item>
+        <item>Greek yogurt</item>
+        <item>Kleenex</item>
+        <item>peppers</item>
+        <item>tomato sauce</item>
+        <item>berries</item>
+        <item>brown sugar</item>
+        <item>wine</item>
+        <item>hamburger</item>
+        <item>napkins</item>
+        <item>mayo</item>
+        <item>corn</item>
+        <item>tissues</item>
+        <item>chicken thighs</item>
+        <item>half and half</item>
+        <item>oatmeal</item>
+        <item>baby carrots</item>
+        <item>tomato paste</item>
+        <item>veggies</item>
+        <item>red pepper</item>
+        <item>tuna</item>
+        <item>sliced cheese</item>
+        <item>parsley</item>
+        <item>mayonnaise</item>
+        <item>green pepper</item>
+        <item>ginger</item>
+        <item>shrimp</item>
+        <item>coffee creamer</item>
+        <item>watermelon</item>
+        <item>shampoo</item>
+        <item>tomato</item>
+        <item>romaine lettuce</item>
+        <item>pepperoni</item>
+        <item>turkey</item>
+        <item>applesauce</item>
+        <item>pineapple</item>
+        <item>spaghetti sauce</item>
+        <item>jalapeño</item>
+        <item>buns</item>
+        <item>raspberries</item>
+        <item>ranch dressing</item>
+        <item>cream</item>
+        <item>soy sauce</item>
+        <item>dish soap</item>
+        <item>cat food</item>
+        <item>cheddar cheese</item>
+        <item>chocolate chips</item>
+        <item>apple juice</item>
+        <item>kale</item>
+        <item>granola bars</item>
+        <item>pickles</item>
+        <item>cabbage</item>
+        <item>coconut milk</item>
+        <item>basil</item>
+        <item>cookies</item>
+        <item>pears</item>
+        <item>spaghetti</item>
+        <item>pretzels</item>
+        <item>juice</item>
+        <item>salt</item>
+        <item>coke</item>
+        <item>Brussels sprouts</item>
+        <item>taco seasoning</item>
+        <item>distilled water</item>
+        <item>Mac and cheese</item>
+        <item>red bell pepper</item>
+        <item>rotisserie chicken</item>
+        <item>hand soap</item>
+        <item>maple syrup</item>
+        <item>string cheese</item>
+        <item>shallots</item>
+        <item>frozen peas</item>
+        <item>sweet potato</item>
+        <item>granola</item>
+        <item>whole milk</item>
+        <item>ice</item>
+        <item>garlic bread</item>
+        <item>baby spinach</item>
+        <item>olives</item>
+        <item>yellow onion</item>
+        <item>salami</item>
+        <item>pasta sauce</item>
+        <item>bottled water</item>
+        <item>mustard</item>
+        <item>Gatorade</item>
+        <item>snacks</item>
+        <item>pork chops</item>
+        <item>diced tomatoes</item>
+        <item>almonds</item>
+        <item>cat litter</item>
+        <item>Diet Coke</item>
+        <item>soup</item>
+        <item>Parmesan</item>
+        <item>waffles</item>
+        <item>cheese slices</item>
+        <item>trash bags</item>
+        <item>body wash</item>
+        <item>lemon juice</item>
+        <item>raisins</item>
+        <item>chocolate</item>
+        <item>fish</item>
+        <item>qtips</item>
+        <item>chicken nuggets</item>
+        <item>baking soda</item>
+        <item>feta cheese</item>
+        <item>frozen pizza</item>
+        <item>refried beans</item>
+        <item>mozzarella cheese</item>
+        <item>bbq sauce</item>
+        <item>buttermilk</item>
+        <item>mouthwash</item>
+        <item>half &amp; half</item>
+        <item>goldfish</item>
+        <item>walnuts</item>
+        <item>Cheerios</item>
+        <item>conditioner</item>
+        <item>AA batteries</item>
+        <item>American cheese</item>
+        <item>soda</item>
+        <item>biscuits</item>
+        <item>rolls</item>
+        <item>syrup</item>
+        <item>wraps</item>
+        <item>gum</item>
+        <item>baked beans</item>
+        <item>graham crackers</item>
+        <item>bleach</item>
+        <item>pizza sauce</item>
+        <item>peanuts</item>
+        <item>croutons</item>
+        <item>scallions</item>
+        <item>flour tortillas</item>
+        <item>cheese sticks</item>
+        <item>French fries</item>
+        <item>oat milk</item>
+        <item>frozen corn</item>
+        <item>cashews</item>
+        <item>tea</item>
+        <item>chicken stock</item>
+        <item>lemonade</item>
+        <item>beef broth</item>
+        <item>chickpeas</item>
+        <item>hash browns</item>
+        <item>peaches</item>
+        <item>chocolate milk</item>
+        <item>potato chips</item>
+        <item>aluminum foil</item>
+        <item>black olives</item>
+        <item>vegetable oil</item>
+        <item>jelly</item>
+        <item>guacamole</item>
+        <item>corn tortillas</item>
+        <item>taco shells</item>
+        <item>kidney beans</item>
+        <item>coffee filters</item>
+        <item>breakfast sausage</item>
+        <item>dog treats</item>
+        <item>garbage bags</item>
+        <item>wipes</item>
+        <item>pancake mix</item>
+        <item>garlic powder</item>
+        <item>vinegar</item>
+        <item>sandwich bags</item>
+        <item>whipped cream</item>
+        <item>cool whip</item>
+        <item>pecans</item>
+        <item>grape tomatoes</item>
+        <item>meat</item>
+        <item>Swiss cheese</item>
+        <item>cranberry juice</item>
+        <item>Nutella</item>
+        <item>salad mix</item>
+        <item>diapers</item>
+        <item>nuts</item>
+        <item>Italian sausage</item>
+        <item>egg noodles</item>
+        <item>vanilla ice cream</item>
+        <item>heavy whipping cream</item>
+        <item>coleslaw</item>
+        <item>shredded cheddar</item>
+        <item>ritz crackers</item>
+        <item>shaving cream</item>
+        <item>brown rice</item>
+        <item>baby wipes</item>
+        <item>dishwasher detergent</item>
+        <item>unsalted butter</item>
+        <item>marshmallows</item>
+        <item>corn on the cob</item>
+        <item>arugula</item>
+        <item>beans</item>
+        <item>AAA batteries</item>
+        <item>meatballs</item>
+        <item>ginger ale</item>
+        <item>deli meat</item>
+        <item>white vinegar</item>
+        <item>French bread</item>
+        <item>margarine</item>
+        <item>skim milk</item>
+        <item>peas</item>
+        <item>tampons</item>
+        <item>sparkling water</item>
+        <item>frozen blueberries</item>
+        <item>tomato soup</item>
+        <item>shredded mozzarella</item>
+        <item>hairspray</item>
+        <item>salad dressing</item>
+        <item>Oreos</item>
+        <item>powdered sugar</item>
+        <item>Coke Zero</item>
+        <item>white onion</item>
+        <item>dryer sheets</item>
+        <item>burger buns</item>
+        <item>white wine</item>
+        <item>flowers</item>
+        <item>red potatoes</item>
+        <item>pop tarts</item>
+        <item>canola oil</item>
+        <item>white bread</item>
+        <item>red wine</item>
+        <item>pads</item>
+        <item>goat cheese</item>
+        <item>fabric softener</item>
+        <item>egg whites</item>
+        <item>frozen fruit</item>
+        <item>sourdough bread</item>
+        <item>cinnamon</item>
+        <item>bread crumbs</item>
+        <item>ziplock bags</item>
+        <item>frozen veggies</item>
+        <item>parchment paper</item>
+        <item>soy milk</item>
+        <item>sunscreen</item>
+        <item>thyme</item>
+        <item>Doritos</item>
+        <item>Dijon mustard</item>
+        <item>baking powder</item>
+        <item>pumpkin</item>
+        <item>water bottles</item>
+        <item>iceberg lettuce</item>
+        <item>blackberries</item>
+        <item>leeks</item>
+        <item>fresh basil</item>
+        <item>muffins</item>
+        <item>toothbrush</item>
+        <item>laundry soap</item>
+        <item>tater tots</item>
+        <item>protein bars</item>
+        <item>burgers</item>
+        <item>shredded lettuce</item>
+        <item>chicken wings</item>
+        <item>lime juice</item>
+        <item>bandaids</item>
+        <item>vanilla</item>
+        <item>romaine</item>
+        <item>shredded cheddar cheese</item>
+        <item>soap</item>
+        <item>candy</item>
+        <item>whipping cream</item>
+        <item>frozen broccoli</item>
+        <item>eggplant</item>
+        <item>bacon bits</item>
+        <item>dishwasher soap</item>
+        <item>fruit snacks</item>
+        <item>noodles</item>
+        <item>mint</item>
+        <item>sponges</item>
+        <item>cantaloupe</item>
+        <item>croissants</item>
+        <item>lunchables</item>
+        <item>juice boxes</item>
+        <item>jam</item>
+        <item>cherries</item>
+        <item>salad stuff</item>
+        <item>cumin</item>
+        <item>ibuprofen</item>
+        <item>clementines</item>
+        <item>butternut squash</item>
+        <item>chili powder</item>
+        <item>spring onions</item>
+        <item>vodka</item>
+        <item>cream of mushroom soup</item>
+        <item>sprite</item>
+        <item>paprika</item>
+        <item>almond butter</item>
+        <item>baguette</item>
+        <item>cream of chicken soup</item>
+        <item>radishes</item>
+        <item>crushed tomatoes</item>
+        <item>pepper</item>
+        <item>apple cider vinegar</item>
+        <item>squash</item>
+        <item>green bell pepper</item>
+        <item>vanilla extract</item>
+        <item>sandwich meat</item>
+        <item>pork tenderloin</item>
+        <item>rosemary</item>
+        <item>oats</item>
+        <item>razors</item>
+        <item>tide</item>
+        <item>frozen strawberries</item>
+        <item>light bulbs</item>
+        <item>Clorox wipes</item>
+        <item>mashed potatoes</item>
+        <item>stick butter</item>
+        <item>mince</item>
+        <item>coriander</item>
+        <item>lotion</item>
+        <item>canned tomatoes</item>
+        <item>chives</item>
+        <item>frozen spinach</item>
+        <item>Roma tomatoes</item>
+        <item>birthday card</item>
+        <item>sweet onion</item>
+        <item>toilet bowl cleaner</item>
+        <item>pinto beans</item>
+        <item>wheat thins</item>
+        <item>pop</item>
+        <item>seltzer</item>
+        <item>chicken tenders</item>
+        <item>fresh parsley</item>
+        <item>sunflower seeds</item>
+        <item>dill</item>
+        <item>deli turkey</item>
+        <item>fresh cilantro</item>
+        <item>minced garlic</item>
+        <item>crescent rolls</item>
+        <item>pie crust</item>
+        <item>coconut oil</item>
+        <item>pistachios</item>
+        <item>corn starch</item>
+        <item>Fritos</item>
+        <item>face wash</item>
+        <item>Dr Pepper</item>
+        <item>mandarin oranges</item>
+        <item>tums</item>
+        <item>plain Greek yogurt</item>
+        <item>Mexican cheese</item>
+        <item>Pepsi</item>
+        <item>ground pork</item>
+        <item>smoked salmon</item>
+        <item>frozen berries</item>
+        <item>hamburger meat</item>
+        <item>turkey bacon</item>
+        <item>onion powder</item>
+        <item>saltines</item>
+        <item>balsamic vinegar</item>
+        <item>tea bags</item>
+        <item>iced tea</item>
+        <item>pizza dough</item>
+        <item>trail mix</item>
+        <item>beef</item>
+        <item>mixed nuts</item>
+        <item>blue cheese</item>
+        <item>evaporated milk</item>
+        <item>rice cakes</item>
+        <item>whole chicken</item>
+        <item>stamps</item>
+    </array>
+</resources>

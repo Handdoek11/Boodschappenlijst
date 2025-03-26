@@ -1,0 +1,1005 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="master_list_values">
+        <item>חלב</item>
+        <item>ביצים</item>
+        <item>קוטג׳</item>
+        <item>עגבניות</item>
+        <item>מלפפונים</item>
+        <item>בצל</item>
+        <item>בננות</item>
+        <item>עגבניות שרי</item>
+        <item>גזר</item>
+        <item>גבינה צהובה</item>
+        <item>נייר טואלט</item>
+        <item>גבינה לבנה</item>
+        <item>חמאה</item>
+        <item>אבוקדו</item>
+        <item>פיתות</item>
+        <item>חסה</item>
+        <item>פטרוזיליה</item>
+        <item>בטטה</item>
+        <item>לחם</item>
+        <item>תפוחי אדמה</item>
+        <item>פטריות</item>
+        <item>שמן זית</item>
+        <item>חומוס</item>
+        <item>milk</item>
+        <item>לחמניות</item>
+        <item>מלפפון</item>
+        <item>שום</item>
+        <item>שמנת מתוקה</item>
+        <item>לימון</item>
+        <item>eggs</item>
+        <item>פסטה</item>
+        <item>כוסברה</item>
+        <item>יוגורט</item>
+        <item>רסק עגבניות</item>
+        <item>שמנת חמוצה</item>
+        <item>סוכר</item>
+        <item>תפוחים</item>
+        <item>טונה</item>
+        <item>כרובית</item>
+        <item>בצל ירוק</item>
+        <item>קטשופ</item>
+        <item>שמן קנולה</item>
+        <item>קישואים</item>
+        <item>פירות</item>
+        <item>שוקולד מריר</item>
+        <item>אורז</item>
+        <item>קורנפלקס</item>
+        <item>מרכך כביסה</item>
+        <item>בצל סגול</item>
+        <item>קמח</item>
+        <item>cucumber</item>
+        <item>מיונז</item>
+        <item>זיתים</item>
+        <item>טופו</item>
+        <item>פסטרמה</item>
+        <item>גמבה</item>
+        <item>שמנת לבישול</item>
+        <item>ענבים</item>
+        <item>פלפל אדום</item>
+        <item>נייר סופג</item>
+        <item>סלרי</item>
+        <item>חזה עוף</item>
+        <item>טחינה</item>
+        <item>מגבונים</item>
+        <item>tomatoes</item>
+        <item>בזיליקום</item>
+        <item>אגוזי מלך</item>
+        <item>כרוב</item>
+        <item>בשר טחון</item>
+        <item>תפוח אדמה</item>
+        <item>אקונומיקה</item>
+        <item>פתיתים</item>
+        <item>אבטיח</item>
+        <item>תפוזים</item>
+        <item>שמן</item>
+        <item>תותים</item>
+        <item>פירורי לחם</item>
+        <item>bread</item>
+        <item>עגבניות מרוסקות</item>
+        <item>onions</item>
+        <item>חלב סויה</item>
+        <item>carrots</item>
+        <item>נוטלה</item>
+        <item>yogurt</item>
+        <item>שקדי מרק</item>
+        <item>לימונים</item>
+        <item>חלה</item>
+        <item>דבש</item>
+        <item>בננה</item>
+        <item>משחת שיניים</item>
+        <item>ברוקולי</item>
+        <item>דלעת</item>
+        <item>bananas</item>
+        <item>תירס</item>
+        <item>חציל</item>
+        <item>אקטימל</item>
+        <item>מלח</item>
+        <item>שקיות זבל</item>
+        <item>סבון כלים</item>
+        <item>גבינה בולגרית</item>
+        <item>אגסים</item>
+        <item>קישוא</item>
+        <item>potatoes</item>
+        <item>נענע</item>
+        <item>במבה</item>
+        <item>תמרים</item>
+        <item>מעדנים</item>
+        <item>סלק</item>
+        <item>מלפפון חמוץ</item>
+        <item>קולה</item>
+        <item>פרמזן</item>
+        <item>קמח לבן</item>
+        <item>מגבות נייר</item>
+        <item>מוצרלה</item>
+        <item>גבינת שמנת</item>
+        <item>נקניק</item>
+        <item>חצילים</item>
+        <item>מיץ תפוזים</item>
+        <item>ירקות</item>
+        <item>toilet paper</item>
+        <item>שמפו</item>
+        <item>שוקולית</item>
+        <item>נקניקיות</item>
+        <item>מילקי</item>
+        <item>בצל לבן</item>
+        <item>פופקורן</item>
+        <item>גלידה</item>
+        <item>סבון ידיים</item>
+        <item>אבקת כביסה</item>
+        <item>שמיר</item>
+        <item>חטיפים</item>
+        <item>בטטות</item>
+        <item>פלפלים</item>
+        <item>apples</item>
+        <item>חומץ</item>
+        <item>סלמון</item>
+        <item>פלפל חריף</item>
+        <item>butter</item>
+        <item>נייר אפיה</item>
+        <item>גבנצ</item>
+        <item>ציפס</item>
+        <item>סוכר לבן</item>
+        <item>lettuce</item>
+        <item>אורז בסמטי</item>
+        <item>חמאת בוטנים</item>
+        <item>פתי בר</item>
+        <item>לחם פרוס</item>
+        <item>בירה</item>
+        <item>סוכר חום</item>
+        <item>מים</item>
+        <item>מסטיקים</item>
+        <item>שקדים</item>
+        <item>פרגיות</item>
+        <item>טישו</item>
+        <item>קפה שחור</item>
+        <item>טבליות למדיח</item>
+        <item>קולורבי</item>
+        <item>סודה</item>
+        <item>קמח תופח</item>
+        <item>תפוא</item>
+        <item>נייר מגבת</item>
+        <item>עוף</item>
+        <item>שניצלים</item>
+        <item>fruit</item>
+        <item>paper towels</item>
+        <item>avocado</item>
+        <item>מלון</item>
+        <item>טורטיות</item>
+        <item>cheese</item>
+        <item>קוסקוס</item>
+        <item>שמנת</item>
+        <item>רוטב סויה</item>
+        <item>כרישה</item>
+        <item>נייר אפייה</item>
+        <item>חמוציות</item>
+        <item>תמצית וניל</item>
+        <item>צנוברים</item>
+        <item>חרדל</item>
+        <item>קרקרים</item>
+        <item>lemons</item>
+        <item>zucchini</item>
+        <item>שעועית ירוקה</item>
+        <item>אבקת סוכר</item>
+        <item>גרנולה</item>
+        <item>סילאן</item>
+        <item>בולגרית</item>
+        <item>מלפפונים חמוצים</item>
+        <item>mushrooms</item>
+        <item>קפה</item>
+        <item>תרד</item>
+        <item>תפוחים ירוקים</item>
+        <item>ג\'ינג\'ר</item>
+        <item>קולה זירו</item>
+        <item>שניצל תירס</item>
+        <item>חלב שיבולת שועל</item>
+        <item>olive oil</item>
+        <item>מנגו</item>
+        <item>молоко</item>
+        <item>סבון גוף</item>
+        <item>שקיות אשפה</item>
+        <item>קשיו</item>
+        <item>חיתולים</item>
+        <item>עגבניה</item>
+        <item>אפרסקים</item>
+        <item>עוגיות</item>
+        <item>חלב דל לקטוז</item>
+        <item>כרוב לבן</item>
+        <item>פפריקה מתוקה</item>
+        <item>יין</item>
+        <item>salmon</item>
+        <item>טחינה גולמית</item>
+        <item>מלח גס</item>
+        <item>מלח למדיח</item>
+        <item>קינואה</item>
+        <item>garlic</item>
+        <item>שומשום</item>
+        <item>שיבולת שועל</item>
+        <item>מגבונים לחים</item>
+        <item>tuna</item>
+        <item>hummus</item>
+        <item>נס קפה</item>
+        <item>sugar</item>
+        <item>яйца</item>
+        <item>chicken</item>
+        <item>אדממה</item>
+        <item>כרעיים</item>
+        <item>קלמנטינות</item>
+        <item>שוקו</item>
+        <item>מפיות</item>
+        <item>נייר כסף</item>
+        <item>חלב שקדים</item>
+        <item>sweet potatoes</item>
+        <item>שוקולד</item>
+        <item>פרורי לחם</item>
+        <item>огурцы</item>
+        <item>celery</item>
+        <item>לחם קל</item>
+        <item>מוצרלה מגורדת</item>
+        <item>קרוטונים</item>
+        <item>cottage cheese</item>
+        <item>חלב קוקוס</item>
+        <item>אגס</item>
+        <item>flour</item>
+        <item>tofu</item>
+        <item>קורנפלור</item>
+        <item>בצק עלים</item>
+        <item>גבינה צהובה מגורדת</item>
+        <item>סויה</item>
+        <item>cream cheese</item>
+        <item>קוואקר</item>
+        <item>peppers</item>
+        <item>גמבות</item>
+        <item>помидоры</item>
+        <item>תירס שימורים</item>
+        <item>צנוניות</item>
+        <item>בייגלה</item>
+        <item>ספגטי</item>
+        <item>cherry tomatoes</item>
+        <item>דאודורנט</item>
+        <item>ketchup</item>
+        <item>cottage</item>
+        <item>סוכר וניל</item>
+        <item>קמח מלא</item>
+        <item>בירות</item>
+        <item>יוגורט יווני</item>
+        <item>tissues</item>
+        <item>יין אדום</item>
+        <item>שניצל</item>
+        <item>עירית</item>
+        <item>coffee</item>
+        <item>קרם קוקוס</item>
+        <item>פריכיות אורז</item>
+        <item>ערמונים</item>
+        <item>קמח רגיל</item>
+        <item>red onion</item>
+        <item>פלפלים אדומים</item>
+        <item>תפוחי עץ</item>
+        <item>אפונה קפואה</item>
+        <item>פלפל שחור</item>
+        <item>פלפל</item>
+        <item>אבקת אפייה</item>
+        <item>challah</item>
+        <item>כנפיים</item>
+        <item>בקר טחון</item>
+        <item>פריכיות</item>
+        <item>pasta</item>
+        <item>שורש סלרי</item>
+        <item>יוגורטים</item>
+        <item>גזרים</item>
+        <item>פלפל צהוב</item>
+        <item>אבקת אפיה</item>
+        <item>eggplant</item>
+        <item>קיווי</item>
+        <item>שורש פטרוזיליה</item>
+        <item>oranges</item>
+        <item>שמרים</item>
+        <item>נוזל כביסה</item>
+        <item>parsley</item>
+        <item>מיץ לימון</item>
+        <item>פטריות טריות</item>
+        <item>ניילון נצמד</item>
+        <item>rice</item>
+        <item>בוטנים</item>
+        <item>almond milk</item>
+        <item>yellow cheese</item>
+        <item>red pepper</item>
+        <item>cabbage</item>
+        <item>broccoli</item>
+        <item>תחתוניות</item>
+        <item>שוקולד השחר</item>
+        <item>toothpaste</item>
+        <item>soy milk</item>
+        <item>זוקיני</item>
+        <item>grapes</item>
+        <item>cauliflower</item>
+        <item>עדשים שחורות</item>
+        <item>צימוקים</item>
+        <item>סלמון מעושן</item>
+        <item>רוקט</item>
+        <item>лук</item>
+        <item>אפרסמון</item>
+        <item>גרעיני דלעת</item>
+        <item>grape juice</item>
+        <item>ריבה</item>
+        <item>כמון</item>
+        <item>יין לבן</item>
+        <item>חמאה למריחה</item>
+        <item>שומר</item>
+        <item>canola oil</item>
+        <item>ברוקולי קפוא</item>
+        <item>צ\'יריוס</item>
+        <item>תפוציפס</item>
+        <item>картошка</item>
+        <item>peanut butter</item>
+        <item>בייבי מוצרלה</item>
+        <item>שום קפוא</item>
+        <item>תפוחים אדומים</item>
+        <item>גבינת פטה</item>
+        <item>רוטב עגבניות</item>
+        <item>crackers</item>
+        <item>שתיה קלה</item>
+        <item>גבינה מגורדת</item>
+        <item>טימין</item>
+        <item>נקטרינות</item>
+        <item>נקטרינה</item>
+        <item>פקאנים</item>
+        <item>ריקוטה</item>
+        <item>מלוואח</item>
+        <item>מיץ ענבים</item>
+        <item>עדשים כתומות</item>
+        <item>גבינה צפתית</item>
+        <item>שוקולד חלב</item>
+        <item>קקאו</item>
+        <item>honey</item>
+        <item>ice cream</item>
+        <item>творог</item>
+        <item>אוכמניות</item>
+        <item>חטיפי אנרגיה</item>
+        <item>בורגול</item>
+        <item>cereal</item>
+        <item>שזיפים</item>
+        <item>נודלס</item>
+        <item>בצל יבש</item>
+        <item>גבינה</item>
+        <item>orange juice</item>
+        <item>olives</item>
+        <item>sweet potato</item>
+        <item>עלי בייבי</item>
+        <item>גבינות</item>
+        <item>ביסקוויטים</item>
+        <item>cornflakes</item>
+        <item>spinach</item>
+        <item>ציפס קפוא</item>
+        <item>яблоки</item>
+        <item>קמח כוסמין</item>
+        <item>מרשמלו</item>
+        <item>שוקולד צ׳יפס</item>
+        <item>דגים</item>
+        <item>сметана</item>
+        <item>מברשות שיניים</item>
+        <item>טונה בשמן</item>
+        <item>תירוש</item>
+        <item>עגבניות מיובשות</item>
+        <item>chocolate chips</item>
+        <item>כריות</item>
+        <item>corn</item>
+        <item>napkins</item>
+        <item>קינמון</item>
+        <item>פלפל ירוק</item>
+        <item>שוקולד לבן</item>
+        <item>watermelon</item>
+        <item>סולת</item>
+        <item>סודה לשתיה</item>
+        <item>פומלה</item>
+        <item>ירקות לסלט</item>
+        <item>תה ירוק</item>
+        <item>ארטיקים</item>
+        <item>ג׳ל כביסה</item>
+        <item>סירופ מייפל</item>
+        <item>חלב רגיל</item>
+        <item>מרק עוף</item>
+        <item>אינסטנט פודינג וניל</item>
+        <item>זיתים שחורים</item>
+        <item>walnuts</item>
+        <item>שמרים יבשים</item>
+        <item>גרעיני חמניה</item>
+        <item>אורגנו</item>
+        <item>морковь</item>
+        <item>לחמניות המבורגר</item>
+        <item>טונה במים</item>
+        <item>נבטים</item>
+        <item>פיצה</item>
+        <item>ג\'חנון</item>
+        <item>שתיה</item>
+        <item>יוגורט פרו</item>
+        <item>דובונים</item>
+        <item>pita</item>
+        <item>גמבה אדומה</item>
+        <item>water</item>
+        <item>אגוזים</item>
+        <item>מרכך</item>
+        <item>שקיות אוכל</item>
+        <item>דלורית</item>
+        <item>brown sugar</item>
+        <item>צפתית</item>
+        <item>גמדים</item>
+        <item>pickles</item>
+        <item>אפונה</item>
+        <item>תירס קפוא</item>
+        <item>נייר מטבח</item>
+        <item>בירה שחורה</item>
+        <item>מים מינרלים</item>
+        <item>שוקיים עוף</item>
+        <item>קשים</item>
+        <item>עלי תרד</item>
+        <item>chocolate</item>
+        <item>דג סלמון</item>
+        <item>dates</item>
+        <item>בשר</item>
+        <item>קבנוס</item>
+        <item>יוגורט עיזים</item>
+        <item>טישיו</item>
+        <item>mayonnaise</item>
+        <item>oatmeal</item>
+        <item>כוסמת</item>
+        <item>רוטב טריאקי</item>
+        <item>דיאט קולה</item>
+        <item>בגט</item>
+        <item>זירו</item>
+        <item>אבקת מרק עוף</item>
+        <item>מצות</item>
+        <item>זעתר</item>
+        <item>גבינה צהובה מגוררת</item>
+        <item>бананы</item>
+        <item>מלאווח</item>
+        <item>אורז לבן</item>
+        <item>חיתולים מידה 5</item>
+        <item>שישיית מים</item>
+        <item>עוף טחון</item>
+        <item>חלב נטול לקטוז</item>
+        <item>דפי לזניה</item>
+        <item>נייר אלומיניום</item>
+        <item>שמנת להקצפה</item>
+        <item>סודה לשתייה</item>
+        <item>לאבנה</item>
+        <item>קליק</item>
+        <item>вода</item>
+        <item>popcorn</item>
+        <item>פלסטרים</item>
+        <item>rolls</item>
+        <item>soy sauce</item>
+        <item>מלח שולחן</item>
+        <item>עוגה</item>
+        <item>סלמי</item>
+        <item>חומץ בלסמי</item>
+        <item>אורז פרסי</item>
+        <item>coconut milk</item>
+        <item>ריבת חלב</item>
+        <item>פילה עוף</item>
+        <item>מייפל</item>
+        <item>חלבה</item>
+        <item>קלמנטינה</item>
+        <item>שום כתוש</item>
+        <item>דפי אורז</item>
+        <item>ginger</item>
+        <item>בורקסים</item>
+        <item>nuts</item>
+        <item>כורכום</item>
+        <item>сахар</item>
+        <item>fish</item>
+        <item>פודינג וניל</item>
+        <item>white cheese</item>
+        <item>יוגורט לבן</item>
+        <item>רוטב צילי מתוק</item>
+        <item>סבון פנים</item>
+        <item>שמנת מתוקה להקצפה</item>
+        <item>פלפל ירוק חריף</item>
+        <item>אורז יסמין</item>
+        <item>salt</item>
+        <item>авокадо</item>
+        <item>גרגירי חומוס</item>
+        <item>wine</item>
+        <item>כרעיים עוף</item>
+        <item>אורז מלא</item>
+        <item>רביולי</item>
+        <item>mustard</item>
+        <item>strawberries</item>
+        <item>סבון נוזלי</item>
+        <item>שקדים פרוסים</item>
+        <item>מנגולד</item>
+        <item>lemon juice</item>
+        <item>אפרופו</item>
+        <item>בצק פילו</item>
+        <item>עדשים ירוקות</item>
+        <item>אבקת שום</item>
+        <item>אננס</item>
+        <item>אפרסק</item>
+        <item>תפוחי אדמה קטנים</item>
+        <item>טיטולים</item>
+        <item>sour cream</item>
+        <item>שמן קוקוס</item>
+        <item>מגבונים לרצפה</item>
+        <item>clementines</item>
+        <item>דניאלה</item>
+        <item>diapers</item>
+        <item>נוזל הברקה למדיח</item>
+        <item>vegetables</item>
+        <item>מגבות נייר למטבח</item>
+        <item>חוט דנטלי</item>
+        <item>ברנפלקס</item>
+        <item>אורז עגול</item>
+        <item>סקי</item>
+        <item>מלח לימון</item>
+        <item>לבנה</item>
+        <item>קוקוס</item>
+        <item>фрукты</item>
+        <item>גרביים</item>
+        <item>קמח כוסמין מלא</item>
+        <item>deodorant</item>
+        <item>חמוצים</item>
+        <item>אגוזי פקאן</item>
+        <item>קפה נמס</item>
+        <item>פטה</item>
+        <item>פיסטוקים</item>
+        <item>בצל אדום</item>
+        <item>חלומי</item>
+        <item>שום גבישי</item>
+        <item>מיץ עגבניות</item>
+        <item>זיתים ירוקים</item>
+        <item>wipes</item>
+        <item>סוכרזית</item>
+        <item>פיצוחים</item>
+        <item>אפרסמונים</item>
+        <item>שעועית ירוקה קפואה</item>
+        <item>כפפות חד פעמיות</item>
+        <item>קולרבי</item>
+        <item>хлеб</item>
+        <item>ויטמינציק</item>
+        <item>גבינצ</item>
+        <item>קרמבו</item>
+        <item>mango</item>
+        <item>בצלים</item>
+        <item>капуста</item>
+        <item>חצי אבטיח</item>
+        <item>mozzarella</item>
+        <item>קצף גילוח</item>
+        <item>מרכך שיער</item>
+        <item>ביסלי</item>
+        <item>גאודה</item>
+        <item>מיץ</item>
+        <item>אנטי קאלק</item>
+        <item>שמפו לילדים</item>
+        <item>garbage bags</item>
+        <item>מקלות אוזניים</item>
+        <item>שום טרי</item>
+        <item>תחבושות</item>
+        <item>קרם הגנה</item>
+        <item>בקבוקי מים קטנים</item>
+        <item>bread crumbs</item>
+        <item>אפונה יבשה</item>
+        <item>חלות</item>
+        <item>שקיות סנדוויץ</item>
+        <item>tomato sauce</item>
+        <item>pears</item>
+        <item>שמן חמניות</item>
+        <item>туалетная бумага</item>
+        <item>פסטו</item>
+        <item>tomato paste</item>
+        <item>meat</item>
+        <item>קייל</item>
+        <item>green beans</item>
+        <item>אקטימל תות</item>
+        <item>שמן רגיל</item>
+        <item>רימונים</item>
+        <item>טמפונים</item>
+        <item>quinoa</item>
+        <item>ניר טואלט</item>
+        <item>melon</item>
+        <item>applesauce</item>
+        <item>כרוב אדום</item>
+        <item>chips</item>
+        <item>tea</item>
+        <item>פדים</item>
+        <item>חסה שטופה</item>
+        <item>פקאן</item>
+        <item>pumpkin</item>
+        <item>שיפודים</item>
+        <item>שעועית לבנה</item>
+        <item>פיתות כוסמין</item>
+        <item>המבורגרים</item>
+        <item>хумус</item>
+        <item>חזרת</item>
+        <item>קמח שקדים</item>
+        <item>almonds</item>
+        <item>Greek yogurt</item>
+        <item>чеснок</item>
+        <item>חזה עוף לשניצלים</item>
+        <item>סבון</item>
+        <item>מי פה</item>
+        <item>hand soap</item>
+        <item>raisins</item>
+        <item>גבינת חמד</item>
+        <item>בזיליקום טרי</item>
+        <item>blueberries</item>
+        <item>מרגרינה</item>
+        <item>שעועית ירוקה עדינה</item>
+        <item>מברשת שיניים</item>
+        <item>נוזל כלים</item>
+        <item>תירס גמדי</item>
+        <item>pizza</item>
+        <item>רוטב לפסטה</item>
+        <item>נוטרילון</item>
+        <item>רוזמרין</item>
+        <item>קפסולות קפה</item>
+        <item>מגב</item>
+        <item>צנונית</item>
+        <item>לחם מלא</item>
+        <item>cilantro</item>
+        <item>סטייקים</item>
+        <item>סילן</item>
+        <item>oil</item>
+        <item>feta</item>
+        <item>leek</item>
+        <item>אספרגוס</item>
+        <item>сыр</item>
+        <item>פיטריות</item>
+        <item>פרומעז</item>
+        <item>קמח לחם</item>
+        <item>מטרנה</item>
+        <item>זיתי קלמטה</item>
+        <item>מי טוניק</item>
+        <item>חסה עגולה</item>
+        <item>סמרטוטים</item>
+        <item>פיצה קפואה</item>
+        <item>котедж</item>
+        <item>грибы</item>
+        <item>питы</item>
+        <item>אשל</item>
+        <item>כוסות חדפ</item>
+        <item>beer</item>
+        <item>beets</item>
+        <item>תחתונים</item>
+        <item>squash</item>
+        <item>tortillas</item>
+        <item>cashews</item>
+        <item>סבון כביסה</item>
+        <item>טורטיה</item>
+        <item>מים מינרליים</item>
+        <item>פפריקה</item>
+        <item>גבינת סקי</item>
+        <item>לבבות דקל</item>
+        <item>колбаса</item>
+        <item>סימפוניה</item>
+        <item>ממרח עגבניות מיובשות</item>
+        <item>צ׳ילי מתוק</item>
+        <item>דוריטוס</item>
+        <item>salad</item>
+        <item>chicken breast</item>
+        <item>משחת שיניים לילדים</item>
+        <item>פיתות קטנות</item>
+        <item>שלוקים</item>
+        <item>shampoo</item>
+        <item>עוף שלם</item>
+        <item>פפריקה חריפה</item>
+        <item>ניוקי</item>
+        <item>קמח מצה</item>
+        <item>סלרי עלים</item>
+        <item>soda</item>
+        <item>hot dogs</item>
+        <item>margarine</item>
+        <item>שוקולד נוטלה</item>
+        <item>גבינת עיזים</item>
+        <item>tehina</item>
+        <item>קרם לשיער</item>
+        <item>אצבעות מוצרלה</item>
+        <item>פרסה</item>
+        <item>פלפל כתום</item>
+        <item>mayo</item>
+        <item>אגוזי לוז</item>
+        <item>couscous</item>
+        <item>bell peppers</item>
+        <item>תה קמומיל</item>
+        <item>אינסטנט פודינג</item>
+        <item>מסקרפונה</item>
+        <item>סוכריות</item>
+        <item>לחם שיפון</item>
+        <item>frozen peas</item>
+        <item>תפוח עץ</item>
+        <item>אבקת מרק</item>
+        <item>ממרח תמרים</item>
+        <item>dish soap</item>
+        <item>כפפות</item>
+        <item>תה ארל גריי</item>
+        <item>מסטיק</item>
+        <item>ספרייט</item>
+        <item>green onions</item>
+        <item>baking paper</item>
+        <item>מפה חד פעמית</item>
+        <item>רימון</item>
+        <item>туна</item>
+        <item>סרדינים</item>
+        <item>smoked salmon</item>
+        <item>דלי מגבונים</item>
+        <item>גריסי פנינה</item>
+        <item>cheerios</item>
+        <item>מיץ חמוציות</item>
+        <item>ארטישוק</item>
+        <item>כפכפים</item>
+        <item>בגד ים</item>
+        <item>חיטה</item>
+        <item>רוויון</item>
+        <item>קמח שיפון</item>
+        <item>chickpeas</item>
+        <item>פטל</item>
+        <item>pastrami</item>
+        <item>חלב עיזים</item>
+        <item>צלחות חד פעמיות</item>
+        <item>תפוז</item>
+        <item>עוגיות לוטוס</item>
+        <item>Parmesan</item>
+        <item>pretzels</item>
+        <item>ממרח שוקולד</item>
+        <item>חרדל דיז׳ון</item>
+        <item>cream</item>
+        <item>אטריות אורז</item>
+        <item>cheddar</item>
+        <item>רכז רימונים</item>
+        <item>שמן שומשום</item>
+        <item>baking soda</item>
+        <item>מקלות גבינה</item>
+        <item>אצטון</item>
+        <item>כוסות חד פעמי</item>
+        <item>סכיני גילוח</item>
+        <item>אגוז מוסקט</item>
+        <item>dark chocolate</item>
+        <item>laundry detergent</item>
+        <item>pitot</item>
+        <item>grated cheese</item>
+        <item>לבבות חסה</item>
+        <item>כרוב סגול</item>
+        <item>maple syrup</item>
+        <item>מיץ תפוחים</item>
+        <item>вино</item>
+        <item>יוגורט תות</item>
+        <item>גבינה מלוחה</item>
+        <item>צלחות חדפ</item>
+        <item>granola</item>
+        <item>פרכיות</item>
+        <item>אבקת מרק בצל</item>
+        <item>שקיות סנדוויצים</item>
+        <item>מים בטעמים</item>
+        <item>сосиски</item>
+        <item>ספוג הפלא</item>
+        <item>תרסיס שמן</item>
+        <item>green apples</item>
+        <item>майонез</item>
+        <item>אצות</item>
+        <item>קורנפלקס אלופים</item>
+        <item>פטריות שמפיניון</item>
+        <item>מקלות קינמון</item>
+        <item>צמר גפן</item>
+        <item>frozen broccoli</item>
+        <item>סלטים</item>
+        <item>טריאקי</item>
+        <item>נבטי חמניה</item>
+        <item>мука</item>
+        <item>basil</item>
+        <item>чай</item>
+        <item>רסק תפוחים</item>
+        <item>מלפפון בייבי</item>
+        <item>נייר טואלט לח</item>
+        <item>דלעת ערמונים</item>
+        <item>תחליב רחצה</item>
+        <item>peaches</item>
+        <item>кабачки</item>
+        <item>קורנפלקס כריות</item>
+        <item>ריבת תות</item>
+        <item>לחמית</item>
+        <item>dill</item>
+        <item>ground beef</item>
+        <item>שעועית</item>
+        <item>לחם כוסמין</item>
+        <item>chicken wings</item>
+        <item>bagels</item>
+        <item>כריות יפניות</item>
+        <item>גזר גמדי</item>
+        <item>קפסולות</item>
+        <item>lox</item>
+        <item>המבורגר</item>
+        <item>קליה</item>
+        <item>בורגול דק</item>
+        <item>קרם גוף</item>
+        <item>מוצרלה מגוררת</item>
+        <item>סוללות AA</item>
+        <item>tahini</item>
+        <item>כבד</item>
+        <item>גבינת ריקוטה</item>
+        <item>סבון רחצה</item>
+        <item>קיסמים</item>
+        <item>לורפק</item>
+        <item>סקוטש לכלים</item>
+        <item>peas</item>
+        <item>лимоны</item>
+        <item>כובע</item>
+        <item>לפת</item>
+        <item>מוצצים</item>
+        <item>vinegar</item>
+        <item>קממבר</item>
+        <item>פחמים</item>
+        <item>גפרורים</item>
+        <item>כרוב ניצנים</item>
+        <item>פרג</item>
+        <item>שוגי</item>
+        <item>kale</item>
+        <item>אפונה עדינה</item>
+        <item>רוטב פיצה</item>
+        <item>פסטה פנה</item>
+        <item>שרימפס</item>
+        <item>עלי מנגולד</item>
+        <item>קיסמי אוזניים</item>
+        <item>שרי</item>
+        <item>משקפי שמש</item>
+        <item>silan</item>
+        <item>מלווח</item>
+        <item>סבון ילדים</item>
+        <item>מרווה</item>
+        <item>сливки</item>
+        <item>עדשים אדומות</item>
+        <item>עוגיות שוקולד צ׳יפס</item>
+        <item>חסה סלנובה</item>
+        <item>פילדלפיה</item>
+        <item>סבון לאסלה</item>
+        <item>סוכר קנים</item>
+        <item>זיתים טבעות</item>
+        <item>oats</item>
+        <item>соль</item>
+        <item>אבקת קקאו</item>
+        <item>עדשים</item>
+        <item>חמאת בוטנים טבעית</item>
+        <item>צ׳יה</item>
+        <item>קוקוס טחון</item>
+        <item>אוראו</item>
+        <item>nectarines</item>
+        <item>מעדני סויה</item>
+        <item>עגבניות מגי</item>
+        <item>coke</item>
+        <item>frozen green beans</item>
+        <item>conditioner</item>
+        <item>סקוטש</item>
+        <item>תאנים</item>
+        <item>חמאה 200 גרם</item>
+        <item>משחת שיניים קולגייט</item>
+        <item>פירות יער קפואים</item>
+        <item>dishwasher salt</item>
+        <item>חומץ תפוחים</item>
+        <item>פלפל שחור גרוס</item>
+        <item>sliced cheese</item>
+        <item>זרעי צ׳יה</item>
+        <item>שעועית ירוקה סנפרוסט</item>
+        <item>מברשת שיער</item>
+        <item>cookies</item>
+        <item>хаса</item>
+        <item>פומלית</item>
+        <item>מטבוחה</item>
+        <item>pomegranate</item>
+        <item>שקדים מולבנים</item>
+        <item>plastic cups</item>
+        <item>кетчуп</item>
+        <item>גיל</item>
+        <item>перец</item>
+        <item>מלפפונים במלח</item>
+        <item>עגבניות שרי תמר</item>
+        <item>baby wipes</item>
+        <item>heavy cream</item>
+        <item>כרפס</item>
+        <item>קנלוני</item>
+        <item>כרובית קפואה</item>
+        <item>פרגית</item>
+        <item>кофе</item>
+        <item>ירקות קפואים</item>
+        <item>пиво</item>
+        <item>אפונה סנפרוסט</item>
+        <item>בייגל</item>
+        <item>שוקולדים</item>
+        <item>sesame seeds</item>
+        <item>ספריי שמן</item>
+        <item>rice cakes</item>
+        <item>נרות שבת</item>
+        <item>יוגורט סויה</item>
+        <item>שוקיים</item>
+        <item>שמרים טריים</item>
+        <item>שקדים טחונים</item>
+        <item>אוכמניות קפואות</item>
+        <item>לזניה</item>
+        <item>vanilla</item>
+        <item>שעועית קפואה</item>
+        <item>תבניות אינגליש קייק</item>
+        <item>зелень</item>
+        <item>פנקו</item>
+        <item>חלה מתוקה</item>
+        <item>דגני בוקר</item>
+        <item>משמשים</item>
+        <item>peanuts</item>
+        <item>jam</item>
+        <item>שקיות סנדביץ</item>
+        <item>צ׳ילי</item>
+        <item>feta cheese</item>
+        <item>מבריק למדיח</item>
+        <item>דאורדורנט</item>
+        <item>ריקוטה למריחה</item>
+        <item>סוכר חום כהה</item>
+        <item>נרות חנוכה</item>
+        <item>נרות</item>
+        <item>toilet cleaner</item>
+        <item>אפונה וגזר</item>
+        <item>שמפו ילדים</item>
+        <item>גריל עוף</item>
+        <item>gefilte fish</item>
+        <item>סבון לילדים</item>
+        <item>гречка</item>
+        <item>baking powder</item>
+        <item>חטיף אנרגיה</item>
+        <item>סבון נוזלי לידיים</item>
+        <item>white sugar</item>
+        <item>יוגורט עזים</item>
+        <item>coconut oil</item>
+        <item>סוללות AAA</item>
+        <item>סחוג</item>
+        <item>טחינה הר ברכה</item>
+        <item>red cabbage</item>
+        <item>whole chicken</item>
+        <item>תה רגיל</item>
+        <item>סנובון</item>
+        <item>תרסיס שמן זית</item>
+        <item>בקבוקי מים</item>
+        <item>spaghetti</item>
+        <item>יין תירוש</item>
+        <item>סומסום</item>
+        <item>מוטי</item>
+        <item>טבליות מדיח</item>
+        <item>מסיכות</item>
+        <item>French fries</item>
+        <item>דיאט ספרייט</item>
+        <item>Nutella</item>
+        <item>מיץ לימון משומר</item>
+        <item>crushed tomatoes</item>
+        <item>oat milk</item>
+        <item>אצבעות גבינה</item>
+        <item>חומר לאסלה</item>
+        <item>פירות יבשים</item>
+        <item>укроп</item>
+        <item>דנונה</item>
+        <item>oregano</item>
+        <item>פקאן סיני</item>
+        <item>plums</item>
+        <item>אנשובי</item>
+        <item>scallions</item>
+        <item>גמבה צהובה</item>
+        <item>yeast</item>
+        <item>ממרח פסטו</item>
+        <item>mouthwash</item>
+        <item>snacks</item>
+        <item>frozen spinach</item>
+        <item>צ׳יפס בטטה</item>
+        <item>קמח כוסמין לבן</item>
+        <item>paprika</item>
+        <item>בישקוטים</item>
+        <item>טבעות בצל</item>
+        <item>ריצפז</item>
+        <item>סוכר דמררה</item>
+        <item>soap</item>
+        <item>red wine vinegar</item>
+        <item>נאצוס</item>
+        <item>soup nuts</item>
+        <item>ממרח לוטוס</item>
+        <item>באגט</item>
+        <item>צ׳דר</item>
+        <item>מסיר אבנית</item>
+        <item>חלווה</item>
+        <item>garlic powder</item>
+    </array>
+</resources>

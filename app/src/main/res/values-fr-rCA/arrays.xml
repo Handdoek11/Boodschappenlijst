@@ -1,0 +1,1005 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="master_list_values">
+        <item>lait</item>
+        <item>oeufs</item>
+        <item>bananes</item>
+        <item>pain</item>
+        <item>tomates</item>
+        <item>champignons</item>
+        <item>carottes</item>
+        <item>concombre</item>
+        <item>céleri</item>
+        <item>brocoli</item>
+        <item>beurre</item>
+        <item>chips</item>
+        <item>fromage</item>
+        <item>yogourt</item>
+        <item>pommes</item>
+        <item>oignons</item>
+        <item>patates</item>
+        <item>fruits</item>
+        <item>bacon</item>
+        <item>crème 35%</item>
+        <item>jus d\'orange</item>
+        <item>salade</item>
+        <item>café</item>
+        <item>fraises</item>
+        <item>citron</item>
+        <item>crème sûre</item>
+        <item>poivrons</item>
+        <item>ail</item>
+        <item>mayonnaise</item>
+        <item>laitue</item>
+        <item>poulet</item>
+        <item>jambon</item>
+        <item>ketchup</item>
+        <item>avocat</item>
+        <item>saumon</item>
+        <item>boeuf haché</item>
+        <item>tomates cerises</item>
+        <item>avocats</item>
+        <item>banane</item>
+        <item>tortillas</item>
+        <item>chou-fleur</item>
+        <item>céréales</item>
+        <item>concombres</item>
+        <item>papier toilette</item>
+        <item>salsa</item>
+        <item>kleenex</item>
+        <item>margarine</item>
+        <item>bière</item>
+        <item>lime</item>
+        <item>oeuf</item>
+        <item>raisins</item>
+        <item>bleuets</item>
+        <item>coriandre</item>
+        <item>épinards</item>
+        <item>oignons verts</item>
+        <item>tomate</item>
+        <item>framboises</item>
+        <item>asperges</item>
+        <item>pain hamburger</item>
+        <item>papier de toilette</item>
+        <item>pain baguette</item>
+        <item>pâte de tomate</item>
+        <item>huile d\'olive</item>
+        <item>crème glacée</item>
+        <item>crevettes</item>
+        <item>tofu</item>
+        <item>poivron rouge</item>
+        <item>sauce soya</item>
+        <item>jus</item>
+        <item>oignon rouge</item>
+        <item>gingembre</item>
+        <item>clémentines</item>
+        <item>parmesan</item>
+        <item>jus orange</item>
+        <item>ananas</item>
+        <item>fromage à la crème</item>
+        <item>fromage râpé</item>
+        <item>sirop d\'érable</item>
+        <item>légumes</item>
+        <item>bouillon de poulet</item>
+        <item>farine</item>
+        <item>citrons</item>
+        <item>barres tendres</item>
+        <item>sucre</item>
+        <item>bagel</item>
+        <item>miel</item>
+        <item>cassonade</item>
+        <item>tomates en dés</item>
+        <item>nutella</item>
+        <item>poitrines de poulet</item>
+        <item>yogourt grec</item>
+        <item>bagels</item>
+        <item>piments</item>
+        <item>oranges</item>
+        <item>fromage feta</item>
+        <item>saucisses</item>
+        <item>poires</item>
+        <item>steak haché</item>
+        <item>champignon</item>
+        <item>riz</item>
+        <item>pain tranché</item>
+        <item>échalotes</item>
+        <item>persil</item>
+        <item>crème à café</item>
+        <item>piment</item>
+        <item>pain hot dog</item>
+        <item>saumon fumé</item>
+        <item>viandes froides</item>
+        <item>laitue romaine</item>
+        <item>eau</item>
+        <item>gruau</item>
+        <item>feta</item>
+        <item>limes</item>
+        <item>yogourt nature</item>
+        <item>croissants</item>
+        <item>oignon</item>
+        <item>pain blanc</item>
+        <item>essuie tout</item>
+        <item>basilic</item>
+        <item>fromage cottage</item>
+        <item>mangue</item>
+        <item>courgettes</item>
+        <item>petits fruits</item>
+        <item>biscuits</item>
+        <item>lait de coco</item>
+        <item>mayo</item>
+        <item>tostitos</item>
+        <item>macaroni</item>
+        <item>pâtes</item>
+        <item>roquette</item>
+        <item>baguette</item>
+        <item>hummus</item>
+        <item>sauce tomate</item>
+        <item>patate</item>
+        <item>viande hachée</item>
+        <item>popcorn</item>
+        <item>vin blanc</item>
+        <item>lait sans lactose</item>
+        <item>poitrine de poulet</item>
+        <item>frites</item>
+        <item>porc haché</item>
+        <item>poivron</item>
+        <item>pizza</item>
+        <item>craquelins</item>
+        <item>pepperoni</item>
+        <item>ciboulette</item>
+        <item>pain naan</item>
+        <item>fromage mozzarella</item>
+        <item>filet de porc</item>
+        <item>fromage cheddar</item>
+        <item>spaghetti</item>
+        <item>carotte</item>
+        <item>patates douces</item>
+        <item>beurre d\'arachide</item>
+        <item>fruits congelés</item>
+        <item>orange</item>
+        <item>vin</item>
+        <item>melon d\'eau</item>
+        <item>radis</item>
+        <item>dessert</item>
+        <item>thon</item>
+        <item>echalottes</item>
+        <item>ficello</item>
+        <item>coriandre fraîche</item>
+        <item>mouchoirs</item>
+        <item>olives</item>
+        <item>papier parchemin</item>
+        <item>mozzarella</item>
+        <item>steak</item>
+        <item>beurre de peanut</item>
+        <item>bouillon poulet</item>
+        <item>moutarde</item>
+        <item>yogourt grec nature</item>
+        <item>navet</item>
+        <item>cantaloup</item>
+        <item>basilic frais</item>
+        <item>pesto</item>
+        <item>savon vaisselle</item>
+        <item>haricots verts</item>
+        <item>litière</item>
+        <item>pomme</item>
+        <item>pois chiches</item>
+        <item>riz basmati</item>
+        <item>confiture</item>
+        <item>poisson</item>
+        <item>savon à vaisselle</item>
+        <item>chocolat</item>
+        <item>sauce à pizza</item>
+        <item>brocolis</item>
+        <item>relish</item>
+        <item>fèves germées</item>
+        <item>fraise</item>
+        <item>menthe</item>
+        <item>pepsi</item>
+        <item>pommes de terre</item>
+        <item>beurre d\'arachides</item>
+        <item>yop</item>
+        <item>pain brun</item>
+        <item>laitue iceberg</item>
+        <item>couscous</item>
+        <item>milk</item>
+        <item>courgette</item>
+        <item>coke</item>
+        <item>humus</item>
+        <item>mangues</item>
+        <item>olives noires</item>
+        <item>eggs</item>
+        <item>poivron vert</item>
+        <item>vin rouge</item>
+        <item>cretons</item>
+        <item>fromage en tranche</item>
+        <item>saucisses hot dog</item>
+        <item>piment rouge</item>
+        <item>câpres</item>
+        <item>pâte à pizza</item>
+        <item>noix</item>
+        <item>pâte à dents</item>
+        <item>pain crouté</item>
+        <item>muffin anglais</item>
+        <item>patate douce</item>
+        <item>savon lave vaisselle</item>
+        <item>sauce pizza</item>
+        <item>poireaux</item>
+        <item>maïs</item>
+        <item>zucchini</item>
+        <item>viande froide</item>
+        <item>salade romaine</item>
+        <item>sauce chili</item>
+        <item>crème solaire</item>
+        <item>lait d’avoine</item>
+        <item>croutons</item>
+        <item>moutarde de Dijon</item>
+        <item>nachos</item>
+        <item>raisin</item>
+        <item>fromage philadelphia</item>
+        <item>pain pita</item>
+        <item>lait de soya</item>
+        <item>patates grelots</item>
+        <item>lait d\'amande</item>
+        <item>sauce bbq</item>
+        <item>bières</item>
+        <item>concombre anglais</item>
+        <item>yogourt vanille</item>
+        <item>chocolat noir</item>
+        <item>framboise</item>
+        <item>épinard</item>
+        <item>oignons rouges</item>
+        <item>crème à cuisson</item>
+        <item>muffins anglais</item>
+        <item>bouillon de boeuf</item>
+        <item>barre tendre</item>
+        <item>persil frais</item>
+        <item>savon à linge</item>
+        <item>fèves vertes</item>
+        <item>amandes</item>
+        <item>lait au chocolat</item>
+        <item>poitrine poulet</item>
+        <item>eau pétillante</item>
+        <item>kale</item>
+        <item>poulet cuit</item>
+        <item>dattes</item>
+        <item>jus de pomme</item>
+        <item>laitue Boston</item>
+        <item>maïs en crème</item>
+        <item>bread</item>
+        <item>lasagne</item>
+        <item>poulet entier</item>
+        <item>sel</item>
+        <item>viande à fondue</item>
+        <item>jus de citron</item>
+        <item>fromage parmesan</item>
+        <item>fromage de chèvre</item>
+        <item>beurre non salé</item>
+        <item>dentifrice</item>
+        <item>chou</item>
+        <item>raisins rouges</item>
+        <item>creton</item>
+        <item>gatorade</item>
+        <item>petites tomates</item>
+        <item>gingembre frais</item>
+        <item>pommes vertes</item>
+        <item>pancetta</item>
+        <item>q-tips</item>
+        <item>cornichons</item>
+        <item>poireau</item>
+        <item>tofu ferme</item>
+        <item>Perrier</item>
+        <item>échalotes françaises</item>
+        <item>vinaigre de riz</item>
+        <item>saucisse</item>
+        <item>couches</item>
+        <item>huile de canola</item>
+        <item>saucisses italiennes</item>
+        <item>pâte à dent</item>
+        <item>huile olive</item>
+        <item>prosciutto</item>
+        <item>vinaigre</item>
+        <item>croissant</item>
+        <item>pains hamburger</item>
+        <item>quinoa</item>
+        <item>cheddar</item>
+        <item>asperge</item>
+        <item>fromage en tranches</item>
+        <item>aneth</item>
+        <item>clémentine</item>
+        <item>fenouil</item>
+        <item>piment vert</item>
+        <item>haricots noirs</item>
+        <item>shampoing</item>
+        <item>fromage en grains</item>
+        <item>vinaigre balsamique</item>
+        <item>biscuits soda</item>
+        <item>orzo</item>
+        <item>pois mange tout</item>
+        <item>limonade</item>
+        <item>pêches</item>
+        <item>savon à main</item>
+        <item>papier aluminium</item>
+        <item>moutarde Dijon</item>
+        <item>poivrons rouges</item>
+        <item>pain sous-marin</item>
+        <item>veau haché</item>
+        <item>bananas</item>
+        <item>fromages</item>
+        <item>pacanes</item>
+        <item>petites carottes</item>
+        <item>thym</item>
+        <item>clamato</item>
+        <item>pita</item>
+        <item>brie</item>
+        <item>oignon vert</item>
+        <item>bouillon de légumes</item>
+        <item>saucisse hot dog</item>
+        <item>concombres libanais</item>
+        <item>pâté</item>
+        <item>poitrines poulet</item>
+        <item>ailes de poulet</item>
+        <item>oignons jaunes</item>
+        <item>ricotta</item>
+        <item>tomates séchées</item>
+        <item>tomate cerise</item>
+        <item>cocombre</item>
+        <item>spaghettini</item>
+        <item>chapelure</item>
+        <item>raisins secs</item>
+        <item>cheddar fort</item>
+        <item>pains hot dog</item>
+        <item>advil</item>
+        <item>carottes nantaises</item>
+        <item>tomates cerise</item>
+        <item>salade cesar</item>
+        <item>pépites de chocolat</item>
+        <item>Scott towel</item>
+        <item>vanille</item>
+        <item>kiwi</item>
+        <item>noix de Grenoble</item>
+        <item>vol au vent</item>
+        <item>champignons blancs</item>
+        <item>tomates italiennes</item>
+        <item>trempette</item>
+        <item>pamplemousse</item>
+        <item>echalotte</item>
+        <item>crème cuisson 15%</item>
+        <item>salade de chou</item>
+        <item>pain burger</item>
+        <item>eau de javel</item>
+        <item>compote de pommes</item>
+        <item>pains</item>
+        <item>fruit</item>
+        <item>tonic</item>
+        <item>choux de Bruxelles</item>
+        <item>déodorant</item>
+        <item>fromage en grain</item>
+        <item>jus oasis</item>
+        <item>soie dentaire</item>
+        <item>liqueur</item>
+        <item>cerises</item>
+        <item>vinaigre blanc</item>
+        <item>yogourt à boire</item>
+        <item>napkins</item>
+        <item>salami</item>
+        <item>fécule de maïs</item>
+        <item>mûres</item>
+        <item>choux fleur</item>
+        <item>melon</item>
+        <item>bocconcini</item>
+        <item>gomme</item>
+        <item>philadelphia</item>
+        <item>peperoni</item>
+        <item>mais en grains</item>
+        <item>courge butternut</item>
+        <item>ramen</item>
+        <item>petits jus</item>
+        <item>haricots rouges</item>
+        <item>jus de légumes</item>
+        <item>penne</item>
+        <item>fromage suisse</item>
+        <item>mélasse</item>
+        <item>aubergine</item>
+        <item>crème café</item>
+        <item>bleuet</item>
+        <item>betteraves</item>
+        <item>huile végétale</item>
+        <item>jambon tranché</item>
+        <item>goberge</item>
+        <item>granola</item>
+        <item>viande</item>
+        <item>framboises congelées</item>
+        <item>pattes d\'ours</item>
+        <item>fajitas</item>
+        <item>gâteau</item>
+        <item>cacao</item>
+        <item>légumes congelés</item>
+        <item>bébés épinards</item>
+        <item>farine blanche</item>
+        <item>tomates broyées</item>
+        <item>échalote</item>
+        <item>côtelettes de porc</item>
+        <item>pétoncles</item>
+        <item>assouplisseur</item>
+        <item>thym frais</item>
+        <item>menthe fraîche</item>
+        <item>tylenol</item>
+        <item>poire</item>
+        <item>poudre à pâte</item>
+        <item>yogourts</item>
+        <item>sauce spaghetti</item>
+        <item>tacos</item>
+        <item>raisins verts</item>
+        <item>bicarbonate de soude</item>
+        <item>mini carottes</item>
+        <item>fraises congelées</item>
+        <item>savon dove</item>
+        <item>jambon blanc</item>
+        <item>fèves</item>
+        <item>huile canola</item>
+        <item>côtes levées</item>
+        <item>baguette de pain</item>
+        <item>bébé épinards</item>
+        <item>chorizo</item>
+        <item>jus de tomate</item>
+        <item>jus de pommes</item>
+        <item>canneberges séchées</item>
+        <item>fromage cheddar fort</item>
+        <item>savon</item>
+        <item>fromage brie</item>
+        <item>olives vertes</item>
+        <item>saucisson</item>
+        <item>rince bouche</item>
+        <item>bleuets congelés</item>
+        <item>poivron jaune</item>
+        <item>jus de canneberge</item>
+        <item>lait écrémé</item>
+        <item>lentilles</item>
+        <item>bacon précuit</item>
+        <item>beurre à l\'ail</item>
+        <item>crème glacée vanille</item>
+        <item>kraft dinner</item>
+        <item>shampooing</item>
+        <item>panais</item>
+        <item>tofu extra ferme</item>
+        <item>poivre</item>
+        <item>salade iceberg</item>
+        <item>lait soya</item>
+        <item>beurre salé</item>
+        <item>beurre peanut</item>
+        <item>crème fouettée</item>
+        <item>filet porc</item>
+        <item>thé glacé</item>
+        <item>bouillon fondue</item>
+        <item>filet mignon</item>
+        <item>savon linge</item>
+        <item>maïs congelé</item>
+        <item>saran wrap</item>
+        <item>petits pois</item>
+        <item>pain sandwich</item>
+        <item>crudités</item>
+        <item>glace</item>
+        <item>pois chiche</item>
+        <item>eau distillée</item>
+        <item>viande haché</item>
+        <item>blé d\'Inde</item>
+        <item>jambon cuit</item>
+        <item>bok choy</item>
+        <item>lait amande</item>
+        <item>crevette</item>
+        <item>compote</item>
+        <item>kiwis</item>
+        <item>nouilles aux oeufs</item>
+        <item>olives kalamata</item>
+        <item>chou rouge</item>
+        <item>lait d\'amandes</item>
+        <item>jus d\'oranges</item>
+        <item>tortilla</item>
+        <item>rice krispies</item>
+        <item>yogurt</item>
+        <item>paprika</item>
+        <item>dinde</item>
+        <item>soupe aux tomates</item>
+        <item>bouillon boeuf</item>
+        <item>concombre libanais</item>
+        <item>propane</item>
+        <item>souper</item>
+        <item>mini concombres</item>
+        <item>romarin</item>
+        <item>pâté au poulet</item>
+        <item>yaourt</item>
+        <item>vinaigrette cesar</item>
+        <item>sucre blanc</item>
+        <item>sauce hot chicken</item>
+        <item>pain aux raisins</item>
+        <item>mais en grain</item>
+        <item>salade de choux</item>
+        <item>papier cul</item>
+        <item>guimauves</item>
+        <item>sauce rosée</item>
+        <item>cottage</item>
+        <item>huile de sésame</item>
+        <item>viande fondue</item>
+        <item>pistaches</item>
+        <item>collations</item>
+        <item>vinaigre de cidre</item>
+        <item>bavette</item>
+        <item>filet de saumon</item>
+        <item>échalotes vertes</item>
+        <item>biscuit</item>
+        <item>bonbons</item>
+        <item>pains naan</item>
+        <item>gauffres</item>
+        <item>vinaigrette</item>
+        <item>pizza congelée</item>
+        <item>sauce hoisin</item>
+        <item>fromage ricotta</item>
+        <item>arachides</item>
+        <item>guacamole</item>
+        <item>beurre arachide</item>
+        <item>goldfish</item>
+        <item>fromage jaune</item>
+        <item>cumin</item>
+        <item>margarine becel</item>
+        <item>proscuitto</item>
+        <item>muffins</item>
+        <item>dinde hachée</item>
+        <item>rôti de palette</item>
+        <item>sauce à spaghetti</item>
+        <item>cheerios</item>
+        <item>jus de lime</item>
+        <item>haricots</item>
+        <item>mangues congelées</item>
+        <item>revitalisant</item>
+        <item>crème à fouetter</item>
+        <item>ail en pot</item>
+        <item>gaufres</item>
+        <item>mayonaise</item>
+        <item>lait avoine</item>
+        <item>origan</item>
+        <item>lingettes</item>
+        <item>viande à sandwich</item>
+        <item>boeuf</item>
+        <item>aneth frais</item>
+        <item>smoked meat</item>
+        <item>sauce alfredo</item>
+        <item>savon à lessive</item>
+        <item>pitas</item>
+        <item>lait coco</item>
+        <item>pam</item>
+        <item>crevettes nordiques</item>
+        <item>edamame</item>
+        <item>haricots blancs</item>
+        <item>bounce</item>
+        <item>ginger ale</item>
+        <item>oignons rouge</item>
+        <item>lait chocolat</item>
+        <item>papier hygiénique</item>
+        <item>noix de cajou</item>
+        <item>patates jaunes</item>
+        <item>sucre à glacer</item>
+        <item>persil plat</item>
+        <item>poisson blanc</item>
+        <item>broccoli</item>
+        <item>sauce worcestershire</item>
+        <item>papier essuie-tout</item>
+        <item>compotes</item>
+        <item>tortellini</item>
+        <item>pomme verte</item>
+        <item>savon lessive</item>
+        <item>thon en conserve</item>
+        <item>onions</item>
+        <item>saumon frais</item>
+        <item>bouillon à fondue</item>
+        <item>soupe</item>
+        <item>mascara</item>
+        <item>fromage crème</item>
+        <item>cereal</item>
+        <item>soupe tomate</item>
+        <item>Pain St-Méthode</item>
+        <item>bœuf haché maigre</item>
+        <item>patates grelot</item>
+        <item>morue</item>
+        <item>jello</item>
+        <item>graines de tournesol</item>
+        <item>melatonine</item>
+        <item>coke zéro</item>
+        <item>zucchinis</item>
+        <item>jus de tomates</item>
+        <item>Pain à sandwich</item>
+        <item>yogourt activia</item>
+        <item>tide</item>
+        <item>brosse à dents</item>
+        <item>pâtes courtes</item>
+        <item>pilons de poulet</item>
+        <item>canneberges</item>
+        <item>fromage tex mex</item>
+        <item>pommes rouges</item>
+        <item>pâte à tarte</item>
+        <item>soupe à l\'oignon</item>
+        <item>céleri rave</item>
+        <item>boursin</item>
+        <item>yogourt sans lactose</item>
+        <item>nectarines</item>
+        <item>farine non blanchie</item>
+        <item>steaks</item>
+        <item>céréale</item>
+        <item>sauce tomates</item>
+        <item>poudre de chili</item>
+        <item>poulet poitrine</item>
+        <item>pain sans gluten</item>
+        <item>thé</item>
+        <item>pâtes alimentaires</item>
+        <item>salade Boston</item>
+        <item>vermicelles de riz</item>
+        <item>sirop érable</item>
+        <item>filets de porc</item>
+        <item>protège dessous</item>
+        <item>fromage orange</item>
+        <item>mini wheats</item>
+        <item>bouillon légumes</item>
+        <item>haut de cuisse de poulet</item>
+        <item>patates déjeuner</item>
+        <item>pain de seigle</item>
+        <item>patate grelot</item>
+        <item>fromage raclette</item>
+        <item>saucisse italienne</item>
+        <item>beurre d\'amande</item>
+        <item>bouteille d\'eau</item>
+        <item>essui-tout</item>
+        <item>windex</item>
+        <item>viande sandwich</item>
+        <item>poivrons couleur</item>
+        <item>pomme de terre</item>
+        <item>eau minérale</item>
+        <item>frites congelées</item>
+        <item>bovril poulet</item>
+        <item>chocolat chaud</item>
+        <item>compote de pomme</item>
+        <item>saucisses à déjeuner</item>
+        <item>échalottes françaises</item>
+        <item>celerie</item>
+        <item>guimauve</item>
+        <item>chocolatines</item>
+        <item>poivrons rouge</item>
+        <item>tomates raisins</item>
+        <item>crème de champignons</item>
+        <item>chocolatine</item>
+        <item>moutarde à l\'ancienne</item>
+        <item>galettes de riz</item>
+        <item>fromage chèvre</item>
+        <item>prunes</item>
+        <item>bébé carottes</item>
+        <item>serviettes sanitaires</item>
+        <item>pâté chinois</item>
+        <item>vodka</item>
+        <item>linguine</item>
+        <item>hot dog</item>
+        <item>poudre d\'ail</item>
+        <item>nouilles de riz</item>
+        <item>laitue frisée</item>
+        <item>macaronis</item>
+        <item>eau perrier</item>
+        <item>graines de citrouille</item>
+        <item>tomates en boîte</item>
+        <item>sac poubelle</item>
+        <item>papier q</item>
+        <item>romarin frais</item>
+        <item>carrots</item>
+        <item>jus canneberge</item>
+        <item>tampons</item>
+        <item>courge spaghetti</item>
+        <item>graines de lin</item>
+        <item>coriande</item>
+        <item>biscottes</item>
+        <item>wrap</item>
+        <item>huile</item>
+        <item>tomatoes</item>
+        <item>vitamine D</item>
+        <item>piment jalapeno</item>
+        <item>merguez</item>
+        <item>fromage à raclette</item>
+        <item>petits pains</item>
+        <item>poulet rôti</item>
+        <item>bébé épinard</item>
+        <item>jalapeno</item>
+        <item>pains hamburgers</item>
+        <item>mozarella</item>
+        <item>pamplemousses</item>
+        <item>soupe lipton</item>
+        <item>crème glacé</item>
+        <item>jus de canneberges</item>
+        <item>panko</item>
+        <item>essuis-tout</item>
+        <item>petits yogourts</item>
+        <item>hertel</item>
+        <item>jambon à sandwich</item>
+        <item>oeufs bio</item>
+        <item>cheez whiz</item>
+        <item>bas</item>
+        <item>tzatziki</item>
+        <item>beurre d\'amandes</item>
+        <item>hauts de cuisse de poulet</item>
+        <item>choux</item>
+        <item>moutarde jaune</item>
+        <item>sauce pour pâtes</item>
+        <item>tourtière</item>
+        <item>carottes bio</item>
+        <item>huîtres</item>
+        <item>boeuf haché (1 lb)</item>
+        <item>huile d’olives</item>
+        <item>cornichons sucrés</item>
+        <item>cuisses de poulet</item>
+        <item>pogo</item>
+        <item>truite</item>
+        <item>chapelure panko</item>
+        <item>savon à lave-vaisselle</item>
+        <item>celery</item>
+        <item>tempeh</item>
+        <item>tomate en dés</item>
+        <item>porc</item>
+        <item>gros sel</item>
+        <item>Omega 3</item>
+        <item>Scott towels</item>
+        <item>petits pois congelés</item>
+        <item>blanc d\'oeufs</item>
+        <item>légume vert</item>
+        <item>poulet bbq</item>
+        <item>oreo</item>
+        <item>fromage allegro</item>
+        <item>noix mélangées</item>
+        <item>bouteilles d\'eau</item>
+        <item>fromage mozza</item>
+        <item>minigo</item>
+        <item>poivron orange</item>
+        <item>légume</item>
+        <item>lave glace</item>
+        <item>lait bio</item>
+        <item>savon corps</item>
+        <item>deo</item>
+        <item>fromage tranche</item>
+        <item>caramel</item>
+        <item>jus citron</item>
+        <item>riz arborio</item>
+        <item>anchois</item>
+        <item>papier mouchoir</item>
+        <item>persil italien</item>
+        <item>petits concombres</item>
+        <item>moules</item>
+        <item>fromage single</item>
+        <item>gnocchis</item>
+        <item>Café en grains</item>
+        <item>fromage gruyère</item>
+        <item>pizza froide</item>
+        <item>courge</item>
+        <item>saucisses à hot dog</item>
+        <item>sauce marinara</item>
+        <item>tampons démaquillants</item>
+        <item>wraps</item>
+        <item>pommes cortland</item>
+        <item>baguette pain</item>
+        <item>brosse à dent</item>
+        <item>pois</item>
+        <item>confitures</item>
+        <item>brochettes</item>
+        <item>yogourt grec vanille</item>
+        <item>pâtes fraîches</item>
+        <item>savon à mains</item>
+        <item>noix de pin</item>
+        <item>sauce tamari</item>
+        <item>poivrons verts</item>
+        <item>sambal oelek</item>
+        <item>aubergines</item>
+        <item>jambon en tranches</item>
+        <item>tisane</item>
+        <item>vinaigre de vin rouge</item>
+        <item>frite</item>
+        <item>échalote française</item>
+        <item>cassonnade</item>
+        <item>sauce spag</item>
+        <item>gruyère</item>
+        <item>popsicle</item>
+        <item>pépites chocolat</item>
+        <item>choux-fleurs</item>
+        <item>biscuit soda</item>
+        <item>pain ciabatta</item>
+        <item>kombucha</item>
+        <item>listerine</item>
+        <item>raisin rouge</item>
+        <item>blanc d’œuf</item>
+        <item>gel douche</item>
+        <item>salades</item>
+        <item>bubbly</item>
+        <item>pommes gala</item>
+        <item>gommes</item>
+        <item>croustilles</item>
+        <item>jambon sandwich</item>
+        <item>endives</item>
+        <item>jus d\'ananas</item>
+        <item>bananes bio</item>
+        <item>petit poulet</item>
+        <item>mini tomates</item>
+        <item>poulet haché</item>
+        <item>sacs poubelle</item>
+        <item>confiture fraises</item>
+        <item>Ail frais</item>
+        <item>salade de poulet</item>
+        <item>jus tomate</item>
+        <item>vim</item>
+        <item>zuchini</item>
+        <item>tabasco</item>
+        <item>fromage oka</item>
+        <item>bière sans alcool</item>
+        <item>batteries AA</item>
+        <item>coeur de palmier</item>
+        <item>oignon jaune</item>
+        <item>craquelin</item>
+        <item>oignon espagnol</item>
+        <item>beurre arachides</item>
+        <item>chou vert</item>
+        <item>sauce poutine</item>
+        <item>halloumi</item>
+        <item>doritos</item>
+        <item>gin</item>
+        <item>consommé de boeuf</item>
+        <item>jus lunch</item>
+        <item>curcuma</item>
+        <item>homard</item>
+        <item>ficellos</item>
+        <item>melon miel</item>
+        <item>saucisses déjeuner</item>
+        <item>pains burger</item>
+        <item>jus pomme</item>
+        <item>Danactive</item>
+        <item>riz brun</item>
+        <item>jus de pamplemousse</item>
+        <item>fromage boivin</item>
+        <item>vinaigrette italienne</item>
+        <item>singles</item>
+        <item>amandes effilées</item>
+        <item>beurre de peanuts</item>
+        <item>parmesan râpé</item>
+        <item>papier d\'aluminium</item>
+        <item>piments verts</item>
+        <item>tahini</item>
+        <item>crème fraîche</item>
+        <item>assouplissant</item>
+        <item>levure</item>
+        <item>doremi</item>
+        <item>pêche</item>
+        <item>paprika fumé</item>
+        <item>fromage mozzarella râpé</item>
+        <item>thé vert</item>
+        <item>crème sur</item>
+        <item>céréales Vector</item>
+        <item>spaghettis</item>
+        <item>épaule de porc</item>
+        <item>oignon blanc</item>
+        <item>pain à hot dog</item>
+        <item>galette de riz</item>
+        <item>fleurs</item>
+        <item>fromage marbré</item>
+        <item>canneberge</item>
+        <item>dumplings</item>
+        <item>fèves rouges</item>
+        <item>antisudorifique</item>
+        <item>fromage tranches</item>
+        <item>végé pâté</item>
+        <item>lait amandes</item>
+        <item>ziploc</item>
+        <item>figues</item>
+        <item>tartinade de tofu</item>
+        <item>mozzarella râpé</item>
+        <item>café moulu</item>
+        <item>fromage Bergeron</item>
+        <item>levure alimentaire</item>
+        <item>mascarpone</item>
+        <item>sauce brune</item>
+        <item>oreillers</item>
+        <item>piments rouges</item>
+        <item>crème de tomate</item>
+        <item>kraft diner</item>
+        <item>nouilles</item>
+        <item>effaceur magique</item>
+        <item>fruits et légumes</item>
+        <item>fond de veau</item>
+        <item>serviettes</item>
+        <item>quick</item>
+        <item>kefir</item>
+        <item>petit pois</item>
+        <item>fèves au lard</item>
+        <item>thon en canne</item>
+        <item>miracle whip</item>
+        <item>sucre en poudre</item>
+        <item>crouton</item>
+        <item>estragon</item>
+        <item>jus congelés</item>
+        <item>belsoy</item>
+        <item>mais en canne</item>
+        <item>canard</item>
+        <item>rutabaga</item>
+        <item>flocons d\'avoine</item>
+        <item>boeuf à fondue</item>
+        <item>amande</item>
+        <item>quiche</item>
+        <item>petits fruits congelés</item>
+        <item>rhum</item>
+        <item>batteries AAA</item>
+        <item>médicaments</item>
+        <item>olive</item>
+        <item>jambon forêt noire</item>
+        <item>biscuits breton</item>
+        <item>papier toilettes</item>
+        <item>salade de fruits</item>
+        <item>beurre demi sel</item>
+        <item>crème de poulet</item>
+        <item>carrottes</item>
+        <item>croquettes de poulet</item>
+        <item>jus légumes</item>
+        <item>graines de sésame</item>
+        <item>oxyclean</item>
+        <item>chia</item>
+        <item>eau eska</item>
+        <item>club soda</item>
+        <item>fèves jaunes</item>
+        <item>sauce hollandaise</item>
+        <item>muffin</item>
+        <item>vinaigre de vin blanc</item>
+        <item>mini concombre</item>
+        <item>oreiller</item>
+        <item>chip</item>
+        <item>amandes tranchées</item>
+        <item>eau en bouteille</item>
+        <item>corn flakes</item>
+        <item>jet dry</item>
+        <item>salade verte</item>
+        <item>lait natrel 2%</item>
+        <item>salade mesclun</item>
+        <item>Pepsi diète</item>
+        <item>tonic water</item>
+        <item>farine tout usage</item>
+        <item>bouillon</item>
+        <item>jus ananas</item>
+        <item>collation</item>
+        <item>patates russet</item>
+        <item>fromage petit Québec</item>
+        <item>mio</item>
+        <item>choux Bruxelles</item>
+        <item>fromage havarti</item>
+        <item>pâtes à lasagne</item>
+        <item>confiture framboise</item>
+        <item>bouffe à chat</item>
+        <item>jalapenos</item>
+        <item>eau javel</item>
+        <item>fruits surgelés</item>
+        <item>haut de cuisse</item>
+        <item>potatoes</item>
+        <item>fromage bleu</item>
+        <item>céleris</item>
+        <item>filtre à café</item>
+        <item>laitue mélangée</item>
+        <item>onion</item>
+        <item>bubly</item>
+        <item>baguettes</item>
+        <item>couche</item>
+        <item>champignons tranchés</item>
+        <item>sauce à poutine</item>
+        <item>pâte feuilletée</item>
+        <item>vinaigrette grecque</item>
+        <item>Pepsi diet</item>
+        <item>tzaziki</item>
+        <item>apples</item>
+        <item>cuisse de poulet</item>
+        <item>babeurre</item>
+        <item>toilet paper</item>
+        <item>poulet poitrines</item>
+        <item>betterave</item>
+        <item>escargots</item>
+        <item>démaquillant</item>
+        <item>viande a fondu</item>
+        <item>beurre amande</item>
+        <item>pain déjeuner</item>
+        <item>sauce demi-glace</item>
+        <item>cornets</item>
+    </array>
+</resources>

@@ -1,0 +1,1005 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="master_list_values">
+        <item>mleko</item>
+        <item>kruh</item>
+        <item>jajca</item>
+        <item>banane</item>
+        <item>sir</item>
+        <item>maslo</item>
+        <item>wc papir</item>
+        <item>kisla smetana</item>
+        <item>solata</item>
+        <item>toast</item>
+        <item>krompir</item>
+        <item>čebula</item>
+        <item>jabolka</item>
+        <item>jogurt</item>
+        <item>limone</item>
+        <item>paradiznik</item>
+        <item>kava</item>
+        <item>korenje</item>
+        <item>pivo</item>
+        <item>sladka smetana</item>
+        <item>sadje</item>
+        <item>avokado</item>
+        <item>bucke</item>
+        <item>paprika</item>
+        <item>radenska</item>
+        <item>salama</item>
+        <item>parmezan</item>
+        <item>moka</item>
+        <item>skuta</item>
+        <item>hrenovke</item>
+        <item>tuna</item>
+        <item>česen</item>
+        <item>papirnate brisače</item>
+        <item>majoneza</item>
+        <item>por</item>
+        <item>zobna pasta</item>
+        <item>piscanec</item>
+        <item>grski jogurt</item>
+        <item>riz</item>
+        <item>sladkor</item>
+        <item>koruza</item>
+        <item>meso</item>
+        <item>coca cola</item>
+        <item>pomarance</item>
+        <item>olivno olje</item>
+        <item>sladoled</item>
+        <item>vrecke za smeti</item>
+        <item>smetana za kuhanje</item>
+        <item>pršut</item>
+        <item>brokoli</item>
+        <item>kvas</item>
+        <item>čips</item>
+        <item>sok</item>
+        <item>sol</item>
+        <item>čokolada</item>
+        <item>zelenjava</item>
+        <item>ovseni kosmici</item>
+        <item>piskoti</item>
+        <item>pasteta</item>
+        <item>losos</item>
+        <item>testenine</item>
+        <item>tortilje</item>
+        <item>mleto meso</item>
+        <item>vino</item>
+        <item>cedevita</item>
+        <item>nutella</item>
+        <item>jagode</item>
+        <item>kis</item>
+        <item>kumare</item>
+        <item>plenice</item>
+        <item>spinaca</item>
+        <item>olive</item>
+        <item>mandarine</item>
+        <item>mocarela</item>
+        <item>borovnice</item>
+        <item>šunka</item>
+        <item>pelati</item>
+        <item>mehčalec</item>
+        <item>kosmiči</item>
+        <item>robcki</item>
+        <item>njoki</item>
+        <item>makaroni</item>
+        <item>cvetaca</item>
+        <item>donat</item>
+        <item>voda</item>
+        <item>rdeca paprika</item>
+        <item>olje</item>
+        <item>slanina</item>
+        <item>fizol</item>
+        <item>cesnjev paradiznik</item>
+        <item>ingver</item>
+        <item>marmelada</item>
+        <item>mascarpone</item>
+        <item>peki papir</item>
+        <item>petersilj</item>
+        <item>pralni prasek</item>
+        <item>jogurti</item>
+        <item>balzamični kis</item>
+        <item>ribe</item>
+        <item>med</item>
+        <item>listnato testo</item>
+        <item>palcke za usesa</item>
+        <item>piscancja prsa</item>
+        <item>mozzarela</item>
+        <item>korencek</item>
+        <item>zelena solata</item>
+        <item>polenta</item>
+        <item>milo za roke</item>
+        <item>hruske</item>
+        <item>paradiznikova mezga</item>
+        <item>alkoholni kis</item>
+        <item>šampon</item>
+        <item>ketchup</item>
+        <item>jogurt navadni</item>
+        <item>mozzarella</item>
+        <item>pomarancni sok</item>
+        <item>sirni namaz</item>
+        <item>zemlje</item>
+        <item>toaletni papir</item>
+        <item>rukola</item>
+        <item>drobtine</item>
+        <item>cicerika</item>
+        <item>kuhan prsut</item>
+        <item>motovilec</item>
+        <item>maline</item>
+        <item>kumarice</item>
+        <item>deodorant</item>
+        <item>caj</item>
+        <item>vlozki</item>
+        <item>špageti</item>
+        <item>sladkor v prahu</item>
+        <item>rdeca pesa</item>
+        <item>poli</item>
+        <item>kumara</item>
+        <item>kuskus</item>
+        <item>jusna zelenjava</item>
+        <item>kefir</item>
+        <item>feta</item>
+        <item>cokolino</item>
+        <item>kokosovo mleko</item>
+        <item>alu folija</item>
+        <item>mlada čebula</item>
+        <item>gobice</item>
+        <item>rizevo mleko</item>
+        <item>pril</item>
+        <item>arašidi</item>
+        <item>kisle kumarice</item>
+        <item>grah</item>
+        <item>limona</item>
+        <item>nutela</item>
+        <item>zelje</item>
+        <item>mango</item>
+        <item>rozine</item>
+        <item>cevapcici</item>
+        <item>grozdje</item>
+        <item>salame</item>
+        <item>bučno olje</item>
+        <item>margarina</item>
+        <item>šampinjoni</item>
+        <item>mandlji</item>
+        <item>feta sir</item>
+        <item>klobase</item>
+        <item>tortelini</item>
+        <item>limete</item>
+        <item>belo vino</item>
+        <item>suha salama</item>
+        <item>paradajz</item>
+        <item>soncnicno olje</item>
+        <item>rogljicki</item>
+        <item>indijski orescki</item>
+        <item>perutnicke</item>
+        <item>tablete za pomivalca</item>
+        <item>grisini</item>
+        <item>piscancji file</item>
+        <item>jedilna čokolada</item>
+        <item>ajvar</item>
+        <item>zenf</item>
+        <item>puding</item>
+        <item>ovseno mleko</item>
+        <item>pesto</item>
+        <item>zelena</item>
+        <item>tofu</item>
+        <item>orescki</item>
+        <item>gres</item>
+        <item>gobe</item>
+        <item>gorcica</item>
+        <item>jabolcni sok</item>
+        <item>milo</item>
+        <item>soda bikarbona</item>
+        <item>kakav</item>
+        <item>smetana</item>
+        <item>mortadela</item>
+        <item>milk</item>
+        <item>bazilika</item>
+        <item>kokice</item>
+        <item>vlazilni robcki</item>
+        <item>pomfri</item>
+        <item>ocvirki</item>
+        <item>rjavi sladkor</item>
+        <item>origano</item>
+        <item>ustna voda</item>
+        <item>jabolcni kis</item>
+        <item>humus</item>
+        <item>eggs</item>
+        <item>orehi</item>
+        <item>tonik</item>
+        <item>bio vrečke</item>
+        <item>nektarine</item>
+        <item>sir za zar</item>
+        <item>skyr</item>
+        <item>kajmak</item>
+        <item>suhe slive</item>
+        <item>tonic</item>
+        <item>breskve</item>
+        <item>gin</item>
+        <item>brusnice</item>
+        <item>kroglice za juho</item>
+        <item>navadni jogurt</item>
+        <item>smoki</item>
+        <item>temna cokolada</item>
+        <item>papirnati robcki</item>
+        <item>kislo zelje</item>
+        <item>tekoče milo</item>
+        <item>radler</item>
+        <item>gel za tusiranje</item>
+        <item>vatke</item>
+        <item>kecap</item>
+        <item>ostra moka</item>
+        <item>sojina omaka</item>
+        <item>zobna nitka</item>
+        <item>robcki v skatli</item>
+        <item>zobna scetka</item>
+        <item>cet</item>
+        <item>cokolesnik</item>
+        <item>dimljen losos</item>
+        <item>meso za juho</item>
+        <item>koleraba</item>
+        <item>sparglji</item>
+        <item>bread</item>
+        <item>zelenjava za juho</item>
+        <item>zlate kroglice</item>
+        <item>sol za pomivalca</item>
+        <item>papirnate brisacke</item>
+        <item>mezga</item>
+        <item>panceta</item>
+        <item>brisace</item>
+        <item>britvice</item>
+        <item>sladki krompir</item>
+        <item>lubenica</item>
+        <item>linolada</item>
+        <item>govedina</item>
+        <item>pecilni prasek</item>
+        <item>bucka</item>
+        <item>bela moka</item>
+        <item>čevapi</item>
+        <item>oglje</item>
+        <item>kroglice</item>
+        <item>paradiznikova omaka</item>
+        <item>ananas</item>
+        <item>senf</item>
+        <item>gorgonzola</item>
+        <item>zdenka sir</item>
+        <item>hren</item>
+        <item>olje za cvrtje</item>
+        <item>pistacije</item>
+        <item>philadelphia</item>
+        <item>brstični ohrovt</item>
+        <item>destilirana voda</item>
+        <item>rum</item>
+        <item>arasidovo maslo</item>
+        <item>paprike</item>
+        <item>kapre</item>
+        <item>kokosova moka</item>
+        <item>marelicna marmelada</item>
+        <item>riba</item>
+        <item>krema za soncenje</item>
+        <item>baterije AA</item>
+        <item>rokavice</item>
+        <item>namaz</item>
+        <item>poper</item>
+        <item>mozarela</item>
+        <item>zelatina</item>
+        <item>brisacke</item>
+        <item>pastete</item>
+        <item>rdeca cebula</item>
+        <item>vrece za smeti</item>
+        <item>vata</item>
+        <item>mandljevo mleko</item>
+        <item>tablete za pomivalni stroj</item>
+        <item>abc namaz</item>
+        <item>zeleni čaj</item>
+        <item>bela cokolada</item>
+        <item>burek</item>
+        <item>timijan</item>
+        <item>dnevni vlozki</item>
+        <item>ajdova kasa</item>
+        <item>cimet</item>
+        <item>koriander</item>
+        <item>tortilije</item>
+        <item>pirina moka</item>
+        <item>vanilijev sladkor</item>
+        <item>kopalke</item>
+        <item>leca</item>
+        <item>rizevi vaflji</item>
+        <item>tamponi</item>
+        <item>ajdova moka</item>
+        <item>vileda</item>
+        <item>marelice</item>
+        <item>rezanci</item>
+        <item>datlji</item>
+        <item>intimno milo</item>
+        <item>cistilo za wc</item>
+        <item>bobi palcke</item>
+        <item>maskara</item>
+        <item>riban sir</item>
+        <item>gobice za posodo</item>
+        <item>sladek krompir</item>
+        <item>alpsko mleko</item>
+        <item>kozice</item>
+        <item>corn flakes</item>
+        <item>piscancje meso</item>
+        <item>rakci</item>
+        <item>kranjska klobasa</item>
+        <item>zobotrebci</item>
+        <item>javorjev sirup</item>
+        <item>basmati riz</item>
+        <item>penina</item>
+        <item>smetana za stepanje</item>
+        <item>sol za pomivalni stroj</item>
+        <item>kivi</item>
+        <item>vleceno testo</item>
+        <item>granatno jabolko</item>
+        <item>paprika rdeca</item>
+        <item>radič</item>
+        <item>kozji sir</item>
+        <item>rdece zelje</item>
+        <item>rdeče vino</item>
+        <item>jajce</item>
+        <item>lepinje</item>
+        <item>prticki</item>
+        <item>bio limone</item>
+        <item>lesniki</item>
+        <item>prosena kasa</item>
+        <item>prepecenec</item>
+        <item>kompot</item>
+        <item>kis za vlaganje</item>
+        <item>wc racka</item>
+        <item>koromac</item>
+        <item>rdec fizol</item>
+        <item>melona</item>
+        <item>cistilni robcki</item>
+        <item>vegeta</item>
+        <item>magnezij</item>
+        <item>strocji fizol</item>
+        <item>krekerji</item>
+        <item>kurkuma</item>
+        <item>aceton</item>
+        <item>inčuni</item>
+        <item>fanta</item>
+        <item>pena za britje</item>
+        <item>nariban sir</item>
+        <item>tatarski biftek</item>
+        <item>krema za roke</item>
+        <item>tuš gel</item>
+        <item>cesen v prahu</item>
+        <item>sadni caj</item>
+        <item>rio mare</item>
+        <item>pinjole</item>
+        <item>pasta</item>
+        <item>prebranac</item>
+        <item>olje soncnicno</item>
+        <item>detergent za posodo</item>
+        <item>sončnična semena</item>
+        <item>bageta</item>
+        <item>zemlja</item>
+        <item>mlada spinaca</item>
+        <item>kondomi</item>
+        <item>čokoladno mleko</item>
+        <item>testo za pico</item>
+        <item>stelex</item>
+        <item>ribana kasa</item>
+        <item>majaron</item>
+        <item>lekadol</item>
+        <item>lovor</item>
+        <item>čistilo za kopalnico</item>
+        <item>zmrznjene maline</item>
+        <item>fizioloska raztopina</item>
+        <item>rože</item>
+        <item>sampon za lase</item>
+        <item>c vitamin</item>
+        <item>bonboni</item>
+        <item>mlinci</item>
+        <item>kokos</item>
+        <item>kremni sir</item>
+        <item>keksi</item>
+        <item>chia semena</item>
+        <item>zmrznjeno sadje</item>
+        <item>kakav v prahu</item>
+        <item>mokri robcki</item>
+        <item>zemljice</item>
+        <item>pijača</item>
+        <item>koruzni kosmici</item>
+        <item>krema za obraz</item>
+        <item>sezamovo olje</item>
+        <item>rdeči fižol</item>
+        <item>vrecke</item>
+        <item>cevosan</item>
+        <item>salotka</item>
+        <item>buča</item>
+        <item>zelena paprika</item>
+        <item>bakalar</item>
+        <item>suhe marelice</item>
+        <item>psenicni zdrob</item>
+        <item>mleti mandlji</item>
+        <item>milo za tusiranje</item>
+        <item>baterije</item>
+        <item>blitva</item>
+        <item>vanish</item>
+        <item>peanut butter</item>
+        <item>lignji</item>
+        <item>ravioli</item>
+        <item>plazma</item>
+        <item>folija za živila</item>
+        <item>bucna semena</item>
+        <item>moka ostra</item>
+        <item>ledeni čaj</item>
+        <item>suhi sampon</item>
+        <item>siroki rezanci</item>
+        <item>sezam</item>
+        <item>barva za lase</item>
+        <item>suho sadje</item>
+        <item>suhi kvas</item>
+        <item>cokolada v prahu</item>
+        <item>limeta</item>
+        <item>nalgesin</item>
+        <item>zobne scetke</item>
+        <item>nogavice</item>
+        <item>juha</item>
+        <item>citronka</item>
+        <item>albert keksi</item>
+        <item>planinski caj</item>
+        <item>svinjska ribica</item>
+        <item>vilede</item>
+        <item>brie</item>
+        <item>meso za žar</item>
+        <item>copati</item>
+        <item>selotejp</item>
+        <item>baterije AAA</item>
+        <item>hobotnica</item>
+        <item>frutabela</item>
+        <item>vatirane palčke</item>
+        <item>struklji</item>
+        <item>topljeni sir</item>
+        <item>poli salama</item>
+        <item>sveče</item>
+        <item>ribje palcke</item>
+        <item>kvinoja</item>
+        <item>kisla repa</item>
+        <item>wc net</item>
+        <item>torta</item>
+        <item>cistilo za steklo</item>
+        <item>kokosovo olje</item>
+        <item>mleti orehi</item>
+        <item>kitajsko zelje</item>
+        <item>gris</item>
+        <item>repa</item>
+        <item>red bull</item>
+        <item>kaki</item>
+        <item>pirin zdrob</item>
+        <item>ohrovt</item>
+        <item>rozmarin</item>
+        <item>zelenjavna kocka</item>
+        <item>slive</item>
+        <item>vrecke za zamrzovanje</item>
+        <item>svecke</item>
+        <item>zdrob</item>
+        <item>sampanjec</item>
+        <item>vrečke za led</item>
+        <item>meglio</item>
+        <item>articoke</item>
+        <item>rizevi rezanci</item>
+        <item>lepilo</item>
+        <item>jesprenj</item>
+        <item>arf</item>
+        <item>kozarci</item>
+        <item>bomboni</item>
+        <item>bananas</item>
+        <item>onions</item>
+        <item>avocado</item>
+        <item>butter</item>
+        <item>apples</item>
+        <item>carrots</item>
+        <item>cucumber</item>
+        <item>tomatoes</item>
+        <item>toilet paper</item>
+        <item>yogurt</item>
+        <item>sour cream</item>
+        <item>potatoes</item>
+        <item>bacon</item>
+        <item>lettuce</item>
+        <item>coffee</item>
+        <item>paper towels</item>
+        <item>broccoli</item>
+        <item>lemons</item>
+        <item>celery</item>
+        <item>mushrooms</item>
+        <item>chicken</item>
+        <item>strawberries</item>
+        <item>cream cheese</item>
+        <item>fruit</item>
+        <item>cheese</item>
+        <item>chips</item>
+        <item>garlic</item>
+        <item>spinach</item>
+        <item>cereal</item>
+        <item>limes</item>
+        <item>orange juice</item>
+        <item>ground beef</item>
+        <item>chicken breast</item>
+        <item>blueberries</item>
+        <item>grapes</item>
+        <item>red onion</item>
+        <item>ice cream</item>
+        <item>toothpaste</item>
+        <item>zucchini</item>
+        <item>tortillas</item>
+        <item>cilantro</item>
+        <item>green onions</item>
+        <item>salad</item>
+        <item>salsa</item>
+        <item>sugar</item>
+        <item>tortilla chips</item>
+        <item>water</item>
+        <item>oranges</item>
+        <item>olive oil</item>
+        <item>bagels</item>
+        <item>ham</item>
+        <item>almond milk</item>
+        <item>green beans</item>
+        <item>lunch meat</item>
+        <item>cottage cheese</item>
+        <item>hamburger buns</item>
+        <item>sausage</item>
+        <item>hot dogs</item>
+        <item>hummus</item>
+        <item>beer</item>
+        <item>cherry tomatoes</item>
+        <item>crackers</item>
+        <item>salmon</item>
+        <item>shredded cheese</item>
+        <item>asparagus</item>
+        <item>paper plates</item>
+        <item>chicken broth</item>
+        <item>cauliflower</item>
+        <item>hot dog buns</item>
+        <item>honey</item>
+        <item>black beans</item>
+        <item>steak</item>
+        <item>rice</item>
+        <item>dog food</item>
+        <item>Parmesan cheese</item>
+        <item>English muffins</item>
+        <item>heavy cream</item>
+        <item>bell peppers</item>
+        <item>ground turkey</item>
+        <item>flour</item>
+        <item>sweet potatoes</item>
+        <item>creamer</item>
+        <item>popcorn</item>
+        <item>laundry detergent</item>
+        <item>Greek yogurt</item>
+        <item>Kleenex</item>
+        <item>peppers</item>
+        <item>tomato sauce</item>
+        <item>berries</item>
+        <item>brown sugar</item>
+        <item>wine</item>
+        <item>hamburger</item>
+        <item>napkins</item>
+        <item>mayo</item>
+        <item>corn</item>
+        <item>tissues</item>
+        <item>chicken thighs</item>
+        <item>half and half</item>
+        <item>oatmeal</item>
+        <item>baby carrots</item>
+        <item>tomato paste</item>
+        <item>veggies</item>
+        <item>red pepper</item>
+        <item>sliced cheese</item>
+        <item>parsley</item>
+        <item>mayonnaise</item>
+        <item>green pepper</item>
+        <item>ginger</item>
+        <item>shrimp</item>
+        <item>coffee creamer</item>
+        <item>watermelon</item>
+        <item>shampoo</item>
+        <item>tomato</item>
+        <item>romaine lettuce</item>
+        <item>pepperoni</item>
+        <item>turkey</item>
+        <item>applesauce</item>
+        <item>pineapple</item>
+        <item>spaghetti sauce</item>
+        <item>jalapeño</item>
+        <item>buns</item>
+        <item>raspberries</item>
+        <item>ranch dressing</item>
+        <item>cream</item>
+        <item>soy sauce</item>
+        <item>pizza</item>
+        <item>dish soap</item>
+        <item>cat food</item>
+        <item>cheddar cheese</item>
+        <item>chocolate chips</item>
+        <item>apple juice</item>
+        <item>kale</item>
+        <item>granola bars</item>
+        <item>pickles</item>
+        <item>cabbage</item>
+        <item>coconut milk</item>
+        <item>basil</item>
+        <item>cookies</item>
+        <item>pears</item>
+        <item>spaghetti</item>
+        <item>pretzels</item>
+        <item>juice</item>
+        <item>salt</item>
+        <item>coke</item>
+        <item>Brussels sprouts</item>
+        <item>taco seasoning</item>
+        <item>distilled water</item>
+        <item>Mac and cheese</item>
+        <item>red bell pepper</item>
+        <item>rotisserie chicken</item>
+        <item>hand soap</item>
+        <item>maple syrup</item>
+        <item>string cheese</item>
+        <item>shallots</item>
+        <item>frozen peas</item>
+        <item>sweet potato</item>
+        <item>granola</item>
+        <item>whole milk</item>
+        <item>ice</item>
+        <item>garlic bread</item>
+        <item>baby spinach</item>
+        <item>olives</item>
+        <item>yellow onion</item>
+        <item>salami</item>
+        <item>pasta sauce</item>
+        <item>bottled water</item>
+        <item>mustard</item>
+        <item>Gatorade</item>
+        <item>snacks</item>
+        <item>pork chops</item>
+        <item>diced tomatoes</item>
+        <item>almonds</item>
+        <item>cat litter</item>
+        <item>Diet Coke</item>
+        <item>soup</item>
+        <item>Parmesan</item>
+        <item>waffles</item>
+        <item>cheese slices</item>
+        <item>trash bags</item>
+        <item>body wash</item>
+        <item>lemon juice</item>
+        <item>raisins</item>
+        <item>chocolate</item>
+        <item>fish</item>
+        <item>qtips</item>
+        <item>chicken nuggets</item>
+        <item>baking soda</item>
+        <item>feta cheese</item>
+        <item>frozen pizza</item>
+        <item>ricotta</item>
+        <item>refried beans</item>
+        <item>mozzarella cheese</item>
+        <item>bbq sauce</item>
+        <item>buttermilk</item>
+        <item>mouthwash</item>
+        <item>half &amp; half</item>
+        <item>goldfish</item>
+        <item>walnuts</item>
+        <item>Cheerios</item>
+        <item>conditioner</item>
+        <item>AA batteries</item>
+        <item>American cheese</item>
+        <item>soda</item>
+        <item>biscuits</item>
+        <item>rolls</item>
+        <item>syrup</item>
+        <item>wraps</item>
+        <item>gum</item>
+        <item>baked beans</item>
+        <item>graham crackers</item>
+        <item>bleach</item>
+        <item>pizza sauce</item>
+        <item>peanuts</item>
+        <item>croutons</item>
+        <item>scallions</item>
+        <item>flour tortillas</item>
+        <item>cheese sticks</item>
+        <item>French fries</item>
+        <item>oat milk</item>
+        <item>frozen corn</item>
+        <item>cashews</item>
+        <item>tea</item>
+        <item>chicken stock</item>
+        <item>lemonade</item>
+        <item>beef broth</item>
+        <item>chickpeas</item>
+        <item>hash browns</item>
+        <item>peaches</item>
+        <item>chocolate milk</item>
+        <item>potato chips</item>
+        <item>aluminum foil</item>
+        <item>black olives</item>
+        <item>vegetable oil</item>
+        <item>jelly</item>
+        <item>guacamole</item>
+        <item>corn tortillas</item>
+        <item>taco shells</item>
+        <item>kidney beans</item>
+        <item>coffee filters</item>
+        <item>breakfast sausage</item>
+        <item>dog treats</item>
+        <item>garbage bags</item>
+        <item>wipes</item>
+        <item>pancake mix</item>
+        <item>garlic powder</item>
+        <item>vinegar</item>
+        <item>sandwich bags</item>
+        <item>whipped cream</item>
+        <item>cool whip</item>
+        <item>pecans</item>
+        <item>grape tomatoes</item>
+        <item>meat</item>
+        <item>Swiss cheese</item>
+        <item>cranberry juice</item>
+        <item>Nutella</item>
+        <item>salad mix</item>
+        <item>diapers</item>
+        <item>nuts</item>
+        <item>Italian sausage</item>
+        <item>egg noodles</item>
+        <item>vanilla ice cream</item>
+        <item>heavy whipping cream</item>
+        <item>coleslaw</item>
+        <item>shredded cheddar</item>
+        <item>ritz crackers</item>
+        <item>shaving cream</item>
+        <item>brown rice</item>
+        <item>baby wipes</item>
+        <item>dishwasher detergent</item>
+        <item>unsalted butter</item>
+        <item>marshmallows</item>
+        <item>corn on the cob</item>
+        <item>arugula</item>
+        <item>beans</item>
+        <item>AAA batteries</item>
+        <item>meatballs</item>
+        <item>ginger ale</item>
+        <item>deli meat</item>
+        <item>white vinegar</item>
+        <item>French bread</item>
+        <item>margarine</item>
+        <item>skim milk</item>
+        <item>peas</item>
+        <item>tampons</item>
+        <item>sparkling water</item>
+        <item>frozen blueberries</item>
+        <item>tomato soup</item>
+        <item>shredded mozzarella</item>
+        <item>hairspray</item>
+        <item>salad dressing</item>
+        <item>Oreos</item>
+        <item>powdered sugar</item>
+        <item>Coke Zero</item>
+        <item>white onion</item>
+        <item>dryer sheets</item>
+        <item>burger buns</item>
+        <item>white wine</item>
+        <item>flowers</item>
+        <item>red potatoes</item>
+        <item>pop tarts</item>
+        <item>canola oil</item>
+        <item>white bread</item>
+        <item>red wine</item>
+        <item>pads</item>
+        <item>goat cheese</item>
+        <item>fabric softener</item>
+        <item>egg whites</item>
+        <item>frozen fruit</item>
+        <item>sourdough bread</item>
+        <item>cinnamon</item>
+        <item>bread crumbs</item>
+        <item>ziplock bags</item>
+        <item>frozen veggies</item>
+        <item>parchment paper</item>
+        <item>soy milk</item>
+        <item>sunscreen</item>
+        <item>thyme</item>
+        <item>Doritos</item>
+        <item>Dijon mustard</item>
+        <item>baking powder</item>
+        <item>pumpkin</item>
+        <item>water bottles</item>
+        <item>iceberg lettuce</item>
+        <item>blackberries</item>
+        <item>leeks</item>
+        <item>fresh basil</item>
+        <item>muffins</item>
+        <item>toothbrush</item>
+        <item>laundry soap</item>
+        <item>tater tots</item>
+        <item>protein bars</item>
+        <item>burgers</item>
+        <item>shredded lettuce</item>
+        <item>chicken wings</item>
+        <item>lime juice</item>
+        <item>bandaids</item>
+        <item>vanilla</item>
+        <item>romaine</item>
+        <item>shredded cheddar cheese</item>
+        <item>soap</item>
+        <item>candy</item>
+        <item>whipping cream</item>
+        <item>frozen broccoli</item>
+        <item>eggplant</item>
+        <item>bacon bits</item>
+        <item>dishwasher soap</item>
+        <item>fruit snacks</item>
+        <item>noodles</item>
+        <item>mint</item>
+        <item>sponges</item>
+        <item>cantaloupe</item>
+        <item>croissants</item>
+        <item>lunchables</item>
+        <item>juice boxes</item>
+        <item>jam</item>
+        <item>cherries</item>
+        <item>salad stuff</item>
+        <item>cumin</item>
+        <item>ibuprofen</item>
+        <item>grapefruit</item>
+        <item>quinoa</item>
+        <item>clementines</item>
+        <item>butternut squash</item>
+        <item>chili powder</item>
+        <item>spring onions</item>
+        <item>oregano</item>
+        <item>vodka</item>
+        <item>cream of mushroom soup</item>
+        <item>sprite</item>
+        <item>almond butter</item>
+        <item>baguette</item>
+        <item>cream of chicken soup</item>
+        <item>radishes</item>
+        <item>crushed tomatoes</item>
+        <item>pepper</item>
+        <item>apple cider vinegar</item>
+        <item>squash</item>
+        <item>green bell pepper</item>
+        <item>vanilla extract</item>
+        <item>sandwich meat</item>
+        <item>pork tenderloin</item>
+        <item>rosemary</item>
+        <item>oats</item>
+        <item>razors</item>
+        <item>tide</item>
+        <item>frozen strawberries</item>
+        <item>light bulbs</item>
+        <item>Clorox wipes</item>
+        <item>mashed potatoes</item>
+        <item>stick butter</item>
+        <item>mince</item>
+        <item>coriander</item>
+        <item>lotion</item>
+        <item>canned tomatoes</item>
+        <item>chives</item>
+        <item>frozen spinach</item>
+        <item>Roma tomatoes</item>
+        <item>birthday card</item>
+        <item>sweet onion</item>
+        <item>toilet bowl cleaner</item>
+        <item>kiwi</item>
+        <item>pinto beans</item>
+        <item>wheat thins</item>
+        <item>pop</item>
+        <item>seltzer</item>
+        <item>chicken tenders</item>
+        <item>fresh parsley</item>
+        <item>sunflower seeds</item>
+        <item>dill</item>
+        <item>deli turkey</item>
+        <item>fresh cilantro</item>
+        <item>minced garlic</item>
+        <item>crescent rolls</item>
+        <item>pie crust</item>
+        <item>coconut oil</item>
+        <item>pistachios</item>
+        <item>corn starch</item>
+        <item>Fritos</item>
+        <item>face wash</item>
+        <item>Dr Pepper</item>
+        <item>mandarin oranges</item>
+        <item>tums</item>
+        <item>plain Greek yogurt</item>
+        <item>Mexican cheese</item>
+        <item>Pepsi</item>
+        <item>ground pork</item>
+        <item>smoked salmon</item>
+        <item>frozen berries</item>
+        <item>hamburger meat</item>
+        <item>turkey bacon</item>
+        <item>onion powder</item>
+        <item>saltines</item>
+        <item>balsamic vinegar</item>
+        <item>tea bags</item>
+        <item>iced tea</item>
+        <item>pizza dough</item>
+        <item>cheddar</item>
+        <item>trail mix</item>
+        <item>beef</item>
+        <item>mixed nuts</item>
+        <item>blue cheese</item>
+        <item>evaporated milk</item>
+        <item>rice cakes</item>
+        <item>whole chicken</item>
+        <item>stamps</item>
+        <item>beets</item>
+        <item>Pam</item>
+        <item>spaghetti noodles</item>
+        <item>canned corn</item>
+        <item>la croix</item>
+        <item>hot chocolate</item>
+        <item>mascara</item>
+        <item>contact solution</item>
+        <item>sandwich bread</item>
+        <item>sesame oil</item>
+        <item>Advil</item>
+        <item>freezer bags</item>
+        <item>cheezits</item>
+        <item>Tylenol</item>
+        <item>kitty litter</item>
+        <item>corn chips</item>
+        <item>Honey Nut Cheerios</item>
+        <item>yeast</item>
+        <item>ribs</item>
+        <item>ground chicken</item>
+        <item>popsicles</item>
+        <item>vitamins</item>
+        <item>socks</item>
+        <item>deli ham</item>
+        <item>plain yogurt</item>
+        <item>foil</item>
+        <item>cinnamon rolls</item>
+        <item>card</item>
+        <item>capers</item>
+        <item>cranberries</item>
+        <item>fries</item>
+        <item>triscuits</item>
+        <item>miracle whip</item>
+        <item>batteries</item>
+        <item>salad greens</item>
+        <item>pita bread</item>
+        <item>grape jelly</item>
+        <item>dates</item>
+        <item>rotel</item>
+        <item>white rice</item>
+        <item>coconut water</item>
+        <item>ramen</item>
+        <item>cooking spray</item>
+        <item>grated cheese</item>
+        <item>Alfredo sauce</item>
+        <item>oil</item>
+        <item>brats</item>
+        <item>dip</item>
+        <item>chocolate syrup</item>
+        <item>wheat bread</item>
+        <item>pita chips</item>
+        <item>Rice Krispies</item>
+        <item>prescription</item>
+        <item>cuties</item>
+        <item>cake</item>
+        <item>dessert</item>
+        <item>capsicum</item>
+        <item>enchilada sauce</item>
+        <item>dark chocolate</item>
+        <item>Italian dressing</item>
+        <item>drinks</item>
+        <item>charcoal</item>
+        <item>cotton balls</item>
+        <item>shredded carrots</item>
+        <item>windex</item>
+        <item>pine nuts</item>
+        <item>kombucha</item>
+        <item>green apples</item>
+        <item>canned chicken</item>
+    </array>
+</resources>

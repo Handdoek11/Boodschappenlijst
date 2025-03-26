@@ -1,0 +1,279 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="master_list_values">
+        <item>яйца</item>
+        <item>молоко</item>
+        <item>помидоры</item>
+        <item>сметана</item>
+        <item>хлеб</item>
+        <item>огурцы</item>
+        <item>сыр</item>
+        <item>творог</item>
+        <item>бананы</item>
+        <item>морковь</item>
+        <item>яблоки</item>
+        <item>кефир</item>
+        <item>туалетная бумага</item>
+        <item>масло сливочное</item>
+        <item>картошка</item>
+        <item>майонез</item>
+        <item>сахар</item>
+        <item>колбаса</item>
+        <item>сливки</item>
+        <item>лимон</item>
+        <item>йогурт</item>
+        <item>капуста</item>
+        <item>лук</item>
+        <item>лук репчатый</item>
+        <item>мука</item>
+        <item>свекла</item>
+        <item>мандарины</item>
+        <item>картофель</item>
+        <item>сосиски</item>
+        <item>мясо</item>
+        <item>кетчуп</item>
+        <item>апельсины</item>
+        <item>макароны</item>
+        <item>сок</item>
+        <item>укроп</item>
+        <item>бумажные полотенца</item>
+        <item>зелень</item>
+        <item>зубная паста</item>
+        <item>мороженое</item>
+        <item>чеснок</item>
+        <item>вода</item>
+        <item>гречка</item>
+        <item>шоколад</item>
+        <item>фрукты</item>
+        <item>печенье</item>
+        <item>авокадо</item>
+        <item>курица</item>
+        <item>фарш</item>
+        <item>лук зеленый</item>
+        <item>пельмени</item>
+        <item>чай</item>
+        <item>батон</item>
+        <item>лимоны</item>
+        <item>перец болгарский</item>
+        <item>лаваш</item>
+        <item>соль</item>
+        <item>кофе</item>
+        <item>шампунь</item>
+        <item>клубника</item>
+        <item>помидоры черри</item>
+        <item>салфетки</item>
+        <item>огурец</item>
+        <item>рис</item>
+        <item>ряженка</item>
+        <item>хлеб черный</item>
+        <item>пиво</item>
+        <item>грибы</item>
+        <item>хлеб белый</item>
+        <item>семечки</item>
+        <item>крабовые палочки</item>
+        <item>гель для душа</item>
+        <item>кабачки</item>
+        <item>конфеты</item>
+        <item>минералка</item>
+        <item>жидкое мыло</item>
+        <item>рыба</item>
+        <item>салат</item>
+        <item>груши</item>
+        <item>перец</item>
+        <item>хлебцы</item>
+        <item>петрушка</item>
+        <item>ватные диски</item>
+        <item>виноград</item>
+        <item>брокколи</item>
+        <item>квас</item>
+        <item>кукуруза</item>
+        <item>куриное филе</item>
+        <item>свинина</item>
+        <item>сгущенка</item>
+        <item>хурма</item>
+        <item>прокладки</item>
+        <item>бекон</item>
+        <item>баклажаны</item>
+        <item>сливочное масло</item>
+        <item>шпинат</item>
+        <item>оливки</item>
+        <item>говядина</item>
+        <item>цветная капуста</item>
+        <item>булочки</item>
+        <item>орехи</item>
+        <item>актимель</item>
+        <item>томатная паста</item>
+        <item>дезодорант</item>
+        <item>масло подсолнечное</item>
+        <item>чипсы</item>
+        <item>влажные салфетки</item>
+        <item>мед</item>
+        <item>руккола</item>
+        <item>селедка</item>
+        <item>баклажан</item>
+        <item>багет</item>
+        <item>морская капуста</item>
+        <item>ватные палочки</item>
+        <item>морковка</item>
+        <item>горчица</item>
+        <item>мята</item>
+        <item>ветчина</item>
+        <item>изюм</item>
+        <item>вермишель</item>
+        <item>дрожжи</item>
+        <item>киви</item>
+        <item>персики</item>
+        <item>банан</item>
+        <item>зеленый горошек</item>
+        <item>eggs</item>
+        <item>вода 5л</item>
+        <item>шампиньоны</item>
+        <item>брынза</item>
+        <item>стиральный порошок</item>
+        <item>редис</item>
+        <item>мармелад</item>
+        <item>колбаса вареная</item>
+        <item>оливковое масло</item>
+        <item>соевый соус</item>
+        <item>имбирь</item>
+        <item>голубика</item>
+        <item>пицца</item>
+        <item>манка</item>
+        <item>креветки</item>
+        <item>сельдерей</item>
+        <item>тыква</item>
+        <item>мыло</item>
+        <item>вино</item>
+        <item>чай зеленый</item>
+        <item>скумбрия</item>
+        <item>milk</item>
+        <item>кола</item>
+        <item>курага</item>
+        <item>зубочистки</item>
+        <item>редиска</item>
+        <item>масло растительное</item>
+        <item>овсянка</item>
+        <item>миндаль</item>
+        <item>зубная щетка</item>
+        <item>к чаю</item>
+        <item>фольга</item>
+        <item>лимонная кислота</item>
+        <item>какао</item>
+        <item>базилик</item>
+        <item>горошек</item>
+        <item>овощи</item>
+        <item>Освежитель воздуха</item>
+        <item>кинза</item>
+        <item>моцарелла</item>
+        <item>паштет</item>
+        <item>индейка</item>
+        <item>кабачок</item>
+        <item>хрен</item>
+        <item>Фейри</item>
+        <item>лавровый лист</item>
+        <item>чернослив</item>
+        <item>кофе растворимый</item>
+        <item>черешня</item>
+        <item>шоколадка</item>
+        <item>фасоль</item>
+        <item>носки</item>
+        <item>масло оливковое</item>
+        <item>маслины</item>
+        <item>средство для мытья посуды</item>
+        <item>сушки</item>
+        <item>губки для посуды</item>
+        <item>арбуз</item>
+        <item>малина</item>
+        <item>ванилин</item>
+        <item>уксус</item>
+        <item>торт</item>
+        <item>апельсин</item>
+        <item>пакеты для мусора</item>
+        <item>bread</item>
+        <item>огурцы соленые</item>
+        <item>пена для бритья</item>
+        <item>зелёный лук</item>
+        <item>салат айсберг</item>
+        <item>мешки для мусора</item>
+        <item>пармезан</item>
+        <item>зефир</item>
+        <item>Крем для рук</item>
+        <item>дыня</item>
+        <item>масло</item>
+        <item>чай в пакетиках</item>
+        <item>вареники</item>
+        <item>чай черный</item>
+        <item>перчатки</item>
+        <item>соль крупная</item>
+        <item>Батарейки</item>
+        <item>шампанское</item>
+        <item>сахарная пудра</item>
+        <item>спагетти</item>
+        <item>сода</item>
+        <item>вафли</item>
+        <item>мюсли</item>
+        <item>Сало</item>
+        <item>наушники</item>
+        <item>грейпфрут</item>
+        <item>уголь</item>
+        <item>лапша</item>
+        <item>Разрыхлитель</item>
+        <item>пищевая пленка</item>
+        <item>Булгур</item>
+        <item>тунец</item>
+        <item>шпроты</item>
+        <item>Творожный сыр</item>
+        <item>пекинская капуста</item>
+        <item>икра</item>
+        <item>перловка</item>
+        <item>сливы</item>
+        <item>гранат</item>
+        <item>фета</item>
+        <item>ополаскиватель</item>
+        <item>шашлык</item>
+        <item>батарейки АА</item>
+        <item>Сухарики</item>
+        <item>Морская капуста</item>
+        <item>сок яблочный</item>
+        <item>памперсы</item>
+        <item>Мармелад</item>
+        <item>цукини</item>
+        <item>булка</item>
+        <item>подсолнечное масло</item>
+        <item>хумус</item>
+        <item>панировочные сухари</item>
+        <item>йогурты</item>
+        <item>соленые огурцы</item>
+        <item>хлопья</item>
+        <item>фисташки</item>
+        <item>лук красный</item>
+        <item>лук порей</item>
+        <item>сок томатный</item>
+        <item>ананас</item>
+        <item>наггетсы</item>
+        <item>манго</item>
+        <item>батарейки</item>
+        <item>финики</item>
+        <item>куриные ножки</item>
+        <item>ягоды</item>
+        <item>геркулес</item>
+        <item>таблетки для посудомойки</item>
+        <item>сардельки</item>
+        <item>кондиционер для белья</item>
+        <item>трусы</item>
+        <item>томатный сок</item>
+        <item>колбаски</item>
+        <item>икра красная</item>
+        <item>сухарики</item>
+        <item>расческа</item>
+        <item>красный лук</item>
+        <item>кокосовое молоко</item>
+        <item>варенье</item>
+        <item>лайм</item>
+        <item>краска для волос</item>
+        <item>клей</item>
+        <item>тортик</item>
+        <item>попкорн</item>
+        <item>Зубная щетка детская</item>
+    </array>
+</resources>

@@ -1,0 +1,1005 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="master_list_values">
+        <item>ovos</item>
+        <item>pão</item>
+        <item>papel higiénico</item>
+        <item>manteiga</item>
+        <item>leite</item>
+        <item>bananas</item>
+        <item>queijo</item>
+        <item>tomate</item>
+        <item>fruta</item>
+        <item>cebola</item>
+        <item>água</item>
+        <item>alface</item>
+        <item>fiambre</item>
+        <item>café</item>
+        <item>azeite</item>
+        <item>cenouras</item>
+        <item>cebolas</item>
+        <item>iogurtes</item>
+        <item>atum</item>
+        <item>limão</item>
+        <item>açúcar</item>
+        <item>arroz</item>
+        <item>cenoura</item>
+        <item>banana</item>
+        <item>batatas</item>
+        <item>alho</item>
+        <item>guardanapos</item>
+        <item>cerveja</item>
+        <item>salada</item>
+        <item>bacon</item>
+        <item>cogumelos</item>
+        <item>maçãs</item>
+        <item>pão de forma</item>
+        <item>queijo ralado</item>
+        <item>requeijão</item>
+        <item>batata</item>
+        <item>batata doce</item>
+        <item>carne</item>
+        <item>presunto</item>
+        <item>maçã</item>
+        <item>batata palha</item>
+        <item>natas</item>
+        <item>queijo fatiado</item>
+        <item>detergente</item>
+        <item>peixe</item>
+        <item>alho francês</item>
+        <item>iogurte</item>
+        <item>maionese</item>
+        <item>sal</item>
+        <item>batatas fritas</item>
+        <item>frango</item>
+        <item>bolachas</item>
+        <item>abacate</item>
+        <item>papel toalha</item>
+        <item>leite condensado</item>
+        <item>óleo</item>
+        <item>esparguete</item>
+        <item>laranjas</item>
+        <item>manga</item>
+        <item>couve flor</item>
+        <item>abóbora</item>
+        <item>salsichas</item>
+        <item>chocolate</item>
+        <item>tomates</item>
+        <item>iogurtes líquidos</item>
+        <item>sabonete</item>
+        <item>vinho branco</item>
+        <item>creme de leite</item>
+        <item>pepino</item>
+        <item>margarina</item>
+        <item>queijo fresco</item>
+        <item>milho</item>
+        <item>ovo</item>
+        <item>alhos</item>
+        <item>carne moída</item>
+        <item>cereais</item>
+        <item>espinafres</item>
+        <item>farinha</item>
+        <item>feijão</item>
+        <item>morangos</item>
+        <item>mamão</item>
+        <item>pasta de dentes</item>
+        <item>pêras</item>
+        <item>laranja</item>
+        <item>salsa</item>
+        <item>ketchup</item>
+        <item>sumos</item>
+        <item>uvas</item>
+        <item>brócolis</item>
+        <item>guardanapo</item>
+        <item>coentros</item>
+        <item>amaciante</item>
+        <item>rúcula</item>
+        <item>salmão</item>
+        <item>vinho</item>
+        <item>courgette</item>
+        <item>água com gás</item>
+        <item>amaciador roupa</item>
+        <item>legumes</item>
+        <item>melão</item>
+        <item>macarrão</item>
+        <item>molho de tomate</item>
+        <item>tostas</item>
+        <item>coca cola</item>
+        <item>sacos lixo</item>
+        <item>abobrinha</item>
+        <item>couve</item>
+        <item>polpa de tomate</item>
+        <item>azeitonas</item>
+        <item>peito de frango</item>
+        <item>sabonete líquido</item>
+        <item>chouriço</item>
+        <item>vinagre</item>
+        <item>abacaxi</item>
+        <item>álcool</item>
+        <item>carne picada</item>
+        <item>massa folhada</item>
+        <item>lixívia</item>
+        <item>broculos</item>
+        <item>shampoo</item>
+        <item>tomate cherry</item>
+        <item>kiwi</item>
+        <item>bacalhau</item>
+        <item>mostarda</item>
+        <item>iogurte natural</item>
+        <item>leite de coco</item>
+        <item>mel</item>
+        <item>aveia</item>
+        <item>leite sem lactose</item>
+        <item>leite magro</item>
+        <item>brócolos</item>
+        <item>desodorizante</item>
+        <item>limões</item>
+        <item>morango</item>
+        <item>tomate cereja</item>
+        <item>cotonetes</item>
+        <item>sabão em pó</item>
+        <item>gel de banho</item>
+        <item>fraldas</item>
+        <item>courgete</item>
+        <item>frutas</item>
+        <item>sal grosso</item>
+        <item>suco</item>
+        <item>gengibre</item>
+        <item>camarão</item>
+        <item>grão de bico</item>
+        <item>tapioca</item>
+        <item>queijo parmesão</item>
+        <item>toalhitas</item>
+        <item>pimento vermelho</item>
+        <item>água sanitária</item>
+        <item>pão integral</item>
+        <item>papel alumínio</item>
+        <item>pizza</item>
+        <item>água de coco</item>
+        <item>detergente roupa</item>
+        <item>farinha de trigo</item>
+        <item>eggs</item>
+        <item>tangerinas</item>
+        <item>gelatina</item>
+        <item>feijão verde</item>
+        <item>feijão preto</item>
+        <item>refrigerante</item>
+        <item>massa</item>
+        <item>melancia</item>
+        <item>arroz basmati</item>
+        <item>bread</item>
+        <item>pasta de dente</item>
+        <item>desodorante</item>
+        <item>pera</item>
+        <item>beterraba</item>
+        <item>uva</item>
+        <item>pasta dentes</item>
+        <item>água das pedras</item>
+        <item>batata frita</item>
+        <item>sumo</item>
+        <item>pão de queijo</item>
+        <item>granola</item>
+        <item>bolacha Maria</item>
+        <item>vinho tinto</item>
+        <item>nozes</item>
+        <item>milk</item>
+        <item>arroz agulha</item>
+        <item>frutos secos</item>
+        <item>tomate pelado</item>
+        <item>papel de cozinha</item>
+        <item>legumes sopa</item>
+        <item>sacos do lixo</item>
+        <item>ervilhas</item>
+        <item>gelado</item>
+        <item>chuchu</item>
+        <item>água tónica</item>
+        <item>lenços de papel</item>
+        <item>beringela</item>
+        <item>leite meio gordo</item>
+        <item>polpa tomate</item>
+        <item>Nutella</item>
+        <item>fio dental</item>
+        <item>cebola roxa</item>
+        <item>cogumelos frescos</item>
+        <item>saco de lixo</item>
+        <item>iogurte grego</item>
+        <item>linguiça</item>
+        <item>manjericão</item>
+        <item>pimentão</item>
+        <item>bisnaguinha</item>
+        <item>banana prata</item>
+        <item>limpa vidros</item>
+        <item>douradinhos</item>
+        <item>arroz carolino</item>
+        <item>grão</item>
+        <item>suco de laranja</item>
+        <item>tofu</item>
+        <item>leite integral</item>
+        <item>hortelã</item>
+        <item>papel cozinha</item>
+        <item>esponja</item>
+        <item>rolo cozinha</item>
+        <item>alho em pó</item>
+        <item>ananás</item>
+        <item>soro fisiológico</item>
+        <item>iogurtes naturais</item>
+        <item>pensos higiénicos</item>
+        <item>queijo feta</item>
+        <item>rolo de cozinha</item>
+        <item>coca cola zero</item>
+        <item>salmão fumado</item>
+        <item>oregaos</item>
+        <item>chá</item>
+        <item>açúcar amarelo</item>
+        <item>película aderente</item>
+        <item>pipoca</item>
+        <item>chocapic</item>
+        <item>vinagre balsâmico</item>
+        <item>queijo mussarela</item>
+        <item>nestum</item>
+        <item>detergente loiça</item>
+        <item>sopa</item>
+        <item>espinafre</item>
+        <item>pimentos</item>
+        <item>arroz integral</item>
+        <item>ice tea</item>
+        <item>wc pato</item>
+        <item>vagem</item>
+        <item>manteiga sem sal</item>
+        <item>framboesas</item>
+        <item>salsicha</item>
+        <item>frios</item>
+        <item>cerelac</item>
+        <item>fermento</item>
+        <item>pão francês</item>
+        <item>carvão</item>
+        <item>arroz branco</item>
+        <item>desinfetante</item>
+        <item>escova de dentes</item>
+        <item>cream cheese</item>
+        <item>limas</item>
+        <item>café solúvel</item>
+        <item>coentro</item>
+        <item>leite gordo</item>
+        <item>mirtilos</item>
+        <item>amendoim</item>
+        <item>nabo</item>
+        <item>frutos vermelhos</item>
+        <item>sabão líquido</item>
+        <item>peito de peru</item>
+        <item>chocolate em pó</item>
+        <item>bombril</item>
+        <item>coco ralado</item>
+        <item>azeitona</item>
+        <item>berinjela</item>
+        <item>lasanha</item>
+        <item>papel vegetal</item>
+        <item>curgete</item>
+        <item>gel banho</item>
+        <item>iogurte líquido</item>
+        <item>feijão frade</item>
+        <item>água garrafão</item>
+        <item>leite desnatado</item>
+        <item>delícias do mar</item>
+        <item>Água mineral</item>
+        <item>peitos de frango</item>
+        <item>coca zero</item>
+        <item>suco de uva</item>
+        <item>bifes de peru</item>
+        <item>castanhas</item>
+        <item>pão ralado</item>
+        <item>Cândida</item>
+        <item>massa quebrada</item>
+        <item>acendalhas</item>
+        <item>gelados</item>
+        <item>polvo</item>
+        <item>geleia</item>
+        <item>alface americana</item>
+        <item>yakult</item>
+        <item>miojo</item>
+        <item>ervilha</item>
+        <item>alho poró</item>
+        <item>cotonete</item>
+        <item>cebolinha</item>
+        <item>sorvete</item>
+        <item>ervilhas congeladas</item>
+        <item>louro</item>
+        <item>palmito</item>
+        <item>pipocas</item>
+        <item>pães de leite</item>
+        <item>papaia</item>
+        <item>croissants</item>
+        <item>Nescau</item>
+        <item>wraps</item>
+        <item>estrelitas</item>
+        <item>manteiga de amendoim</item>
+        <item>descafeinado</item>
+        <item>yogurt</item>
+        <item>benuron</item>
+        <item>lenços papel</item>
+        <item>leite em pó</item>
+        <item>feijão vermelho</item>
+        <item>pão de forma integral</item>
+        <item>água destilada</item>
+        <item>nuggets</item>
+        <item>farinha de mandioca</item>
+        <item>areia gato</item>
+        <item>adoçante</item>
+        <item>lustra móveis</item>
+        <item>queijo branco</item>
+        <item>compressas</item>
+        <item>luvas</item>
+        <item>hambúrguer</item>
+        <item>salsinha</item>
+        <item>gelo</item>
+        <item>nata</item>
+        <item>fairy</item>
+        <item>esparregado</item>
+        <item>rolos de cozinha</item>
+        <item>almôndegas</item>
+        <item>sabonetes</item>
+        <item>filtro de café</item>
+        <item>champignon</item>
+        <item>amêndoas</item>
+        <item>bifes frango</item>
+        <item>pão de hambúrguer</item>
+        <item>agrião</item>
+        <item>molho inglês</item>
+        <item>pimento verde</item>
+        <item>veja</item>
+        <item>farinheira</item>
+        <item>bolacha</item>
+        <item>champô</item>
+        <item>pão forma</item>
+        <item>kiwis</item>
+        <item>mozzarella</item>
+        <item>legumes para sopa</item>
+        <item>mortadela</item>
+        <item>canela</item>
+        <item>aipo</item>
+        <item>queijo flamengo</item>
+        <item>cogumelos laminados</item>
+        <item>orégano</item>
+        <item>bacalhau desfiado</item>
+        <item>maracujá</item>
+        <item>salame</item>
+        <item>queijo prato</item>
+        <item>repolho</item>
+        <item>couve coração</item>
+        <item>pimentão vermelho</item>
+        <item>courgetes</item>
+        <item>castanha de caju</item>
+        <item>pastilhas elásticas</item>
+        <item>cif</item>
+        <item>pescada</item>
+        <item>cervejas</item>
+        <item>algodão</item>
+        <item>acetona</item>
+        <item>café cápsulas</item>
+        <item>natas de soja</item>
+        <item>cereal</item>
+        <item>pêssegos</item>
+        <item>açúcar branco</item>
+        <item>escova dentes</item>
+        <item>saladas</item>
+        <item>espumante</item>
+        <item>biscoitos</item>
+        <item>meias</item>
+        <item>parmesão</item>
+        <item>cheiro verde</item>
+        <item>quinoa</item>
+        <item>queijo minas</item>
+        <item>chocolate culinária</item>
+        <item>bicarbonato de sódio</item>
+        <item>mussarela</item>
+        <item>aguas pequenas</item>
+        <item>maçã fuji</item>
+        <item>hambúrgueres</item>
+        <item>Veja multiuso</item>
+        <item>coentros frescos</item>
+        <item>feijão branco</item>
+        <item>pensos diários</item>
+        <item>toalhetes</item>
+        <item>pão de leite</item>
+        <item>bifes</item>
+        <item>inhame</item>
+        <item>courgettes</item>
+        <item>detergente chão</item>
+        <item>pimento</item>
+        <item>toddy</item>
+        <item>pickles</item>
+        <item>molho de soja</item>
+        <item>creme dental</item>
+        <item>tomatinho</item>
+        <item>chourição</item>
+        <item>queijo mozarela</item>
+        <item>pilhas</item>
+        <item>bechamel</item>
+        <item>espargos</item>
+        <item>sacos congelação</item>
+        <item>tangerina</item>
+        <item>picanha</item>
+        <item>bolo</item>
+        <item>lentilha</item>
+        <item>bolachas água e sal</item>
+        <item>fiambre peru</item>
+        <item>camarões</item>
+        <item>bife</item>
+        <item>sacos de lixo</item>
+        <item>legumes congelados</item>
+        <item>alho picado</item>
+        <item>croutons</item>
+        <item>Pilhas AA</item>
+        <item>vanish</item>
+        <item>queijos</item>
+        <item>maizena</item>
+        <item>halibut</item>
+        <item>massas</item>
+        <item>mandioca</item>
+        <item>uvas sem grainha</item>
+        <item>puré</item>
+        <item>pasta dos dentes</item>
+        <item>bolachas maria</item>
+        <item>tomate seco</item>
+        <item>sal máquina</item>
+        <item>passas</item>
+        <item>pilhas AAA</item>
+        <item>absorvente</item>
+        <item>creme de leite fresco</item>
+        <item>lâmpadas</item>
+        <item>tremoços</item>
+        <item>amaciador</item>
+        <item>café em pó</item>
+        <item>Nescafé</item>
+        <item>condicionador</item>
+        <item>extrato de tomate</item>
+        <item>protetor solar</item>
+        <item>sopas</item>
+        <item>amaciador cabelo</item>
+        <item>entrecosto</item>
+        <item>canela em pó</item>
+        <item>lentilhas</item>
+        <item>açúcar mascavo</item>
+        <item>palitos</item>
+        <item>doce de leite</item>
+        <item>chocolates</item>
+        <item>filé de frango</item>
+        <item>iogurtes sólidos</item>
+        <item>torrada</item>
+        <item>máscaras</item>
+        <item>broa</item>
+        <item>esfregona</item>
+        <item>fralda</item>
+        <item>queijo mozzarella</item>
+        <item>papel higiénico húmido</item>
+        <item>coxas de frango</item>
+        <item>pesto</item>
+        <item>catchup</item>
+        <item>biscoito</item>
+        <item>tostas integrais</item>
+        <item>natas frescas</item>
+        <item>lava tudo</item>
+        <item>cuecas</item>
+        <item>queijo coalho</item>
+        <item>butter</item>
+        <item>vinagre de álcool</item>
+        <item>pleno</item>
+        <item>lenço umedecido</item>
+        <item>amendoins</item>
+        <item>vaqueiro</item>
+        <item>detergente louça</item>
+        <item>paio</item>
+        <item>dourada</item>
+        <item>omo líquido</item>
+        <item>manteiga com sal</item>
+        <item>azeite de oliva</item>
+        <item>velas</item>
+        <item>pão de alho</item>
+        <item>abrilhantador</item>
+        <item>avocado</item>
+        <item>açúcar demerara</item>
+        <item>nabos</item>
+        <item>feijão manteiga</item>
+        <item>jantar</item>
+        <item>pizzas</item>
+        <item>rolos cozinha</item>
+        <item>elixir</item>
+        <item>pensos</item>
+        <item>óleo de coco</item>
+        <item>tomatoes</item>
+        <item>mozarela</item>
+        <item>calabresa</item>
+        <item>clementinas</item>
+        <item>Danoninho</item>
+        <item>sabão em barra</item>
+        <item>tomate pedaços</item>
+        <item>chia</item>
+        <item>comida gato</item>
+        <item>mamão papaia</item>
+        <item>mandioquinha</item>
+        <item>queijo fatias</item>
+        <item>carnes</item>
+        <item>gel duche</item>
+        <item>bifes peru</item>
+        <item>ameixa</item>
+        <item>xampu</item>
+        <item>álcool líquido</item>
+        <item>pimenta</item>
+        <item>Mostarda Dijon</item>
+        <item>lima</item>
+        <item>manteiga magra</item>
+        <item>cebolinho</item>
+        <item>alheira</item>
+        <item>peito frango</item>
+        <item>quiabo</item>
+        <item>verduras</item>
+        <item>croissant</item>
+        <item>nesquik</item>
+        <item>carrots</item>
+        <item>bifes de frango</item>
+        <item>chocolate preto</item>
+        <item>queijo parmesão ralado</item>
+        <item>lulas</item>
+        <item>skyr</item>
+        <item>azeitonas pretas</item>
+        <item>alecrim</item>
+        <item>perfex</item>
+        <item>romã</item>
+        <item>pastilhas máquina loiça</item>
+        <item>leite soja</item>
+        <item>onions</item>
+        <item>flores</item>
+        <item>couve lombarda</item>
+        <item>cerveja sem álcool</item>
+        <item>babybel</item>
+        <item>Pepino Japonês</item>
+        <item>álcool gel</item>
+        <item>limão siciliano</item>
+        <item>actimel</item>
+        <item>cogumelo</item>
+        <item>sumo laranja</item>
+        <item>pimentão amarelo</item>
+        <item>tomate italiano</item>
+        <item>água oxigenada</item>
+        <item>uva passa</item>
+        <item>coffee</item>
+        <item>toilet paper</item>
+        <item>isqueiro</item>
+        <item>tampões</item>
+        <item>sumos pequenos</item>
+        <item>tomilho</item>
+        <item>massa lasanha</item>
+        <item>vassoura</item>
+        <item>pêssego</item>
+        <item>queijo philadelphia</item>
+        <item>laranja lima</item>
+        <item>sabão de coco</item>
+        <item>requeijão light</item>
+        <item>bebidas</item>
+        <item>caril</item>
+        <item>canela pau</item>
+        <item>limpa vidro</item>
+        <item>marmelada</item>
+        <item>óleo de soja</item>
+        <item>molho bechamel</item>
+        <item>pimenta do reino</item>
+        <item>pão hambúrguer</item>
+        <item>terra</item>
+        <item>molas</item>
+        <item>lettuce</item>
+        <item>farinha de rosca</item>
+        <item>corn flakes</item>
+        <item>gorgonzola</item>
+        <item>caju</item>
+        <item>queijo cabra</item>
+        <item>guaraná</item>
+        <item>açúcar mascavado</item>
+        <item>discos desmaquilhantes</item>
+        <item>ricota</item>
+        <item>creme hidratante</item>
+        <item>barritas</item>
+        <item>puré batata</item>
+        <item>laranja pêra</item>
+        <item>lenços umedecidos</item>
+        <item>castanhas congeladas</item>
+        <item>queijo brie</item>
+        <item>escova de dente</item>
+        <item>água pedras</item>
+        <item>lenços</item>
+        <item>broa de milho</item>
+        <item>cucumber</item>
+        <item>flocos de aveia</item>
+        <item>pato</item>
+        <item>verdura</item>
+        <item>salgadinhos</item>
+        <item>lenço de papel</item>
+        <item>compota</item>
+        <item>termômetro</item>
+        <item>colorau</item>
+        <item>leite amêndoa</item>
+        <item>óleo de canola</item>
+        <item>shoyu</item>
+        <item>couscous</item>
+        <item>massa integral</item>
+        <item>chá preto</item>
+        <item>cookies</item>
+        <item>pasta de amendoim</item>
+        <item>fubá</item>
+        <item>cevada</item>
+        <item>pastilhas</item>
+        <item>queijo cottage</item>
+        <item>farinha integral</item>
+        <item>pimentão doce</item>
+        <item>suco de uva integral</item>
+        <item>farinha de milho</item>
+        <item>águas</item>
+        <item>cacau em pó</item>
+        <item>Gatorade</item>
+        <item>preservativos</item>
+        <item>robalo</item>
+        <item>desengordurante</item>
+        <item>Pepsi</item>
+        <item>muesli</item>
+        <item>detergente máquina loiça</item>
+        <item>azeitona preta</item>
+        <item>garlic</item>
+        <item>cebola picada</item>
+        <item>saco lixo</item>
+        <item>molho tomate</item>
+        <item>sardinha</item>
+        <item>óleo de girassol</item>
+        <item>bolachas integrais</item>
+        <item>nutela</item>
+        <item>carefree</item>
+        <item>pão fatiado</item>
+        <item>biscoito de polvilho</item>
+        <item>tomate em lata</item>
+        <item>nachos</item>
+        <item>sal fino</item>
+        <item>farelo de aveia</item>
+        <item>Puré de batata</item>
+        <item>espinafres congelados</item>
+        <item>mexerica</item>
+        <item>esfregão loiça</item>
+        <item>açaí</item>
+        <item>ovos 1 dúzia</item>
+        <item>farinha maizena</item>
+        <item>tâmaras</item>
+        <item>água monchique</item>
+        <item>Betadine</item>
+        <item>maçã reineta</item>
+        <item>abacates</item>
+        <item>fita dental</item>
+        <item>milho de pipoca</item>
+        <item>papas</item>
+        <item>feijão encarnado</item>
+        <item>activia</item>
+        <item>tabaco</item>
+        <item>rolo papel cozinha</item>
+        <item>Damasco</item>
+        <item>garrafão de água</item>
+        <item>natas soja</item>
+        <item>chicken</item>
+        <item>linguiça calabresa</item>
+        <item>cif creme</item>
+        <item>gin</item>
+        <item>Miolo de camarão</item>
+        <item>fermento padeiro</item>
+        <item>batata inglesa</item>
+        <item>coco</item>
+        <item>cheese</item>
+        <item>biscoito maisena</item>
+        <item>queijo vaca que ri</item>
+        <item>polvilho doce</item>
+        <item>celery</item>
+        <item>yogurtes</item>
+        <item>azeite extra virgem</item>
+        <item>ervilha congelada</item>
+        <item>arroz vaporizado</item>
+        <item>farinha de aveia</item>
+        <item>farofa</item>
+        <item>listerine</item>
+        <item>fiambre de peru</item>
+        <item>fósforos</item>
+        <item>balões</item>
+        <item>alcaparras</item>
+        <item>sobremesa</item>
+        <item>farinha láctea</item>
+        <item>bolacha água e sal</item>
+        <item>chá gelado</item>
+        <item>tostinhas</item>
+        <item>croquetes</item>
+        <item>ham</item>
+        <item>Tortilhas</item>
+        <item>cuscuz</item>
+        <item>tomates cherry</item>
+        <item>cerejas</item>
+        <item>grelos</item>
+        <item>pepinos</item>
+        <item>leite de amêndoa</item>
+        <item>Shampoo anticaspa</item>
+        <item>ameixas</item>
+        <item>sumo de laranja</item>
+        <item>creme de ricota</item>
+        <item>tomate lata</item>
+        <item>caldo de carne</item>
+        <item>esponja de louça</item>
+        <item>leite de arroz</item>
+        <item>fermento em pó</item>
+        <item>leite com chocolate</item>
+        <item>sal marinho</item>
+        <item>frutos vermelhos congelados</item>
+        <item>suco de maçã</item>
+        <item>leite aveia</item>
+        <item>bicarbonato</item>
+        <item>repelente</item>
+        <item>lombos de pescada</item>
+        <item>carne seca</item>
+        <item>linhaça</item>
+        <item>detergente máquina roupa</item>
+        <item>crackers</item>
+        <item>soro</item>
+        <item>sabonete Dove</item>
+        <item>potatoes</item>
+        <item>caldo verde</item>
+        <item>mascarpone</item>
+        <item>compal</item>
+        <item>milho verde</item>
+        <item>apples</item>
+        <item>óleo fula</item>
+        <item>perfume</item>
+        <item>pinho sol</item>
+        <item>pato purific</item>
+        <item>feijão carioca</item>
+        <item>rice</item>
+        <item>queijo quark</item>
+        <item>pernas de frango</item>
+        <item>papel de alumínio</item>
+        <item>gaspacho</item>
+        <item>pimenta preta</item>
+        <item>snacks</item>
+        <item>massa de alho</item>
+        <item>congelados</item>
+        <item>bacon cubos</item>
+        <item>shampo</item>
+        <item>meloa</item>
+        <item>milho doce</item>
+        <item>feta</item>
+        <item>batata baroa</item>
+        <item>iogurtes magros</item>
+        <item>chá camomila</item>
+        <item>skip</item>
+        <item>molho soja</item>
+        <item>esponja loiça</item>
+        <item>cola</item>
+        <item>iogurtes sem lactose</item>
+        <item>Torradas</item>
+        <item>espuma barbear</item>
+        <item>gomas</item>
+        <item>peixe congelado</item>
+        <item>vinagre branco</item>
+        <item>pão sem glúten</item>
+        <item>capuccino</item>
+        <item>sucrilhos</item>
+        <item>massa espiral</item>
+        <item>corgete</item>
+        <item>lombos salmão</item>
+        <item>pau de canela</item>
+        <item>patê</item>
+        <item>gelatinas</item>
+        <item>nesquick</item>
+        <item>sardinhas</item>
+        <item>aveia em flocos</item>
+        <item>pasta</item>
+        <item>olive oil</item>
+        <item>dióspiros</item>
+        <item>esparguete integral</item>
+        <item>pastilhas máquina</item>
+        <item>espuma de barbear</item>
+        <item>castanha do Pará</item>
+        <item>nectarinas</item>
+        <item>ameijoas</item>
+        <item>sal máquina loiça</item>
+        <item>marinheiras</item>
+        <item>planta</item>
+        <item>cogumelos lata</item>
+        <item>Sucos</item>
+        <item>bongo</item>
+        <item>banana da terra</item>
+        <item>pensos rápidos</item>
+        <item>lombo</item>
+        <item>papa</item>
+        <item>minis</item>
+        <item>manhazitos</item>
+        <item>queijinhos</item>
+        <item>aipim</item>
+        <item>bolachas marinheiras</item>
+        <item>mamão formosa</item>
+        <item>crepes</item>
+        <item>goiabada</item>
+        <item>doce</item>
+        <item>pinhões</item>
+        <item>chips</item>
+        <item>livros</item>
+        <item>filé mignon</item>
+        <item>creme mãos</item>
+        <item>líquido lentes</item>
+        <item>miolo camarão</item>
+        <item>guardanapos de papel</item>
+        <item>queijo gorgonzola</item>
+        <item>vinhos</item>
+        <item>leite condensado cozido</item>
+        <item>sobrecoxa</item>
+        <item>goiaba</item>
+        <item>coca</item>
+        <item>tenis</item>
+        <item>manga palmer</item>
+        <item>leite vegetal</item>
+        <item>whisky</item>
+        <item>cuscus</item>
+        <item>couve roxa</item>
+        <item>barras cereais</item>
+        <item>farinha t55</item>
+        <item>queijo creme</item>
+        <item>pimentão verde</item>
+        <item>sacos lixo 50lt</item>
+        <item>cheddar</item>
+        <item>leite chocolate</item>
+        <item>peanut butter</item>
+        <item>Sementes de abóbora</item>
+        <item>leite de aveia</item>
+        <item>espetadas</item>
+        <item>queijo babybel</item>
+        <item>paper towels</item>
+        <item>batatas palha</item>
+        <item>massa pizza</item>
+        <item>detergente loiça mão</item>
+        <item>hummus</item>
+        <item>omo</item>
+        <item>pão cachorro</item>
+        <item>groselha</item>
+        <item>vinho verde</item>
+        <item>massa de pimentão</item>
+        <item>seitan</item>
+        <item>álcool etílico</item>
+        <item>flor de sal</item>
+        <item>Qboa</item>
+        <item>vegetais</item>
+        <item>catupiry</item>
+        <item>atum natural</item>
+        <item>noz moscada</item>
+        <item>filtro café</item>
+        <item>queijo magro</item>
+        <item>panquecas</item>
+        <item>jardineira</item>
+        <item>leite coco</item>
+        <item>natas culinária</item>
+        <item>favas</item>
+        <item>pão italiano</item>
+        <item>caldo de legumes</item>
+        <item>leite magro sem lactose</item>
+        <item>Sabão em pedra</item>
+        <item>ricotta</item>
+        <item>lombos pescada</item>
+        <item>super cola</item>
+        <item>chá verde</item>
+        <item>café nespresso</item>
+        <item>salgadinho</item>
+        <item>margarina líquida</item>
+        <item>sopa de cebola</item>
+        <item>champoo</item>
+        <item>pão alentejano</item>
+        <item>pijama</item>
+        <item>tomatinhos</item>
+        <item>vanish branco</item>
+        <item>guardanapos papel</item>
+        <item>farinha branca de neve</item>
+        <item>lexivia</item>
+        <item>bróculos congelados</item>
+        <item>sour cream</item>
+        <item>leite achocolatado</item>
+        <item>maisena</item>
+        <item>queijo Filadélfia</item>
+        <item>xuxu</item>
+        <item>desentupidor</item>
+        <item>cominhos</item>
+        <item>frango assado</item>
+        <item>maçã verde</item>
+        <item>filme plástico</item>
+        <item>sunquick</item>
+        <item>pimenta dedo de moça</item>
+        <item>atum lata</item>
+        <item>pringles</item>
+        <item>danoninhos</item>
+        <item>polvilho azedo</item>
+        <item>acelga</item>
+        <item>vinagre de maçã</item>
+        <item>kefir</item>
+        <item>batatas para cozer</item>
+        <item>dodots</item>
+        <item>castanha</item>
+        <item>shoyo</item>
+        <item>achocolatado</item>
+        <item>pera abacate</item>
+        <item>frize</item>
+        <item>peito peru</item>
+        <item>Ketchup Heinz</item>
+        <item>cabides</item>
+        <item>leite semi desnatado</item>
+        <item>mangas</item>
+        <item>lâmpada</item>
+        <item>iogurtes gregos</item>
+        <item>pão centeio</item>
+        <item>sabonete líquido mãos</item>
+        <item>agriões</item>
+        <item>tulicreme</item>
+        <item>fermento royal</item>
+        <item>milho lata</item>
+        <item>copos</item>
+        <item>papel filme</item>
+        <item>toalhitas wc</item>
+        <item>farinha de trigo integral</item>
+        <item>massa filo</item>
+        <item>discos algodão</item>
+        <item>rissois</item>
+        <item>carne de panela</item>
+        <item>cebola congelada</item>
+        <item>azeite cozinhar</item>
+        <item>queijo barrar</item>
+        <item>danacol</item>
+        <item>fermento biológico</item>
+        <item>açúcar refinado</item>
+        <item>óleo de milho</item>
+        <item>vodka</item>
+        <item>Philadelphia</item>
+        <item>framboesa</item>
+        <item>pao de hot dog</item>
+        <item>trigo</item>
+        <item>massa pimentão</item>
+        <item>bife frango</item>
+        <item>farinha para bolos</item>
+        <item>batata frita congelada</item>
+        <item>amêndoa</item>
+        <item>bifes de vaca</item>
+        <item>sobrecoxa de frango</item>
+        <item>moscatel</item>
+        <item>discos de algodão</item>
+        <item>piri-piri</item>
+        <item>carne de porco</item>
+        <item>couve flor congelada</item>
+        <item>alheiras</item>
+        <item>waffle</item>
+        <item>pano de chão</item>
+        <item>maple syrup</item>
+        <item>becel</item>
+        <item>water</item>
+        <item>couve branca</item>
+        <item>queijo de cabra</item>
+        <item>cream cracker</item>
+        <item>manteiga matinal</item>
+        <item>bacon fatias</item>
+        <item>massa penne</item>
+        <item>leitinhos</item>
+        <item>pudim</item>
+        <item>creme de cebola</item>
+        <item>ovomaltine</item>
+        <item>resma papel</item>
+        <item>ameixa seca</item>
+        <item>salsichas aves</item>
+        <item>pistachios</item>
+        <item>bolachas chocolate</item>
+        <item>resguardos</item>
+        <item>salsão</item>
+        <item>tira nódoas</item>
+        <item>enchidos</item>
+        <item>panados</item>
+        <item>paçoca</item>
+        <item>palmiers</item>
+        <item>natas para bater</item>
+        <item>gel</item>
+        <item>chocolate meio amargo</item>
+        <item>sapolio</item>
+        <item>canela em pau</item>
+        <item>borrifador</item>
+    </array>
+</resources>

@@ -1,0 +1,1005 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="master_list_values">
+        <item>pienas</item>
+        <item>kiausiniai</item>
+        <item>duona</item>
+        <item>bananai</item>
+        <item>pomidorai</item>
+        <item>sviestas</item>
+        <item>grietine</item>
+        <item>suris</item>
+        <item>batonas</item>
+        <item>morkos</item>
+        <item>paprika</item>
+        <item>agurkai</item>
+        <item>bulves</item>
+        <item>pieno</item>
+        <item>varske</item>
+        <item>kiausiniu</item>
+        <item>agurkas</item>
+        <item>bulviu</item>
+        <item>duonos</item>
+        <item>citrina</item>
+        <item>kefyras</item>
+        <item>lasisa</item>
+        <item>obuoliai</item>
+        <item>grietines</item>
+        <item>grietinele</item>
+        <item>avokadas</item>
+        <item>sviesto</item>
+        <item>majonezas</item>
+        <item>bananu</item>
+        <item>vistiena</item>
+        <item>graikiskas jogurtas</item>
+        <item>surio</item>
+        <item>morku</item>
+        <item>jogurtas</item>
+        <item>agurku</item>
+        <item>avokadai</item>
+        <item>svogunai</item>
+        <item>salotos</item>
+        <item>varskes</item>
+        <item>cukinija</item>
+        <item>vanduo</item>
+        <item>tualetinis popierius</item>
+        <item>ryziai</item>
+        <item>makaronai</item>
+        <item>pomidoru</item>
+        <item>desreliu</item>
+        <item>vaisiai</item>
+        <item>brokolis</item>
+        <item>desreles</item>
+        <item>aliejus</item>
+        <item>miltai</item>
+        <item>kava</item>
+        <item>dantu pasta</item>
+        <item>citrinos</item>
+        <item>obuoliu</item>
+        <item>grikiai</item>
+        <item>cukrus</item>
+        <item>svogunu</item>
+        <item>siuksliu maisai</item>
+        <item>feta</item>
+        <item>pievagrybiai</item>
+        <item>batono</item>
+        <item>svogunas</item>
+        <item>mocarela</item>
+        <item>vandens</item>
+        <item>vaisiu</item>
+        <item>farsas</item>
+        <item>spinatai</item>
+        <item>cesnakas</item>
+        <item>ledai</item>
+        <item>miltu</item>
+        <item>pomidoru padazas</item>
+        <item>popieriniai ranksluosciai</item>
+        <item>grietineles</item>
+        <item>mineralinis</item>
+        <item>tortilijos</item>
+        <item>kukuruzai</item>
+        <item>desra</item>
+        <item>vistienos file</item>
+        <item>cipsai</item>
+        <item>majonezo</item>
+        <item>juoda duona</item>
+        <item>svogunu laiskai</item>
+        <item>kefyro</item>
+        <item>avokadu</item>
+        <item>pomidoriukai</item>
+        <item>apelsinai</item>
+        <item>kepimo popierius</item>
+        <item>jogurto</item>
+        <item>sureliai</item>
+        <item>salota</item>
+        <item>farso</item>
+        <item>vistienos</item>
+        <item>pomidoriuku</item>
+        <item>šoninė</item>
+        <item>alus</item>
+        <item>tunas</item>
+        <item>sureliu</item>
+        <item>mandarinai</item>
+        <item>pievagrybiu</item>
+        <item>mesos</item>
+        <item>sausainiai</item>
+        <item>konservuoti pomidorai</item>
+        <item>avokado</item>
+        <item>grudeta varske</item>
+        <item>mesa</item>
+        <item>kavos</item>
+        <item>darzoviu</item>
+        <item>koldunai</item>
+        <item>kumpis</item>
+        <item>alyvuoges</item>
+        <item>vynuoges</item>
+        <item>druska</item>
+        <item>krapai</item>
+        <item>ryziu</item>
+        <item>ausu krapstukai</item>
+        <item>cesnakai</item>
+        <item>grikiu</item>
+        <item>paprikos</item>
+        <item>kopustas</item>
+        <item>lasisos</item>
+        <item>riesutu sviestas</item>
+        <item>burokeliai</item>
+        <item>uztepele</item>
+        <item>spinatu</item>
+        <item>sampunas</item>
+        <item>sultys</item>
+        <item>arbata</item>
+        <item>pupeles</item>
+        <item>desros</item>
+        <item>agurko</item>
+        <item>jautienos farsas</item>
+        <item>agurka</item>
+        <item>vistienos krutinele</item>
+        <item>krevetes</item>
+        <item>duso zele</item>
+        <item>silke</item>
+        <item>mesyte</item>
+        <item>paketai</item>
+        <item>vynas</item>
+        <item>popieriniu ranksluosciu</item>
+        <item>alyvuogiu aliejus</item>
+        <item>mesytes</item>
+        <item>saldytos darzoves</item>
+        <item>siuksliu maisu</item>
+        <item>laimas</item>
+        <item>darzoves</item>
+        <item>ledu</item>
+        <item>aliejaus</item>
+        <item>citrinu</item>
+        <item>augalinis pienas</item>
+        <item>graikisko jogurto</item>
+        <item>serveteles</item>
+        <item>indu ploviklis</item>
+        <item>salotu</item>
+        <item>silauoges</item>
+        <item>kokosu pienas</item>
+        <item>riesutai</item>
+        <item>aviziniai dribsniai</item>
+        <item>bananas</item>
+        <item>popierinis rankšluostis</item>
+        <item>makaronu</item>
+        <item>Drėgnos servetėlės</item>
+        <item>imbieras</item>
+        <item>cipsu</item>
+        <item>tuno</item>
+        <item>morka</item>
+        <item>cesnako</item>
+        <item>tortiliju</item>
+        <item>bulkos</item>
+        <item>vatos diskeliai</item>
+        <item>skystas muilas</item>
+        <item>sumustiniu duona</item>
+        <item>krapu</item>
+        <item>rauginti kopustai</item>
+        <item>sulciu</item>
+        <item>apelsinu sultys</item>
+        <item>cukraus</item>
+        <item>bulka</item>
+        <item>dziuveseliai</item>
+        <item>avizos</item>
+        <item>sausi pusryciai</item>
+        <item>alaus</item>
+        <item>kepimo milteliai</item>
+        <item>zirneliai</item>
+        <item>dezodorantas</item>
+        <item>arbuzas</item>
+        <item>marinuoti agurkai</item>
+        <item>pomidoru pasta</item>
+        <item>krabu lazdeles</item>
+        <item>raudonas svogunas</item>
+        <item>braskes</item>
+        <item>pampersai</item>
+        <item>poras</item>
+        <item>tualetinio popieriaus</item>
+        <item>kepimo popieriaus</item>
+        <item>kecupas</item>
+        <item>trapuciu</item>
+        <item>skalbimo milteliai</item>
+        <item>kolos</item>
+        <item>avinzirniai</item>
+        <item>kumpio</item>
+        <item>raudono svoguno</item>
+        <item>fetos</item>
+        <item>augalinio pieno</item>
+        <item>rauginti agurkai</item>
+        <item>sausu pusryciu</item>
+        <item>petrazoliu</item>
+        <item>mandarinu</item>
+        <item>tepamas suris</item>
+        <item>kondensuotas pienas</item>
+        <item>uogos</item>
+        <item>kecupo</item>
+        <item>kalendra</item>
+        <item>cola</item>
+        <item>vista</item>
+        <item>koses</item>
+        <item>mineralinio</item>
+        <item>kiausai</item>
+        <item>uogu</item>
+        <item>fermentinis suris</item>
+        <item>kreveciu</item>
+        <item>kriauses</item>
+        <item>keciupas</item>
+        <item>druskos</item>
+        <item>burokeliu</item>
+        <item>garstyčios</item>
+        <item>folija</item>
+        <item>kempineles</item>
+        <item>ridikeliai</item>
+        <item>raugintu agurku</item>
+        <item>bandeles</item>
+        <item>jautiena</item>
+        <item>kiviai</item>
+        <item>kukuruzu</item>
+        <item>sausainiu</item>
+        <item>ausu krapstuku</item>
+        <item>moliugas</item>
+        <item>kalafioras</item>
+        <item>trapuciai</item>
+        <item>pomidoru padazo</item>
+        <item>minkstiklis</item>
+        <item>pesto</item>
+        <item>apelsinu</item>
+        <item>mangas</item>
+        <item>skysto muilo</item>
+        <item>mocarelos</item>
+        <item>rukola</item>
+        <item>salieras</item>
+        <item>sampanas</item>
+        <item>vynuogiu</item>
+        <item>iceberg salota</item>
+        <item>arbatos</item>
+        <item>marinuoti agurkeliai</item>
+        <item>sonines</item>
+        <item>saldainiai</item>
+        <item>avizine kose</item>
+        <item>tofu</item>
+        <item>burata</item>
+        <item>kakava</item>
+        <item>ledukai</item>
+        <item>feta suris</item>
+        <item>jautienos farso</item>
+        <item>dribsniai</item>
+        <item>muilas</item>
+        <item>kivi</item>
+        <item>coca cola</item>
+        <item>actimel</item>
+        <item>kola</item>
+        <item>konservuoti kukurūzai</item>
+        <item>actas</item>
+        <item>batatai</item>
+        <item>burgeriu bandeles</item>
+        <item>svoguno</item>
+        <item>lavasas</item>
+        <item>ciabata</item>
+        <item>koldunu</item>
+        <item>humusas</item>
+        <item>keciupo</item>
+        <item>petrazoles</item>
+        <item>paketu</item>
+        <item>konservuotos pupeles</item>
+        <item>tortilija</item>
+        <item>dantu pastos</item>
+        <item>cesnaku</item>
+        <item>indu ploviklio</item>
+        <item>razinos</item>
+        <item>sauleje dziovinti pomidorai</item>
+        <item>sultinys</item>
+        <item>mozarella</item>
+        <item>juodos duonos</item>
+        <item>silkes</item>
+        <item>skalbiklis</item>
+        <item>kavos pupeles</item>
+        <item>maistine plevele</item>
+        <item>prieskoniai</item>
+        <item>iklotai</item>
+        <item>tualetinis</item>
+        <item>kriausiu</item>
+        <item>melionas</item>
+        <item>ranku muilo</item>
+        <item>svogunu laisku</item>
+        <item>tepamas surelis</item>
+        <item>kumpelis</item>
+        <item>kalakutienos farsas</item>
+        <item>pistacijos</item>
+        <item>juodas sokoladas</item>
+        <item>pampersu</item>
+        <item>kokosu aliejus</item>
+        <item>riesutu</item>
+        <item>uztepeles</item>
+        <item>datules</item>
+        <item>muilo</item>
+        <item>wc valiklis</item>
+        <item>apelsinu sulciu</item>
+        <item>zuvis</item>
+        <item>tarkuotas suris</item>
+        <item>langu skystis</item>
+        <item>kalakutiena</item>
+        <item>krabu lazdeliu</item>
+        <item>serveteliu</item>
+        <item>tarkuoto surio</item>
+        <item>uogiene</item>
+        <item>varskes suris</item>
+        <item>imbiero</item>
+        <item>avizu</item>
+        <item>sluostes</item>
+        <item>raugintu kopustu</item>
+        <item>surio lazdeles</item>
+        <item>pipirai</item>
+        <item>indaploves tabletes</item>
+        <item>sokoladas</item>
+        <item>bandeliu</item>
+        <item>saulegrazos</item>
+        <item>pica</item>
+        <item>saldzios bulves</item>
+        <item>kepimo milteliu</item>
+        <item>krienai</item>
+        <item>philadelphia</item>
+        <item>serano kumpis</item>
+        <item>klevu sirupas</item>
+        <item>silauogiu</item>
+        <item>granola</item>
+        <item>grybai</item>
+        <item>pomidoru pastos</item>
+        <item>cinamonas</item>
+        <item>vyšniniai pomidorai</item>
+        <item>kokosu pieno</item>
+        <item>skalbiniu minkstiklis</item>
+        <item>laimo</item>
+        <item>saliamis</item>
+        <item>mango</item>
+        <item>braskiu</item>
+        <item>ozkos suris</item>
+        <item>vanilinis cukrus</item>
+        <item>kurmis</item>
+        <item>fairy</item>
+        <item>alyvuogiu</item>
+        <item>alyvuogiu aliejaus</item>
+        <item>saldi bulve</item>
+        <item>moliugu seklos</item>
+        <item>soda</item>
+        <item>perlines kruopos</item>
+        <item>šlapios servetėlės</item>
+        <item>bazilikas</item>
+        <item>sudyta lasisa</item>
+        <item>cukinijos</item>
+        <item>saldytu darzoviu</item>
+        <item>granatas</item>
+        <item>dziovinti pomidorai</item>
+        <item>slapiu serveteliu</item>
+        <item>duoniukai</item>
+        <item>skalbimo milteliu</item>
+        <item>kumpelio</item>
+        <item>vyno</item>
+        <item>soja</item>
+        <item>kraikas</item>
+        <item>riesutu sviesto</item>
+        <item>skalbimo kapsules</item>
+        <item>dziugas</item>
+        <item>dantu krapstukai</item>
+        <item>sojos padazas</item>
+        <item>persimonai</item>
+        <item>kondensuoto pieno</item>
+        <item>vistienos prieskoniai</item>
+        <item>sokolado</item>
+        <item>baklazanas</item>
+        <item>sriuba</item>
+        <item>nachos</item>
+        <item>migdolu pienas</item>
+        <item>ryziu trapuciai</item>
+        <item>dziuveseliu</item>
+        <item>saldainiu</item>
+        <item>zirneliu</item>
+        <item>brokoliai</item>
+        <item>prancuziskas batonas</item>
+        <item>slyvos</item>
+        <item>pupeliu</item>
+        <item>spageciai</item>
+        <item>migdolai</item>
+        <item>tortas</item>
+        <item>sultinio</item>
+        <item>kojines</item>
+        <item>dezikas</item>
+        <item>apelsinas</item>
+        <item>tamponai</item>
+        <item>kmynai</item>
+        <item>acto</item>
+        <item>kiauliena</item>
+        <item>folijos</item>
+        <item>medus</item>
+        <item>sluoksniuota tesla</item>
+        <item>cinamono</item>
+        <item>kuminas</item>
+        <item>skalbiklio</item>
+        <item>krakmolas</item>
+        <item>rududu</item>
+        <item>perliniu kruopu</item>
+        <item>rudas cukrus</item>
+        <item>midijos</item>
+        <item>cukraus pudra</item>
+        <item>zelatina</item>
+        <item>milk</item>
+        <item>eggs</item>
+        <item>bread</item>
+        <item>onions</item>
+        <item>avocado</item>
+        <item>butter</item>
+        <item>apples</item>
+        <item>carrots</item>
+        <item>cucumber</item>
+        <item>tomatoes</item>
+        <item>toilet paper</item>
+        <item>yogurt</item>
+        <item>sour cream</item>
+        <item>potatoes</item>
+        <item>bacon</item>
+        <item>lettuce</item>
+        <item>coffee</item>
+        <item>paper towels</item>
+        <item>broccoli</item>
+        <item>lemons</item>
+        <item>celery</item>
+        <item>mushrooms</item>
+        <item>chicken</item>
+        <item>strawberries</item>
+        <item>cream cheese</item>
+        <item>fruit</item>
+        <item>cheese</item>
+        <item>chips</item>
+        <item>garlic</item>
+        <item>peanut butter</item>
+        <item>spinach</item>
+        <item>cereal</item>
+        <item>limes</item>
+        <item>orange juice</item>
+        <item>ground beef</item>
+        <item>chicken breast</item>
+        <item>blueberries</item>
+        <item>grapes</item>
+        <item>red onion</item>
+        <item>ice cream</item>
+        <item>toothpaste</item>
+        <item>zucchini</item>
+        <item>tortillas</item>
+        <item>cilantro</item>
+        <item>green onions</item>
+        <item>salad</item>
+        <item>salsa</item>
+        <item>sugar</item>
+        <item>tortilla chips</item>
+        <item>water</item>
+        <item>ketchup</item>
+        <item>oranges</item>
+        <item>olive oil</item>
+        <item>bagels</item>
+        <item>ham</item>
+        <item>almond milk</item>
+        <item>green beans</item>
+        <item>lunch meat</item>
+        <item>cottage cheese</item>
+        <item>hamburger buns</item>
+        <item>sausage</item>
+        <item>hot dogs</item>
+        <item>hummus</item>
+        <item>beer</item>
+        <item>cherry tomatoes</item>
+        <item>crackers</item>
+        <item>salmon</item>
+        <item>shredded cheese</item>
+        <item>asparagus</item>
+        <item>paper plates</item>
+        <item>chicken broth</item>
+        <item>cauliflower</item>
+        <item>hot dog buns</item>
+        <item>honey</item>
+        <item>black beans</item>
+        <item>steak</item>
+        <item>rice</item>
+        <item>dog food</item>
+        <item>deodorant</item>
+        <item>Parmesan cheese</item>
+        <item>pasta</item>
+        <item>English muffins</item>
+        <item>heavy cream</item>
+        <item>bell peppers</item>
+        <item>ground turkey</item>
+        <item>flour</item>
+        <item>sweet potatoes</item>
+        <item>creamer</item>
+        <item>popcorn</item>
+        <item>laundry detergent</item>
+        <item>Greek yogurt</item>
+        <item>Kleenex</item>
+        <item>peppers</item>
+        <item>tomato sauce</item>
+        <item>berries</item>
+        <item>brown sugar</item>
+        <item>wine</item>
+        <item>hamburger</item>
+        <item>napkins</item>
+        <item>mayo</item>
+        <item>corn</item>
+        <item>tissues</item>
+        <item>chicken thighs</item>
+        <item>half and half</item>
+        <item>oatmeal</item>
+        <item>baby carrots</item>
+        <item>tomato paste</item>
+        <item>veggies</item>
+        <item>red pepper</item>
+        <item>tuna</item>
+        <item>sliced cheese</item>
+        <item>parsley</item>
+        <item>mayonnaise</item>
+        <item>green pepper</item>
+        <item>ginger</item>
+        <item>shrimp</item>
+        <item>coffee creamer</item>
+        <item>watermelon</item>
+        <item>shampoo</item>
+        <item>tomato</item>
+        <item>romaine lettuce</item>
+        <item>pepperoni</item>
+        <item>turkey</item>
+        <item>applesauce</item>
+        <item>pineapple</item>
+        <item>spaghetti sauce</item>
+        <item>jalapeño</item>
+        <item>buns</item>
+        <item>raspberries</item>
+        <item>ranch dressing</item>
+        <item>cream</item>
+        <item>soy sauce</item>
+        <item>pizza</item>
+        <item>dish soap</item>
+        <item>cat food</item>
+        <item>cheddar cheese</item>
+        <item>chocolate chips</item>
+        <item>apple juice</item>
+        <item>kale</item>
+        <item>granola bars</item>
+        <item>pickles</item>
+        <item>cabbage</item>
+        <item>coconut milk</item>
+        <item>basil</item>
+        <item>cookies</item>
+        <item>pears</item>
+        <item>mozzarella</item>
+        <item>spaghetti</item>
+        <item>pretzels</item>
+        <item>juice</item>
+        <item>salt</item>
+        <item>coke</item>
+        <item>Brussels sprouts</item>
+        <item>taco seasoning</item>
+        <item>distilled water</item>
+        <item>Mac and cheese</item>
+        <item>red bell pepper</item>
+        <item>rotisserie chicken</item>
+        <item>hand soap</item>
+        <item>maple syrup</item>
+        <item>string cheese</item>
+        <item>shallots</item>
+        <item>frozen peas</item>
+        <item>sweet potato</item>
+        <item>whole milk</item>
+        <item>ice</item>
+        <item>garlic bread</item>
+        <item>baby spinach</item>
+        <item>olives</item>
+        <item>yellow onion</item>
+        <item>salami</item>
+        <item>pasta sauce</item>
+        <item>bottled water</item>
+        <item>mustard</item>
+        <item>Gatorade</item>
+        <item>snacks</item>
+        <item>pork chops</item>
+        <item>diced tomatoes</item>
+        <item>almonds</item>
+        <item>cat litter</item>
+        <item>Diet Coke</item>
+        <item>soup</item>
+        <item>Parmesan</item>
+        <item>waffles</item>
+        <item>cheese slices</item>
+        <item>trash bags</item>
+        <item>body wash</item>
+        <item>lemon juice</item>
+        <item>raisins</item>
+        <item>chocolate</item>
+        <item>fish</item>
+        <item>qtips</item>
+        <item>chicken nuggets</item>
+        <item>baking soda</item>
+        <item>feta cheese</item>
+        <item>frozen pizza</item>
+        <item>ricotta</item>
+        <item>refried beans</item>
+        <item>mozzarella cheese</item>
+        <item>bbq sauce</item>
+        <item>buttermilk</item>
+        <item>mouthwash</item>
+        <item>half &amp; half</item>
+        <item>goldfish</item>
+        <item>walnuts</item>
+        <item>Cheerios</item>
+        <item>conditioner</item>
+        <item>AA batteries</item>
+        <item>American cheese</item>
+        <item>biscuits</item>
+        <item>rolls</item>
+        <item>syrup</item>
+        <item>wraps</item>
+        <item>gum</item>
+        <item>baked beans</item>
+        <item>graham crackers</item>
+        <item>bleach</item>
+        <item>pizza sauce</item>
+        <item>peanuts</item>
+        <item>croutons</item>
+        <item>scallions</item>
+        <item>flour tortillas</item>
+        <item>cheese sticks</item>
+        <item>French fries</item>
+        <item>oat milk</item>
+        <item>frozen corn</item>
+        <item>cashews</item>
+        <item>tea</item>
+        <item>chicken stock</item>
+        <item>lemonade</item>
+        <item>beef broth</item>
+        <item>chickpeas</item>
+        <item>hash browns</item>
+        <item>peaches</item>
+        <item>chocolate milk</item>
+        <item>potato chips</item>
+        <item>aluminum foil</item>
+        <item>black olives</item>
+        <item>vegetable oil</item>
+        <item>jelly</item>
+        <item>guacamole</item>
+        <item>corn tortillas</item>
+        <item>taco shells</item>
+        <item>kidney beans</item>
+        <item>coffee filters</item>
+        <item>breakfast sausage</item>
+        <item>dog treats</item>
+        <item>garbage bags</item>
+        <item>wipes</item>
+        <item>pancake mix</item>
+        <item>garlic powder</item>
+        <item>vinegar</item>
+        <item>sandwich bags</item>
+        <item>whipped cream</item>
+        <item>cool whip</item>
+        <item>pecans</item>
+        <item>grape tomatoes</item>
+        <item>meat</item>
+        <item>Swiss cheese</item>
+        <item>cranberry juice</item>
+        <item>Nutella</item>
+        <item>salad mix</item>
+        <item>diapers</item>
+        <item>nuts</item>
+        <item>Italian sausage</item>
+        <item>egg noodles</item>
+        <item>vanilla ice cream</item>
+        <item>heavy whipping cream</item>
+        <item>coleslaw</item>
+        <item>shredded cheddar</item>
+        <item>ritz crackers</item>
+        <item>shaving cream</item>
+        <item>brown rice</item>
+        <item>baby wipes</item>
+        <item>dishwasher detergent</item>
+        <item>unsalted butter</item>
+        <item>marshmallows</item>
+        <item>corn on the cob</item>
+        <item>arugula</item>
+        <item>beans</item>
+        <item>AAA batteries</item>
+        <item>meatballs</item>
+        <item>ginger ale</item>
+        <item>deli meat</item>
+        <item>white vinegar</item>
+        <item>French bread</item>
+        <item>margarine</item>
+        <item>skim milk</item>
+        <item>peas</item>
+        <item>tampons</item>
+        <item>sparkling water</item>
+        <item>frozen blueberries</item>
+        <item>tomato soup</item>
+        <item>shredded mozzarella</item>
+        <item>hairspray</item>
+        <item>salad dressing</item>
+        <item>Oreos</item>
+        <item>powdered sugar</item>
+        <item>Coke Zero</item>
+        <item>white onion</item>
+        <item>dryer sheets</item>
+        <item>burger buns</item>
+        <item>white wine</item>
+        <item>flowers</item>
+        <item>red potatoes</item>
+        <item>pop tarts</item>
+        <item>canola oil</item>
+        <item>white bread</item>
+        <item>red wine</item>
+        <item>pads</item>
+        <item>goat cheese</item>
+        <item>fabric softener</item>
+        <item>egg whites</item>
+        <item>frozen fruit</item>
+        <item>sourdough bread</item>
+        <item>cinnamon</item>
+        <item>bread crumbs</item>
+        <item>ziplock bags</item>
+        <item>frozen veggies</item>
+        <item>parchment paper</item>
+        <item>soy milk</item>
+        <item>sunscreen</item>
+        <item>thyme</item>
+        <item>Doritos</item>
+        <item>Dijon mustard</item>
+        <item>baking powder</item>
+        <item>pumpkin</item>
+        <item>water bottles</item>
+        <item>iceberg lettuce</item>
+        <item>blackberries</item>
+        <item>leeks</item>
+        <item>fresh basil</item>
+        <item>muffins</item>
+        <item>toothbrush</item>
+        <item>laundry soap</item>
+        <item>tater tots</item>
+        <item>protein bars</item>
+        <item>burgers</item>
+        <item>shredded lettuce</item>
+        <item>chicken wings</item>
+        <item>lime juice</item>
+        <item>bandaids</item>
+        <item>vanilla</item>
+        <item>romaine</item>
+        <item>shredded cheddar cheese</item>
+        <item>soap</item>
+        <item>candy</item>
+        <item>whipping cream</item>
+        <item>frozen broccoli</item>
+        <item>eggplant</item>
+        <item>bacon bits</item>
+        <item>dishwasher soap</item>
+        <item>fruit snacks</item>
+        <item>noodles</item>
+        <item>mint</item>
+        <item>sponges</item>
+        <item>cantaloupe</item>
+        <item>croissants</item>
+        <item>lunchables</item>
+        <item>juice boxes</item>
+        <item>jam</item>
+        <item>cherries</item>
+        <item>salad stuff</item>
+        <item>cumin</item>
+        <item>ibuprofen</item>
+        <item>grapefruit</item>
+        <item>quinoa</item>
+        <item>clementines</item>
+        <item>butternut squash</item>
+        <item>chili powder</item>
+        <item>spring onions</item>
+        <item>oregano</item>
+        <item>vodka</item>
+        <item>cream of mushroom soup</item>
+        <item>sprite</item>
+        <item>almond butter</item>
+        <item>baguette</item>
+        <item>cream of chicken soup</item>
+        <item>radishes</item>
+        <item>crushed tomatoes</item>
+        <item>pepper</item>
+        <item>apple cider vinegar</item>
+        <item>squash</item>
+        <item>green bell pepper</item>
+        <item>vanilla extract</item>
+        <item>sandwich meat</item>
+        <item>pork tenderloin</item>
+        <item>rosemary</item>
+        <item>oats</item>
+        <item>razors</item>
+        <item>tide</item>
+        <item>frozen strawberries</item>
+        <item>light bulbs</item>
+        <item>Clorox wipes</item>
+        <item>mashed potatoes</item>
+        <item>stick butter</item>
+        <item>mince</item>
+        <item>coriander</item>
+        <item>lotion</item>
+        <item>canned tomatoes</item>
+        <item>chives</item>
+        <item>frozen spinach</item>
+        <item>Roma tomatoes</item>
+        <item>birthday card</item>
+        <item>sweet onion</item>
+        <item>toilet bowl cleaner</item>
+        <item>kiwi</item>
+        <item>pinto beans</item>
+        <item>wheat thins</item>
+        <item>pop</item>
+        <item>seltzer</item>
+        <item>chicken tenders</item>
+        <item>fresh parsley</item>
+        <item>sunflower seeds</item>
+        <item>dill</item>
+        <item>deli turkey</item>
+        <item>fresh cilantro</item>
+        <item>minced garlic</item>
+        <item>crescent rolls</item>
+        <item>pie crust</item>
+        <item>coconut oil</item>
+        <item>pistachios</item>
+        <item>corn starch</item>
+        <item>Fritos</item>
+        <item>face wash</item>
+        <item>Dr Pepper</item>
+        <item>mandarin oranges</item>
+        <item>tums</item>
+        <item>plain Greek yogurt</item>
+        <item>Mexican cheese</item>
+        <item>Pepsi</item>
+        <item>ground pork</item>
+        <item>smoked salmon</item>
+        <item>frozen berries</item>
+        <item>hamburger meat</item>
+        <item>turkey bacon</item>
+        <item>onion powder</item>
+        <item>saltines</item>
+        <item>balsamic vinegar</item>
+        <item>tea bags</item>
+        <item>iced tea</item>
+        <item>pizza dough</item>
+        <item>cheddar</item>
+        <item>trail mix</item>
+        <item>beef</item>
+        <item>mixed nuts</item>
+        <item>blue cheese</item>
+        <item>evaporated milk</item>
+        <item>rice cakes</item>
+        <item>whole chicken</item>
+        <item>stamps</item>
+        <item>beets</item>
+        <item>Pam</item>
+        <item>spaghetti noodles</item>
+        <item>canned corn</item>
+        <item>la croix</item>
+        <item>hot chocolate</item>
+        <item>mascara</item>
+        <item>contact solution</item>
+        <item>sandwich bread</item>
+        <item>sesame oil</item>
+        <item>Advil</item>
+        <item>freezer bags</item>
+        <item>cheezits</item>
+        <item>Tylenol</item>
+        <item>kitty litter</item>
+        <item>corn chips</item>
+        <item>Honey Nut Cheerios</item>
+        <item>yeast</item>
+        <item>ribs</item>
+        <item>ground chicken</item>
+        <item>popsicles</item>
+        <item>vitamins</item>
+        <item>socks</item>
+        <item>deli ham</item>
+        <item>plain yogurt</item>
+        <item>foil</item>
+        <item>cinnamon rolls</item>
+        <item>card</item>
+        <item>capers</item>
+        <item>cranberries</item>
+        <item>fries</item>
+        <item>triscuits</item>
+        <item>miracle whip</item>
+        <item>batteries</item>
+        <item>salad greens</item>
+        <item>pita bread</item>
+        <item>grape jelly</item>
+        <item>dates</item>
+        <item>rotel</item>
+        <item>white rice</item>
+        <item>coconut water</item>
+        <item>ramen</item>
+        <item>cooking spray</item>
+        <item>grated cheese</item>
+        <item>Alfredo sauce</item>
+        <item>oil</item>
+        <item>brats</item>
+        <item>dip</item>
+        <item>chocolate syrup</item>
+        <item>wheat bread</item>
+        <item>pita chips</item>
+        <item>Rice Krispies</item>
+        <item>prescription</item>
+        <item>cuties</item>
+        <item>cake</item>
+        <item>dessert</item>
+        <item>capsicum</item>
+        <item>enchilada sauce</item>
+        <item>dark chocolate</item>
+        <item>Italian dressing</item>
+        <item>ravioli</item>
+        <item>drinks</item>
+        <item>charcoal</item>
+        <item>cotton balls</item>
+        <item>shredded carrots</item>
+        <item>windex</item>
+        <item>pine nuts</item>
+        <item>kombucha</item>
+        <item>green apples</item>
+        <item>canned chicken</item>
+        <item>floss</item>
+        <item>naan</item>
+        <item>lasagna noodles</item>
+        <item>potato salad</item>
+        <item>Worcestershire sauce</item>
+        <item>chorizo</item>
+        <item>jasmine rice</item>
+        <item>crisps</item>
+        <item>honey crisp apples</item>
+        <item>Hawaiian rolls</item>
+        <item>red wine vinegar</item>
+        <item>prosciutto</item>
+        <item>roast beef</item>
+        <item>bar soap</item>
+        <item>vegetable broth</item>
+        <item>tortellini</item>
+        <item>pineapple juice</item>
+        <item>English cucumber</item>
+        <item>sugar snap peas</item>
+        <item>russet potatoes</item>
+        <item>dental floss</item>
+        <item>greens</item>
+        <item>tonic water</item>
+        <item>green tea</item>
+        <item>strawberry jam</item>
+        <item>sun dried tomatoes</item>
+        <item>frozen waffles</item>
+        <item>potato</item>
+        <item>tostitos</item>
+        <item>listerine</item>
+        <item>rye bread</item>
+        <item>Diet Pepsi</item>
+        <item>kalamata olives</item>
+        <item>all purpose flour</item>
+        <item>red grapes</item>
+        <item>spaghetti squash</item>
+        <item>toilet cleaner</item>
+        <item>bird seed</item>
+        <item>kosher salt</item>
+        <item>turkey lunch meat</item>
+        <item>edamame</item>
+        <item>Splenda</item>
+        <item>decaf coffee</item>
+        <item>root beer</item>
+        <item>corn flakes</item>
+        <item>pita</item>
+        <item>melatonin</item>
+        <item>black pepper</item>
+        <item>coffee beans</item>
+        <item>vitamin D</item>
+        <item>vanilla yogurt</item>
+        <item>brownie mix</item>
+        <item>marinara sauce</item>
+        <item>dishwashing liquid</item>
+        <item>brocolli</item>
+        <item>draino</item>
+        <item>macaroni</item>
+    </array>
+</resources>

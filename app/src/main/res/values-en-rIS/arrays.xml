@@ -1,0 +1,1005 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="master_list_values">
+        <item>mjólk</item>
+        <item>egg</item>
+        <item>brauð</item>
+        <item>rjómi</item>
+        <item>ostur</item>
+        <item>skinka</item>
+        <item>smjör</item>
+        <item>bananar</item>
+        <item>gúrka</item>
+        <item>kartöflur</item>
+        <item>epli</item>
+        <item>paprika</item>
+        <item>kaffi</item>
+        <item>sveppir</item>
+        <item>sýrður rjómi</item>
+        <item>ab mjólk</item>
+        <item>skyr</item>
+        <item>tómatar</item>
+        <item>banana</item>
+        <item>rifinn ostur</item>
+        <item>laukur</item>
+        <item>hakk</item>
+        <item>gulrætur</item>
+        <item>tannkrem</item>
+        <item>smjörvi</item>
+        <item>pepperoni</item>
+        <item>beikon</item>
+        <item>kók</item>
+        <item>snakk</item>
+        <item>vínber</item>
+        <item>flatkökur</item>
+        <item>kál</item>
+        <item>klósettpappír</item>
+        <item>hveiti</item>
+        <item>salat</item>
+        <item>wc pappír</item>
+        <item>hamborgarabrauð</item>
+        <item>pepsi max</item>
+        <item>cheerios</item>
+        <item>rjómaostur</item>
+        <item>avocado</item>
+        <item>sykur</item>
+        <item>kjúklingabringur</item>
+        <item>rauðlaukur</item>
+        <item>pizzasósa</item>
+        <item>sætar kartöflur</item>
+        <item>rúsínur</item>
+        <item>handsápa</item>
+        <item>jógúrt</item>
+        <item>gos</item>
+        <item>sódavatn</item>
+        <item>fetaostur</item>
+        <item>ost</item>
+        <item>jarðaber</item>
+        <item>grísk jógúrt</item>
+        <item>kjúklingur</item>
+        <item>franskar</item>
+        <item>nammi</item>
+        <item>suðusúkkulaði</item>
+        <item>hvítlaukur</item>
+        <item>pylsur</item>
+        <item>tómatsósa</item>
+        <item>lime</item>
+        <item>kókómjólk</item>
+        <item>hleðsla</item>
+        <item>bláber</item>
+        <item>eldhúsrúllur</item>
+        <item>þvottaefni</item>
+        <item>kex</item>
+        <item>brokkolí</item>
+        <item>piparostur</item>
+        <item>kotasæla</item>
+        <item>pasta</item>
+        <item>djús</item>
+        <item>haframjöl</item>
+        <item>sítróna</item>
+        <item>flórsykur</item>
+        <item>pylsubrauð</item>
+        <item>appelsínur</item>
+        <item>gular baunir</item>
+        <item>matreiðslurjómi</item>
+        <item>rauð paprika</item>
+        <item>kokteilsósa</item>
+        <item>hvítlauksbrauð</item>
+        <item>núðlur</item>
+        <item>spínat</item>
+        <item>hrísgrjón</item>
+        <item>bacon</item>
+        <item>kristall</item>
+        <item>blómkál</item>
+        <item>bleyjur</item>
+        <item>rjóma</item>
+        <item>mangó</item>
+        <item>perur</item>
+        <item>salsa sósa</item>
+        <item>steinselja</item>
+        <item>pizzadeig</item>
+        <item>döðlur</item>
+        <item>bökunarpappír</item>
+        <item>púðursykur</item>
+        <item>pítusósa</item>
+        <item>múslí</item>
+        <item>hnetusmjör</item>
+        <item>nýmjólk</item>
+        <item>uppþvottalögur</item>
+        <item>pulsur</item>
+        <item>hamborgarar</item>
+        <item>engifer</item>
+        <item>appelsín</item>
+        <item>ananas</item>
+        <item>steiktur laukur</item>
+        <item>banani</item>
+        <item>safi</item>
+        <item>léttmjólk</item>
+        <item>blautþurrkur</item>
+        <item>ritz kex</item>
+        <item>beyglur</item>
+        <item>kókosmjólk</item>
+        <item>collab</item>
+        <item>doritos</item>
+        <item>avókadó</item>
+        <item>pítubrauð</item>
+        <item>rifinn ost</item>
+        <item>súkkulaði</item>
+        <item>ávextir</item>
+        <item>grænar baunir</item>
+        <item>majones</item>
+        <item>kæfa</item>
+        <item>eyrnapinnar</item>
+        <item>tómata</item>
+        <item>rauðkál</item>
+        <item>morgunkorn</item>
+        <item>skvísur</item>
+        <item>grænmeti</item>
+        <item>sæt kartafla</item>
+        <item>vanilludropar</item>
+        <item>nocco</item>
+        <item>pizzaostur</item>
+        <item>mandarínur</item>
+        <item>agúrka</item>
+        <item>popp</item>
+        <item>hamborgarasósa</item>
+        <item>möndlumjólk</item>
+        <item>ostur í sneiðum</item>
+        <item>hangikjöt</item>
+        <item>lýsi</item>
+        <item>parmesan</item>
+        <item>jarðarber</item>
+        <item>rúgbrauð</item>
+        <item>sítrónur</item>
+        <item>kornflex</item>
+        <item>smjörlíki</item>
+        <item>lgg</item>
+        <item>sveppi</item>
+        <item>klettasalat</item>
+        <item>olía</item>
+        <item>nautahakk</item>
+        <item>eldhúspappír</item>
+        <item>bómull</item>
+        <item>bjór</item>
+        <item>súrmjólk</item>
+        <item>kóríander</item>
+        <item>sulta</item>
+        <item>hrökkbrauð</item>
+        <item>pulsubrauð</item>
+        <item>sellerí</item>
+        <item>hamborgara</item>
+        <item>tortillur</item>
+        <item>sturtusápa</item>
+        <item>fiskur</item>
+        <item>skinku</item>
+        <item>grjónagrautur</item>
+        <item>kaffibaunir</item>
+        <item>haframjólk</item>
+        <item>bómullarskífur</item>
+        <item>salt</item>
+        <item>hrásalat</item>
+        <item>gúrku</item>
+        <item>sjampó</item>
+        <item>frosin jarðaber</item>
+        <item>græn epli</item>
+        <item>kjöt</item>
+        <item>bökunarkartöflur</item>
+        <item>appelsínusafi</item>
+        <item>álegg</item>
+        <item>vorlaukur</item>
+        <item>spagetti</item>
+        <item>kakó</item>
+        <item>tómatar í dós</item>
+        <item>blaðlaukur</item>
+        <item>tortilla</item>
+        <item>álpappír</item>
+        <item>tómatpúrra</item>
+        <item>tortilla kökur</item>
+        <item>dömubindi</item>
+        <item>hunang</item>
+        <item>kjúkling</item>
+        <item>ólífuolía</item>
+        <item>paprika rauð</item>
+        <item>remúlaði</item>
+        <item>íslenskt smjör</item>
+        <item>special k</item>
+        <item>abt mjólk</item>
+        <item>innlegg</item>
+        <item>túnfiskur</item>
+        <item>mango chutney</item>
+        <item>tyggjó</item>
+        <item>heimilisbrauð</item>
+        <item>möndlur</item>
+        <item>ruslapokar</item>
+        <item>pekanhnetur</item>
+        <item>ávexti</item>
+        <item>froosh</item>
+        <item>pastasósa</item>
+        <item>rautt pestó</item>
+        <item>kanill</item>
+        <item>nachos</item>
+        <item>salsa</item>
+        <item>coke zero</item>
+        <item>pestó</item>
+        <item>piparost</item>
+        <item>hráskinka</item>
+        <item>furuhnetur</item>
+        <item>mozzarella</item>
+        <item>saltstangir</item>
+        <item>weetos</item>
+        <item>Kjúklingaskinka</item>
+        <item>kavíar</item>
+        <item>stoðmjólk</item>
+        <item>aspas</item>
+        <item>papriku</item>
+        <item>coke</item>
+        <item>kiwi</item>
+        <item>spaghetti</item>
+        <item>smjörva</item>
+        <item>púrrulaukur</item>
+        <item>bread</item>
+        <item>melóna</item>
+        <item>forsoðnar kartöflur</item>
+        <item>kjúlli</item>
+        <item>lax</item>
+        <item>kirsuberjatómatar</item>
+        <item>lifrarpylsa</item>
+        <item>malt og appelsín</item>
+        <item>frosin hindber</item>
+        <item>chia fræ</item>
+        <item>oregano</item>
+        <item>lyftiduft</item>
+        <item>eplasafi</item>
+        <item>rófur</item>
+        <item>pizzusósa</item>
+        <item>harðfiskur</item>
+        <item>grískt jógúrt</item>
+        <item>sinnep</item>
+        <item>fetaost</item>
+        <item>tannbursta</item>
+        <item>frosin bláber</item>
+        <item>fjörmjólk</item>
+        <item>powerade</item>
+        <item>niðursoðnir tómatar</item>
+        <item>kristal</item>
+        <item>mexíkóostur</item>
+        <item>nesti</item>
+        <item>súkkulaðirúsínur</item>
+        <item>hnetur</item>
+        <item>ostasósa</item>
+        <item>matarolía</item>
+        <item>hafrakex</item>
+        <item>monster</item>
+        <item>sýróp</item>
+        <item>kókosolía</item>
+        <item>bbq sósa</item>
+        <item>kókosmjöl</item>
+        <item>snittubrauð</item>
+        <item>frosið mangó</item>
+        <item>hummus</item>
+        <item>slátur</item>
+        <item>d vítamín</item>
+        <item>parmesan ostur</item>
+        <item>pilsner</item>
+        <item>rósmarín</item>
+        <item>poppmaís</item>
+        <item>kjúklingaálegg</item>
+        <item>pizzaost</item>
+        <item>uppþvottatöflur</item>
+        <item>rauðlauk</item>
+        <item>pepsi</item>
+        <item>nutella</item>
+        <item>kúrbítur</item>
+        <item>hvítlauk</item>
+        <item>mýkingarefni</item>
+        <item>ber</item>
+        <item>corny</item>
+        <item>serios</item>
+        <item>grillkjöt</item>
+        <item>capri sun</item>
+        <item>sprittkerti</item>
+        <item>undanrenna</item>
+        <item>ídýfa</item>
+        <item>ostaslaufur</item>
+        <item>sólþurrkaðir tómatar</item>
+        <item>kvöldmatur</item>
+        <item>salthnetur</item>
+        <item>weetabix</item>
+        <item>rækjur</item>
+        <item>lifrapylsa</item>
+        <item>vanilluskyr</item>
+        <item>kók zero</item>
+        <item>rauðvín</item>
+        <item>parmaskinka</item>
+        <item>engjaþykkni</item>
+        <item>eyrnapinna</item>
+        <item>rjómaost</item>
+        <item>wc hreinsir</item>
+        <item>milk</item>
+        <item>graflax</item>
+        <item>cocoa puffs</item>
+        <item>samlokubrauð</item>
+        <item>bakaðar baunir</item>
+        <item>sítrónusafi</item>
+        <item>lauk</item>
+        <item>kattamatur</item>
+        <item>dijon sinnep</item>
+        <item>rice crispies</item>
+        <item>hámark</item>
+        <item>grautargrjón</item>
+        <item>kjúklingabaunir</item>
+        <item>ger</item>
+        <item>flatbrauð</item>
+        <item>græn paprika</item>
+        <item>kerti</item>
+        <item>svartir ruslapokar</item>
+        <item>grjónagraut</item>
+        <item>camembert</item>
+        <item>sýrðan rjóma</item>
+        <item>taco krydd</item>
+        <item>heilsusafi</item>
+        <item>broccoli</item>
+        <item>gatorade</item>
+        <item>sósujafnari</item>
+        <item>tonic</item>
+        <item>abt</item>
+        <item>ólífur</item>
+        <item>ananas í dós</item>
+        <item>grænt pestó</item>
+        <item>tekex</item>
+        <item>heilhveiti</item>
+        <item>maís</item>
+        <item>tannbursti</item>
+        <item>ribena</item>
+        <item>hvítkál</item>
+        <item>servíettur</item>
+        <item>chilli</item>
+        <item>soyasósa</item>
+        <item>túnfisksalat</item>
+        <item>nóakropp</item>
+        <item>finn crisp</item>
+        <item>vefjur</item>
+        <item>safa</item>
+        <item>hvítlaukssósa</item>
+        <item>graflaxsósa</item>
+        <item>basilika</item>
+        <item>rauð epli</item>
+        <item>skyrskvísur</item>
+        <item>pönnukökur</item>
+        <item>valhnetur</item>
+        <item>rækjusalat</item>
+        <item>litlir tómatar</item>
+        <item>timian</item>
+        <item>þurrger</item>
+        <item>sojasósa</item>
+        <item>ruccola</item>
+        <item>mars</item>
+        <item>taco sósa</item>
+        <item>sósa</item>
+        <item>gráðostur</item>
+        <item>omega 3</item>
+        <item>taco skeljar</item>
+        <item>eggjahvítur</item>
+        <item>pera</item>
+        <item>ostar</item>
+        <item>pizzasnúðar</item>
+        <item>lambakjöt</item>
+        <item>avakado</item>
+        <item>rjómasúkkulaði</item>
+        <item>hárnæring</item>
+        <item>cherrios</item>
+        <item>pastaskrúfur</item>
+        <item>kasjúhnetur</item>
+        <item>kjúklingalæri</item>
+        <item>fersk basilika</item>
+        <item>matarsódi</item>
+        <item>c vítamín</item>
+        <item>pizzudeig</item>
+        <item>chili</item>
+        <item>pipar</item>
+        <item>rauðrófur</item>
+        <item>granatepli</item>
+        <item>naan brauð</item>
+        <item>engiferrót</item>
+        <item>appelsína</item>
+        <item>ruslapoka</item>
+        <item>svitalyktareyðir</item>
+        <item>maískökur</item>
+        <item>coco puffs</item>
+        <item>spægipylsa</item>
+        <item>klakar</item>
+        <item>svali</item>
+        <item>brauðostur</item>
+        <item>matarrjómi</item>
+        <item>hafrar</item>
+        <item>tannþráður</item>
+        <item>uppþvottalög</item>
+        <item>grisjur</item>
+        <item>munnskol</item>
+        <item>laktósafrí mjólk</item>
+        <item>morgunmatur</item>
+        <item>spelt</item>
+        <item>gmjólk</item>
+        <item>græn vínber</item>
+        <item>lasagnaplötur</item>
+        <item>síróp</item>
+        <item>villisveppaostur</item>
+        <item>frosin ber</item>
+        <item>toppur</item>
+        <item>rifsberjahlaup</item>
+        <item>maldon salt</item>
+        <item>kattasandur</item>
+        <item>uppþvottabursta</item>
+        <item>kvöldmat</item>
+        <item>ísl smjör</item>
+        <item>vatn</item>
+        <item>poppkex</item>
+        <item>hrásykur</item>
+        <item>rucola</item>
+        <item>Gráir ruslapokar</item>
+        <item>skinkumyrja</item>
+        <item>barnatannkrem</item>
+        <item>tagliatelle</item>
+        <item>hreint skyr</item>
+        <item>blóm</item>
+        <item>graskersfræ</item>
+        <item>kleinur</item>
+        <item>kúskús</item>
+        <item>rauð vínber</item>
+        <item>paprikur</item>
+        <item>tannþráð</item>
+        <item>klósetthreinsir</item>
+        <item>drykkjarjógúrt</item>
+        <item>hamborgarasósu</item>
+        <item>ljósapera</item>
+        <item>ólívuolía</item>
+        <item>konfekt</item>
+        <item>sesamolía</item>
+        <item>salami</item>
+        <item>rósakál</item>
+        <item>vanillumjólk</item>
+        <item>remolaði</item>
+        <item>sesamfræ</item>
+        <item>svartur pipar</item>
+        <item>próteinstykki</item>
+        <item>kókosflögur</item>
+        <item>pepparoni</item>
+        <item>raksápa</item>
+        <item>sápa</item>
+        <item>skonsur</item>
+        <item>kók í dós</item>
+        <item>tannburstar</item>
+        <item>möndluflögur</item>
+        <item>frosin pizza</item>
+        <item>möndlumjöl</item>
+        <item>malt</item>
+        <item>súrdeigsbrauð</item>
+        <item>sveskjur</item>
+        <item>rifin ost</item>
+        <item>hafrakoddar</item>
+        <item>piparsósa</item>
+        <item>mexico ostur</item>
+        <item>silkiskorin skinka</item>
+        <item>hleðslu</item>
+        <item>hvítlauksostur</item>
+        <item>súrar gúrkur</item>
+        <item>jólaöl</item>
+        <item>krydd</item>
+        <item>ostur rifinn</item>
+        <item>honey nut cheerios</item>
+        <item>spergilkál</item>
+        <item>uppþvottabursti</item>
+        <item>frosin jarðarber</item>
+        <item>pizzabotn</item>
+        <item>eplasafa</item>
+        <item>hrein jógúrt</item>
+        <item>blautklútar</item>
+        <item>kaffirjómi</item>
+        <item>kjúklingakraftur</item>
+        <item>fisk</item>
+        <item>nýrnabaunir</item>
+        <item>sultu</item>
+        <item>nestispokar</item>
+        <item>sæta kartöflu</item>
+        <item>timjan</item>
+        <item>maisbaunir</item>
+        <item>kjötfars</item>
+        <item>mysingur</item>
+        <item>frosnar pizzur</item>
+        <item>voga ídýfa</item>
+        <item>heinz chillisósa</item>
+        <item>pecanhnetur</item>
+        <item>vanillustöng</item>
+        <item>philadelphia rjómaostur</item>
+        <item>bindi</item>
+        <item>rautt chili</item>
+        <item>kartöflusalat</item>
+        <item>kókosbollur</item>
+        <item>lífskorn brauð</item>
+        <item>frosið brauð</item>
+        <item>sítrónupipar</item>
+        <item>hundanammi</item>
+        <item>örbylgjupopp</item>
+        <item>nautakraft</item>
+        <item>cashew hnetur</item>
+        <item>klór</item>
+        <item>uppþvottavélatöflur</item>
+        <item>kjúklingakrydd</item>
+        <item>lucky charms</item>
+        <item>trönuber</item>
+        <item>reyktur lax</item>
+        <item>drykkir</item>
+        <item>dill</item>
+        <item>jalapeno</item>
+        <item>kefir</item>
+        <item>brie</item>
+        <item>vanillusykur</item>
+        <item>grjón</item>
+        <item>camenbert</item>
+        <item>satay sósa</item>
+        <item>plastpoka</item>
+        <item>lakkrískurl</item>
+        <item>læri</item>
+        <item>sprite</item>
+        <item>nan brauð</item>
+        <item>kanilsnúðar</item>
+        <item>tofu</item>
+        <item>bakaðar kartöflur</item>
+        <item>freyðivín</item>
+        <item>edik</item>
+        <item>heill kjúklingur</item>
+        <item>paratabs</item>
+        <item>uppþvottavéladuft</item>
+        <item>matarkex</item>
+        <item>svart doritos</item>
+        <item>mjólkurkex</item>
+        <item>lambhagasalat</item>
+        <item>sallat</item>
+        <item>linsur</item>
+        <item>appelsínudjús</item>
+        <item>matreiðslurjóma</item>
+        <item>handsápu</item>
+        <item>ostsneiðar</item>
+        <item>risarækjur</item>
+        <item>kokteilsósu</item>
+        <item>graslaukur</item>
+        <item>smyrja</item>
+        <item>kakóduft</item>
+        <item>smoothie</item>
+        <item>grænmetiskraftur</item>
+        <item>rófa</item>
+        <item>möndlugjöf</item>
+        <item>hvítvín</item>
+        <item>tómatar litlir</item>
+        <item>vatnsmelóna</item>
+        <item>möndlusmjör</item>
+        <item>sítrónu</item>
+        <item>kókosjógúrt</item>
+        <item>einnota hanskar</item>
+        <item>sykurpúðar</item>
+        <item>jarðaberjasulta</item>
+        <item>glös</item>
+        <item>karrý</item>
+        <item>ibufen</item>
+        <item>hundamatur</item>
+        <item>grænkál</item>
+        <item>hakkaðir tómatar</item>
+        <item>sýrður</item>
+        <item>koddar</item>
+        <item>all bran</item>
+        <item>lambalæri</item>
+        <item>shampoo</item>
+        <item>bláberjasulta</item>
+        <item>smjörpappír</item>
+        <item>harðfisk</item>
+        <item>smurostur</item>
+        <item>tómatur</item>
+        <item>humar</item>
+        <item>lyf</item>
+        <item>steiktan lauk</item>
+        <item>kjúklingalundir</item>
+        <item>malakoff</item>
+        <item>hamborgari</item>
+        <item>eldhúsrúlla</item>
+        <item>langlokubrauð</item>
+        <item>brún sósa</item>
+        <item>mexico ost</item>
+        <item>feta</item>
+        <item>kapers</item>
+        <item>mynta</item>
+        <item>næring</item>
+        <item>sprauturjómi</item>
+        <item>isio olía</item>
+        <item>rasp</item>
+        <item>red bull</item>
+        <item>gifflar</item>
+        <item>túnfisk</item>
+        <item>hvítt súkkulaði</item>
+        <item>muffinsform</item>
+        <item>sykurlaust appelsín</item>
+        <item>epli rauð</item>
+        <item>vínsteinslyftiduft</item>
+        <item>límband</item>
+        <item>pizzasósu</item>
+        <item>vit hit</item>
+        <item>iceberg</item>
+        <item>plastpokar</item>
+        <item>gul paprika</item>
+        <item>baguette</item>
+        <item>svarta ruslapoka</item>
+        <item>brauðbollur</item>
+        <item>lambakraftur</item>
+        <item>gul melóna</item>
+        <item>fiskur í raspi</item>
+        <item>grautur</item>
+        <item>kakómalt</item>
+        <item>gríska jógúrt</item>
+        <item>frostpinnar</item>
+        <item>tómatpurré</item>
+        <item>súkkulaðismjör</item>
+        <item>makkarónur</item>
+        <item>matarlím</item>
+        <item>rollon</item>
+        <item>bernaise sósa</item>
+        <item>baunir</item>
+        <item>lífskornabrauð</item>
+        <item>gúrkur</item>
+        <item>svampar</item>
+        <item>quinoa</item>
+        <item>svartar baunir</item>
+        <item>sólblómafræ</item>
+        <item>töflur í uppþvottavél</item>
+        <item>pylsusinnep</item>
+        <item>batterí</item>
+        <item>melóna gul</item>
+        <item>osta</item>
+        <item>hindber</item>
+        <item>svartar ólífur</item>
+        <item>pítusósu</item>
+        <item>sundföt</item>
+        <item>beikon smurostur</item>
+        <item>hrísgrjónaedik</item>
+        <item>laufabrauð</item>
+        <item>sellerírót</item>
+        <item>toblerone</item>
+        <item>smarties</item>
+        <item>gróft brauð</item>
+        <item>sætar franskar</item>
+        <item>fransbrauð</item>
+        <item>amino</item>
+        <item>litla tómata</item>
+        <item>tannstönglar</item>
+        <item>borðedik</item>
+        <item>spil</item>
+        <item>sólarvörn</item>
+        <item>létt abmjólk</item>
+        <item>ávaxtasafi</item>
+        <item>hafragrjón</item>
+        <item>bernaise</item>
+        <item>úrbeinuð kjúklingalæri</item>
+        <item>klaki</item>
+        <item>Mexíkó ost</item>
+        <item>rakvélablöð</item>
+        <item>kjötbollur</item>
+        <item>fitness popp</item>
+        <item>kol</item>
+        <item>eplaedik</item>
+        <item>beikonkurl</item>
+        <item>bleyjur nr 5</item>
+        <item>grænmetisteningur</item>
+        <item>heimilisjógúrt</item>
+        <item>hampfræ</item>
+        <item>pistasíur</item>
+        <item>þurrsjampó</item>
+        <item>cherios</item>
+        <item>rauðrófusafi</item>
+        <item>lasagne plötur</item>
+        <item>vals tómatsósa</item>
+        <item>fyllt pasta</item>
+        <item>ab mjólk jarðaberja</item>
+        <item>grænt epli</item>
+        <item>blaðlauk</item>
+        <item>nan</item>
+        <item>oreo kex</item>
+        <item>steikingarolía</item>
+        <item>þurrmjólk</item>
+        <item>karteflur</item>
+        <item>kartöflumús</item>
+        <item>blettahreinsir</item>
+        <item>í matinn</item>
+        <item>súpukjöt</item>
+        <item>basilika fersk</item>
+        <item>franskbrauð</item>
+        <item>dökkt súkkulaði</item>
+        <item>tartalettur</item>
+        <item>piparkökur</item>
+        <item>snickers</item>
+        <item>ajax</item>
+        <item>pink lady epli</item>
+        <item>klósettbursti</item>
+        <item>marmelaði</item>
+        <item>mayones</item>
+        <item>lu kex</item>
+        <item>hörfræ</item>
+        <item>corn flakes</item>
+        <item>cumin</item>
+        <item>bernes</item>
+        <item>blá mjólk</item>
+        <item>nautakraftur</item>
+        <item>bleiur</item>
+        <item>rodalon</item>
+        <item>pizza</item>
+        <item>frosnir ávextir</item>
+        <item>fiskibollur</item>
+        <item>zucchini</item>
+        <item>plástur</item>
+        <item>hreinsiklútar</item>
+        <item>sætar</item>
+        <item>paprikukrydd</item>
+        <item>spaghetti sósa</item>
+        <item>salatblanda</item>
+        <item>hársprey</item>
+        <item>gróft salt</item>
+        <item>uppþvottaduft</item>
+        <item>vanilluís</item>
+        <item>íspinnar</item>
+        <item>hlynsíróp</item>
+        <item>epladjús</item>
+        <item>sætt sinnep</item>
+        <item>skyr vanillu</item>
+        <item>AA batterí</item>
+        <item>oreo</item>
+        <item>ostapopp</item>
+        <item>kjúklingaleggir</item>
+        <item>tomatoes</item>
+        <item>pönnukökumix</item>
+        <item>kjúklingavængir</item>
+        <item>magnesíum</item>
+        <item>ólívur</item>
+        <item>uppþvottaefni</item>
+        <item>rúðupiss</item>
+        <item>kringlur</item>
+        <item>íspinna</item>
+        <item>eggaldin</item>
+        <item>gratínostur</item>
+        <item>hrísmjólk</item>
+        <item>eldhúsbréf</item>
+        <item>handklæði</item>
+        <item>hrískökur</item>
+        <item>nautakjöt</item>
+        <item>swiss miss</item>
+        <item>tuc kex</item>
+        <item>hunangscheerios</item>
+        <item>kartöflugratín</item>
+        <item>hundamat</item>
+        <item>páskaegg</item>
+        <item>kartöflukrydd</item>
+        <item>grænt smjör</item>
+        <item>plómur</item>
+        <item>pitsusosa</item>
+        <item>vanilludropa</item>
+        <item>púrrulauk</item>
+        <item>granóla</item>
+        <item>jarðaberjajógúrt</item>
+        <item>hörfræolía</item>
+        <item>tröllahafrar</item>
+        <item>kotasælu</item>
+        <item>aromat</item>
+        <item>ost í sneiðum</item>
+        <item>bruður</item>
+        <item>ferskt pasta</item>
+        <item>sun lolly</item>
+        <item>gott brauð</item>
+        <item>eldstafir</item>
+        <item>súkkulaðikex</item>
+        <item>kæfu</item>
+        <item>pizzasnúða</item>
+        <item>rauða papriku</item>
+        <item>pastasósu</item>
+        <item>brauðrasp</item>
+        <item>fanta</item>
+        <item>season all</item>
+        <item>krakkalýsi</item>
+        <item>mæjones</item>
+        <item>rautt chilli</item>
+        <item>fersk steinselja</item>
+        <item>hafrabrauð</item>
+        <item>rabbabarasulta</item>
+        <item>engiferskot</item>
+        <item>súpa</item>
+        <item>blátt hveiti</item>
+        <item>hangikjötsálegg</item>
+        <item>kjúklingakraft</item>
+        <item>stíflueyðir</item>
+        <item>skyrdrykkir</item>
+        <item>hvítlauksduft</item>
+        <item>þurrkað mangó</item>
+        <item>eplatoppur</item>
+        <item>brún hrísgrjón</item>
+        <item>tónik</item>
+        <item>frostpinna</item>
+        <item>koktelsósa</item>
+        <item>sveppaost</item>
+        <item>mozzarella ostur</item>
+        <item>hálsbrjóstsykur</item>
+        <item>poweraid</item>
+        <item>sviðasulta</item>
+        <item>karamellujógúrt</item>
+        <item>ýsa</item>
+        <item>kíví</item>
+        <item>servéttur</item>
+        <item>kjúklingastrimlar</item>
+        <item>skyrdrykkur</item>
+        <item>kveikjari</item>
+        <item>basil</item>
+        <item>tissjú</item>
+        <item>pringles</item>
+        <item>kornfleks</item>
+        <item>kínóa</item>
+        <item>plokkfiskur</item>
+        <item>penne pasta</item>
+        <item>prótein pönnukökur</item>
+        <item>vöfflumix</item>
+        <item>hvítlauksolía</item>
+        <item>skyr hreint</item>
+        <item>hangiálegg</item>
+        <item>spritt</item>
+        <item>smjördeig</item>
+        <item>grasker</item>
+        <item>melónu</item>
+        <item>nautalund</item>
+        <item>poppbaunir</item>
+        <item>grænmetisbuff</item>
+        <item>svartar ólívur</item>
+        <item>grænmetissósa</item>
+        <item>klaka</item>
+        <item>nefsprey</item>
+        <item>lasagna</item>
+        <item>naggar</item>
+        <item>appelsínusafa</item>
+        <item>vorlauk</item>
+        <item>þorskur</item>
+        <item>ísblóm</item>
+        <item>sveppasmurostur</item>
+        <item>brauðteningar</item>
+        <item>vegan smjör</item>
+        <item>piknik</item>
+        <item>pizzakrydd</item>
+        <item>trópí</item>
+        <item>vegan hakk</item>
+        <item>heill kjúlli</item>
+        <item>síld</item>
+        <item>grænn aspas</item>
+        <item>skyrskvísa</item>
+        <item>plastfilma</item>
+        <item>púrrulaukssúpa</item>
+        <item>gul epli</item>
+        <item>sinnepssósa</item>
+        <item>augnfarðahreinsir</item>
+        <item>pizzur</item>
+        <item>rísmjólk</item>
+        <item>hleðslutæki</item>
+        <item>skólakæfa</item>
+        <item>jólajógúrt</item>
+        <item>hvítlaukssósu</item>
+        <item>stafasúpa</item>
+        <item>rauðbeður</item>
+        <item>estragon</item>
+        <item>sveppaostur</item>
+        <item>ferskt kóríander</item>
+        <item>smurost</item>
+        <item>b vítamín</item>
+        <item>hrökkkex</item>
+        <item>hamborgarakrydd</item>
+        <item>fetakubbur</item>
+        <item>kremkex</item>
+        <item>maísstöngla</item>
+        <item>lágkolvetnabrauð</item>
+        <item>bjúgu</item>
+        <item>tuskur</item>
+        <item>tannstöngla</item>
+        <item>ávaxtastangir</item>
+        <item>mozzarella kúlur</item>
+        <item>salsa sósu</item>
+        <item>spagettisósa</item>
+        <item>sweet chili sósa</item>
+        <item>kjöt á grillið</item>
+        <item>snyrtidót</item>
+        <item>snúðar</item>
+        <item>rúllutertubrauð</item>
+        <item>ferskjur</item>
+        <item>franskar kartöflur</item>
+        <item>rótargrænmeti</item>
+        <item>guacamole</item>
+        <item>ávaxtasafa</item>
+        <item>ávaxtanammi</item>
+        <item>gúmmíhanska</item>
+        <item>súpujurtir</item>
+        <item>ostaslaufa</item>
+        <item>betty crocker</item>
+        <item>maíspokar</item>
+        <item>kaffihylki</item>
+        <item>grímur</item>
+        <item>hafragrautur</item>
+        <item>saxaðar döðlur</item>
+        <item>ostakex</item>
+        <item>hlaup</item>
+        <item>rauðrófa</item>
+        <item>pizzastykki</item>
+        <item>bleikja</item>
+        <item>tómatpaste</item>
+        <item>súrsæt sósa</item>
+        <item>sólgleraugu</item>
+        <item>heslihnetur</item>
+        <item>polar brauð</item>
+        <item>túrtappar</item>
+        <item>ljósaperur</item>
+        <item>tómatsósu</item>
+        <item>nesquick</item>
+        <item>hrísgrjónanúðlur</item>
+        <item>kalkúnahakk</item>
+        <item>skinku smurostur</item>
+        <item>kótilettur</item>
+        <item>sokkar</item>
+        <item>súkkulaðidropar</item>
+        <item>lýsisperlur</item>
+        <item>wc hreinsi</item>
+        <item>lasagne</item>
+        <item>sweet chilli sósa</item>
+        <item>hafragraut</item>
+        <item>panodil</item>
+        <item>kaffijógúrt</item>
+        <item>hryggur</item>
+        <item>cheddar ostur</item>
+        <item>lárviðarlauf</item>
+        <item>snitsel</item>
+        <item>pokar</item>
+        <item>Pestó rautt</item>
+        <item>barnasnakk</item>
+        <item>paprikuduft</item>
+        <item>pistasíuhnetur</item>
+        <item>frosinn ananas</item>
+        <item>kotasæla stór</item>
+        <item>kjúlla</item>
+        <item>bökunarkakó</item>
+        <item>dorritos</item>
+        <item>bómul</item>
+        <item>sushi</item>
+        <item>hamborgarhryggur</item>
+        <item>rakvélar</item>
+        <item>croissant</item>
+        <item>agave sýróp</item>
+        <item>þristur</item>
+        <item>frosið grænmeti</item>
+        <item>daim</item>
+        <item>sósu</item>
+        <item>rifsberjasulta</item>
+        <item>lýsistöflur</item>
+        <item>rif</item>
+        <item>kirsuberjasósa</item>
+        <item>matur</item>
+        <item>sveppakraftur</item>
+        <item>vax</item>
+        <item>mold</item>
+        <item>plastfilmu</item>
+        <item>mat</item>
+        <item>hvítt brauð</item>
+        <item>nan mjólk</item>
+        <item>íssósa</item>
+        <item>eyrnatappa</item>
+        <item>bláberjaskyr</item>
+        <item>gljái</item>
+        <item>bugles</item>
+        <item>krem</item>
+        <item>apótek</item>
+        <item>möns</item>
+        <item>tacokökur</item>
+        <item>svitalyktareyði</item>
+        <item>svört piparkorn</item>
+        <item>stílar</item>
+        <item>rúnstykki</item>
+        <item>pikknikk</item>
+        <item>prótein</item>
+        <item>reyktur silungur</item>
+    </array>
+</resources>

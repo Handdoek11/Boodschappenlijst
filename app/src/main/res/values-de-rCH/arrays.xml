@@ -1,0 +1,1005 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="master_list_values">
+        <item>Milch</item>
+        <item>Eier</item>
+        <item>Brot</item>
+        <item>Salat</item>
+        <item>Butter</item>
+        <item>Käse</item>
+        <item>Zwiebeln</item>
+        <item>Äpfel</item>
+        <item>Tomaten</item>
+        <item>Rahm</item>
+        <item>Rüebli</item>
+        <item>Joghurt</item>
+        <item>Bananen</item>
+        <item>WC Papier</item>
+        <item>Früchte</item>
+        <item>Kartoffeln</item>
+        <item>Peperoni</item>
+        <item>Gurke</item>
+        <item>Knoblauch</item>
+        <item>Mozzarella</item>
+        <item>Schinken</item>
+        <item>Gemüse</item>
+        <item>creme fraiche</item>
+        <item>Avocado</item>
+        <item>Zitrone</item>
+        <item>Fleisch</item>
+        <item>Mehl</item>
+        <item>Bier</item>
+        <item>Cherrytomaten</item>
+        <item>Aufschnitt</item>
+        <item>Hackfleisch</item>
+        <item>Speck</item>
+        <item>Zucker</item>
+        <item>Parmesan</item>
+        <item>Broccoli</item>
+        <item>Orangensaft</item>
+        <item>Zopf</item>
+        <item>Hefe</item>
+        <item>Olivenöl</item>
+        <item>Chips</item>
+        <item>Lauch</item>
+        <item>Kaffee</item>
+        <item>Poulet</item>
+        <item>Ingwer</item>
+        <item>Salami</item>
+        <item>Reibkäse</item>
+        <item>Orangen</item>
+        <item>Pilze</item>
+        <item>Zucchetti</item>
+        <item>Senf</item>
+        <item>Pizzateig</item>
+        <item>Quark</item>
+        <item>Birnen</item>
+        <item>Karotten</item>
+        <item>Hüttenkäse</item>
+        <item>Lachs</item>
+        <item>Feta</item>
+        <item>Toastbrot</item>
+        <item>Mayonnaise</item>
+        <item>Kokosmilch</item>
+        <item>Champignons</item>
+        <item>Salz</item>
+        <item>Ketchup</item>
+        <item>Mango</item>
+        <item>Oliven</item>
+        <item>Blätterteig</item>
+        <item>Haferflocken</item>
+        <item>Gurken</item>
+        <item>Spinat</item>
+        <item>Müesli</item>
+        <item>Basilikum</item>
+        <item>Wienerli</item>
+        <item>Erdbeeren</item>
+        <item>Wasser</item>
+        <item>Honig</item>
+        <item>Salatsauce</item>
+        <item>Zahnpasta</item>
+        <item>Spaghetti</item>
+        <item>Toast</item>
+        <item>Mais</item>
+        <item>Abfallsäcke</item>
+        <item>Zitronen</item>
+        <item>Fenchel</item>
+        <item>Banane</item>
+        <item>Koriander</item>
+        <item>Speckwürfeli</item>
+        <item>yoghurt</item>
+        <item>Sirup</item>
+        <item>Essiggurken</item>
+        <item>Backpapier</item>
+        <item>Tomatensauce</item>
+        <item>Frischkäse</item>
+        <item>Aubergine</item>
+        <item>Blumenkohl</item>
+        <item>Fisch</item>
+        <item>Apfelmus</item>
+        <item>Peterli</item>
+        <item>Schoggi</item>
+        <item>Kiwi</item>
+        <item>Frühlingszwiebeln</item>
+        <item>Halbrahm</item>
+        <item>Ananas</item>
+        <item>Tomatenpüree</item>
+        <item>Sellerie</item>
+        <item>Magerquark</item>
+        <item>Kuchenteig</item>
+        <item>Kaffeerahm</item>
+        <item>Reis</item>
+        <item>Haushaltspapier</item>
+        <item>Schnittlauch</item>
+        <item>Glace</item>
+        <item>Mascarpone</item>
+        <item>Kleenex</item>
+        <item>Zwiebel</item>
+        <item>Vanillezucker</item>
+        <item>Waschmittel</item>
+        <item>Deo</item>
+        <item>Pouletbrust</item>
+        <item>Trauben</item>
+        <item>Beeren</item>
+        <item>nature joghurt</item>
+        <item>Nutella</item>
+        <item>Rohschinken</item>
+        <item>Mozarella</item>
+        <item>Joghurt nature</item>
+        <item>Weisswein</item>
+        <item>Limetten</item>
+        <item>Mineralwasser</item>
+        <item>Pelati</item>
+        <item>Kartoffeln festkochend</item>
+        <item>Zucchini</item>
+        <item>Raclettekäse</item>
+        <item>Weissmehl</item>
+        <item>Cervelat</item>
+        <item>Teigwaren</item>
+        <item>Zitronensaft</item>
+        <item>pasta</item>
+        <item>mayo</item>
+        <item>Puderzucker</item>
+        <item>Mandarinen</item>
+        <item>Paprika</item>
+        <item>Rapsöl</item>
+        <item>Tofu</item>
+        <item>Kürbis</item>
+        <item>Petersilie</item>
+        <item>Bohnen</item>
+        <item>Melone</item>
+        <item>milk</item>
+        <item>Sojasauce</item>
+        <item>Wein</item>
+        <item>Philadelphia</item>
+        <item>Nüsslisalat</item>
+        <item>Saft</item>
+        <item>Windeln</item>
+        <item>Cornflakes</item>
+        <item>Shampoo</item>
+        <item>osaft</item>
+        <item>Abwaschmittel</item>
+        <item>Kohlrabi</item>
+        <item>Süsskartoffeln</item>
+        <item>Hörnli</item>
+        <item>Sauerrahm</item>
+        <item>Guetzli</item>
+        <item>Aprikosen</item>
+        <item>Hafermilch</item>
+        <item>Servietten</item>
+        <item>Sonnencreme</item>
+        <item>Bratwurst</item>
+        <item>Backpulver</item>
+        <item>Randen</item>
+        <item>zuchetti</item>
+        <item>Risotto</item>
+        <item>Sonnenblumenöl</item>
+        <item>Regeneriersalz</item>
+        <item>Mandeln</item>
+        <item>Bouillon</item>
+        <item>Wurst</item>
+        <item>Grillfleisch</item>
+        <item>Saurer Halbrahm</item>
+        <item>Nektarinen</item>
+        <item>Zopfmehl</item>
+        <item>Obst</item>
+        <item>Essig</item>
+        <item>mineral</item>
+        <item>Darvida</item>
+        <item>Konfitüre</item>
+        <item>Kaugummi</item>
+        <item>Pouletgeschnetzeltes</item>
+        <item>Vollrahm</item>
+        <item>Thymian</item>
+        <item>Margarine</item>
+        <item>eggs</item>
+        <item>Cola</item>
+        <item>Himbeeren</item>
+        <item>Heidelbeeren</item>
+        <item>tomätli</item>
+        <item>Nüsse</item>
+        <item>Fondue</item>
+        <item>Datteln</item>
+        <item>Fleischkäse</item>
+        <item>Limette</item>
+        <item>Spargeln</item>
+        <item>Kichererbsen</item>
+        <item>Eisbergsalat</item>
+        <item>Mandeln gemahlen</item>
+        <item>Pizza</item>
+        <item>Basmatireis</item>
+        <item>konfi</item>
+        <item>Ricotta</item>
+        <item>Apfelsaft</item>
+        <item>Speckwürfel</item>
+        <item>Anke</item>
+        <item>Fischstäbli</item>
+        <item>Risottoreis</item>
+        <item>Couscous</item>
+        <item>Peperoni rot</item>
+        <item>Rösti</item>
+        <item>Wähenteig</item>
+        <item>Saucenhalbrahm</item>
+        <item>Bratbutter</item>
+        <item>Frischhaltefolie</item>
+        <item>Dessert</item>
+        <item>Zahnbürste</item>
+        <item>Kartoffeln mehlig</item>
+        <item>Kapern</item>
+        <item>Pinienkerne</item>
+        <item>Paniermehl</item>
+        <item>Spätzli</item>
+        <item>Maiskolben</item>
+        <item>Gruyere</item>
+        <item>Tee</item>
+        <item>Thon</item>
+        <item>Oregano</item>
+        <item>Bratensauce</item>
+        <item>Brokkoli</item>
+        <item>wc ente</item>
+        <item>Handseife</item>
+        <item>Kochbutter</item>
+        <item>Ahornsirup</item>
+        <item>Cola Zero</item>
+        <item>brötli</item>
+        <item>bread</item>
+        <item>Taschentücher</item>
+        <item>blevita</item>
+        <item>Salatgurke</item>
+        <item>Haushaltpapier</item>
+        <item>Minipic</item>
+        <item>Safran</item>
+        <item>Auberginen</item>
+        <item>WC Reiniger</item>
+        <item>Orange</item>
+        <item>Clementinen</item>
+        <item>Feuchttücher</item>
+        <item>Aromat</item>
+        <item>Dill</item>
+        <item>Slipeinlagen</item>
+        <item>Pesto</item>
+        <item>Balsamico</item>
+        <item>fajitas</item>
+        <item>Nudeln</item>
+        <item>Handcreme</item>
+        <item>Alufolie</item>
+        <item>wattepads</item>
+        <item>Kartoffel</item>
+        <item>Prosecco</item>
+        <item>Stocki</item>
+        <item>Duschgel</item>
+        <item>Katzenfutter</item>
+        <item>Rotwein</item>
+        <item>Baguette</item>
+        <item>Pommes</item>
+        <item>Pouletbrüstli</item>
+        <item>Maizena</item>
+        <item>Pommes Chips</item>
+        <item>Zimt</item>
+        <item>Nastüechli</item>
+        <item>Zitrone Bio</item>
+        <item>Tomatenmark</item>
+        <item>Schokolade</item>
+        <item>Zahnseide</item>
+        <item>Baumnüsse</item>
+        <item>Vanilleglace</item>
+        <item>Popcorn</item>
+        <item>Erbsen</item>
+        <item>Zwieback</item>
+        <item>rucola</item>
+        <item>Rosmarin</item>
+        <item>grüner salat</item>
+        <item>Gemüsebouillon</item>
+        <item>Seife</item>
+        <item>knobli</item>
+        <item>bananas</item>
+        <item>frücht</item>
+        <item>cantadou</item>
+        <item>Schalotten</item>
+        <item>Eier gekocht</item>
+        <item>Ravioli</item>
+        <item>crevetten</item>
+        <item>Flammkuchenteig</item>
+        <item>Kaki</item>
+        <item>Tortillas</item>
+        <item>Rasierschaum</item>
+        <item>Socken</item>
+        <item>Pastetli</item>
+        <item>Naturjoghurt</item>
+        <item>Wassermelone</item>
+        <item>Rivella</item>
+        <item>Milch UHT</item>
+        <item>Farmer</item>
+        <item>Badreiniger</item>
+        <item>Reiswaffeln</item>
+        <item>Mayonaise</item>
+        <item>Stangensellerie</item>
+        <item>Zwetschgen</item>
+        <item>Bratspeck</item>
+        <item>Cashewnüsse</item>
+        <item>Binden</item>
+        <item>Tortellini</item>
+        <item>Gorgonzola</item>
+        <item>Vollrahm 5dl</item>
+        <item>Kaffeebohnen</item>
+        <item>Gipfeli</item>
+        <item>hummus</item>
+        <item>Duschmittel</item>
+        <item>Magnesium</item>
+        <item>Sardellen</item>
+        <item>Bündnerfleisch</item>
+        <item>Radieschen</item>
+        <item>Kuchenteig rund</item>
+        <item>Windeleinlagen</item>
+        <item>wattestäbli</item>
+        <item>Rosinen</item>
+        <item>Aufbackbrot</item>
+        <item>Trockenfleisch</item>
+        <item>Rahmquark</item>
+        <item>Würste</item>
+        <item>Znacht</item>
+        <item>Polenta</item>
+        <item>Kehrichtsäcke</item>
+        <item>Penne</item>
+        <item>Müsli</item>
+        <item>Nüssli</item>
+        <item>Kohlräbli</item>
+        <item>Dinkelmehl</item>
+        <item>Knäckebrot</item>
+        <item>Pommes Frites</item>
+        <item>Sahne</item>
+        <item>pepperoni</item>
+        <item>Granatapfel</item>
+        <item>Flüssigseife</item>
+        <item>Champignon</item>
+        <item>Weichkäse</item>
+        <item>Hefewürfel</item>
+        <item>Nagellackentferner</item>
+        <item>Minze</item>
+        <item>Vollmilch</item>
+        <item>Lasagneblätter</item>
+        <item>Nastücher</item>
+        <item>Halbrahm 5 dl</item>
+        <item>Frühlingszwiebel</item>
+        <item>Wattestäbchen</item>
+        <item>Trockenhefe</item>
+        <item>Hamburger</item>
+        <item>Silberzwiebeln</item>
+        <item>Smarties</item>
+        <item>eier roh</item>
+        <item>pilz</item>
+        <item>Pfefferkörner</item>
+        <item>Brötchen</item>
+        <item>Gnocchi</item>
+        <item>Scheibenkäse</item>
+        <item>rote Zwiebeln</item>
+        <item>Sonnenblumenkerne</item>
+        <item>Salbei</item>
+        <item>Teig</item>
+        <item>Pflaster</item>
+        <item>Chinakohl</item>
+        <item>Kaffeekapseln</item>
+        <item>Linsen</item>
+        <item>Raclette</item>
+        <item>pilzli</item>
+        <item>Parmesan gerieben</item>
+        <item>Pfirsich</item>
+        <item>gemahlene Mandeln</item>
+        <item>Schinkenwürfeli</item>
+        <item>Emmentaler</item>
+        <item>Kopfsalat</item>
+        <item>Bodylotion</item>
+        <item>Feigen</item>
+        <item>rote Peperoni</item>
+        <item>Landjäger</item>
+        <item>Chicorée</item>
+        <item>Leinsamen</item>
+        <item>Glasreiniger</item>
+        <item>passierte Tomaten</item>
+        <item>Schnur</item>
+        <item>getrocknete tomaten</item>
+        <item>Red Bull</item>
+        <item>Greyerzer</item>
+        <item>Schwarztee</item>
+        <item>Buttermilch</item>
+        <item>Geschirrspülmittel</item>
+        <item>Raclettekartoffeln</item>
+        <item>Masken</item>
+        <item>Weggli</item>
+        <item>yogurt</item>
+        <item>Pfeffer</item>
+        <item>Grapefruit</item>
+        <item>kochwein weiss</item>
+        <item>Haselnüsse</item>
+        <item>Apero</item>
+        <item>Blumen</item>
+        <item>Aceto Balsamico</item>
+        <item>Brätkügeli</item>
+        <item>Toilettenpapier</item>
+        <item>Apfelessig</item>
+        <item>Klarsichtfolie</item>
+        <item>Ruchmehl</item>
+        <item>Cervelats</item>
+        <item>Peterli glatt</item>
+        <item>Tomate</item>
+        <item>Chicken Nuggets</item>
+        <item>Erdnüsse</item>
+        <item>Fencheltee</item>
+        <item>Pizzakäse</item>
+        <item>bio zitrone</item>
+        <item>Gruyere gerieben</item>
+        <item>Erde</item>
+        <item>Meerrettich</item>
+        <item>Tortilla Chips</item>
+        <item>Quinoa</item>
+        <item>Microc</item>
+        <item>Spülmittel</item>
+        <item>Kräuterbutter</item>
+        <item>Erdnussbutter</item>
+        <item>Fischstäbchen</item>
+        <item>Avocados</item>
+        <item>Abfallmarken</item>
+        <item>chäs</item>
+        <item>zmittag</item>
+        <item>Fruchtsaft</item>
+        <item>Watterondellen</item>
+        <item>rahm 2dl</item>
+        <item>Klopapier</item>
+        <item>Kerzen</item>
+        <item>Haselnüsse gemahlen</item>
+        <item>Erbsli</item>
+        <item>Geschenkpapier</item>
+        <item>jogurt</item>
+        <item>Babybel</item>
+        <item>toilet paper</item>
+        <item>Biberli</item>
+        <item>Pfefferminztee</item>
+        <item>Schinkenwürfel</item>
+        <item>Schlagrahm</item>
+        <item>Peperoncini</item>
+        <item>Mandelmilch</item>
+        <item>Batterie</item>
+        <item>Backtrennpapier</item>
+        <item>Kartoffelstock</item>
+        <item>Edamame</item>
+        <item>Gesichtscreme</item>
+        <item>Getränke</item>
+        <item>Thunfisch</item>
+        <item>gekochte Eier</item>
+        <item>Multivitaminsaft</item>
+        <item>sugo</item>
+        <item>Haferflöckli</item>
+        <item>Maiswaffeln</item>
+        <item>Brie</item>
+        <item>Pouletschenkel</item>
+        <item>Cornichons</item>
+        <item>Pelatti</item>
+        <item>Haferflocken fein</item>
+        <item>Entkalker</item>
+        <item>Schwämme</item>
+        <item>skyr</item>
+        <item>Rasierklingen</item>
+        <item>Ebly</item>
+        <item>sour cream</item>
+        <item>Sonnenbrille</item>
+        <item>gmües</item>
+        <item>Zitronengras</item>
+        <item>Würstli</item>
+        <item>Rosenkohl</item>
+        <item>nature yoghurt</item>
+        <item>Kräuter</item>
+        <item>Süsskartoffel</item>
+        <item>Bratwürste</item>
+        <item>Meersalz</item>
+        <item>Haarspray</item>
+        <item>Milchreis</item>
+        <item>Paprika rot</item>
+        <item>Kakaopulver</item>
+        <item>ruccola</item>
+        <item>feuchtes wc papier</item>
+        <item>Caotina</item>
+        <item>gehackte tomaten</item>
+        <item>kleenex box</item>
+        <item>Griechischer Joghurt</item>
+        <item>Grillkäse</item>
+        <item>burrata</item>
+        <item>Kürbiskerne</item>
+        <item>Kiri</item>
+        <item>rote Linsen</item>
+        <item>abfallsack</item>
+        <item>Batterien</item>
+        <item>Sesamöl</item>
+        <item>Zahnpaste</item>
+        <item>tomatoes</item>
+        <item>Snacks</item>
+        <item>chnobli</item>
+        <item>Sauerkraut</item>
+        <item>Brennpaste</item>
+        <item>Küchenrolle</item>
+        <item>Hackfleisch Rind</item>
+        <item>Kamillentee</item>
+        <item>Birne</item>
+        <item>Pfefferminze</item>
+        <item>Kochwein</item>
+        <item>Hirse</item>
+        <item>Fetakäse</item>
+        <item>Küchenpapier</item>
+        <item>Lyoner</item>
+        <item>Geschnetzeltes</item>
+        <item>Coca Cola</item>
+        <item>Gehacktes</item>
+        <item>Käsescheiben</item>
+        <item>Sbrinz</item>
+        <item>rote Bohnen</item>
+        <item>Gin</item>
+        <item>Nussmischung</item>
+        <item>Bratfett</item>
+        <item>kafi</item>
+        <item>Himbeersirup</item>
+        <item>Milchdrink</item>
+        <item>Radiesli</item>
+        <item>Curry</item>
+        <item>Schwamm</item>
+        <item>Kartoffeln mehligkochend</item>
+        <item>Zahnbürsten</item>
+        <item>Peperoni gelb</item>
+        <item>zigis</item>
+        <item>Pizzasauce</item>
+        <item>Cheddar</item>
+        <item>Blattspinat</item>
+        <item>orange juice</item>
+        <item>Himbeeren gefroren</item>
+        <item>Honig flüssig</item>
+        <item>cottage cheese</item>
+        <item>Geschirrspültabs</item>
+        <item>Guetsli</item>
+        <item>Wirz</item>
+        <item>Fonduekäse</item>
+        <item>Schweinsfilet</item>
+        <item>Chili</item>
+        <item>Neocitran</item>
+        <item>Züpfe</item>
+        <item>Reisnudeln</item>
+        <item>Chiasamen</item>
+        <item>Weichspüler</item>
+        <item>Gebührensäcke</item>
+        <item>AAA Batterien</item>
+        <item>Tampons</item>
+        <item>ice tea</item>
+        <item>Maiskölbchen</item>
+        <item>schwarze oliven</item>
+        <item>Sojamilch</item>
+        <item>Suppe</item>
+        <item>Humus</item>
+        <item>Fleisch für Grill</item>
+        <item>Halbfettquark</item>
+        <item>Marroni</item>
+        <item>Zahnstocher</item>
+        <item>Kroketten</item>
+        <item>Batterien AA</item>
+        <item>Listerine</item>
+        <item>Batterien AAA</item>
+        <item>Mandelmus</item>
+        <item>pastinaken</item>
+        <item>rahmspinat</item>
+        <item>Kidneybohnen</item>
+        <item>Rindshackfleisch</item>
+        <item>Kinderzahnpasta</item>
+        <item>Servelat</item>
+        <item>Linsenmittel</item>
+        <item>Apfelschorle</item>
+        <item>Plätzli</item>
+        <item>Reismilch</item>
+        <item>schoggipulver</item>
+        <item>Hackfleisch gemischt</item>
+        <item>Nasenspray</item>
+        <item>gelbe Peperoni</item>
+        <item>Senf scharf</item>
+        <item>Ziegenkäse</item>
+        <item>Sesam</item>
+        <item>Doppelrahm</item>
+        <item>Schmelzkäse</item>
+        <item>Cocktailsauce</item>
+        <item>wc stein</item>
+        <item>herdöpfel</item>
+        <item>Orangenjus</item>
+        <item>kochwein rot</item>
+        <item>Haselnüsse ganz</item>
+        <item>Oliven schwarz</item>
+        <item>tk spinat</item>
+        <item>Speckstreifen</item>
+        <item>stilleinlagen</item>
+        <item>Zvieri</item>
+        <item>Dunkle Schokolade</item>
+        <item>Wildreis</item>
+        <item>halloumi</item>
+        <item>Blätterteig rund</item>
+        <item>Hartkäse</item>
+        <item>Paprika Chips</item>
+        <item>Kochschokolade</item>
+        <item>Milch laktosefrei</item>
+        <item>Halbweissmehl</item>
+        <item>Sultaninen</item>
+        <item>Kirschen</item>
+        <item>Ibuprofen</item>
+        <item>Artischocken</item>
+        <item>Schnitzel</item>
+        <item>Confi</item>
+        <item>alkoholfreies Bier</item>
+        <item>Pfirsiche</item>
+        <item>geriebener Käse</item>
+        <item>Elmex</item>
+        <item>Dafalgan</item>
+        <item>Brät</item>
+        <item>Kurkuma</item>
+        <item>Reosal</item>
+        <item>Zürisäcke</item>
+        <item>bier alkoholfrei</item>
+        <item>Dijon Senf</item>
+        <item>Salzstängeli</item>
+        <item>Kokosnussmilch</item>
+        <item>Nachos</item>
+        <item>Rohrzucker</item>
+        <item>pak choi</item>
+        <item>pille</item>
+        <item>Kalbsplätzli</item>
+        <item>Pflegespülung</item>
+        <item>Cordonbleu</item>
+        <item>maiskölbli</item>
+        <item>spülglanz</item>
+        <item>Vanillejoghurt</item>
+        <item>Kochschoggi</item>
+        <item>Rhabarber</item>
+        <item>Hefe frisch</item>
+        <item>bacon</item>
+        <item>Kefen</item>
+        <item>Toastkäse</item>
+        <item>Parmaschinken</item>
+        <item>Tortelloni</item>
+        <item>Erdnussöl</item>
+        <item>Jasminreis</item>
+        <item>Cranberrysaft</item>
+        <item>paprika gewürz</item>
+        <item>Pistazien</item>
+        <item>Pancroc</item>
+        <item>Pouletfleisch</item>
+        <item>Chorizo</item>
+        <item>Rauchlachs</item>
+        <item>Rotkraut</item>
+        <item>öpfel</item>
+        <item>Handschuhe</item>
+        <item>conditioner</item>
+        <item>orangina</item>
+        <item>Specktranchen</item>
+        <item>Briefmarken</item>
+        <item>Ghackets</item>
+        <item>cherrytomätli</item>
+        <item>Natron</item>
+        <item>Zwiebeln rot</item>
+        <item>Aufbackbrötchen</item>
+        <item>Kompostsäckli</item>
+        <item>Frühlingsrollen</item>
+        <item>Schuhe</item>
+        <item>Maispops</item>
+        <item>Lasagne</item>
+        <item>Gummibärli</item>
+        <item>Aufbackbrötli</item>
+        <item>Nuggi</item>
+        <item>Streichkäse</item>
+        <item>Ricola</item>
+        <item>Glasnudeln</item>
+        <item>Knöpflimehl</item>
+        <item>Eistee</item>
+        <item>cheese</item>
+        <item>Ananasscheiben</item>
+        <item>Klarspüler</item>
+        <item>Datteltomaten</item>
+        <item>Traubensaft</item>
+        <item>Herbamare</item>
+        <item>Sanbitter</item>
+        <item>Wattenstäbli</item>
+        <item>Langkornreis</item>
+        <item>Paprika edelsüss</item>
+        <item>Glühbirne</item>
+        <item>tabs</item>
+        <item>Durgol</item>
+        <item>harte Eier</item>
+        <item>feuchtes Toilettenpapier</item>
+        <item>Erkältungstee</item>
+        <item>Bratöl</item>
+        <item>Rübli</item>
+        <item>Steinpilze</item>
+        <item>Gelatine</item>
+        <item>Tonic</item>
+        <item>Zuckersticks</item>
+        <item>Vanillestängel</item>
+        <item>Ovomaltine</item>
+        <item>Mandarinli</item>
+        <item>Druckerpapier</item>
+        <item>Frischbackbrötli</item>
+        <item>Laktosefreie Milch</item>
+        <item>Kressi Essig</item>
+        <item>wc putzmittel</item>
+        <item>Muskatnuss</item>
+        <item>Pflaumen</item>
+        <item>grüne Bohnen</item>
+        <item>Bouillon Gemüse</item>
+        <item>Suppengemüse</item>
+        <item>pizzamehl</item>
+        <item>pampers</item>
+        <item>chicken</item>
+        <item>Aperol</item>
+        <item>Mundspülung</item>
+        <item>Mais Dose</item>
+        <item>Vitamin D</item>
+        <item>kellogs</item>
+        <item>dunkle schoggi</item>
+        <item>Älplermagronen</item>
+        <item>quärkli</item>
+        <item>Kresse</item>
+        <item>Rindsbouillon</item>
+        <item>Tomaten getrocknet</item>
+        <item>Käsekuchenmischung</item>
+        <item>Vogelfutter</item>
+        <item>Federkohl</item>
+        <item>Katzenstreu</item>
+        <item>Schafskäse</item>
+        <item>Abwaschtabs</item>
+        <item>Kekse</item>
+        <item>Destilliertes Wasser</item>
+        <item>Crème fraîche mit Kräutern</item>
+        <item>Kleiderbügel</item>
+        <item>Gelierzucker</item>
+        <item>Tonic Water</item>
+        <item>Le Parfait</item>
+        <item>Buchstabensuppe</item>
+        <item>Hosen</item>
+        <item>Leinöl</item>
+        <item>Kokosraspel</item>
+        <item>Imprägnierspray</item>
+        <item>Rotkohl</item>
+        <item>Knollensellerie</item>
+        <item>senf mild</item>
+        <item>Passata</item>
+        <item>Spätzle</item>
+        <item>Schupfnudeln</item>
+        <item>Müllsäcke</item>
+        <item>beeri</item>
+        <item>mostbröckli</item>
+        <item>Rimus</item>
+        <item>Kompostsäcke</item>
+        <item>Passionsfrucht</item>
+        <item>Cipollata</item>
+        <item>porridge</item>
+        <item>Tuc</item>
+        <item>augenmakeupentferner</item>
+        <item>Rohrohrzucker</item>
+        <item>Marzipanrüebli</item>
+        <item>Blutorangensaft</item>
+        <item>Nüsslersalat</item>
+        <item>Cranberries</item>
+        <item>Maiskörner</item>
+        <item>kräuteressig</item>
+        <item>Steak</item>
+        <item>Tartare</item>
+        <item>Maggi</item>
+        <item>Sojasprossen</item>
+        <item>fusscreme</item>
+        <item>Majoran</item>
+        <item>gemahlene haselnüsse</item>
+        <item>Saucenrahm</item>
+        <item>Marmelade</item>
+        <item>Sprinz</item>
+        <item>Klarspühler</item>
+        <item>Süsses</item>
+        <item>Klebeband</item>
+        <item>Papaya</item>
+        <item>Finken</item>
+        <item>T-Shirt</item>
+        <item>ufschnitt</item>
+        <item>Grüntee</item>
+        <item>Salatkräuter</item>
+        <item>Spülmaschinentabs</item>
+        <item>weisser balsamico</item>
+        <item>Unterwäsche</item>
+        <item>Lachsfilet</item>
+        <item>Pitabrot</item>
+        <item>Buchweizen</item>
+        <item>Croutons</item>
+        <item>Kondensmilch</item>
+        <item>Weinbeeren</item>
+        <item>2dl vollrahm</item>
+        <item>härdöpfel</item>
+        <item>Rote Zwiebel</item>
+        <item>Sprossen</item>
+        <item>Pekannüsse</item>
+        <item>Blaubeeren</item>
+        <item>Ginger Ale</item>
+        <item>bio zitronen</item>
+        <item>Hamburgerbrot</item>
+        <item>Papier</item>
+        <item>Sandwich</item>
+        <item>Putzessig</item>
+        <item>WC-Bürste</item>
+        <item>Holzkohle</item>
+        <item>Tagliatelle</item>
+        <item>zughetti</item>
+        <item>Zimtstangen</item>
+        <item>Burger</item>
+        <item>Douche</item>
+        <item>Appenzeller</item>
+        <item>Walnüsse</item>
+        <item>nektarine</item>
+        <item>Caprice des dieux</item>
+        <item>Hotdog Brötli</item>
+        <item>Kokosöl</item>
+        <item>Chäschüechli</item>
+        <item>Griess</item>
+        <item>griechisches joghurt</item>
+        <item>mascara</item>
+        <item>wiibeeri</item>
+        <item>Katzenfutter trocken</item>
+        <item>Lindenblütentee</item>
+        <item>Ragusa</item>
+        <item>Tessinerbrot</item>
+        <item>17l Säcke</item>
+        <item>guezli</item>
+        <item>Curry mild</item>
+        <item>Fonduebrot</item>
+        <item>gefrierbeutel</item>
+        <item>Traubenzucker</item>
+        <item>most</item>
+        <item>Sweet Chili Sauce</item>
+        <item>Currysauce</item>
+        <item>Würstchen</item>
+        <item>Weissweinessig</item>
+        <item>Snackgurken</item>
+        <item>Dosentomaten</item>
+        <item>Algifor</item>
+        <item>Pellati</item>
+        <item>Kopfhörer</item>
+        <item>Basilikum frisch</item>
+        <item>Aptamil</item>
+        <item>Paneer</item>
+        <item>Chilischote</item>
+        <item>Rivella blau</item>
+        <item>apres soleil</item>
+        <item>Duschvorhang</item>
+        <item>Geschirrspüler Tabs</item>
+        <item>Bundzwiebeln</item>
+        <item>Schrauben</item>
+        <item>Olivenoel</item>
+        <item>Estragon</item>
+        <item>Allzweckreiniger</item>
+        <item>Quetschies</item>
+        <item>Vollkornmehl</item>
+        <item>Unterhosen</item>
+        <item>Haargel</item>
+        <item>Falafel</item>
+        <item>Suppen</item>
+        <item>Tahini</item>
+        <item>Rindfleisch</item>
+        <item>grilladen</item>
+        <item>wraps</item>
+        <item>Riegel</item>
+        <item>Spargel</item>
+        <item>Campari</item>
+        <item>Mundspühlung</item>
+        <item>Tomaten gehackt</item>
+        <item>Tomatensaft</item>
+        <item>currypaste</item>
+        <item>flöckli</item>
+        <item>Fladenbrot</item>
+        <item>Kuchen</item>
+        <item>Brot für Fondue</item>
+        <item>gürkli</item>
+        <item>uht milch</item>
+        <item>Studentenfutter</item>
+        <item>tomatenpüre</item>
+        <item>Rohzucker</item>
+        <item>Ohrenstäbchen</item>
+        <item>Buns</item>
+        <item>Früchtetee</item>
+        <item>Kreuzkümmel</item>
+        <item>Birchermüesli</item>
+        <item>Kalbsschnitzel</item>
+        <item>vanilleschoten</item>
+        <item>Schwarze Schokolade</item>
+        <item>AA Batterien</item>
+        <item>ofengemüse</item>
+        <item>aceto</item>
+        <item>hanfsamen</item>
+        <item>Moscato</item>
+        <item>Mango getrocknet</item>
+        <item>Lachs geräuchert</item>
+        <item>Koriander frisch</item>
+        <item>Marzipan</item>
+        <item>Mandeln ganz</item>
+        <item>Hamburgerbrötchen</item>
+        <item>brätchügeli</item>
+        <item>Findusplätzli</item>
+        <item>Rote Currypaste</item>
+        <item>Krautstiel</item>
+        <item>Kondome</item>
+        <item>Glänzer</item>
+        <item>mais dosen</item>
+        <item>evian</item>
+        <item>Blätterteig rechteckig</item>
+        <item>Schöggeli</item>
+        <item>Geld</item>
+        <item>Papiernastücher</item>
+        <item>TK Gemüse</item>
+        <item>Melonen</item>
+        <item>Schoggistängeli</item>
+        <item>Strudelteig</item>
+        <item>Pfanne</item>
+        <item>Morcheln</item>
+        <item>cashew</item>
+        <item>Italienische Kräuter</item>
+        <item>Aperogebäck</item>
+        <item>Cashewkerne</item>
+        <item>Sushi</item>
+        <item>Abflussreiniger</item>
+        <item>Fajita</item>
+        <item>Champagner</item>
+        <item>Randensalat</item>
+        <item>Raclettkäse</item>
+        <item>nespresso</item>
+        <item>Kakao</item>
+        <item>Mortadella</item>
+        <item>Kokosjoghurt</item>
+        <item>kleine Kartoffeln</item>
+        <item>salametti</item>
+        <item>Rettich</item>
+        <item>Citro</item>
+        <item>Scheiblettenkäse</item>
+        <item>Gemüsebrühe</item>
+        <item>Kichererbsen Dose</item>
+        <item>Kohle</item>
+        <item>Fleischtomaten</item>
+        <item>Meringues</item>
+        <item>Handy</item>
+        <item>Lamm</item>
+        <item>Flips</item>
+        <item>Mozzarella Sticks</item>
+        <item>vanilleschote</item>
+        <item>passionsfrüchte</item>
+        <item>Blutorangen</item>
+        <item>Essigreiniger</item>
+        <item>stahlwolle</item>
+        <item>Hühnerbouillon</item>
+        <item>Parmesan am Stück</item>
+        <item>Aspirin</item>
+        <item>Limettensaft</item>
+        <item>Flammkuchen</item>
+        <item>Saure Gurken</item>
+        <item>Petit Beurre</item>
+        <item>Caprisonne</item>
+        <item>Kirsch</item>
+        <item>Salsiz</item>
+        <item>Hörndli</item>
+        <item>mais büchse</item>
+        <item>Fischsauce</item>
+        <item>Saucisson</item>
+        <item>Spülmaschinensalz</item>
+        <item>Agavendicksaft</item>
+        <item>tk erbsen</item>
+        <item>Paranüsse</item>
+        <item>Rechaudkerzen</item>
+        <item>Wickelunterlagen</item>
+        <item>rasierer</item>
+        <item>Rindsgeschnetzeltes</item>
+        <item>Leim</item>
+        <item>Feinwaschmittel</item>
+        <item>Kaffeepulver</item>
+        <item>Eis</item>
+        <item>Zitronensäure</item>
+        <item>Lebkuchengewürz</item>
+        <item>schwimmwindeln</item>
+        <item>Kochsalz</item>
+        <item>chilli</item>
+        <item>Weisse Schokolade</item>
+        <item>Feigen getrocknet</item>
+        <item>Kissen</item>
+    </array>
+</resources>

@@ -1,0 +1,1031 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="master_list_values">
+        <item>mjölk</item>
+        <item>ägg</item>
+        <item>bröd</item>
+        <item>gurka</item>
+        <item>potatis</item>
+        <item>ost</item>
+        <item>smör</item>
+        <item>grädde</item>
+        <item>sallad</item>
+        <item>kaffe</item>
+        <item>Bregott</item>
+        <item>creme fraiche</item>
+        <item>tomater</item>
+        <item>morötter</item>
+        <item>frukt</item>
+        <item>toapapper</item>
+        <item>köttfärs</item>
+        <item>gul lök</item>
+        <item>vitlök</item>
+        <item>bananer</item>
+        <item>hushållspapper</item>
+        <item>yoghurt</item>
+        <item>juice</item>
+        <item>bacon</item>
+        <item>paprika</item>
+        <item>rödlök</item>
+        <item>citron</item>
+        <item>skinka</item>
+        <item>gräddfil</item>
+        <item>ketchup</item>
+        <item>chips</item>
+        <item>krossade tomater</item>
+        <item>pasta</item>
+        <item>tomat</item>
+        <item>fetaost</item>
+        <item>tandkräm</item>
+        <item>korv</item>
+        <item>majs</item>
+        <item>banan</item>
+        <item>havregryn</item>
+        <item>avokado</item>
+        <item>glass</item>
+        <item>falukorv</item>
+        <item>köttbullar</item>
+        <item>kyckling</item>
+        <item>korvbröd</item>
+        <item>lime</item>
+        <item>lax</item>
+        <item>fil</item>
+        <item>godis</item>
+        <item>äpplen</item>
+        <item>champinjoner</item>
+        <item>tomatpuré</item>
+        <item>hamburgerbröd</item>
+        <item>ris</item>
+        <item>purjolök</item>
+        <item>olivolja</item>
+        <item>riven ost</item>
+        <item>vetemjöl</item>
+        <item>broccoli</item>
+        <item>kaviar</item>
+        <item>jäst</item>
+        <item>leverpastej</item>
+        <item>pålägg</item>
+        <item>kycklingfilé</item>
+        <item>keso</item>
+        <item>knäckebröd</item>
+        <item>lök</item>
+        <item>äpple</item>
+        <item>vispgrädde</item>
+        <item>salt</item>
+        <item>jordgubbar</item>
+        <item>räkor</item>
+        <item>tvättmedel</item>
+        <item>mozzarella</item>
+        <item>rostbröd</item>
+        <item>grönsaker</item>
+        <item>matlagningsgrädde</item>
+        <item>russin</item>
+        <item>rapsolja</item>
+        <item>socker</item>
+        <item>halloumi</item>
+        <item>kött</item>
+        <item>parmesan</item>
+        <item>mjöl</item>
+        <item>bakplåtspapper</item>
+        <item>blöjor</item>
+        <item>saft</item>
+        <item>toalettpapper</item>
+        <item>hamburgare</item>
+        <item>tacosås</item>
+        <item>tacokrydda</item>
+        <item>läsk</item>
+        <item>ingefära</item>
+        <item>apelsiner</item>
+        <item>dill</item>
+        <item>flingor</item>
+        <item>kvarg</item>
+        <item>müsli</item>
+        <item>makaroner</item>
+        <item>avocado</item>
+        <item>spagetti</item>
+        <item>kaffefilter</item>
+        <item>lingonsylt</item>
+        <item>salami</item>
+        <item>nötfärs</item>
+        <item>filmjölk</item>
+        <item>vindruvor</item>
+        <item>choklad</item>
+        <item>päron</item>
+        <item>vitkål</item>
+        <item>clementiner</item>
+        <item>oliver</item>
+        <item>persilja</item>
+        <item>ruccola</item>
+        <item>sköljmedel</item>
+        <item>popcorn</item>
+        <item>pommes</item>
+        <item>kokosmjölk</item>
+        <item>salladslök</item>
+        <item>blomkål</item>
+        <item>nudlar</item>
+        <item>snacks</item>
+        <item>våtservetter</item>
+        <item>diskmedel</item>
+        <item>maskindiskmedel</item>
+        <item>senap</item>
+        <item>turkisk yoghurt</item>
+        <item>honung</item>
+        <item>strösocker</item>
+        <item>röd paprika</item>
+        <item>fläskfilé</item>
+        <item>soppåsar</item>
+        <item>spenat</item>
+        <item>körsbärstomater</item>
+        <item>jordnötter</item>
+        <item>tacobröd</item>
+        <item>basilika</item>
+        <item>koriander</item>
+        <item>apelsin</item>
+        <item>tortillabröd</item>
+        <item>havremjölk</item>
+        <item>oboy</item>
+        <item>zucchini</item>
+        <item>kakao</item>
+        <item>sylt</item>
+        <item>sparris</item>
+        <item>majonnäs</item>
+        <item>tacochips</item>
+        <item>spaghetti</item>
+        <item>majonäs</item>
+        <item>melon</item>
+        <item>soltorkade tomater</item>
+        <item>dricka</item>
+        <item>rökt skinka</item>
+        <item>rödbetor</item>
+        <item>fiskpinnar</item>
+        <item>kattmat</item>
+        <item>coca cola</item>
+        <item>grönsaksbuljong</item>
+        <item>nötter</item>
+        <item>mango</item>
+        <item>frysta hallon</item>
+        <item>sötpotatis</item>
+        <item>ströbröd</item>
+        <item>tvål</item>
+        <item>hallon</item>
+        <item>gräslök</item>
+        <item>palsternacka</item>
+        <item>fryspåsar</item>
+        <item>sill</item>
+        <item>plastpåsar</item>
+        <item>blandfärs</item>
+        <item>fisk</item>
+        <item>grillad kyckling</item>
+        <item>laktosfri mjölk</item>
+        <item>baguette</item>
+        <item>handtvål</item>
+        <item>kanel</item>
+        <item>svamp</item>
+        <item>balsam</item>
+        <item>vaniljsocker</item>
+        <item>mörk choklad</item>
+        <item>blåbär</item>
+        <item>jordgubbssylt</item>
+        <item>oregano</item>
+        <item>morot</item>
+        <item>cola</item>
+        <item>pesto</item>
+        <item>julmust</item>
+        <item>apelsinjuice</item>
+        <item>philadelphiaost</item>
+        <item>schampo</item>
+        <item>grillkorv</item>
+        <item>chilisås</item>
+        <item>valnötter</item>
+        <item>flytande margarin</item>
+        <item>jordnötssmör</item>
+        <item>välling</item>
+        <item>kiwi</item>
+        <item>isbergssallad</item>
+        <item>pyttipanna</item>
+        <item>tonfisk</item>
+        <item>saffran</item>
+        <item>deo</item>
+        <item>timjan</item>
+        <item>kex</item>
+        <item>tunnbröd</item>
+        <item>musli</item>
+        <item>disktrasor</item>
+        <item>vaniljglass</item>
+        <item>trosskydd</item>
+        <item>marmelad</item>
+        <item>rostad lök</item>
+        <item>yogurt</item>
+        <item>blodpudding</item>
+        <item>passerade tomater</item>
+        <item>cashewnötter</item>
+        <item>a-fil</item>
+        <item>lasagneplattor</item>
+        <item>parmesanost</item>
+        <item>hallonsylt</item>
+        <item>florsocker</item>
+        <item>cola zero</item>
+        <item>tops</item>
+        <item>chili</item>
+        <item>prinskorv</item>
+        <item>torsk</item>
+        <item>kassler</item>
+        <item>grönkål</item>
+        <item>bearnaisesås</item>
+        <item>ananas</item>
+        <item>grädde 5 dl</item>
+        <item>citroner</item>
+        <item>sockerärtor</item>
+        <item>äppeljuice</item>
+        <item>proviva</item>
+        <item>lövbiff</item>
+        <item>flytande honung</item>
+        <item>pommes frites</item>
+        <item>risgrynsgröt</item>
+        <item>hamburgerdressing</item>
+        <item>vin</item>
+        <item>äppelmos</item>
+        <item>dijonsenap</item>
+        <item>grekisk yoghurt</item>
+        <item>kalvfond</item>
+        <item>tuggummi</item>
+        <item>cornflakes</item>
+        <item>duschtvål</item>
+        <item>festis</item>
+        <item>vattenmelon</item>
+        <item>pizzakit</item>
+        <item>paprika röd</item>
+        <item>diskborste</item>
+        <item>smörgåsgurka</item>
+        <item>potatissallad</item>
+        <item>färskpotatis</item>
+        <item>potatisgratäng</item>
+        <item>mandel</item>
+        <item>fänkål</item>
+        <item>kikärtor</item>
+        <item>fryst mango</item>
+        <item>bakpulver</item>
+        <item>kaffebönor</item>
+        <item>youghurt</item>
+        <item>ostbågar</item>
+        <item>riskakor</item>
+        <item>lingongrova</item>
+        <item>pepsi max</item>
+        <item>steksmör</item>
+        <item>bindor</item>
+        <item>alvedon</item>
+        <item>svartpeppar</item>
+        <item>milk</item>
+        <item>cider</item>
+        <item>vatten</item>
+        <item>babyspenat</item>
+        <item>havrefras</item>
+        <item>ättika</item>
+        <item>mjukt bröd</item>
+        <item>tvättlappar</item>
+        <item>pinjenötter</item>
+        <item>servetter</item>
+        <item>snus</item>
+        <item>granola</item>
+        <item>flytande smör</item>
+        <item>köttbuljong</item>
+        <item>tortillas</item>
+        <item>frysta bär</item>
+        <item>eggs</item>
+        <item>lördagsgodis</item>
+        <item>bread</item>
+        <item>ärtor</item>
+        <item>pepparkakor</item>
+        <item>margarin</item>
+        <item>kakor</item>
+        <item>tandborste</item>
+        <item>nutella</item>
+        <item>plastfolie</item>
+        <item>grillkol</item>
+        <item>lök gul</item>
+        <item>vitt vin</item>
+        <item>värmeljus</item>
+        <item>gröt</item>
+        <item>vispgrädde 5 dl</item>
+        <item>solrosfrön</item>
+        <item>cocktailtomater</item>
+        <item>hasselnötter</item>
+        <item>aubergine</item>
+        <item>pitabröd</item>
+        <item>vaniljyoghurt</item>
+        <item>röd mjölk</item>
+        <item>vitvinsvinäger</item>
+        <item>hårt bröd</item>
+        <item>färsk pasta</item>
+        <item>vaniljsås</item>
+        <item>kapris</item>
+        <item>små tomater</item>
+        <item>bär</item>
+        <item>rom</item>
+        <item>romansallad</item>
+        <item>kycklinglårfilé</item>
+        <item>paprikapulver</item>
+        <item>aluminiumfolie</item>
+        <item>schalottenlök</item>
+        <item>Philadelphia</item>
+        <item>mozarella</item>
+        <item>näsdukar</item>
+        <item>nektariner</item>
+        <item>bea</item>
+        <item>färsk ingefära</item>
+        <item>nachochips</item>
+        <item>nässpray</item>
+        <item>torky</item>
+        <item>risifrutti</item>
+        <item>västerbottenost</item>
+        <item>kattsand</item>
+        <item>pumpakärnor</item>
+        <item>röd chili</item>
+        <item>frysta blåbär</item>
+        <item>parmaskinka</item>
+        <item>nachos</item>
+        <item>digestive</item>
+        <item>färskost</item>
+        <item>tagliatelle</item>
+        <item>bubbelvatten</item>
+        <item>potatisbullar</item>
+        <item>flingsalt</item>
+        <item>mandelmassa</item>
+        <item>vita bönor</item>
+        <item>rödbetssallad</item>
+        <item>naturell yoghurt</item>
+        <item>glögg</item>
+        <item>sås</item>
+        <item>rotselleri</item>
+        <item>digestivekex</item>
+        <item>vit choklad</item>
+        <item>bladspenat</item>
+        <item>spiskummin</item>
+        <item>ikaffe</item>
+        <item>rädisor</item>
+        <item>nyponsoppa</item>
+        <item>majskakor</item>
+        <item>vetemjöl special</item>
+        <item>Ipren</item>
+        <item>tortilla</item>
+        <item>barnmat</item>
+        <item>aioli</item>
+        <item>färsk basilika</item>
+        <item>blommor</item>
+        <item>alkoholfri öl</item>
+        <item>fläskytterfilé</item>
+        <item>smörgåsrån</item>
+        <item>röda linser</item>
+        <item>brieost</item>
+        <item>kesella</item>
+        <item>mjölk laktosfri</item>
+        <item>plåster</item>
+        <item>olja</item>
+        <item>selleri</item>
+        <item>soja</item>
+        <item>salsa</item>
+        <item>hamburgerost</item>
+        <item>yoggi</item>
+        <item>potatis fast</item>
+        <item>finn crisp</item>
+        <item>diskmaskinstabletter</item>
+        <item>mynta</item>
+        <item>tonic</item>
+        <item>satsumas</item>
+        <item>avfallspåsar</item>
+        <item>potatis mjölig</item>
+        <item>flytande tvål</item>
+        <item>kalkon</item>
+        <item>creme fraiche 5 dl</item>
+        <item>squash</item>
+        <item>matgrädde</item>
+        <item>svarta bönor</item>
+        <item>bulgur</item>
+        <item>majskolvar</item>
+        <item>wokgrönsaker</item>
+        <item>rosmarin</item>
+        <item>pizza</item>
+        <item>rökt lax</item>
+        <item>pepparrot</item>
+        <item>tacoskal</item>
+        <item>soppa</item>
+        <item>saltgurka</item>
+        <item>julskinka</item>
+        <item>brie</item>
+        <item>drickyoghurt</item>
+        <item>curry</item>
+        <item>laxfilé</item>
+        <item>tvättmedel kulör</item>
+        <item>mandariner</item>
+        <item>ädelost</item>
+        <item>basmatiris</item>
+        <item>matolja</item>
+        <item>ljus</item>
+        <item>bikarbonat</item>
+        <item>färsk koriander</item>
+        <item>skagenröra</item>
+        <item>bostongurka</item>
+        <item>kokos</item>
+        <item>jasminris</item>
+        <item>jos</item>
+        <item>frysta jordgubbar</item>
+        <item>havredryck</item>
+        <item>bönor</item>
+        <item>wc anka</item>
+        <item>mjukost</item>
+        <item>middag</item>
+        <item>chevre</item>
+        <item>solroskärnor</item>
+        <item>kycklingfärs</item>
+        <item>balsamvinäger</item>
+        <item>mango chutney</item>
+        <item>ljus sirap</item>
+        <item>oxfilé</item>
+        <item>bullar</item>
+        <item>pizzadeg</item>
+        <item>rostbiff</item>
+        <item>yoghurt naturell</item>
+        <item>baksmör</item>
+        <item>vitlöksbröd</item>
+        <item>dipp</item>
+        <item>blåbärssoppa</item>
+        <item>Loka</item>
+        <item>frysta ärtor</item>
+        <item>granatäpple</item>
+        <item>chorizo</item>
+        <item>messmör</item>
+        <item>lättmjölk</item>
+        <item>skorpor</item>
+        <item>brysselkål</item>
+        <item>rödkål</item>
+        <item>fika</item>
+        <item>högrev</item>
+        <item>bakpotatis</item>
+        <item>gröna äpplen</item>
+        <item>sesamfrön</item>
+        <item>rött vin</item>
+        <item>mjölig potatis</item>
+        <item>Kalles kaviar</item>
+        <item>folköl</item>
+        <item>färs</item>
+        <item>sweet chilisås</item>
+        <item>dadlar</item>
+        <item>fikabröd</item>
+        <item>lätta</item>
+        <item>kallrökt lax</item>
+        <item>sambal oelek</item>
+        <item>spolglans</item>
+        <item>lättdryck</item>
+        <item>fryst broccoli</item>
+        <item>disktabletter</item>
+        <item>spetskål</item>
+        <item>salladsmix</item>
+        <item>fläskkarré</item>
+        <item>hundmat</item>
+        <item>färska champinjoner</item>
+        <item>bomullsrondeller</item>
+        <item>katrinplommon</item>
+        <item>kycklingfond</item>
+        <item>duschcreme</item>
+        <item>kokosflingor</item>
+        <item>chokladsås</item>
+        <item>Ramlösa</item>
+        <item>ingefära färsk</item>
+        <item>tortellini</item>
+        <item>svartpeppar hel</item>
+        <item>mat</item>
+        <item>ansjovis</item>
+        <item>halstabletter</item>
+        <item>smördeg</item>
+        <item>vaniljvisp</item>
+        <item>ölkorv</item>
+        <item>klämmisar</item>
+        <item>potatismjöl</item>
+        <item>soya</item>
+        <item>kardemumma</item>
+        <item>äpplejuice</item>
+        <item>tändstickor</item>
+        <item>mandelmjölk</item>
+        <item>tofu</item>
+        <item>gul paprika</item>
+        <item>snabbmakaroner</item>
+        <item>japansk soja</item>
+        <item>lagerblad</item>
+        <item>remouladsås</item>
+        <item>fredagsmys</item>
+        <item>varmkorv</item>
+        <item>grillkrydda</item>
+        <item>kidneybönor</item>
+        <item>fiskbuljong</item>
+        <item>färsk spenat</item>
+        <item>kokt skinka</item>
+        <item>charlottenlök</item>
+        <item>mandlar</item>
+        <item>vaniljstång</item>
+        <item>feta</item>
+        <item>hönsbuljong</item>
+        <item>clementin</item>
+        <item>ärtsoppa</item>
+        <item>gröna ärtor</item>
+        <item>tejp</item>
+        <item>tandborstar</item>
+        <item>vaniljyoughurt</item>
+        <item>dressing</item>
+        <item>strumpor</item>
+        <item>tändvätska</item>
+        <item>frallor</item>
+        <item>sirap</item>
+        <item>tamponger</item>
+        <item>chiafrön</item>
+        <item>yoghurt vanilj</item>
+        <item>getost</item>
+        <item>sesamolja</item>
+        <item>torskrygg</item>
+        <item>fläsk</item>
+        <item>mandelmjöl</item>
+        <item>chicken nuggets</item>
+        <item>mannagryn</item>
+        <item>svarta oliver</item>
+        <item>hushållsost</item>
+        <item>krossad tomat</item>
+        <item>hårdbröd</item>
+        <item>couscous</item>
+        <item>lök röd</item>
+        <item>falu rågrut</item>
+        <item>hårspray</item>
+        <item>fiskbullar</item>
+        <item>cream fraiche</item>
+        <item>rårörda lingon</item>
+        <item>grillkött</item>
+        <item>hönökaka</item>
+        <item>räksallad</item>
+        <item>salta pinnar</item>
+        <item>färsk persilja</item>
+        <item>hamburgebröd</item>
+        <item>tacos</item>
+        <item>kycklingfiléer</item>
+        <item>bearnaise</item>
+        <item>tulpaner</item>
+        <item>pannkakor</item>
+        <item>lunch</item>
+        <item>start</item>
+        <item>sötmandel</item>
+        <item>maränger</item>
+        <item>pumpafrön</item>
+        <item>vörtbröd</item>
+        <item>barntandkräm</item>
+        <item>färsk dill</item>
+        <item>lätt creme fraiche</item>
+        <item>färsk timjan</item>
+        <item>laktosfri grädde</item>
+        <item>schampoo</item>
+        <item>tvättmedel vit</item>
+        <item>pärlsocker</item>
+        <item>rågsikt</item>
+        <item>gelé</item>
+        <item>rågflingor</item>
+        <item>fiberhavregryn</item>
+        <item>lingon</item>
+        <item>smoothie</item>
+        <item>fönsterputs</item>
+        <item>briketter</item>
+        <item>gravad lax</item>
+        <item>äppelcidervinäger</item>
+        <item>limpa</item>
+        <item>tårtbotten</item>
+        <item>marinad</item>
+        <item>grapefrukt</item>
+        <item>mjölk röd</item>
+        <item>beasås</item>
+        <item>ersättning</item>
+        <item>batterier</item>
+        <item>panko</item>
+        <item>fanta</item>
+        <item>skinka pålägg</item>
+        <item>lättfil</item>
+        <item>varmrökt lax</item>
+        <item>bladpersilja</item>
+        <item>mineralvatten</item>
+        <item>löjrom</item>
+        <item>deodorant</item>
+        <item>Bregott mellan</item>
+        <item>fast potatis</item>
+        <item>räkost</item>
+        <item>kräftstjärtar</item>
+        <item>cheddarost</item>
+        <item>presentpapper</item>
+        <item>tårta</item>
+        <item>kycklingbuljong</item>
+        <item>vitpeppar</item>
+        <item>bubbel</item>
+        <item>Loka crush</item>
+        <item>dragon</item>
+        <item>kålrot</item>
+        <item>tandkräm barn</item>
+        <item>kräftor</item>
+        <item>böngroddar</item>
+        <item>strössel</item>
+        <item>torskfilé</item>
+        <item>påsar</item>
+        <item>basilika färsk</item>
+        <item>matjessill</item>
+        <item>scharlottenlök</item>
+        <item>coca cola zero</item>
+        <item>såpa</item>
+        <item>äggnudlar</item>
+        <item>raklödder</item>
+        <item>ostsås</item>
+        <item>bananas</item>
+        <item>frysta grönsaker</item>
+        <item>havregrädde</item>
+        <item>vitlökspulver</item>
+        <item>5 dl grädde</item>
+        <item>grahamsmjöl</item>
+        <item>tvättmedel färg</item>
+        <item>ballonger</item>
+        <item>yougurt</item>
+        <item>handdiskmedel</item>
+        <item>bajspåsar</item>
+        <item>makrill</item>
+        <item>kycklingklubbor</item>
+        <item>tomatsås</item>
+        <item>koriander färsk</item>
+        <item>matyoghurt</item>
+        <item>smetana</item>
+        <item>rotfrukter</item>
+        <item>haricots verts</item>
+        <item>Sprite</item>
+        <item>passionsfrukt</item>
+        <item>buljong</item>
+        <item>5 dl vispgrädde</item>
+        <item>linfrön</item>
+        <item>yes diskmedel</item>
+        <item>resorb</item>
+        <item>risnudlar</item>
+        <item>maizena</item>
+        <item>kokosolja</item>
+        <item>frukostbröd</item>
+        <item>bomullspads</item>
+        <item>norrgott</item>
+        <item>frimärken</item>
+        <item>jalapenos</item>
+        <item>rostebröd</item>
+        <item>nappar</item>
+        <item>grötris</item>
+        <item>prickig korv</item>
+        <item>kefir</item>
+        <item>paprika gul</item>
+        <item>sojabönor</item>
+        <item>tändare</item>
+        <item>musslor</item>
+        <item>lufttorkad skinka</item>
+        <item>disktrasa</item>
+        <item>fisksås</item>
+        <item>laddare</item>
+        <item>jord</item>
+        <item>sopsäckar</item>
+        <item>citronpeppar</item>
+        <item>kräm</item>
+        <item>rödvin</item>
+        <item>quinoa</item>
+        <item>lypsyl</item>
+        <item>tomatsoppa</item>
+        <item>tandtråd</item>
+        <item>glutenfritt bröd</item>
+        <item>grillolja</item>
+        <item>baguetter</item>
+        <item>ost riven</item>
+        <item>grön paprika</item>
+        <item>pepparkaksdeg</item>
+        <item>snabbkaffe</item>
+        <item>becel</item>
+        <item>panerad fisk</item>
+        <item>pastaskruvar</item>
+        <item>pepsi</item>
+        <item>rån</item>
+        <item>potatismos</item>
+        <item>kantareller</item>
+        <item>prästost</item>
+        <item>blomjord</item>
+        <item>ägg 12-pack</item>
+        <item>mellangrädde</item>
+        <item>orange juice</item>
+        <item>syltlök</item>
+        <item>stenbitsrom</item>
+        <item>pastasås</item>
+        <item>klyftpotatis</item>
+        <item>yes</item>
+        <item>matvete</item>
+        <item>solkräm</item>
+        <item>mjölkchoklad</item>
+        <item>röda äpplen</item>
+        <item>falafel</item>
+        <item>entrecote</item>
+        <item>strips</item>
+        <item>creme fraich</item>
+        <item>bordsmargarin</item>
+        <item>linfrö</item>
+        <item>tvättmedel color</item>
+        <item>havrekuddar</item>
+        <item>farinsocker</item>
+        <item>fun light</item>
+        <item>majskolv</item>
+        <item>lösgodis</item>
+        <item>flux</item>
+        <item>hallon frysta</item>
+        <item>kalkonpålägg</item>
+        <item>kavring</item>
+        <item>purjo</item>
+        <item>kaffekapslar</item>
+        <item>nuggets</item>
+        <item>lättöl</item>
+        <item>creme fraishe</item>
+        <item>oxfond</item>
+        <item>knäcke</item>
+        <item>apelsinmarmelad</item>
+        <item>fläskfärs</item>
+        <item>matlagningsyoghurt</item>
+        <item>c-vitamin</item>
+        <item>laktosfri yoghurt</item>
+        <item>duschkräm</item>
+        <item>äpplemos</item>
+        <item>hamburgarbröd</item>
+        <item>gott bröd</item>
+        <item>polarbröd</item>
+        <item>solglasögon</item>
+        <item>gulaschsoppa</item>
+        <item>kebabsås</item>
+        <item>mellanmjölk</item>
+        <item>hårfärg</item>
+        <item>folie</item>
+        <item>vaniljpulver</item>
+        <item>kött att grilla</item>
+        <item>torkade aprikoser</item>
+        <item>mariekex</item>
+        <item>creme fraiche lätt</item>
+        <item>gifflar</item>
+        <item>gnocchi</item>
+        <item>fryst spenat</item>
+        <item>plackers</item>
+        <item>lökpulver</item>
+        <item>zuccini</item>
+        <item>diskmaskinssalt</item>
+        <item>champinjoner färska</item>
+        <item>tacoost</item>
+        <item>lasagne</item>
+        <item>tonfisk i vatten</item>
+        <item>svinto</item>
+        <item>linsvätska</item>
+        <item>AA batterier</item>
+        <item>ostar</item>
+        <item>pistagenötter</item>
+        <item>salladspåse</item>
+        <item>broccoli fryst</item>
+        <item>syltsocker</item>
+        <item>ajvar</item>
+        <item>haloumi</item>
+        <item>cheerios</item>
+        <item>wienerkorv</item>
+        <item>matlagningsvin vitt</item>
+        <item>pasta penne</item>
+        <item>badkläder</item>
+        <item>grovt bröd</item>
+        <item>tranbärsjuice</item>
+        <item>fryst dill</item>
+        <item>tandpetare</item>
+        <item>majskrokar</item>
+        <item>formfranska</item>
+        <item>strimlad skinka</item>
+        <item>fjällfil</item>
+        <item>libabröd</item>
+        <item>kebab</item>
+        <item>wc rent</item>
+        <item>topz</item>
+        <item>pizzasås</item>
+        <item>romsås</item>
+        <item>Ajax</item>
+        <item>shampoo</item>
+        <item>guacamole</item>
+        <item>klorin</item>
+        <item>idealmakaroner</item>
+        <item>rakblad</item>
+        <item>flora</item>
+        <item>batterier AA</item>
+        <item>rödvinsvinäger</item>
+        <item>kolsyrepatron</item>
+        <item>mango fryst</item>
+        <item>middagsmat</item>
+        <item>hel svartpeppar</item>
+        <item>japansk soya</item>
+        <item>spenat färsk</item>
+        <item>våffelmix</item>
+        <item>skor</item>
+        <item>lönnsirap</item>
+        <item>svartvinbärsgele</item>
+        <item>tomatkross</item>
+        <item>matlagningsgrädde 5 dl</item>
+        <item>vanish</item>
+        <item>5 dl creme fraiche</item>
+        <item>dip</item>
+        <item>kronljus</item>
+        <item>glasnudlar</item>
+        <item>frukost</item>
+        <item>torrjäst</item>
+        <item>grädde laktosfri</item>
+        <item>smörgåsmargarin</item>
+        <item>sugarsnaps</item>
+        <item>tomater små</item>
+        <item>lammfärs</item>
+        <item>chilipulver</item>
+        <item>vegofärs</item>
+        <item>hummus</item>
+        <item>smör Bregott</item>
+        <item>kexchoklad</item>
+        <item>pågenlimpa</item>
+        <item>havreringar</item>
+        <item>fryst lax</item>
+        <item>jalapeno</item>
+        <item>fryst persilja</item>
+        <item>tonic water</item>
+        <item>påskmust</item>
+        <item>inlagd gurka</item>
+        <item>handkräm</item>
+        <item>kanelknäcke</item>
+        <item>wettex</item>
+        <item>ättiksprit</item>
+        <item>nonstop</item>
+        <item>surdegsbröd</item>
+        <item>creme fraiche laktosfri</item>
+        <item>gurkmeja</item>
+        <item>machesallad</item>
+        <item>hörlurar</item>
+        <item>puffar</item>
+        <item>revbensspjäll</item>
+        <item>mjölk grön</item>
+        <item>tortillachips</item>
+        <item>pak choi</item>
+        <item>spolarvätska</item>
+        <item>annanas</item>
+        <item>fryst majs</item>
+        <item>mögelost</item>
+        <item>pajdeg</item>
+        <item>tvål refill</item>
+        <item>bars</item>
+        <item>vinäger</item>
+        <item>vit fisk</item>
+        <item>makrill i tomatsås</item>
+        <item>ricotta</item>
+        <item>rakhyvlar</item>
+        <item>spetspaprika</item>
+        <item>schnitzel</item>
+        <item>dammsugarpåsar</item>
+        <item>silverlök</item>
+        <item>gelatinblad</item>
+        <item>nektarin</item>
+        <item>tepåsar</item>
+        <item>timjan färsk</item>
+        <item>vaniljkvarg</item>
+        <item>smågodis</item>
+        <item>torrschampo</item>
+        <item>kvarg vanilj</item>
+        <item>linser</item>
+        <item>maskindisk</item>
+        <item>hämta paket</item>
+        <item>tranbär</item>
+        <item>AAA batterier</item>
+        <item>sardeller</item>
+        <item>rökt kalkon</item>
+        <item>kondenserad mjölk</item>
+        <item>chiliflakes</item>
+        <item>rakgel</item>
+        <item>sojamjölk</item>
+        <item>the</item>
+        <item>citronsyra</item>
+        <item>bambuskott</item>
+        <item>gladpack</item>
+        <item>ansiktskräm</item>
+        <item>rågbröd</item>
+        <item>gröna oliver</item>
+        <item>gorgonzola</item>
+        <item>prosciutto</item>
+        <item>färsk broccoli</item>
+        <item>grön sparris</item>
+        <item>karré</item>
+        <item>hel kyckling</item>
+        <item>blomma</item>
+        <item>trosor</item>
+        <item>handdukar</item>
+        <item>quornfärs</item>
+        <item>skinka rökt</item>
+        <item>pizzaost</item>
+        <item>marshmallows</item>
+        <item>mascarpone</item>
+        <item>hundbajspåsar</item>
+        <item>grön mjölk</item>
+        <item>sweet chili</item>
+        <item>blockljus</item>
+        <item>minimajs</item>
+        <item>öronproppar</item>
+        <item>coctailtomater</item>
+        <item>pulled pork</item>
+        <item>råsocker</item>
+        <item>turkisk youghurt</item>
+        <item>honung flytande</item>
+        <item>färska bär</item>
+        <item>pads</item>
+        <item>shampo</item>
+        <item>örtsalt</item>
+        <item>stearinljus</item>
+        <item>Treo</item>
+        <item>lampolja</item>
+        <item>revben</item>
+        <item>cigg</item>
+        <item>rågmjöl</item>
+        <item>fikon</item>
+        <item>grillbriketter</item>
+        <item>Nescafé</item>
+        <item>branflakes</item>
+        <item>grönsaksfond</item>
+        <item>necessär</item>
+        <item>bitsocker</item>
+        <item>runda mackor</item>
+        <item>smör &amp; rapsolja</item>
+        <item>citrongräs</item>
+        <item>mandelspån</item>
+        <item>sidfläsk</item>
+        <item>kebabkött</item>
+        <item>citronsaft</item>
+        <item>kuddar</item>
+        <item>efterrätt</item>
+        <item>kolasås</item>
+        <item>blåbär frysta</item>
+        <item>skogaholmslimpa</item>
+        <item>isterband</item>
+        <item>bbq sås</item>
+        <item>hoisinsås</item>
+        <item>gräddfil 3 dl</item>
+        <item>frityrolja</item>
+        <item>matjesill</item>
+        <item>drottningsylt</item>
+        <item>högrevsfärs</item>
+        <item>special k</item>
+        <item>matlagningsvin</item>
+        <item>batteri</item>
+        <item>disksvampar</item>
+        <item>renskav</item>
+        <item>färska lasagneplattor</item>
+        <item>teriyakisås</item>
+        <item>stekfläsk</item>
+        <item>färska hallon</item>
+        <item>hamburgedressing</item>
+        <item>vattenflaska</item>
+        <item>mjukbröd</item>
+        <item>groddar</item>
+        <item>påläggsskinka</item>
+        <item>dryck</item>
+        <item>råris</item>
+        <item>kanelstång</item>
+        <item>quornbitar</item>
+        <item>mascara</item>
+        <item>salta kex</item>
+        <item>pringles</item>
+        <item>gravlaxsås</item>
+        <item>paj</item>
+        <item>frysta köttbullar</item>
+        <item>kikärter</item>
+        <item>chilifrukt</item>
+        <item>frysta räkor</item>
+        <item>kokosgrädde</item>
+        <item>kål</item>
+        <item>cola light</item>
+        <item>delikatesspotatis</item>
+        <item>kulörtvättmedel</item>
+        <item>diskmaskinsalt</item>
+    </array>
+    <array name="seed_category">
+        <item>Frukt &amp; Grönt</item>
+        <item>Mejeri</item>
+        <item>Kött</item>
+        <item>Fryst</item>
+        <item>Bröd</item>
+    </array>
+    <array name="seed_recipe">
+        <item>gurka</item>
+        <item>orange paprika</item>
+        <item>tomater</item>
+        <item>Kalamata-oliver</item>
+        <item>fetaost</item>
+        <item>sötlök</item>
+        <item>grekisk salladdressing</item>
+    </array>
+    <array name="seed_shopping_list">
+        <item>mjölk</item>
+        <item>bröd</item>
+        <item>ägg</item>
+    </array>
+    <array name="seed_shopping_list_categories">
+        <item>Mejeri</item>
+        <item>Bröd</item>
+        <item>Mejeri</item>
+    </array>
+</resources>

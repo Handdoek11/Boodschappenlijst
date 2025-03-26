@@ -1,0 +1,1005 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="master_list_values">
+        <item>tej</item>
+        <item>tojás</item>
+        <item>kenyér</item>
+        <item>sajt</item>
+        <item>paradicsom</item>
+        <item>tejföl</item>
+        <item>vaj</item>
+        <item>wc papír</item>
+        <item>banán</item>
+        <item>krumpli</item>
+        <item>felvágott</item>
+        <item>virsli</item>
+        <item>alma</item>
+        <item>paprika</item>
+        <item>liszt</item>
+        <item>citrom</item>
+        <item>uborka</item>
+        <item>hagyma</item>
+        <item>csirkemell</item>
+        <item>túró</item>
+        <item>joghurt</item>
+        <item>fokhagyma</item>
+        <item>sonka</item>
+        <item>majonéz</item>
+        <item>olaj</item>
+        <item>darált hús</item>
+        <item>kávé</item>
+        <item>fogkrém</item>
+        <item>répa</item>
+        <item>cukor</item>
+        <item>tejszín</item>
+        <item>gyümölcs</item>
+        <item>sör</item>
+        <item>rizs</item>
+        <item>papírtörlő</item>
+        <item>zsemle</item>
+        <item>margarin</item>
+        <item>ketchup</item>
+        <item>saláta</item>
+        <item>túró rudi</item>
+        <item>ásványvíz</item>
+        <item>élesztő</item>
+        <item>gomba</item>
+        <item>sárgarépa</item>
+        <item>lilahagyma</item>
+        <item>szalámi</item>
+        <item>vöröshagyma</item>
+        <item>folyékony szappan</item>
+        <item>bacon</item>
+        <item>kolbász</item>
+        <item>kifli</item>
+        <item>narancs</item>
+        <item>mosogatószer</item>
+        <item>mustár</item>
+        <item>almalé</item>
+        <item>szalvéta</item>
+        <item>öblítő</item>
+        <item>csoki</item>
+        <item>alufólia</item>
+        <item>pékáru</item>
+        <item>zsepi</item>
+        <item>ecet</item>
+        <item>víz</item>
+        <item>bor</item>
+        <item>szörp</item>
+        <item>kígyóuborka</item>
+        <item>tészta</item>
+        <item>zöldség</item>
+        <item>porcukor</item>
+        <item>cukkini</item>
+        <item>tusfürdő</item>
+        <item>kefír</item>
+        <item>szeletelt sajt</item>
+        <item>májkrém</item>
+        <item>mozzarella</item>
+        <item>natúr joghurt</item>
+        <item>sampon</item>
+        <item>olivaolaj</item>
+        <item>chips</item>
+        <item>csirkecomb</item>
+        <item>zabpehely</item>
+        <item>narancslé</item>
+        <item>citromlé</item>
+        <item>brokkoli</item>
+        <item>üdítő</item>
+        <item>fehérrépa</item>
+        <item>petrezselyem</item>
+        <item>mandarin</item>
+        <item>tea</item>
+        <item>kóla</item>
+        <item>párizsi</item>
+        <item>nutella</item>
+        <item>zsemlemorzsa</item>
+        <item>kukorica konzerv</item>
+        <item>laktózmentes tej</item>
+        <item>szemeteszsák</item>
+        <item>méz</item>
+        <item>mosószer</item>
+        <item>retek</item>
+        <item>leveszöldség</item>
+        <item>görög joghurt</item>
+        <item>pzs</item>
+        <item>papírzsebkendő</item>
+        <item>papírzsepi</item>
+        <item>kalács</item>
+        <item>pelenka</item>
+        <item>főzőtejszín</item>
+        <item>keksz</item>
+        <item>tejfol</item>
+        <item>zeller</item>
+        <item>popsitörlő</item>
+        <item>vajkrém</item>
+        <item>édesburgonya</item>
+        <item>domestos</item>
+        <item>zsebkendő</item>
+        <item>spagetti</item>
+        <item>hús</item>
+        <item>kukorica</item>
+        <item>újhagyma</item>
+        <item>vaníliás cukor</item>
+        <item>karalábé</item>
+        <item>mosogatószivacs</item>
+        <item>fogkefe</item>
+        <item>cola</item>
+        <item>jégsaláta</item>
+        <item>avokádó</item>
+        <item>macskakaja</item>
+        <item>mascarpone</item>
+        <item>cékla</item>
+        <item>müzli</item>
+        <item>kakaó</item>
+        <item>gyümölcslé</item>
+        <item>ropi</item>
+        <item>toast kenyér</item>
+        <item>gyömbér</item>
+        <item>sütőpapír</item>
+        <item>csemege uborka</item>
+        <item>étolaj</item>
+        <item>nedves wc papír</item>
+        <item>kaliforniai paprika</item>
+        <item>szőlő</item>
+        <item>karfiol</item>
+        <item>zsömle</item>
+        <item>péksüti</item>
+        <item>dezodor</item>
+        <item>szeletelt kenyér</item>
+        <item>szalonna</item>
+        <item>leveles tészta</item>
+        <item>parmezán</item>
+        <item>tojás 20 db</item>
+        <item>eper</item>
+        <item>fagyi</item>
+        <item>betét</item>
+        <item>tortilla</item>
+        <item>mosogatógép tabletta</item>
+        <item>körte</item>
+        <item>csirkemellfilé</item>
+        <item>tejszínhab</item>
+        <item>étcsoki</item>
+        <item>kutyakaja</item>
+        <item>sütőpor</item>
+        <item>tisztasági betét</item>
+        <item>áfonya</item>
+        <item>mogyoró</item>
+        <item>koktélparadicsom</item>
+        <item>vattakorong</item>
+        <item>c vitamin</item>
+        <item>mandulatej</item>
+        <item>wc illatosító</item>
+        <item>jégkrém</item>
+        <item>spenót</item>
+        <item>padlizsán</item>
+        <item>trappista sajt</item>
+        <item>szilvia</item>
+        <item>kristálycukor</item>
+        <item>sűrített paradicsom</item>
+        <item>szappan</item>
+        <item>bazsalikom</item>
+        <item>mazsola</item>
+        <item>mosogatógép só</item>
+        <item>kókusztej</item>
+        <item>habtejszín</item>
+        <item>kakaópor</item>
+        <item>búzadara</item>
+        <item>hal</item>
+        <item>szemetes zsák</item>
+        <item>popcorn</item>
+        <item>savanyúság</item>
+        <item>levestészta</item>
+        <item>lazac</item>
+        <item>kakaós csiga</item>
+        <item>gyümölcsjoghurt</item>
+        <item>paradicsomszósz</item>
+        <item>téliszalámi</item>
+        <item>kókuszreszelék</item>
+        <item>tampon</item>
+        <item>barna cukor</item>
+        <item>tonhal</item>
+        <item>paradicsompüré</item>
+        <item>oregano</item>
+        <item>reszelt sajt</item>
+        <item>spagetti tészta</item>
+        <item>halrudacska</item>
+        <item>zabtej</item>
+        <item>bulgur</item>
+        <item>dinnye</item>
+        <item>rizstej</item>
+        <item>savanyú káposzta</item>
+        <item>borsó</item>
+        <item>zoldseg</item>
+        <item>póréhagyma</item>
+        <item>folpack</item>
+        <item>voroshagyma</item>
+        <item>feta sajt</item>
+        <item>káposzta</item>
+        <item>pizza</item>
+        <item>babkonzerv</item>
+        <item>zsír</item>
+        <item>péksütemény</item>
+        <item>rágó</item>
+        <item>rágcsa</item>
+        <item>karaj</item>
+        <item>borotva</item>
+        <item>salátakeverék</item>
+        <item>torma</item>
+        <item>gabonapehely</item>
+        <item>tonhal konzerv</item>
+        <item>lencse</item>
+        <item>cottage cheese</item>
+        <item>tejszelet</item>
+        <item>sült krumpli</item>
+        <item>rama</item>
+        <item>pirospaprika</item>
+        <item>babapiskóta</item>
+        <item>szájvíz</item>
+        <item>tejföl nagy</item>
+        <item>lefolyótisztító</item>
+        <item>paradicsom konzerv</item>
+        <item>puding</item>
+        <item>tarhonya</item>
+        <item>mosópor</item>
+        <item>kelkáposzta</item>
+        <item>konyhai papírtörlő</item>
+        <item>finomliszt</item>
+        <item>eggs</item>
+        <item>fahéj</item>
+        <item>sütőtök</item>
+        <item>mozarella</item>
+        <item>burgonya</item>
+        <item>müzliszelet</item>
+        <item>szivacs</item>
+        <item>milk</item>
+        <item>papirtorlo</item>
+        <item>lekvár</item>
+        <item>háztartási keksz</item>
+        <item>lime</item>
+        <item>bread</item>
+        <item>barack</item>
+        <item>ivójoghurt</item>
+        <item>coca cola</item>
+        <item>dobozos zsepi</item>
+        <item>pezsgő</item>
+        <item>elem</item>
+        <item>sajtkrém</item>
+        <item>zöldségek</item>
+        <item>csirkemell sonka</item>
+        <item>szódabikarbóna</item>
+        <item>olivabogyó</item>
+        <item>sertéscomb</item>
+        <item>grillsajt</item>
+        <item>rukkola</item>
+        <item>juhtúró</item>
+        <item>bab</item>
+        <item>kesudió</item>
+        <item>kéztörlő</item>
+        <item>lapka sajt</item>
+        <item>gyumolcs</item>
+        <item>leveskocka</item>
+        <item>borotvahab</item>
+        <item>tortilla lap</item>
+        <item>laktózmentes tejföl</item>
+        <item>kávétejszín</item>
+        <item>leveshús</item>
+        <item>vegeta</item>
+        <item>energiaital</item>
+        <item>kápia paprika</item>
+        <item>felvágottak</item>
+        <item>dió</item>
+        <item>babavíz</item>
+        <item>humusz</item>
+        <item>saláta mix</item>
+        <item>bagett</item>
+        <item>babérlevél</item>
+        <item>rudi</item>
+        <item>zokni</item>
+        <item>zöldborsó</item>
+        <item>sajtok</item>
+        <item>pirosarany</item>
+        <item>tarja</item>
+        <item>szorp</item>
+        <item>aszalt szilva</item>
+        <item>mák</item>
+        <item>macskaalom</item>
+        <item>kávé kapszula</item>
+        <item>d vitamin</item>
+        <item>szójaszósz</item>
+        <item>savanyú uborka</item>
+        <item>bubis víz</item>
+        <item>kapor</item>
+        <item>mandula</item>
+        <item>kocka rama</item>
+        <item>actimel</item>
+        <item>Fanta</item>
+        <item>bors</item>
+        <item>parizer</item>
+        <item>paradicsomlé</item>
+        <item>feta</item>
+        <item>mentes víz</item>
+        <item>vízkőoldó</item>
+        <item>korpovit</item>
+        <item>oblito</item>
+        <item>abonett</item>
+        <item>testápoló</item>
+        <item>joghurt natúr</item>
+        <item>medve sajt</item>
+        <item>pogácsa</item>
+        <item>papucs</item>
+        <item>tonik</item>
+        <item>wc tisztító</item>
+        <item>basmati rizs</item>
+        <item>marhahús</item>
+        <item>fogselyem</item>
+        <item>reggeli</item>
+        <item>csirke</item>
+        <item>tökmag</item>
+        <item>vörösbor</item>
+        <item>krémtúró</item>
+        <item>leves zöldség</item>
+        <item>dörmi</item>
+        <item>kutyakonzerv</item>
+        <item>bords eve</item>
+        <item>fehérbor</item>
+        <item>kézkrém</item>
+        <item>majoranna</item>
+        <item>májas</item>
+        <item>ice tea</item>
+        <item>műzli</item>
+        <item>sós mogyoró</item>
+        <item>levesgyöngy</item>
+        <item>leveszoldseg</item>
+        <item>tusfurdo</item>
+        <item>naptej</item>
+        <item>habfürdő</item>
+        <item>grillkolbász</item>
+        <item>kaukázusi kefír</item>
+        <item>sor</item>
+        <item>pesto</item>
+        <item>zab</item>
+        <item>csirkemáj</item>
+        <item>tv paprika</item>
+        <item>csigatészta</item>
+        <item>fültisztító</item>
+        <item>pulykamell</item>
+        <item>sajt szeletelt</item>
+        <item>kukazsák</item>
+        <item>máj</item>
+        <item>instant kávé</item>
+        <item>kenőmájas</item>
+        <item>meggybefőtt</item>
+        <item>cérnametélt</item>
+        <item>füstölt sajt</item>
+        <item>fánk</item>
+        <item>pari</item>
+        <item>zöld tea</item>
+        <item>ubi</item>
+        <item>felmosófej</item>
+        <item>zöldbab</item>
+        <item>hajlakk</item>
+        <item>gesztenyepüré</item>
+        <item>teavaj</item>
+        <item>kockacukor</item>
+        <item>nasi</item>
+        <item>fülpiszkáló</item>
+        <item>olajbogyó</item>
+        <item>camambert</item>
+        <item>fekete tea</item>
+        <item>mosogató tabletta</item>
+        <item>szeletelt bacon</item>
+        <item>csemegeubi</item>
+        <item>kézmosó</item>
+        <item>zabkása</item>
+        <item>feketeerdei sonka</item>
+        <item>rántott sajt</item>
+        <item>csirkeszárny</item>
+        <item>alom</item>
+        <item>gyerek fogkrém</item>
+        <item>baracklé</item>
+        <item>kockasajt</item>
+        <item>tortilla chips</item>
+        <item>cigi</item>
+        <item>kókuszzsír</item>
+        <item>camembert</item>
+        <item>alkoholmentes sör</item>
+        <item>puffasztott rizs</item>
+        <item>szénsavas ásványvíz</item>
+        <item>penne</item>
+        <item>virágföld</item>
+        <item>mirelit zöldség</item>
+        <item>színfogó kendő</item>
+        <item>nagy tejföl</item>
+        <item>szotyi</item>
+        <item>perec</item>
+        <item>hot dog kifli</item>
+        <item>bio citrom</item>
+        <item>mangó</item>
+        <item>pisztácia</item>
+        <item>gumikesztyű</item>
+        <item>kakukkfű</item>
+        <item>100-as zsepi</item>
+        <item>sutopapir</item>
+        <item>virág</item>
+        <item>bébiétel</item>
+        <item>szénsavas víz</item>
+        <item>mosogatógép öblítő</item>
+        <item>eleszto</item>
+        <item>pattogatott kukorica</item>
+        <item>hajfesték</item>
+        <item>nápolyi</item>
+        <item>husi</item>
+        <item>tartós tej</item>
+        <item>mirelit zöldborsó</item>
+        <item>tortellini</item>
+        <item>krémsajt</item>
+        <item>fagyasztott zöldség</item>
+        <item>gyümölcstea</item>
+        <item>bébi spenót</item>
+        <item>magnézium</item>
+        <item>zellerszár</item>
+        <item>nedves törlőkendő</item>
+        <item>konzerv kukorica</item>
+        <item>croissant</item>
+        <item>pillanatragasztó</item>
+        <item>vaníliás karika</item>
+        <item>császárzsemle</item>
+        <item>halkonzerv</item>
+        <item>gorog joghurt</item>
+        <item>cheddar sajt</item>
+        <item>kigyoubi</item>
+        <item>bugyi</item>
+        <item>vattapamacs</item>
+        <item>fozotejszin</item>
+        <item>szarvacska tészta</item>
+        <item>ananász</item>
+        <item>petrezselyemzöld</item>
+        <item>kinder pingui</item>
+        <item>málna</item>
+        <item>szélesmetélt</item>
+        <item>tápszer</item>
+        <item>paprikás szalámi</item>
+        <item>ceruza elem</item>
+        <item>arckrém</item>
+        <item>parenyica</item>
+        <item>cif</item>
+        <item>balzsam</item>
+        <item>őszibarack</item>
+        <item>tejberizs</item>
+        <item>folyékony mosószer</item>
+        <item>fejes saláta</item>
+        <item>kubu</item>
+        <item>kinder tejszelet</item>
+        <item>cola zero</item>
+        <item>pelus</item>
+        <item>tofu</item>
+        <item>hasábburgonya</item>
+        <item>kenyérféle</item>
+        <item>kelbimbó</item>
+        <item>eritrit</item>
+        <item>gofri</item>
+        <item>oldalas</item>
+        <item>szaloncukor</item>
+        <item>Flóraszept</item>
+        <item>hamburger zsemle</item>
+        <item>gyufa</item>
+        <item>szilva</item>
+        <item>kecskesajt</item>
+        <item>kocka margarin</item>
+        <item>koriander</item>
+        <item>hajbalzsam</item>
+        <item>napraforgó olaj</item>
+        <item>tk kenyér</item>
+        <item>spárga</item>
+        <item>növényi tej</item>
+        <item>ananász konzerv</item>
+        <item>fokhagymapor</item>
+        <item>édesség</item>
+        <item>bolognai szósz</item>
+        <item>mogyoróvaj</item>
+        <item>multivitamin</item>
+        <item>wc spray</item>
+        <item>málnaszörp</item>
+        <item>szúnyogriasztó</item>
+        <item>laktózmentes joghurt</item>
+        <item>peksuti</item>
+        <item>harisnya</item>
+        <item>kesztyű</item>
+        <item>folyékony szappan utántöltő</item>
+        <item>nádcukor</item>
+        <item>fagyasztott meggy</item>
+        <item>gyertya</item>
+        <item>gumicukor</item>
+        <item>mirelit borsó</item>
+        <item>póló</item>
+        <item>magne b6</item>
+        <item>rozmaring</item>
+        <item>édesítő</item>
+        <item>kenyérliszt</item>
+        <item>kókuszjoghurt</item>
+        <item>kuszkusz</item>
+        <item>fokhagymakrém</item>
+        <item>tonic</item>
+        <item>barna rizs</item>
+        <item>rumaroma</item>
+        <item>újság</item>
+        <item>sapka</item>
+        <item>yoghurt</item>
+        <item>lasagne tészta</item>
+        <item>mirelit pizza</item>
+        <item>szezámmag</item>
+        <item>dán szalámi</item>
+        <item>gépsonka</item>
+        <item>zsomle</item>
+        <item>nescafe</item>
+        <item>pirított hagyma</item>
+        <item>fogpiszkáló</item>
+        <item>szemüveg</item>
+        <item>túrós táska</item>
+        <item>ablaktisztító</item>
+        <item>gyümi</item>
+        <item>macisajt</item>
+        <item>pizzakrém</item>
+        <item>széna</item>
+        <item>rama margarin</item>
+        <item>kukoricapehely</item>
+        <item>sminklemosó</item>
+        <item>prézli</item>
+        <item>majonézes torma</item>
+        <item>gouda</item>
+        <item>csirkecombfilé</item>
+        <item>grapefruit</item>
+        <item>hummusz</item>
+        <item>vaj 30 dkg</item>
+        <item>ablakmosó</item>
+        <item>magok</item>
+        <item>zöld paprika</item>
+        <item>vanília puding</item>
+        <item>cider</item>
+        <item>AAA elem</item>
+        <item>cumi</item>
+        <item>darált mák</item>
+        <item>uzsonnás zacskó</item>
+        <item>chia mag</item>
+        <item>tejpor</item>
+        <item>mirelit krumpli</item>
+        <item>zsebkendo</item>
+        <item>popsikrém</item>
+        <item>színfogó</item>
+        <item>pilóta keksz</item>
+        <item>izzó</item>
+        <item>darált marhahús</item>
+        <item>sebtapasz</item>
+        <item>zacskós leves</item>
+        <item>muzli</item>
+        <item>csicseriborsó</item>
+        <item>napszemüveg</item>
+        <item>lepedő</item>
+        <item>tárkony</item>
+        <item>sali</item>
+        <item>csicseriborsó konzerv</item>
+        <item>gyomber</item>
+        <item>fagyasztott borsó</item>
+        <item>gránátalma</item>
+        <item>cheddar</item>
+        <item>baracklekvár</item>
+        <item>erős pista</item>
+        <item>trappista</item>
+        <item>gríz</item>
+        <item>kiwi</item>
+        <item>étcsokoládé</item>
+        <item>szendvicskenyér</item>
+        <item>pizsama</item>
+        <item>zöldhagyma</item>
+        <item>avocado</item>
+        <item>zellergumó</item>
+        <item>rétesliszt</item>
+        <item>mosógél</item>
+        <item>ragtapasz</item>
+        <item>egész bors</item>
+        <item>nedves törlő</item>
+        <item>hajgumi</item>
+        <item>kovászos uborka</item>
+        <item>pléd</item>
+        <item>húsleves kocka</item>
+        <item>gyumi</item>
+        <item>gomba konzerv</item>
+        <item>ementáli</item>
+        <item>desztillált víz</item>
+        <item>mosogatógép tisztító</item>
+        <item>AA elem</item>
+        <item>vanish</item>
+        <item>kölesgolyó</item>
+        <item>nurofen</item>
+        <item>vatta</item>
+        <item>csomagolópapír</item>
+        <item>babakeksz</item>
+        <item>kuki</item>
+        <item>krumplipüré por</item>
+        <item>kutyatáp</item>
+        <item>csokis keksz</item>
+        <item>jó reggelt keksz</item>
+        <item>kamilla tea</item>
+        <item>törlőkendő</item>
+        <item>fűszerpaprika</item>
+        <item>csokoládé</item>
+        <item>corn flakes</item>
+        <item>gnocchi</item>
+        <item>darált keksz</item>
+        <item>sutopor</item>
+        <item>sajtos kifli</item>
+        <item>vöröslencse</item>
+        <item>kockázott bacon</item>
+        <item>lilakáposzta</item>
+        <item>balzsamecet</item>
+        <item>szerecsendió</item>
+        <item>fültisztító pálcika</item>
+        <item>listerine</item>
+        <item>lapocka</item>
+        <item>zselatin</item>
+        <item>sárgaborsó</item>
+        <item>légfrissítő</item>
+        <item>smack</item>
+        <item>zabpehelyliszt</item>
+        <item>citromsav</item>
+        <item>körömlakk lemosó</item>
+        <item>madársaláta</item>
+        <item>zacskó</item>
+        <item>sótlan mogyoró</item>
+        <item>tömlős sajt</item>
+        <item>smack leves</item>
+        <item>mackó sajt</item>
+        <item>csokipuding</item>
+        <item>cini minis</item>
+        <item>szívószál</item>
+        <item>csipsz</item>
+        <item>hamburgerhús</item>
+        <item>tésztaszósz</item>
+        <item>darált sertéshús</item>
+        <item>ricotta</item>
+        <item>kolozsvári szalonna</item>
+        <item>debreceni</item>
+        <item>jazmin rizs</item>
+        <item>fürdőruha</item>
+        <item>vitamin</item>
+        <item>szárzeller</item>
+        <item>tonhalkrém</item>
+        <item>gyumolcsle</item>
+        <item>kinder tojás</item>
+        <item>illatosító</item>
+        <item>completta</item>
+        <item>hálózsák</item>
+        <item>lasagne</item>
+        <item>korpovit keksz</item>
+        <item>tök</item>
+        <item>meggy</item>
+        <item>kézfertőtlenítő</item>
+        <item>calgon</item>
+        <item>nedves torlokendo</item>
+        <item>pénz</item>
+        <item>kápia</item>
+        <item>erős paprika</item>
+        <item>fésű</item>
+        <item>babakaja</item>
+        <item>gyökér</item>
+        <item>törülköző</item>
+        <item>óvszer</item>
+        <item>fagyasztott gyümölcs</item>
+        <item>hell</item>
+        <item>pomelo</item>
+        <item>kivi</item>
+        <item>barack konzerv</item>
+        <item>vodka</item>
+        <item>gyümölcspüré</item>
+        <item>pudingpor</item>
+        <item>szemes bors</item>
+        <item>koktélpari</item>
+        <item>melltartó</item>
+        <item>rizstejszín</item>
+        <item>sós rágcsa</item>
+        <item>udito</item>
+        <item>gesztenye</item>
+        <item>bodzaszörp</item>
+        <item>szóda</item>
+        <item>delikát</item>
+        <item>őrölt fahéj</item>
+        <item>füstölt szalonna</item>
+        <item>gulyáskrém</item>
+        <item>füstölt lazac</item>
+        <item>réteslap</item>
+        <item>mosószóda</item>
+        <item>popsitorlo</item>
+        <item>kv kapszula</item>
+        <item>faszén</item>
+        <item>rágógumi</item>
+        <item>kukászsák</item>
+        <item>cicakaja</item>
+        <item>Pronto</item>
+        <item>zabkeksz</item>
+        <item>felmosó folyadék</item>
+        <item>fagyasztott zöldborsó</item>
+        <item>laktózmentes vaj</item>
+        <item>bonbon</item>
+        <item>arcszesz</item>
+        <item>fülpiszka</item>
+        <item>deo</item>
+        <item>vanília aroma</item>
+        <item>neocitran</item>
+        <item>rizstészta</item>
+        <item>tejföl kicsi</item>
+        <item>fehér mosószer</item>
+        <item>hajhab</item>
+        <item>alkohol</item>
+        <item>parfüm</item>
+        <item>szolo</item>
+        <item>arclemosó</item>
+        <item>pita</item>
+        <item>menta</item>
+        <item>kókuszolaj</item>
+        <item>tk liszt</item>
+        <item>szélvédőmosó</item>
+        <item>orrspray</item>
+        <item>csíra</item>
+        <item>szilvásgombóc</item>
+        <item>köles</item>
+        <item>fertőtlenítő</item>
+        <item>cetebe</item>
+        <item>színes mosószer</item>
+        <item>piros arany csemege</item>
+        <item>Elem AAA</item>
+        <item>szemüvegtörlő</item>
+        <item>fonott kalács</item>
+        <item>edeskrumpli</item>
+        <item>citromos sör</item>
+        <item>diákcsemege</item>
+        <item>római kömény</item>
+        <item>penne tészta</item>
+        <item>gesztenyemassza</item>
+        <item>almaecet</item>
+        <item>sütőmargarin</item>
+        <item>olajos hal</item>
+        <item>füstölt hús</item>
+        <item>gyerekpezsgő</item>
+        <item>ajándék</item>
+        <item>chocapic</item>
+        <item>20 db tojás</item>
+        <item>elosztó</item>
+        <item>cipő</item>
+        <item>vanília fagyi</item>
+        <item>maszk</item>
+        <item>muzliszelet</item>
+        <item>Elem AA</item>
+        <item>dijoni mustár</item>
+        <item>laktózmentes tejszín</item>
+        <item>fagyasztott krumpli</item>
+        <item>szempillaspiral</item>
+        <item>melltartó betét</item>
+        <item>zabszelet</item>
+        <item>aszalt paradicsom</item>
+        <item>chili</item>
+        <item>szójatej</item>
+        <item>kurkuma</item>
+        <item>gumi</item>
+        <item>kacsacomb</item>
+        <item>sport szelet</item>
+        <item>bolognai por</item>
+        <item>granola</item>
+        <item>fehér csoki</item>
+        <item>kacsazsír</item>
+        <item>hajzselé</item>
+        <item>pick szalámi</item>
+        <item>lenmag</item>
+        <item>halrúd</item>
+        <item>zabkorpa</item>
+        <item>tejcsoki</item>
+        <item>tejszínhab spray</item>
+        <item>borotvapenge</item>
+        <item>hajszárító</item>
+        <item>őrölt kömény</item>
+        <item>strepsils</item>
+        <item>hypo</item>
+        <item>borotva gel</item>
+        <item>ceruza</item>
+        <item>juharszirup</item>
+        <item>túró 50dkg</item>
+        <item>szőlőcukor</item>
+        <item>nektarin</item>
+        <item>napraforgómag</item>
+        <item>domestos kendő</item>
+        <item>koffeinmentes kávé</item>
+        <item>rák</item>
+        <item>mosógép tisztító</item>
+        <item>korte</item>
+        <item>krém fehér sajt</item>
+        <item>kéksajt</item>
+        <item>ecset</item>
+        <item>vörösbab konzerv</item>
+        <item>kukás zsák</item>
+        <item>pulykanyak</item>
+        <item>xilit</item>
+        <item>gyümölcsszelet</item>
+        <item>pufi</item>
+        <item>algoflex</item>
+        <item>fokhagyma granulátum</item>
+        <item>vaníliás pudingpor</item>
+        <item>sárgadinnye</item>
+        <item>laktózmentes túró</item>
+        <item>smoothie</item>
+        <item>desztvíz</item>
+        <item>omega3</item>
+        <item>csirkefarhát</item>
+        <item>kence</item>
+        <item>wc golyó</item>
+        <item>fagyasztott brokkoli</item>
+        <item>francia saláta</item>
+        <item>baba szappan</item>
+        <item>tejpép</item>
+        <item>pizzatészta</item>
+        <item>üdítők</item>
+        <item>könyv</item>
+        <item>rizsliszt</item>
+        <item>gyerek fogkefe</item>
+        <item>csuszatészta</item>
+        <item>szegfűszeg</item>
+        <item>szárított élesztő</item>
+        <item>labello</item>
+        <item>száraz sampon</item>
+        <item>normaflore</item>
+        <item>salvus víz</item>
+        <item>konyhai törlő</item>
+        <item>wc kefe</item>
+        <item>mosokapszula</item>
+        <item>orsótészta</item>
+        <item>stift</item>
+        <item>20 dkg vaj</item>
+        <item>saláta öntet</item>
+        <item>jar</item>
+        <item>libazsír</item>
+        <item>lecsó</item>
+        <item>étkezési keményítő</item>
+        <item>cillit</item>
+        <item>teljes kiőrlésű liszt</item>
+        <item>törölköző</item>
+        <item>császárszalonna</item>
+        <item>gyógyszer</item>
+        <item>autó illatosító</item>
+        <item>uncle bens</item>
+        <item>savas víz</item>
+        <item>fekete retek</item>
+        <item>őrölt bors</item>
+        <item>hangyaírtó</item>
+        <item>csalamádé</item>
+        <item>gyulai kolbász</item>
+        <item>szemes kávé</item>
+        <item>zoldbab</item>
+        <item>domestos törlőkendő</item>
+        <item>újkrumpli</item>
+        <item>alapozó</item>
+        <item>csirkehús</item>
+        <item>darált dió</item>
+        <item>áfonyalekvár</item>
+        <item>felmosó</item>
+        <item>füstölt csülök</item>
+        <item>körözött</item>
+        <item>Philadelphia</item>
+        <item>clin</item>
+        <item>kacsamell</item>
+        <item>ruccola</item>
+        <item>torta</item>
+        <item>sutotok</item>
+        <item>snidling</item>
+        <item>baba tusfürdő</item>
+        <item>sultkrumpli</item>
+        <item>gin</item>
+        <item>krokett</item>
+        <item>viragfold</item>
+        <item>fogkefefej</item>
+        <item>gyógyszerek</item>
+        <item>habfixáló</item>
+        <item>öngyújtó</item>
+        <item>Unicum</item>
+        <item>pulykacomb</item>
+        <item>cebion</item>
+        <item>magnerot</item>
+        <item>melegszendvics krém</item>
+        <item>kontaktlencse folyadék</item>
+        <item>gouda sajt</item>
+        <item>dettol</item>
+        <item>friss élesztő</item>
+        <item>párna</item>
+        <item>folttisztító</item>
+        <item>vaníliarúd</item>
+        <item>mogyorókrém</item>
+        <item>fodros nagykocka</item>
+        <item>mécses</item>
+        <item>lecsó paprika</item>
+        <item>porélesztő</item>
+        <item>cseresznye</item>
+        <item>levesgyongy</item>
+        <item>pizza liszt</item>
+        <item>kapribogyó</item>
+        <item>fólia</item>
+        <item>képeslap</item>
+        <item>vörösáfonya</item>
+        <item>wc gél</item>
+        <item>quinoa</item>
+        <item>szódapatron</item>
+        <item>kulacs</item>
+        <item>felmosószer</item>
+        <item>vörösbab</item>
+        <item>csmell</item>
+        <item>béres csepp</item>
+        <item>cillit bang</item>
+        <item>menta tea</item>
+        <item>csülök</item>
+        <item>hamburger zsömle</item>
+        <item>fehérbab konzerv</item>
+        <item>hársfa tea</item>
+        <item>barack befőtt</item>
+        <item>kókusztejszín</item>
+        <item>pritamin paprika</item>
+        <item>darált háztartási keksz</item>
+        <item>nudli</item>
+        <item>ragasztó</item>
+        <item>élesztő por</item>
+        <item>barbecue szósz</item>
+        <item>purpur kenyér</item>
+        <item>fagyasztott málna</item>
+        <item>jégoldó</item>
+        <item>doboz</item>
+        <item>comb</item>
+        <item>mini pizza</item>
+        <item>holland kakaópor</item>
+        <item>citromhéj</item>
+        <item>keményítő</item>
+        <item>zöldalma</item>
+        <item>szárított paradicsom</item>
+        <item>fekete bors</item>
+        <item>szárazsampon</item>
+        <item>curry</item>
+        <item>fenyőmag</item>
+        <item>eperlekvár</item>
+        <item>jeges tea</item>
+        <item>micellás víz</item>
+        <item>hosszabbító</item>
+        <item>gm kenyér</item>
+        <item>fertőtlenítő kendő</item>
+        <item>ananászlé</item>
+        <item>borotvazselé</item>
+        <item>mosogató só</item>
+        <item>kinder csoki</item>
+        <item>rum</item>
+        <item>ajvár</item>
+        <item>ciabatta</item>
+        <item>datolya</item>
+        <item>oliva</item>
+        <item>algoflex forte</item>
+        <item>lufi</item>
+        <item>kockatészta</item>
+        <item>zoldborso</item>
+        <item>túrókrém</item>
+        <item>leves</item>
+        <item>vaníliás puding</item>
+        <item>sajtos tallér</item>
+        <item>szárított petrezselyem</item>
+        <item>holland kakaó</item>
+        <item>toll</item>
+        <item>pepsi</item>
+        <item>marcipán</item>
+        <item>nasivin</item>
+        <item>muffin papír</item>
+        <item>festék</item>
+        <item>fultisztito</item>
+        <item>advil</item>
+        <item>hajkefe</item>
+        <item>rizskása</item>
+        <item>kömény</item>
+        <item>makaróni</item>
+        <item>sűrített tej</item>
+        <item>rennie</item>
+        <item>szeletelt mandula</item>
+        <item>sprite</item>
+        <item>sósav</item>
+    </array>
+</resources>

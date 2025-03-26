@@ -1,0 +1,1005 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="master_list_values">
+        <item>eggs</item>
+        <item>milk</item>
+        <item>bananas</item>
+        <item>bread</item>
+        <item>cucumber</item>
+        <item>tomatoes</item>
+        <item>onions</item>
+        <item>potatoes</item>
+        <item>lemon</item>
+        <item>apples</item>
+        <item>carrots</item>
+        <item>yogurt</item>
+        <item>chicken</item>
+        <item>mushrooms</item>
+        <item>garlic</item>
+        <item>fruits</item>
+        <item>cheese</item>
+        <item>avocado</item>
+        <item>toilet paper</item>
+        <item>butter</item>
+        <item>lettuce</item>
+        <item>cherry tomatoes</item>
+        <item>ginger</item>
+        <item>broccoli</item>
+        <item>sugar</item>
+        <item>oranges</item>
+        <item>chicken breast</item>
+        <item>coffee</item>
+        <item>mango</item>
+        <item>cauliflower</item>
+        <item>rice</item>
+        <item>toothpaste</item>
+        <item>ice cream</item>
+        <item>water</item>
+        <item>coriander</item>
+        <item>parsley</item>
+        <item>olive oil</item>
+        <item>lime</item>
+        <item>hummus</item>
+        <item>fish</item>
+        <item>spring onions</item>
+        <item>celery</item>
+        <item>blueberries</item>
+        <item>chips</item>
+        <item>tomato</item>
+        <item>honey</item>
+        <item>salmon</item>
+        <item>peanut butter</item>
+        <item>Laban</item>
+        <item>pasta</item>
+        <item>oats</item>
+        <item>Strawberries</item>
+        <item>tuna</item>
+        <item>grapes</item>
+        <item>watermelon</item>
+        <item>red onion</item>
+        <item>pineapple</item>
+        <item>salt</item>
+        <item>spinach</item>
+        <item>curry leaves</item>
+        <item>baby spinach</item>
+        <item>red pepper</item>
+        <item>bacon</item>
+        <item>chocolate</item>
+        <item>zucchini</item>
+        <item>vegetables</item>
+        <item>croissants</item>
+        <item>mayonnaise</item>
+        <item>orange juice</item>
+        <item>toilet roll</item>
+        <item>tissues</item>
+        <item>tomato paste</item>
+        <item>pears</item>
+        <item>burger buns</item>
+        <item>salad</item>
+        <item>ham</item>
+        <item>peanuts</item>
+        <item>green beans</item>
+        <item>mozzarella</item>
+        <item>Nutella</item>
+        <item>juice</item>
+        <item>berries</item>
+        <item>prawns</item>
+        <item>kitchen towels</item>
+        <item>sausages</item>
+        <item>shampoo</item>
+        <item>beetroot</item>
+        <item>cereal</item>
+        <item>wet wipes</item>
+        <item>popcorn</item>
+        <item>mint</item>
+        <item>garbage bags</item>
+        <item>cabbage</item>
+        <item>coconut milk</item>
+        <item>walnuts</item>
+        <item>biscuits</item>
+        <item>olives</item>
+        <item>Parmesan</item>
+        <item>hand wash</item>
+        <item>cooking cream</item>
+        <item>Greek yogurt</item>
+        <item>ketchup</item>
+        <item>sour cream</item>
+        <item>dates</item>
+        <item>hand soap</item>
+        <item>paper towels</item>
+        <item>steak</item>
+        <item>capsicum</item>
+        <item>kitchen roll</item>
+        <item>meat</item>
+        <item>tooth brush</item>
+        <item>soy sauce</item>
+        <item>jam</item>
+        <item>ice</item>
+        <item>kiwi</item>
+        <item>shower gel</item>
+        <item>brocolli</item>
+        <item>spaghetti</item>
+        <item>beef</item>
+        <item>feta cheese</item>
+        <item>green tea</item>
+        <item>brown sugar</item>
+        <item>beans</item>
+        <item>soap</item>
+        <item>cream</item>
+        <item>jif</item>
+        <item>salami</item>
+        <item>dishwashing liquid</item>
+        <item>jalapeño</item>
+        <item>sparkling water</item>
+        <item>asparagus</item>
+        <item>almonds</item>
+        <item>sweet potato</item>
+        <item>snacks</item>
+        <item>frozen peas</item>
+        <item>leeks</item>
+        <item>corn</item>
+        <item>nuts</item>
+        <item>coconut oil</item>
+        <item>basil</item>
+        <item>peas</item>
+        <item>Parmesan cheese</item>
+        <item>white vinegar</item>
+        <item>chickpeas</item>
+        <item>vinegar</item>
+        <item>cream cheese</item>
+        <item>deodorant</item>
+        <item>baking powder</item>
+        <item>crackers</item>
+        <item>fresh basil</item>
+        <item>chia seeds</item>
+        <item>baking soda</item>
+        <item>lemons</item>
+        <item>strawberries</item>
+        <item>fruit</item>
+        <item>limes</item>
+        <item>ground beef</item>
+        <item>tortillas</item>
+        <item>cilantro</item>
+        <item>green onions</item>
+        <item>salsa</item>
+        <item>tortilla chips</item>
+        <item>bagels</item>
+        <item>almond milk</item>
+        <item>lunch meat</item>
+        <item>cottage cheese</item>
+        <item>hamburger buns</item>
+        <item>sausage</item>
+        <item>hot dogs</item>
+        <item>beer</item>
+        <item>shredded cheese</item>
+        <item>paper plates</item>
+        <item>chicken broth</item>
+        <item>hot dog buns</item>
+        <item>black beans</item>
+        <item>dog food</item>
+        <item>English muffins</item>
+        <item>heavy cream</item>
+        <item>bell peppers</item>
+        <item>ground turkey</item>
+        <item>flour</item>
+        <item>sweet potatoes</item>
+        <item>creamer</item>
+        <item>laundry detergent</item>
+        <item>Kleenex</item>
+        <item>peppers</item>
+        <item>tomato sauce</item>
+        <item>wine</item>
+        <item>hamburger</item>
+        <item>napkins</item>
+        <item>mayo</item>
+        <item>chicken thighs</item>
+        <item>half and half</item>
+        <item>oatmeal</item>
+        <item>baby carrots</item>
+        <item>veggies</item>
+        <item>sliced cheese</item>
+        <item>green pepper</item>
+        <item>shrimp</item>
+        <item>coffee creamer</item>
+        <item>romaine lettuce</item>
+        <item>pepperoni</item>
+        <item>turkey</item>
+        <item>applesauce</item>
+        <item>spaghetti sauce</item>
+        <item>buns</item>
+        <item>raspberries</item>
+        <item>ranch dressing</item>
+        <item>pizza</item>
+        <item>dish soap</item>
+        <item>cat food</item>
+        <item>cheddar cheese</item>
+        <item>chocolate chips</item>
+        <item>apple juice</item>
+        <item>kale</item>
+        <item>granola bars</item>
+        <item>pickles</item>
+        <item>cookies</item>
+        <item>pretzels</item>
+        <item>coke</item>
+        <item>Brussels sprouts</item>
+        <item>taco seasoning</item>
+        <item>distilled water</item>
+        <item>Mac and cheese</item>
+        <item>red bell pepper</item>
+        <item>rotisserie chicken</item>
+        <item>maple syrup</item>
+        <item>string cheese</item>
+        <item>shallots</item>
+        <item>granola</item>
+        <item>whole milk</item>
+        <item>garlic bread</item>
+        <item>yellow onion</item>
+        <item>pasta sauce</item>
+        <item>bottled water</item>
+        <item>mustard</item>
+        <item>Gatorade</item>
+        <item>pork chops</item>
+        <item>diced tomatoes</item>
+        <item>cat litter</item>
+        <item>Diet Coke</item>
+        <item>soup</item>
+        <item>waffles</item>
+        <item>cheese slices</item>
+        <item>trash bags</item>
+        <item>feta</item>
+        <item>body wash</item>
+        <item>lemon juice</item>
+        <item>raisins</item>
+        <item>qtips</item>
+        <item>chicken nuggets</item>
+        <item>frozen pizza</item>
+        <item>ricotta</item>
+        <item>refried beans</item>
+        <item>mozzarella cheese</item>
+        <item>bbq sauce</item>
+        <item>buttermilk</item>
+        <item>mouthwash</item>
+        <item>half &amp; half</item>
+        <item>goldfish</item>
+        <item>Cheerios</item>
+        <item>conditioner</item>
+        <item>AA batteries</item>
+        <item>American cheese</item>
+        <item>soda</item>
+        <item>rolls</item>
+        <item>syrup</item>
+        <item>wraps</item>
+        <item>gum</item>
+        <item>baked beans</item>
+        <item>graham crackers</item>
+        <item>bleach</item>
+        <item>pizza sauce</item>
+        <item>croutons</item>
+        <item>scallions</item>
+        <item>flour tortillas</item>
+        <item>cheese sticks</item>
+        <item>French fries</item>
+        <item>oat milk</item>
+        <item>frozen corn</item>
+        <item>cashews</item>
+        <item>tea</item>
+        <item>chicken stock</item>
+        <item>lemonade</item>
+        <item>beef broth</item>
+        <item>tofu</item>
+        <item>hash browns</item>
+        <item>peaches</item>
+        <item>chocolate milk</item>
+        <item>potato chips</item>
+        <item>aluminum foil</item>
+        <item>black olives</item>
+        <item>vegetable oil</item>
+        <item>jelly</item>
+        <item>guacamole</item>
+        <item>corn tortillas</item>
+        <item>taco shells</item>
+        <item>kidney beans</item>
+        <item>coffee filters</item>
+        <item>breakfast sausage</item>
+        <item>dog treats</item>
+        <item>wipes</item>
+        <item>pancake mix</item>
+        <item>garlic powder</item>
+        <item>sandwich bags</item>
+        <item>whipped cream</item>
+        <item>cool whip</item>
+        <item>pecans</item>
+        <item>grape tomatoes</item>
+        <item>Swiss cheese</item>
+        <item>cranberry juice</item>
+        <item>salad mix</item>
+        <item>diapers</item>
+        <item>Italian sausage</item>
+        <item>egg noodles</item>
+        <item>vanilla ice cream</item>
+        <item>heavy whipping cream</item>
+        <item>coleslaw</item>
+        <item>shredded cheddar</item>
+        <item>ritz crackers</item>
+        <item>shaving cream</item>
+        <item>brown rice</item>
+        <item>baby wipes</item>
+        <item>dishwasher detergent</item>
+        <item>unsalted butter</item>
+        <item>marshmallows</item>
+        <item>corn on the cob</item>
+        <item>arugula</item>
+        <item>AAA batteries</item>
+        <item>meatballs</item>
+        <item>ginger ale</item>
+        <item>deli meat</item>
+        <item>French bread</item>
+        <item>margarine</item>
+        <item>skim milk</item>
+        <item>tampons</item>
+        <item>frozen blueberries</item>
+        <item>tomato soup</item>
+        <item>shredded mozzarella</item>
+        <item>hairspray</item>
+        <item>salad dressing</item>
+        <item>pesto</item>
+        <item>Oreos</item>
+        <item>powdered sugar</item>
+        <item>Coke Zero</item>
+        <item>white onion</item>
+        <item>dryer sheets</item>
+        <item>white wine</item>
+        <item>flowers</item>
+        <item>red potatoes</item>
+        <item>pop tarts</item>
+        <item>canola oil</item>
+        <item>white bread</item>
+        <item>red wine</item>
+        <item>pads</item>
+        <item>goat cheese</item>
+        <item>fabric softener</item>
+        <item>egg whites</item>
+        <item>frozen fruit</item>
+        <item>sourdough bread</item>
+        <item>cinnamon</item>
+        <item>bread crumbs</item>
+        <item>ziplock bags</item>
+        <item>frozen veggies</item>
+        <item>parchment paper</item>
+        <item>soy milk</item>
+        <item>sunscreen</item>
+        <item>thyme</item>
+        <item>Doritos</item>
+        <item>Dijon mustard</item>
+        <item>pumpkin</item>
+        <item>water bottles</item>
+        <item>iceberg lettuce</item>
+        <item>blackberries</item>
+        <item>muffins</item>
+        <item>toothbrush</item>
+        <item>laundry soap</item>
+        <item>tater tots</item>
+        <item>protein bars</item>
+        <item>burgers</item>
+        <item>shredded lettuce</item>
+        <item>chicken wings</item>
+        <item>lime juice</item>
+        <item>bandaids</item>
+        <item>vanilla</item>
+        <item>romaine</item>
+        <item>shredded cheddar cheese</item>
+        <item>candy</item>
+        <item>whipping cream</item>
+        <item>frozen broccoli</item>
+        <item>eggplant</item>
+        <item>bacon bits</item>
+        <item>dishwasher soap</item>
+        <item>fruit snacks</item>
+        <item>noodles</item>
+        <item>sponges</item>
+        <item>cantaloupe</item>
+        <item>lunchables</item>
+        <item>juice boxes</item>
+        <item>cherries</item>
+        <item>salad stuff</item>
+        <item>cumin</item>
+        <item>ibuprofen</item>
+        <item>grapefruit</item>
+        <item>quinoa</item>
+        <item>clementines</item>
+        <item>butternut squash</item>
+        <item>chili powder</item>
+        <item>oregano</item>
+        <item>vodka</item>
+        <item>cream of mushroom soup</item>
+        <item>sprite</item>
+        <item>paprika</item>
+        <item>almond butter</item>
+        <item>baguette</item>
+        <item>cream of chicken soup</item>
+        <item>radishes</item>
+        <item>crushed tomatoes</item>
+        <item>pepper</item>
+        <item>apple cider vinegar</item>
+        <item>squash</item>
+        <item>green bell pepper</item>
+        <item>vanilla extract</item>
+        <item>sandwich meat</item>
+        <item>pork tenderloin</item>
+        <item>rosemary</item>
+        <item>razors</item>
+        <item>tide</item>
+        <item>frozen strawberries</item>
+        <item>light bulbs</item>
+        <item>Clorox wipes</item>
+        <item>mashed potatoes</item>
+        <item>stick butter</item>
+        <item>mince</item>
+        <item>lotion</item>
+        <item>canned tomatoes</item>
+        <item>chives</item>
+        <item>frozen spinach</item>
+        <item>Roma tomatoes</item>
+        <item>birthday card</item>
+        <item>sweet onion</item>
+        <item>toilet bowl cleaner</item>
+        <item>pinto beans</item>
+        <item>wheat thins</item>
+        <item>pop</item>
+        <item>seltzer</item>
+        <item>chicken tenders</item>
+        <item>fresh parsley</item>
+        <item>sunflower seeds</item>
+        <item>dill</item>
+        <item>deli turkey</item>
+        <item>fresh cilantro</item>
+        <item>minced garlic</item>
+        <item>crescent rolls</item>
+        <item>pie crust</item>
+        <item>pistachios</item>
+        <item>corn starch</item>
+        <item>Fritos</item>
+        <item>face wash</item>
+        <item>Dr Pepper</item>
+        <item>mandarin oranges</item>
+        <item>tums</item>
+        <item>plain Greek yogurt</item>
+        <item>Mexican cheese</item>
+        <item>Pepsi</item>
+        <item>ground pork</item>
+        <item>smoked salmon</item>
+        <item>frozen berries</item>
+        <item>hamburger meat</item>
+        <item>turkey bacon</item>
+        <item>onion powder</item>
+        <item>saltines</item>
+        <item>balsamic vinegar</item>
+        <item>tea bags</item>
+        <item>iced tea</item>
+        <item>pizza dough</item>
+        <item>cheddar</item>
+        <item>trail mix</item>
+        <item>mixed nuts</item>
+        <item>blue cheese</item>
+        <item>evaporated milk</item>
+        <item>rice cakes</item>
+        <item>whole chicken</item>
+        <item>stamps</item>
+        <item>beets</item>
+        <item>Pam</item>
+        <item>spaghetti noodles</item>
+        <item>canned corn</item>
+        <item>la croix</item>
+        <item>hot chocolate</item>
+        <item>mascara</item>
+        <item>contact solution</item>
+        <item>sandwich bread</item>
+        <item>sesame oil</item>
+        <item>Advil</item>
+        <item>freezer bags</item>
+        <item>cheezits</item>
+        <item>Tylenol</item>
+        <item>kitty litter</item>
+        <item>corn chips</item>
+        <item>Honey Nut Cheerios</item>
+        <item>yeast</item>
+        <item>ribs</item>
+        <item>ground chicken</item>
+        <item>popsicles</item>
+        <item>vitamins</item>
+        <item>socks</item>
+        <item>deli ham</item>
+        <item>plain yogurt</item>
+        <item>foil</item>
+        <item>cinnamon rolls</item>
+        <item>card</item>
+        <item>capers</item>
+        <item>cranberries</item>
+        <item>fries</item>
+        <item>triscuits</item>
+        <item>miracle whip</item>
+        <item>batteries</item>
+        <item>salad greens</item>
+        <item>pita bread</item>
+        <item>grape jelly</item>
+        <item>rotel</item>
+        <item>white rice</item>
+        <item>coconut water</item>
+        <item>ramen</item>
+        <item>cooking spray</item>
+        <item>grated cheese</item>
+        <item>Alfredo sauce</item>
+        <item>oil</item>
+        <item>brats</item>
+        <item>dip</item>
+        <item>chocolate syrup</item>
+        <item>wheat bread</item>
+        <item>pita chips</item>
+        <item>Rice Krispies</item>
+        <item>prescription</item>
+        <item>cuties</item>
+        <item>cake</item>
+        <item>dessert</item>
+        <item>enchilada sauce</item>
+        <item>dark chocolate</item>
+        <item>Italian dressing</item>
+        <item>ravioli</item>
+        <item>drinks</item>
+        <item>charcoal</item>
+        <item>cotton balls</item>
+        <item>shredded carrots</item>
+        <item>windex</item>
+        <item>pine nuts</item>
+        <item>kombucha</item>
+        <item>green apples</item>
+        <item>canned chicken</item>
+        <item>floss</item>
+        <item>naan</item>
+        <item>lasagna noodles</item>
+        <item>potato salad</item>
+        <item>Worcestershire sauce</item>
+        <item>chorizo</item>
+        <item>jasmine rice</item>
+        <item>crisps</item>
+        <item>honey crisp apples</item>
+        <item>Hawaiian rolls</item>
+        <item>red wine vinegar</item>
+        <item>prosciutto</item>
+        <item>roast beef</item>
+        <item>bar soap</item>
+        <item>vegetable broth</item>
+        <item>tortellini</item>
+        <item>pineapple juice</item>
+        <item>English cucumber</item>
+        <item>sugar snap peas</item>
+        <item>russet potatoes</item>
+        <item>dental floss</item>
+        <item>greens</item>
+        <item>tonic water</item>
+        <item>strawberry jam</item>
+        <item>sun dried tomatoes</item>
+        <item>frozen waffles</item>
+        <item>potato</item>
+        <item>tostitos</item>
+        <item>listerine</item>
+        <item>rye bread</item>
+        <item>Diet Pepsi</item>
+        <item>kalamata olives</item>
+        <item>all purpose flour</item>
+        <item>red grapes</item>
+        <item>spaghetti squash</item>
+        <item>toilet cleaner</item>
+        <item>bird seed</item>
+        <item>kosher salt</item>
+        <item>turkey lunch meat</item>
+        <item>edamame</item>
+        <item>Splenda</item>
+        <item>decaf coffee</item>
+        <item>root beer</item>
+        <item>corn flakes</item>
+        <item>pita</item>
+        <item>melatonin</item>
+        <item>black pepper</item>
+        <item>coffee beans</item>
+        <item>vitamin D</item>
+        <item>vanilla yogurt</item>
+        <item>brownie mix</item>
+        <item>marinara sauce</item>
+        <item>draino</item>
+        <item>macaroni</item>
+        <item>chili</item>
+        <item>tin foil</item>
+        <item>basmati rice</item>
+        <item>couscous</item>
+        <item>parsnips</item>
+        <item>flank steak</item>
+        <item>velveeta</item>
+        <item>pringles</item>
+        <item>baking potatoes</item>
+        <item>pull ups</item>
+        <item>cascade</item>
+        <item>pizza crust</item>
+        <item>pork</item>
+        <item>snow peas</item>
+        <item>prunes</item>
+        <item>apple cider</item>
+        <item>snap peas</item>
+        <item>mandarins</item>
+        <item>bean sprouts</item>
+        <item>straws</item>
+        <item>dried cranberries</item>
+        <item>pudding</item>
+        <item>provolone cheese</item>
+        <item>club soda</item>
+        <item>chicken noodle soup</item>
+        <item>fresh thyme</item>
+        <item>fresh ginger</item>
+        <item>bisquick</item>
+        <item>fresh mozzarella</item>
+        <item>gravy</item>
+        <item>provolone</item>
+        <item>cold cuts</item>
+        <item>eye drops</item>
+        <item>sauerkraut</item>
+        <item>shredded Mexican cheese</item>
+        <item>melon</item>
+        <item>coffee cream</item>
+        <item>horseradish</item>
+        <item>vitamin c</item>
+        <item>turkey sausage</item>
+        <item>panty liners</item>
+        <item>block cheese</item>
+        <item>cough drops</item>
+        <item>jello</item>
+        <item>fish sticks</item>
+        <item>frozen vegetables</item>
+        <item>Brie</item>
+        <item>Zyrtec</item>
+        <item>bread flour</item>
+        <item>bologna</item>
+        <item>stuffing</item>
+        <item>pepper jack cheese</item>
+        <item>ramen noodles</item>
+        <item>dishwasher tablets</item>
+        <item>relish</item>
+        <item>lactose free milk</item>
+        <item>grated Parmesan</item>
+        <item>nectarines</item>
+        <item>pancakes</item>
+        <item>dinner</item>
+        <item>breakfast sandwiches</item>
+        <item>fruit cups</item>
+        <item>penne pasta</item>
+        <item>egg nog</item>
+        <item>formula</item>
+        <item>dishwasher tabs</item>
+        <item>green olives</item>
+        <item>taco sauce</item>
+        <item>baby food</item>
+        <item>beef stock</item>
+        <item>green grapes</item>
+        <item>chapstick</item>
+        <item>elbow macaroni</item>
+        <item>puff pastry</item>
+        <item>champagne</item>
+        <item>hand sanitizer</item>
+        <item>cat treats</item>
+        <item>lentils</item>
+        <item>kitchen trash bags</item>
+        <item>gallon bags</item>
+        <item>beef mince</item>
+        <item>lasagna</item>
+        <item>m&amp;ms</item>
+        <item>water chestnuts</item>
+        <item>panko bread crumbs</item>
+        <item>hot sauce</item>
+        <item>spring mix</item>
+        <item>cocoa powder</item>
+        <item>chicken strips</item>
+        <item>garbanzo beans</item>
+        <item>paper bowls</item>
+        <item>roast</item>
+        <item>Yukon gold potatoes</item>
+        <item>pork loin</item>
+        <item>wet cat food</item>
+        <item>coffee pods</item>
+        <item>red cabbage</item>
+        <item>chicken sausage</item>
+        <item>gloves</item>
+        <item>rolled oats</item>
+        <item>cranberry sauce</item>
+        <item>yellow squash</item>
+        <item>bok choy</item>
+        <item>whole wheat bread</item>
+        <item>avocado oil</item>
+        <item>Canadian bacon</item>
+        <item>tinned tomatoes</item>
+        <item>spreadable butter</item>
+        <item>salted butter</item>
+        <item>coleslaw mix</item>
+        <item>frozen green beans</item>
+        <item>dill pickles</item>
+        <item>donuts</item>
+        <item>saltine crackers</item>
+        <item>fresh fruit</item>
+        <item>broccolini</item>
+        <item>wrapping paper</item>
+        <item>corn dogs</item>
+        <item>artichoke hearts</item>
+        <item>chili beans</item>
+        <item>red capsicum</item>
+        <item>sweetened condensed milk</item>
+        <item>beef jerky</item>
+        <item>dry shampoo</item>
+        <item>plain flour</item>
+        <item>Italian seasoning</item>
+        <item>stevia</item>
+        <item>k cups</item>
+        <item>jalapenos</item>
+        <item>pumpkin seeds</item>
+        <item>bay leaves</item>
+        <item>craisins</item>
+        <item>candles</item>
+        <item>kielbasa</item>
+        <item>snack bags</item>
+        <item>fish oil</item>
+        <item>toothpicks</item>
+        <item>butter sticks</item>
+        <item>Cheetos</item>
+        <item>Italian bread</item>
+        <item>gf bread</item>
+        <item>tilapia</item>
+        <item>cream of mushroom</item>
+        <item>sunglasses</item>
+        <item>yellow mustard</item>
+        <item>turmeric</item>
+        <item>bread rolls</item>
+        <item>turkey breast</item>
+        <item>coconut</item>
+        <item>macaroni and cheese</item>
+        <item>garlic cloves</item>
+        <item>dawn</item>
+        <item>gogurt</item>
+        <item>dry cat food</item>
+        <item>protein powder</item>
+        <item>sage</item>
+        <item>raisin bran</item>
+        <item>canned pumpkin</item>
+        <item>kefir</item>
+        <item>sesame seeds</item>
+        <item>cream of chicken</item>
+        <item>sliced turkey</item>
+        <item>cauliflower rice</item>
+        <item>brown onion</item>
+        <item>hamburger patties</item>
+        <item>gin</item>
+        <item>tonic</item>
+        <item>cinnamon toast crunch</item>
+        <item>fresh spinach</item>
+        <item>tahini</item>
+        <item>hangers</item>
+        <item>rice crackers</item>
+        <item>toothbrushes</item>
+        <item>Monterey Jack cheese</item>
+        <item>nail polish remover</item>
+        <item>courgette</item>
+        <item>tomato puree</item>
+        <item>plums</item>
+        <item>ginger beer</item>
+        <item>diet Dr Pepper</item>
+        <item>cups</item>
+        <item>strawberry</item>
+        <item>tuna fish</item>
+        <item>white beans</item>
+        <item>chicken salad</item>
+        <item>dawn dish soap</item>
+        <item>peanut butter crackers</item>
+        <item>hot dog rolls</item>
+        <item>pizza cheese</item>
+        <item>pizza rolls</item>
+        <item>Benadryl</item>
+        <item>soda water</item>
+        <item>chuck roast</item>
+        <item>Granny Smith apples</item>
+        <item>breakfast bars</item>
+        <item>grape juice</item>
+        <item>frozen meals</item>
+        <item>tomato juice</item>
+        <item>corn bread</item>
+        <item>probiotics</item>
+        <item>orzo</item>
+        <item>cake mix</item>
+        <item>sushi</item>
+        <item>weetbix</item>
+        <item>wax paper</item>
+        <item>air freshener</item>
+        <item>underwear</item>
+        <item>gnocchi</item>
+        <item>white sugar</item>
+        <item>rice vinegar</item>
+        <item>sliced almonds</item>
+        <item>corn meal</item>
+        <item>Capri sun</item>
+        <item>kids toothpaste</item>
+        <item>face wipes</item>
+        <item>corned beef</item>
+        <item>veggie straws</item>
+        <item>butter lettuce</item>
+        <item>dishwasher pods</item>
+        <item>blue cheese dressing</item>
+        <item>mini marshmallows</item>
+        <item>garlic salt</item>
+        <item>bug spray</item>
+        <item>mixed greens</item>
+        <item>uncrustables</item>
+        <item>shredded Parmesan</item>
+        <item>mints</item>
+        <item>razor blades</item>
+        <item>Lysol wipes</item>
+        <item>naan bread</item>
+        <item>plates</item>
+        <item>almond flour</item>
+        <item>gallon ziplock</item>
+        <item>onion soup mix</item>
+        <item>jet dry</item>
+        <item>dish detergent</item>
+        <item>nappies</item>
+        <item>Saran Wrap</item>
+        <item>cereal bars</item>
+        <item>yellow pepper</item>
+        <item>fennel</item>
+        <item>hard boiled eggs</item>
+        <item>plastic spoons</item>
+        <item>frozen mango</item>
+        <item>panko</item>
+        <item>gas</item>
+        <item>sweet potato fries</item>
+        <item>penne</item>
+        <item>hair gel</item>
+        <item>passata</item>
+        <item>baby potatoes</item>
+        <item>tequila</item>
+        <item>detergent</item>
+        <item>cliff bars</item>
+        <item>sharp cheddar</item>
+        <item>printer paper</item>
+        <item>ginger root</item>
+        <item>icing sugar</item>
+        <item>oyster crackers</item>
+        <item>potting soil</item>
+        <item>ground meat</item>
+        <item>gluten free bread</item>
+        <item>whip cream</item>
+        <item>tub butter</item>
+        <item>muesli</item>
+        <item>grapefruit juice</item>
+        <item>tape</item>
+        <item>lucky charms</item>
+        <item>frozen dinners</item>
+        <item>super glue</item>
+        <item>pillows</item>
+        <item>sea salt</item>
+        <item>goldfish crackers</item>
+        <item>scotch tape</item>
+        <item>deli cheese</item>
+        <item>rocket</item>
+        <item>washing powder</item>
+        <item>peppercorns</item>
+        <item>strawberry jelly</item>
+        <item>gift card</item>
+        <item>club crackers</item>
+        <item>sweet corn</item>
+        <item>bars</item>
+        <item>dried apricots</item>
+        <item>egg beaters</item>
+        <item>plastic cups</item>
+        <item>pork shoulder</item>
+        <item>butter unsalted</item>
+        <item>frosted flakes</item>
+        <item>green chilies</item>
+        <item>artichokes</item>
+        <item>frozen raspberries</item>
+        <item>extra virgin olive oil</item>
+        <item>plastic wrap</item>
+        <item>cash</item>
+        <item>kind bars</item>
+        <item>queso</item>
+        <item>baggies</item>
+        <item>grits</item>
+        <item>plastic forks</item>
+        <item>mini cucumbers</item>
+        <item>mini bagels</item>
+        <item>lactaid</item>
+        <item>crystal light</item>
+        <item>brownies</item>
+        <item>angel hair pasta</item>
+        <item>smoked sausage</item>
+        <item>chicken patties</item>
+        <item>cheese its</item>
+        <item>pancetta</item>
+        <item>teriyaki sauce</item>
+        <item>hydrogen peroxide</item>
+        <item>sliced ham</item>
+        <item>halloumi</item>
+        <item>canned green beans</item>
+        <item>crumpets</item>
+        <item>packing tape</item>
+        <item>cocoa</item>
+        <item>veggie tray</item>
+        <item>creme fraiche</item>
+        <item>burritos</item>
+        <item>veggie burgers</item>
+        <item>Caesar salad</item>
+        <item>turkey pepperoni</item>
+        <item>caster sugar</item>
+        <item>seltzer water</item>
+        <item>rice noodles</item>
+        <item>Claritin</item>
+        <item>taquitos</item>
+        <item>Texas toast</item>
+        <item>slivered almonds</item>
+        <item>fresh dill</item>
+        <item>miralax</item>
+        <item>milk whole</item>
+        <item>barbecue sauce</item>
+        <item>rinse aid</item>
+        <item>coffee mate</item>
+        <item>dove soap</item>
+        <item>NyQuil</item>
+        <item>stew meat</item>
+        <item>pork roast</item>
+        <item>bubble bath</item>
+        <item>tide pods</item>
+        <item>oxyclean</item>
+        <item>raisin bread</item>
+        <item>cannellini beans</item>
+        <item>frozen chips</item>
+        <item>rubbing alcohol</item>
+        <item>frozen chicken</item>
+        <item>dinner rolls</item>
+        <item>organic milk</item>
+        <item>ice cream sandwiches</item>
+        <item>animal crackers</item>
+        <item>Caesar dressing</item>
+        <item>pledge</item>
+        <item>ritz</item>
+        <item>makeup</item>
+        <item>condensed milk</item>
+        <item>sudafed</item>
+        <item>roast chicken</item>
+        <item>kitchen garbage bags</item>
+        <item>taco kit</item>
+        <item>hamburger rolls</item>
+        <item>litter</item>
+        <item>muesli bars</item>
+        <item>iced coffee</item>
+        <item>sourdough</item>
+        <item>washing up liquid</item>
+        <item>red kidney beans</item>
+        <item>nacho chips</item>
+        <item>propane</item>
+        <item>canned mushrooms</item>
+        <item>pomegranate</item>
+        <item>pie</item>
+        <item>salad kit</item>
+        <item>Spanish rice</item>
+        <item>pouches</item>
+        <item>hair color</item>
+        <item>vitamin water</item>
+        <item>pico de gallo</item>
+        <item>molasses</item>
+        <item>yams</item>
+        <item>coconut cream</item>
+        <item>scallops</item>
+        <item>crunchy peanut butter</item>
+        <item>parm cheese</item>
+        <item>magnesium</item>
+        <item>Mountain Dew</item>
+        <item>whole wheat flour</item>
+        <item>protein shakes</item>
+        <item>new potatoes</item>
+        <item>tacos</item>
+        <item>crushed pineapple</item>
+        <item>bounce</item>
+    </array>
+</resources>
